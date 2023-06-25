@@ -1,0 +1,204 @@
+snt_id	term	difficulty	definition
+G14.2_2884788726_2	content caching	1.0	Content caching is a performance optimization mechanism in which data is delivered from the closest servers for optimal application performance.
+G17.2_2893955699_1	logic qubit	1.0	A logical qubit is a physical or abstract qubit that performs as specified in a quantum algorithm or quantum circuit subject to unitary transformations, has a long enough coherence time to be usable by quantum logic gates
+G17.4_2974627365_1	quantum cryptanalysis	2.0	Quantum cryptanalysis is the study and evaluation of cryptographic algorithms in the presence of a quantum enabled adversary.
+T19.2_2172121104_3	probabilistic model	1.0	Probabilistic modeling is a statistical technique used to take into account the impact of random events or actions in predicting the potential occurrence of future outcomes.
+T15.1_2887855654_7	Ethereum	1.0	Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform.
+G07.2_1917985537_2	intrinsic	1.0	Intrinsic is defined by belonging to a thing by its very nature
+T15.1_2952002252_3	resilience	1.0	resilience testing is a method of software testing that focuses on ensuring that applications will perform well in real-life or chaotic conditions.
+T15.1_2952002252_1	Penetration tests	1.0	Penetration testing is a specialized form of security control assessment in which the security assessor assumes the role of an attacker and attempts to overcome the security measures in place intended to safeguard the information system
+G07.2_1887815499_7	general framework	1.0	a framework is a real or conceptual structure intended to serve as a support or guide for the building of something that expands the structure into something useful.
+T13.3_2134225881_2	Artificial Immune Recognition System	2.0	Artificial Immune Recognition System is a widely used bio-inspired algorithm that describes the recognition tasks of antigen by memory cells.
+T13.3_2885975229_3	fuzzy rule	1.0	Fuzzy rules are used within fuzzy logic systems to infer an output based on input variables
+T19.1_2041007121_2	topology hiding policies	1.0	Topology Hiding involves hiding topology-related information in messages sent from a Protected Network to an Untrusted Network, as well as restoring the topology-related information in messages from an Untrusted Network.
+G17.4_2298554870_1	mutltiqubit	1.0	A multi-qubit system is a collection of multiple qubits, treated as a single system.
+G14.2_2611788902_1	Quality-to-Experience	1.0	Quality-to-Experience is the overall acceptability of an application or service, as perceived subjectively by the end-user.
+T16.3_2230023062_1	domain name system	1.0	The domain name system (DNS) is a naming database in which internet domain names are located and translated into Internet Protocol (IP) addresses.
+G17.2_2040411766_6	qubit qutrit	2.0	A qutrit (or quantum trit) is a unit of quantum information that is realized by a 3-level quantum system, that may be in a superposition of three mutually orthogonal quantum states
+G17.2_2099103563_1	quantum teleportation	1.0	a quantum information protocol by which the unknown quantum state of one particle can be transferred to another distant particle, using a pair of entangled particles, a projective measurement, and exchange of two bits of classical information
+G17.1_2042591812_2	QCA	2.0	A quantum cellular automaton (QCA) is an abstract model of quantum computation, devised in analogy to conventional models of cellular automata. quantum cellular automaton refers to the merger of elements of both (1) the study of cellular automata in conventional computer science and (2) the study of quantum information processing
+G17.4_2328341797_7	quantum correlation	1.0	Entanglement, or quantum correlation, is one of the central concepts in quantum information theory. Its theory can be roughly separated into three parts: qualitative, comparative, and quantitative.
+G14.2_3000868545_1	encryption solutions	1.0	A data encryption solution is a software system that employs data encryption algorithms to protect sensitive data, combined with management tools for deploying and monitoring data encryption across an organization
+T15.2_2012614298_5	plaintext	1.0	In cryptography, plaintext is usually ordinary readable text before it is encrypted into ciphertext, or readable text after it is decrypted.
+T13.3_2551429935_7	majority class	1.0	the class with the highest number of samples in the dataset
+T16.3_2230023062_1	dns cache poisoning	1.0	Domain Name Server (DNS) cache poisoning is an attack in which altered DNS records are used to redirect online traffic to a fraudulent website that resembles its intended destination.
+G18.2_2554589817_6	differential privacy model	1.0	differential privacy is a privacy mechanism that ensures that the removal or addition of a single database item does not (substantially) affect the outcome of any analysis
+T16.2_1760039095_3	three-party key exchange	1.0	Three-party authentication key exchange (3PAKE) is a protocol that allows two users to set up a common session key with the help of a trusted remote server, which is effective for secret communication between clients in a large-scale network environment
+G07.2_1917985537_4	controversies	1.0	controversy is a disagreement, often a public one, that involves different ideas or opinions about something
+T13.3_2166739810_4	generalization performance	1.0	The generalization performance of any learner is quantified by the difference between the training error and the test error. Good learners are those where the test error and the training error have close values.
+T19.1_2761355172_2	qos routing	1.0	A routing mechanism that encompasses finding and selection of cost-effective paths for IP traffic flows that may assure the required QoS level relying on the information of network resource availability.
+G07.2_1887815499_4	entropy value	1.0	Entropy is a measure of self information or uncertainty
+G17.1_2962706423_4	memory addressing	1.0	A memory address is a unique identifier used by a device or CPU for data tracking. This binary address is defined by an ordered and finite sequence allowing the CPU to track the location of each memory byte.
+G14.2_2722360008_5	user bases	1.0	user base for a product is the number of people who use product or service
+G14.2_2178173146_9	user experience	1.0	user experience is recognized within the context of graphic interface and web design, as a way to measure the degree of impact on the end user.
+T16.2_2144748689_4	Rabin cryptosystem	2.0	The Rabin cryptosystem is a family of public-key encryption schemes based on a trapdoor function whose security, like that of RSA, is related to the difficulty of integer factorization
+G17.1_1999767563_3	p-type	2.0	A p-type semiconductor is a material that conducts, with positive holes being the majority charge carriers.
+G17.4_2524344971_1	quantum entanglement	1.0	Quantum entanglement is a phenomenon in which the quantum states of two or more objects become correlated, meaning that the state of one object can affect the state of the other(s) even if the objects are separated by large distances.
+G17.1_1985674454_4	Power-Delay Product	2.0	In digital electronics, the power–delay product (PDP) is a figure of merit correlated with the energy efficiency of a logic gate or logic family
+G14.2_2088744588_2	geolocation	1.0	geolocation is the geographical location (both longitudinal and latitudinal) of an Internet-connect device, such as a cell phone or tablet
+G14.2_2611788902_2	packet loss	1.0	packet loss is the total percentage of the packets of data that don’t make it to or from each party in the communication.
+G07.2_170316166_2	chemtrails	1.0	chemtrails is a conspiracy theory which holds that airplanes deliberately release chemicals that stupefy the public
+G14.2_3000868545_1	forwarding	1.0	Forwarding nodes broadcast encoded packets generated using either native packets received by the source or other encoded packets received by neighbor nodes.
+G17.2_2012719958_1	pure states	2.0	A pure state is the quantum state where we have exact information about the quantum system.
+G17.1_2094810688_2	interactive environments	1.0	It is any technology-based interface that reacts and responds to user input. An Interactive environment is the broad term used to categorize forms of computer-based media that instructs, communicates, and entertains as a result of user action.
+T13.3_2052300809_5	naive bayes	2.0	Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes' theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable.
+T16.2_2144748689_2	server impersonation	1.0	server impersonation is when a server can run protocols under the client's user account instead of the server account.
+G17.2_2040411766_1	Dzyaloshinskii---Moriya (DM) interaction	2.0	antisymmetric exchange, also known as the Dzyaloshinskii–Moriya interaction (DMI), is a contribution to the total magnetic exchange interaction between two neighboring magnetic spins,
+T15.2_2998344819_1	Pattern lock	1.0	Pattern Lock is a security measure that protects devices, such as mobile phones or tablets, and which is preferred by many to PIN codes or text passwords.
+G17.4_2524344971_1	quadratic	1.0	the term quadratic describes something that pertains to squares, to the operation of squaring, to terms of the second degree, or equations or formulas that involve such terms.
+T15.2_2012955216_3	support vector machines	2.0	Support vector machines (SVMs) are a set of related supervised learning methods, which are popular for performing classification and regression analysis using data analysis and pattern recognition. Methods vary on the structure and attributes of the classifier. The most commonly known SVM is a linear classifier, predicting each input’s member class between two possible classifications
+G17.1_2070615909_1	quantum computation	1.0	Quantum computing aims at outperforming classical computers for some specific calculations. It relies on the additional resource given by the qubit superposition states, which can be used to design more efficient algorithms
+T13.3_2944188749_4	F-value	1.0	The F-test is used in regression analysis to test the hypothesis that all model parameters are zero. It is also used in statistical analysis when comparing statistical models that have been fitted using the same underlying factors and data set to determine the model with the best fit.
+T16.2_1760039095_3	S-3PAKE	2.0	Three-party authentication key exchange (3PAKE) is a protocol that allows two users to set up a common session key with the help of a trusted remote server, which is effective for secret communication between clients in a large-scale network environment
+T19.1_3004282241_1	tmss	1.0	Traffic monitoring, also known as network monitoring, is the method of studying the incoming and outgoing traffic on a computer network via specialized hardware and/or software
+T19.1_1446507644_1	network topologies	1.0	The network topology describes the way the communication is structured within a network.
+G14.2_2611788902_5	impairments	1.0	the state or fact of a faculty or function being weakened or damaged.
+T15.2_2012614298_1	synchronous stream cipher	2.0	Stream ciphers are a type of encryption algorithm that process an individual bit, byte, or character of plaintext at a time. Stream ciphers are often faster than block ciphers in hardware and require circuitry that is less complex.
+G14.2_2293424065_2	seminal	1.0	Seminal works, sometimes called pivotal or landmark studies, are the initial pieces that presented an important or influential idea within a particular discipline
+G17.1_2070615909_3	propagating	1.0	Wave propagation is any of the ways in which waves travel
+T16.3_2043982660_1	low-rate DoS attack	1.0	A Low and Slow DDoS attack, also known as a slow-rate attack, involves what appears to be legitimate traffic at a very slow rate. This type of state exhaustion DDoS attack targets application and server resources and is difficult to distinguish from normal traffic.
+T13.3_2075267337_3	meta-technique	1.0	In the context of machine learning, meta-learning refers to the application of machine learning algorithms for the optimization and training of machine learning models.
+T19.1_1446507644_7	cloud tenants	1.0	A cloud tenant is a customer who purchases cloud computing resources. This could be an individual user, a group of users, or an entire department or company.
+T13.3_2052300809_6	minority class	1.0	the class with the lowest number of samples in the (training) dataset
+T13.3_2166739810_1	Semantic scene classification	2.0	The objective of scene classification is to segment and classify different regions in the image whereas place recognition assigns a single category to the entire image
+G17.1_2042591812_2	quantum dot	2.0	Quantum dots (QDs) are semiconductor nanocrystals in the size range 1–10 nm in diameter and widely used for imaging (diagnosis) and targeted delivery purposes
+G17.2_2040411766_7	negativity measure	1.0	Quantum negativity is a measure of quantum entanglement. An experiment whose explanation requires negative probabilities is said to possess ‘quantum negativity.’ The scientists have now shown that this quantum negativity can help take more precise measurements.
+T15.1_2886610424_3	hash functions	1.0	A hash function is a computational method that can map an indeterminate size of data into a fixed size of data. Or more plainly, it provides a number quantity that represents the input data.
+G14.2_2611788902_3	qos metrics	1.0	QoS metrics refer to objective, system-related characteristics that provide insight into the performance of the delivery service at the network/transmission level
+T15.2_2012614298_1	shift registers	2.0	A shift register is a sequential logic device which consists of a cascade of Flip-Flops. The output of each Flip-Flop in the cascade is connected to the input of the succeeding Flip-Flop, and data can be shifted from left to right or vice versa by the clock which is frequently referred to as the shift pulse.
+T15.2_2782830553_1	Hash-based message authentication code	2.0	Hash-based Message Authentication Code (HMAC) is a message authentication code that uses a cryptographic key in conjunction with a hash function. Hash-based message authentication code (HMAC) provides the server and the client each with a private key that is known only to that specific server and that specific client.
+T15.1_2887855654_5	maas ecosystems	2.0	Mobility as a service (MaaS) is a type of service that, through a joint digital channel, enables users to plan, book, and pay for multiple types of mobility services
+T19.1_2761355172_1	NP-hard problem	2.0	"In computational complexity theory, NP-hardness is the defining property of a class of problems that are informally ""at least as hard as the hardest problems in NP"""
+G17.2_2893955699_2	logic qubit	1.0	A logical qubit is a physical or abstract qubit that performs as specified in a quantum algorithm or quantum circuit subject to unitary transformations, has a long enough coherence time to be usable by quantum logic gates
+G17.4_2974627365_5	quantum cryptanalysis	2.0	Quantum cryptanalysis is the study and evaluation of cryptographic algorithms in the presence of a quantum enabled adversary.
+G17.4_2974627365_6	quantum cryptanalysis	2.0	Quantum cryptanalysis is the study and evaluation of cryptographic algorithms in the presence of a quantum enabled adversary.
+T19.2_2172121104_7	probabilistic model	1.0	Probabilistic modeling is a statistical technique used to take into account the impact of random events or actions in predicting the potential occurrence of future outcomes.
+T13.3_2885975229_4	fuzzy rule	1.0	Fuzzy rules are used within fuzzy logic systems to infer an output based on input variables
+T15.2_2997106804_3	plaintext	1.0	In cryptography, plaintext is usually ordinary readable text before it is encrypted into ciphertext, or readable text after it is decrypted.
+T13.3_2052300809_6	majority class	1.0	the class with the highest number of samples in the dataset
+T13.3_2944188749_3	majority class	1.0	the class with the highest number of samples in the dataset
+T16.2_1760039095_1	three-party key exchange	1.0	Three-party authentication key exchange (3PAKE) is a protocol that allows two users to set up a common session key with the help of a trusted remote server, which is effective for secret communication between clients in a large-scale network environment
+T16.2_1760039095_11	three-party key exchange	1.0	Three-party authentication key exchange (3PAKE) is a protocol that allows two users to set up a common session key with the help of a trusted remote server, which is effective for secret communication between clients in a large-scale network environment
+G17.1_1999767563_4	Power-Delay Product	2.0	In digital electronics, the power–delay product (PDP) is a figure of merit correlated with the energy efficiency of a logic gate or logic family
+G07.2_2953000449_2	chemtrails	1.0	chemtrails is a conspiracy theory which holds that airplanes deliberately release chemicals that stupefy the public
+G17.2_2952201711_1	pure states	2.0	A pure state is the quantum state where we have exact information about the quantum system.
+T13.3_2052300809_9	naive bayes	2.0	Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes' theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable.
+G17.1_2998842053_1	quantum computation	1.0	Quantum computing aims at outperforming classical computers for some specific calculations. It relies on the additional resource given by the qubit superposition states, which can be used to design more efficient algorithms
+G17.1_2480433103_6	quantum computation	1.0	Quantum computing aims at outperforming classical computers for some specific calculations. It relies on the additional resource given by the qubit superposition states, which can be used to design more efficient algorithms
+T16.2_1760039095_5	S-3PAKE	2.0	Three-party authentication key exchange (3PAKE) is a protocol that allows two users to set up a common session key with the help of a trusted remote server, which is effective for secret communication between clients in a large-scale network environment
+T16.3_2043982660_4	low-rate DoS attack	1.0	A Low and Slow DDoS attack, also known as a slow-rate attack, involves what appears to be legitimate traffic at a very slow rate. This type of state exhaustion DDoS attack targets application and server resources and is difficult to distinguish from normal traffic.
+T13.3_2551429935_7	minority class	1.0	the class with the lowest number of samples in the (training) dataset
+T15.1_2886610424_4	hash functions	1.0	A hash function is a computational method that can map an indeterminate size of data into a fixed size of data. Or more plainly, it provides a number quantity that represents the input data.
+T15.1_2886610424_5	hash functions	1.0	A hash function is a computational method that can map an indeterminate size of data into a fixed size of data. Or more plainly, it provides a number quantity that represents the input data.
+T15.1_2887855654_3	maas ecosystems	2.0	Mobility as a service (MaaS) is a type of service that, through a joint digital channel, enables users to plan, book, and pay for multiple types of mobility services
+G05.1_2117924928_2	sgRNA	2.0	single guide RNA
+G05.1_2914002216_1	CRISPR	2.0	Clustered regularly interspaced short palindromic repeats
+G05.2_2796443924_4	CRISPR	2.0	Clustered regularly interspaced short palindromic repeats
+G05.2_2796443924_2	gRNA	2.0	guide RNA
+G05.2_2796443924_3	gRNA	2.0	guide RNA
+G05.2_2796443924_4	gRNA	2.0	guide RNA
+G05.2_2796443924_3	SVM	2.0	support vector machines
+G06.2_2548923997_2	VANET	2.0	vehicular ad-hoc network
+G06.2_2548923997_4	VANET	2.0	vehicular ad-hoc network
+G06.2_2548923997_5	BP	2.0	business performance
+G06.2_2548923997_5	IDS	2.0	intrusion detection systems
+G06.2_2906897310_4	CNN	2.0	cellular neural/nonlinear network
+G06.2_2931522054_1	MATLAB	2.0	matrix laboratory
+G06.2_2931522054_3	MATLAB	2.0	matrix laboratory
+G06.2_2931522054_4	MATLAB	2.0	matrix laboratory
+G06.2_2931522054_5	MATLAB	2.0	matrix laboratory
+G06.2_2931522054_6	MATLAB	2.0	matrix laboratory
+G06.2_2931522054_7	MATLAB	2.0	matrix laboratory
+G06.2_2935172463_1	MATLAB	2.0	matrix laboratory
+G06.2_2935172463_4	MATLAB	2.0	matrix laboratory
+G06.2_2931522054_2	ROS	2.0	Robot Operating System
+G06.2_2931522054_4	ROS	2.0	Robot Operating System
+G06.2_2931522054_5	ROS	2.0	Robot Operating System
+G06.2_2931522054_7	ROS	2.0	Robot Operating System
+G06.2_2935172463_1	ROS	2.0	Robot Operating System
+G06.2_2935172463_2	ROS	2.0	Robot Operating System
+G06.2_2935172463_3	ROS	2.0	Robot Operating System
+G06.2_2935172463_4	ROS	2.0	Robot Operating System
+G07.1_2239526842_1	OSN	2.0	online social networks
+G07.1_2239526842_2	OSN	2.0	online social networks
+G08.2_1607424157_3	NCI	2.0	National Cancer Institute
+G09.1_2921035272_3	IoT	2.0	Internet of Things
+G09.1_2921035272_4	IoT	2.0	Internet of Things
+G09.1_2921035272_7	IoT	2.0	Internet of Things
+G09.1_2921035272_8	IoT	2.0	Internet of Things
+G10.1_2968701259_1	CPU	1.0	central processing unit
+G11.1_2794850674_3	HTS	2.0	High-throughput sequence
+G13.1_2570453702_2	ICT	2.0	Information and Communication technology
+G13.1_2570453702_5	ICT	2.0	Information and Communication technology
+G13.1_2570453702_6	ICT	2.0	Information and Communication technology
+G13.1_3004169763_2	AHP	2.0	Analytic Hierarchy Process
+T15.1_2556484769_1	Honeypot	2.0	A honeypot is a system designed to attract attackers. This allows information security researchers and network defenders to better analyze network-based attacks. A honeynet is a (real or simulated) network of honeypots. Honeypots have no production value beyond research
+T15.1_2952002252_4	pentesting framework	1.0	The Penetration Testing Framework (PTF) provides comprehensive hands-on penetration testing guide. It also lists usages of the security testing tools in each testing category.
+G17.1_1999767563_1	logic functions	1.0	A computer switching circuit that consists of a number of logic gates and performs logical operations on data.
+T13.3_2551429935_1	Deep learning	1.0	Deep learning is a subclass of machine learning. It imitates the function of the human brain to interpret data using multi-layered neural networks
+G17.1_2094810688_3	X3D	2.0	X3D is an ISO-ratified, file format and run-time architecture to represent and communicate 3D scenes and objects. · X3D fully represents 3-dimensional data.
+G14.2_2615924707_5	user study	1.0	User study focuses on understanding user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies.
+G14.2_2722360008_2	telegram	1.0	Telegram Messenger is a globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service.
+G14.2_1996608491_1	cryptographic keys	1.0	A cryptographic key is a string of binary numbers used for encrypting and decrypting information which is essnetial for security reasons
+G14.2_2178173146_4	encryption software	1.0	Encryption software is software that uses cryptography to prevent unauthorized access to digital information
+T19.2_2127644869_2	paralell genetic algorithm	2.0	The parallel genetic algorithm (PGA) is a prototype of a new kind of a distributed algorithm. It is based on a parallel search by individuals all of which have the complete problem description. The information exchange between the individuals is done by simulating biological principles of evolution.
+T19.2_2172121104_8	real-coded EDA	2.0	The Estimation of Distribution Algorithms are a class of evolutionary algorithms which adopt probabilistic models to reproduce the genetic information of the next generation, instead of conventional crossover and mutation operations
+T19.2_1981298165_3	mutation operator	2.0	Mutation is a genetic operator used to maintain genetic diversity of the chromosomes of a population of a genetic or, more generally, an evolutionary algorithm (EA)
+G17.2_2040411766_3	DM interaction	2.0	antisymmetric exchange, also known as the Dzyaloshinskii–Moriya interaction (DMI), is a contribution to the total magnetic exchange interaction between two neighboring magnetic spins,
+T19.1_1446507644_5	ethernet switches	1.0	An Ethernet switch is a type of network hardware that is foundational to networking and the internet. Ethernet switches connect cabled devices, like computers and servers, in an Ethernet LAN so they can communicate with each other and to the internet.
+T15.1_2886610424_4	M-D type	2.0	the Merkle–Damgård (M-D) construction or Merkle–Damgård hash function is a method of building collision-resistant cryptographic hash functions from collision-resistant one-way compression functions. This construction was used in the design of many popular hash algorithms such as MD5, SHA-1 and SHA-2
+T19.2_1981298165_1	software test data	1.0	data created or selected to satisfy the execution preconditions and inputs to execute one or more test cases
+G17.1_2998842053_3	quantum computers	1.0	a quantum computer is radically different from a digital computer. In particular, it is based on quantum logic gates. In principle, a quantum computer can perform every task that a digital computer can. However, there are some specialized tasks for which a quantum computer is much, much faster than a digital computer. Two such tasks are factoring of large numbers and data base searches.
+T16.2_2784826804_8	Diffie-Helman key exchange	2.0	Diffie–Hellman key exchange is a mathematical method of securely exchanging cryptographic keys over a public channel and was one of the first public-key protocols as conceived by Ralph Merkle and named after Whitfield Diffie and Martin Hellman.
+T15.2_2572945594_10	parallel computing cores	1.0	Parallel computing refers to the process of breaking down larger problems into smaller, independent, often similar parts that can be executed simultaneously by multiple processors communicating via shared memory, the results of which are combined upon completion as part of an overall algorithm.
+T19.2_1566614675_2	prediction functions	1.0	a prediction function is a mathematical function that tells you something about a future event, based on past events
+T19.2_1566614675_1	classifier prediction	1.0	Classification is the process of identifying which category a new observation belongs to based on a training data set containing observations whose category membership is known
+G17.2_2012719958_4	N-tangle	1.0	an n-tangle is a proper embedding of the disjoint union of n arcs into a 3-ball; the embedding must send the endpoints of the arcs to 2n marked points on the ball's boundary.
+T19.1_2041007121_3	network maps	1.0	A network map is a visual representation of devices in the network, their interconnections, and the transport layers that provide network services.
+G18.2_2038052523_8	Waisda	1.0	The Waisda? video labeling game is a crowsourcing tool to collect user-generated metadata for video clips.
+T15.2_2158296297_1	meet-in-the-middle attack	1.0	Meet-in-the-middle is a classical technique of cryptanalysis which applies to many constructions. The idea is that the attacker constructs patterns that propagate from both ends to the middle of the cipher, in some cases by partial key-guessing
+G17.1_2070615909_1	2-dimensional		A two-dimensional (2D) shape can be defined as a flat figure or a shape that has two dimensions—length and width.
+T19.1_187863002_1	traffic engineering	1.0	Traffic engineering (TE) is a process whereby a network operator can engineer the paths used to carry traffic flows that vary from those chosen automatically by the routing protocol(s) in use in that same network
+G17.1_2962706423_5	HPC	1.0	High performance computing (HPC) is the ability to process data and perform complex calculations at high speeds
+G17.1_1502166895_1	cliques	2.0	a clique is a subset of vertices of an undirected graph such that every two distinct vertices in the clique are adjacent.
+T16.2_1760039095_1	key exchange protocol	1.0	Key exchange is a method in cryptography by which cryptographic keys are exchanged between two parties, allowing use of a cryptographic algorithm.
+G17.2_2099103563_3	qubit teleportation	1.0	Quantum teleportation is a technique for transferring quantum information from a sender at one location to a receiver some distance away.
+T15.1_1576337284_5	embedding	1.0	Embedding is the process of converting high-dimensional data to low-dimensional data in the form of a vector in such a way that the two are semantically similar.
+G17.1_2962706423_3	cisc architectures	2.0	A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions.
+G17.4_2298554870_1	dynamical decoupling pulses	2.0	Dynamical decoupling (DD) is a technique for preserving the coherence of quantum mechanical states in the presence of a noisy environment
+T16.3_2163051406_3	testbeds	1.0	Testbeds are composite abstractions of systems and are used to study system components and interactions to gain further insight into the essence of the real system.
+G17.4_2298554870_1	DDPs	2.0	Dynamical decoupling (DD) is a technique for preserving the coherence of quantum mechanical states in the presence of a noisy environment
+T19.2_2151579207_1	immune genetic algorithm	2.0	Immune genetic algorithm is an improved genetic algorithm which combines immune operator and traditional genetic algorithm
+G17.1_2094810688_3	vrml	2.0	Virtual Reality Modeling Language (VRML) is a standard file format for representing 3-dimensional interactive vector graphics, designed particularly with the World Wide Web in mind. It has been superseded by X3D.
+T16.2_2023008838_1	impersonation attacks	1.0	An impersonation attack is a type of targeted phishing attack where a malicious actor pretends to be someone else or other entities to steal sensitive data from unsuspecting employees using social engineering tactics.
+G17.2_2893955699_2	C-GHZ state	2.0	Greenberger–Horne–Zeilinger state (GHZ state) is a certain type of entangled quantum state that involves at least three subsystems (particle states, qubits, or qudits).
+T19.1_2041007121_6	network management	1.0	Network management is providing functions to control, plan, allocate, deploy, coordinate, and monitor network resources
+T13.3_2944188749_1	hybrid sampling	1.0	hybrid sampling uses a combination of two sampling techniques to create a balanced dataset for use in training machine learning models
+T13.3_2166739810_2	neural net	1.0	Neural networks are machine learning models that are inspired by the biological neural networks of animals, where, as the name suggests, the model is a network of simpler models, each of which corresponds loosely to a biological neuron that is connected to and can transmit signals with other neurons.
+T13.3_2075267337_4	data boosting	1.0	Boosting is an ensemble learning method that combines a set of weak learners into strong learners to minimize training errors. In boosting, a random sample of data is selected, fitted with a model, and then trained sequentially. That is, each model tries to compensate for the weaknesses of its predecessor
+G17.1_1999767563_2	SPICE	2.0	A SPICE model is a text-description of a circuit component used by the SPICE Simulator to mathematically predict the behavior of that part under varying conditions
+T13.3_2294656858_1	Associative Classification	1.0	Associative classification is a branch of data mining research that combines association rule mining with classification. Associative classification is a special case of association rule discovery in which only the class attribute is considered on the rule's right-hand side (consequent)
+G17.1_2094810688_1	game level editor	1.0	A video game level editor creates the interactive architecture for video games, including the landscape, buildings and objects.
+G17.2_2012719958_2	linear entropy	1.0	The linear entropy is a measure of mixedness in quantum states. Its main feature is that it is easy to compute.
+T15.2_2279843864_1	ic cards	1.0	An integrated circuit card, or chip card, is a payment card that uses an embedded microchip to store data in addition to (or instead of) a traditional magnetic stripe.
+T15.1_2952002252_7	human pentesting	1.0	human pentesting is a manual process executed by humans with diverse and specialized skill sets. A pen tester will use tools as a part of their work, but they apply their human ingenuity to exploit vulnerabilities and illustrate what an attacker might be capable of when targeting a particular system.
+G17.4_2524344971_4	entangled state	1.0	An entangled state of a composite system is a state that cannot be written as a product state of the component systems.
+G17.1_1502166895_5	partitioning	1.0	A graph partition is the reduction of a graph to a smaller graph by partitioning its set of nodes into mutually exclusive groups.
+T19.1_2064840401_7	cross layer	1.0	Cross-layer optimization in networks refers to obtaining enhanced network performance by exploiting the information across layers of the networking stack.
+G14.2_2293424065_6	mental models	1.0	A user's mental model is a conceptualization or internal explanation each user has built about how a particular system works
+T19.2_1978514531_7	orders of magnitude	1.0	Order of magnitude refers to the class of scale of any numerical value in which each class contains values of a fixed ratio to the class before it
+G17.4_2314409663_1	quibit system	2.0	A qubit is a two-state (or two-level) quantum-mechanical system, one of the simplest quantum systems displaying the peculiarity of quantum mechanics.
+G17.1_1502166895_2	Helly property	2.0	This is a graph property which is named after the Austrian mathematician Eduard Helly. Helly showed that whenever every d+1 sets of a collection of convex sets in Rd have nonempty intersection, then the total intersection of these sets must be nonempty too.
+T19.1_2139158116_4	network simulator-3	1.0	network simulator-3 is a discrete-event network simulator, targeted primarily for research and educational use.
+G17.1_2042591812_3	and-or gates	1.0	An AND/OR gate is a logic circuit that performs the AND/OR operations on the circuit's input.
+T19.2_2172121104_4	selection pressure	1.0	an evolutionary force that causes a particular phenotype to be more favorable in certain environmental conditions
+G17.2_2012719958_6	maximally entangled	1.0	A maximally entangled state is a state that maximises some entanglement measure.
+T19.1_2041007121_6	Application-Layer Traffic Optimization	2.0	Application Layer Transport Optimization (ALTO) is a protocol that allows internet clients to obtain information that compares the network properties of paths to other endpoints.
+G07.2_1917985537_3	temporal biases	1.0	Temporal bias is the unbalanced collecting of specimens in some years or parts of the year
+G17.1_2962706423_2	quantum processing units	2.0	A quantum processing units (QPU), aka a quantum processor, is the brain of a quantum computer that uses the behavior of particles like electrons or photons to make certain kinds of calculations much faster than processors in today’s computers.
+G14.2_2088744588_7	topology	1.0	In a mesh topology, in contrast to the tree topology, there are no hierarchical relationships. Any device in a mesh topology is allowed to attempt to contact any other device either directly or by taking advantage of routing-capable devices to relay the message on behalf of the message originator
+G07.2_1887815499_2	information string	1.0	information strings represent communications of any sort, from signals issued by machines to messages exchanged between workers to orders and directives from superiors to subordinates.
+G17.1_2480433103_1	superposition	1.0	The superposition of state is the first fundamental attribute of quantum systems, which enable the quantum computer to perform parallel computation on a huge scale.
+T19.2_1543999319_5	hyperplane tile coding	2.0	Tile coding is a form of coarse coding that is particularly well suited for use on sequential digital computers and for efficient online learning
+T15.2_2412345753_3	Hyper-jacking	2.0	Hyperjacking is an attack in which a hacker takes malicious control over the hypervisor that creates the virtual environment within a virtual machine (VM) host.
+T19.2_2125861761_1	classifier systems	1.0	Classification is the process of identifying which category a new observation belongs to based on a training data set containing observations whose category membership is known

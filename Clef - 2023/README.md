@@ -16,7 +16,7 @@
 - result_task2_1 (Tabla que donde se guardara los resultados del task 2.1)
 - result_task2_2 (Tabla que donde se guardara los resultados del task 2.2)
 - task_exec (Tabla donde se guardara informacion sobre la ejecución)
-#Conjunto de datos (directorios) proporcionados por los organizadores de la tarea.
+# Conjunto de datos (directorios) proporcionados por los organizadores de la tarea.
 - results: Contiene los datos resultantes de la experimentación en distintos formatos (xlsx, json y tsv).
 - test: Contiene los conjuntos de datos usados para el testeo en formato json y tsv.
 -	test_conv: Contiene los conjuntos de datos de testeo convertidos a xlsx para mejor visualización.

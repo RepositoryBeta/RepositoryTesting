@@ -1,0 +1,44 @@
+﻿AUDITORIA INFORMATICA
+
+1.	 Introducción a la Auditoría
+La palabra auditoría viene del latín auditorius y de esta proviene auditor, que tiene la virtud de oír y revisar cuentas, pero debe estar encaminado a un objetivo específico que es el de evaluar la eficiencia y eficacia con que se está operando para que, por medio del señalamiento de cursos alternativos de acción, se tomen decisiones que permitan corregir los errores, en caso de que existan, o bien mejorar la forma de actuación.
+Su función es hacer énfasis en la revisión, evaluación y elaboración de un informe para el ejecutivo encaminado a un objetivo específico.
+
+2.	Control Interno
+El control interno informático controla diariamente que todas las actividades de sistemas de información sean realizadas cumpliendo los procedimientos, estándares y normas fijados por la dirección de la organización y/o la dirección informática, así como los requerimientos legales. La función del control interno informático es asegurarse de que las medidas que se obtienen de los mecanismos implantados por cada responsable sean correctas y válidas.
+
+3.	Plan de contingencias
+Un plan de contingencia es un conjunto de procedimientos alternativos a la operatividad normal de cada institución. Su finalidad es la de permitir el funcionamiento de esta, aun cuando alguna de sus funciones deje de hacerlo por culpa de algún incidente tanto interno como ajeno a la organización.  
+Todas las instituciones deberían contar con un plan de contingencia actualizado, valiosa herramienta en general basada en un análisis de riesgo.
+
+4.	Plan de Auditoría.
+El programa nos hace cumplir la parte que dice que se deben hacer auditorías a intervalos planificados (lo que requiere un programa), mientras que el plan nos hace cumplir la parte b del punto, en cuanto a que debe ser una actividad en los que los criterios y los métodos deben estar definidos. Por tanto debemos tener un programa anual de auditoría donde consten todas las auditorías hechas e incluso con campos como las observaciones, riesgos, etc, y un plan de auditoría que nos explique cómo se van a llevar a cabo cada una de las auditorías del programa.
+
+5.	Informe de Auditoria
+El informe o dictamen de auditoría de cuentas anuales es un documento, emitido por los auditores de cuentas, sujeto en cuanto al contenido, requisitos y formalidades a la normativa reguladora de la actividad de auditoria. En él se reflejará la opinión profesional del auditor sobre los estados financieros, constituyendo el medio por el cual el auditor legal de cuentas se comunica con los posibles usuarios del mismo (accionistas, acreedores, empleados y público en general) que lo considera como una garantía o un certificado para la toma de decisiones.
+
+6.	Deontología Informática
+La deontología informática, por extensión, trata, por tanto de la moral o ética profesional en el manejo del activo más importante que tienen las empresas, un bien cada vez más apreciado, que es la información.
+Históricamente, los profesionales de la informática, como grupo, no han sido involucrados en cuestiones de ética. A menudo, se ve a las computadoras simplemente como máquinas y algoritmos y no se perciben las serias cuestiones éticas inherentes a su utilización.
+
+7.	 Auditor informático
+El auditor informático ha de velar por la correcta utilización de los amplios recursos que la empresa pone en juego para disponer de un eficiente y eficaz sistema de Información. Debe conocer técnicas de administración de empresas y de cambio, ya que las recomendaciones y soluciones que aporte deben estar alineadas a los objetivos de la empresa y a los recursos que se poseen. Su especialización debe estar  en función de la importancia económica que tienen distintos componentes financieros dentro del entorno empresarial.
+
+8.	Auditoria Interna
+La auditoría interna es una actividad independiente y objetiva de supervisión y consultoría diseñada para agregar valor y mejorar las operaciones de una organización. Ayuda a una organización a cumplir sus objetivos aportando un enfoque sistemático y disciplinado para evaluar y mejorar la eficacia de los procesos de gestión de riesgos, control y gobierno.
+La auditoría interna es un catalizador para mejorar los controles de gobierno de la organización, gestión y administración de riesgos, proporcionando una visión y recomendaciones basadas en el análisis y la evaluación de los datos y procesos de negocio. 
+
+9.	Auditoria Externa
+La auditoría externa consiste en que una empresa ajena supervise los estados financieros de la empresa cumplen las leyes o normas específicas. Los usuarios de la información financiera de estas entidades son inversores, agencias gubernamentales y el público en general.
+La forma de designación, las calificaciones y el formato de presentación de informes por parte de la auditoría externa son definidos por la ley, y varían de acuerdo a la jurisdicción de los diferentes países. Los auditores externos deben ser miembros de uno de los órganos profesionales de contabilidad reconocidos del país y normalmente presentan sus informes a los accionistas de una sociedad anónima.
+ 
+10.	 Principios deontológicos del auditor informático.
+A continuación mencionaremos algunos de los principios:
+Principio de Beneficio del auditado
+Principio de calidad
+Principio de capacidad 
+Principio de cautela 
+Principio de confianza
+  
+Dentro de los cuales trataremos de un principio deontológico:
+Principio de Beneficio del auditado. Aquí se refiere al hecho de que se debe de obtener el máximo beneficio con el equipo con que se cuenta, además de que el auditor debe ser ajeno a la empresa y sus integrantes además de que no debe de salir beneficiado con la auditoria.

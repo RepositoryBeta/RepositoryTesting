@@ -1,0 +1,49 @@
+﻿FACULTAD DE CIENCIAS SOCIALES FACSO
+PENSUM ACADEMICO DE LA CARRERA DE LICENTURA EN PUBLICIDAD Y MERCADOTECNIA
+MATERIA: FUNDAMENTOS DE CONTABILIDAD
+CAPITULO I . CONTABILIDAD GENERAL
+
+CONCEPTO DE CONTABILIDAD
+ 
+Desde el aspecto contable la contabilidad se define como la técnica constituida por los métodos, procedimientos e instrumentos, aplicables para llevar a cabo el registro, clasificación y resumen de  los efectos financieros que provocan las operaciones que realiza la empresa, con el objeto de  obtener la información necesaria para elaborar estados financieros. 
+ 
+Pero también tenemos el aspecto fiscal que nos da el concepto de contabilidad en el  articulo 28, dicho articulo marca los siguiente; la contabilidad se integra por los sistemas y registros contables,  por  registros,  cuentas  especiales,  libros  y  registros  sociales,  por  los equipos  y sistemas  electrónicos  de  registro  fiscal  y  sus  registros, así  como por  la documentación  comprobatoria  de  los  asientos  respectivos  y  los  comprobantes  de haber cumplido con las disposiciones fiscales. 
+ 
+FINALIDAD E IMPORTANCIA DE LA CONTABILIDAD 
+ La finalidad e importancia de la contabilidad consiste en:  El registro, clasificación y resumen de todas y cada una de la operaciones que realicen la empresa, que tengan efectos financieros. 
+Obtención de información financiera; relativa a la situación de la empresa, los resultados de sus operaciones y otros aspectos financieros. 
+Elaboración  de  los  estados  financieros:  Balance  General,  en  el  que  se presenta la situación financiera; Estado de Resultados, en el que se muestra el resultado de las  operaciones realizadas  y Otros, en  los que se  describen diferentes aspectos de carácter financiero. 
+ 
+PRINCIPALES USUARIOS DE LA CONTABILIDAD 
+ 
+Los principales usuarios de la contabilidad son las siguientes: 
+Los Inversionistas, ya que estas personas son las que aportan de alguna manera el capital hay que asegurarlos de que hacen una buena inversión; el Estado, ya que le interesa  que  sobre  la  utilidad  que  se  obtenga  en  la  empresa  se  le  otorgue  cierta cantidad; Instituciones de crédito, ya que estas deben de hacer un estudio a fondo para que los  créditos que nos llegasen a  otorgar tengan un  suficiente respaldo; Acreedores, para que de esta forma nos puedan hacer ventas con la seguridad de un suficiente respaldo en caso de morosidad; y por ultimo a los Trabajadores, ya que sobre la utilidad que tenga la empresa se les otorga las llamadas “utilidades”.   CICLO ECONOMICO DE UNA EMPRESA COMERCIAL  La empresa comercial interviene en las relaciones económicas, simplemente como demandante y oferente de bienes y servicios económicos, es decir, compra y vende mercancías; estas operaciones pueden ser realizadas tanto mediante pagos y cobros al contado, como mediante la obtención y el otorgamiento del crédito.  
+BIENES Y DERECHOS, OBLIGACIONES Y PATRIMONIO 
+ 
+Primero se definirá cada uno de los conceptos: 
+ BIENES Y DERECHOS: Comúnmente llamado Activo, que es el total de recursos de que dispone la empresa para llevar a cabo sus operaciones; total que se forma con las aportaciones de sus propietarios y con los recursos obtenidos en préstamos de personas ajenas a la empresa. 
+ OBLIGACIONES:  También  llamado  pasivo,  total  de  deuda  contraídas  por  la empresa,  es  decir,  representa  las  obligaciones  que  tiene  la  empresa  de  pagar  los importes monetarios correspondientes a recursos obtenidos de personas ajenas.
+PATRIMONIO: O  Capital Contable;  Esta  expresión  es  empleada para  referir la suma  de  las  aportaciones  de  los  propietarios  modificada  por  los  resultados  de operación de  la  empresa, es  decir, es  el capital  social  más la  utilidad o  menos la pérdida. 
+
+ESTADOS FINANCIEROS 
+ 
+Son  los  documentos  contables  de  una  empresa  que  nos  muestran  su  situación financiera, la capacidad de pago a una fecha determinada, pasada, presente o futura; o  bien  el  resultado  de  las  operaciones obtenidas  en  un periodo  determinado;  en situaciones normales o especiales. Para ello se debe realizar un análisis con el cual puedan interpretarse las cifras que cada estado muestra. 
+ 
+La fuente de información para elaborar los estados financieros viene del saldo que arrojan las cuentas de mayor del balance general y de resultados.
+Estado de situación financiera o Balance General: Una vez que se tiene ya definido lo que son los estado financieros y una clasificación en la  cual  se  ubica  el  estado  de  situación  financiera;  entonces  podemos  decir  que  el Estado de Situación Financiera o Balance General es aquel documento contable que muestra  la  situación  financiera  de  una  empresa  a  una  fecha  determinada.  Se compone de tres elementos:   ACTIVO (Todo lo que tiene la entidad más lo que le deben),  PASIVO  (Todo lo que adeuda la empresa), CAPITAL (Diferencia entre el activo y el capital)
+
+Estado de resultados
+ 
+Es el documento contable que muestra los ingresos y egresos, así como la utilidad o perdida  alcanzada  en  un  periodo  determinado  su  estructura  tradicional  es  la siguiente: 
+ESTADO DE RESULTADOS 
+ Ventas 
+(-)  Costo de ventas 
+(=)  Utilidad bruta 
+(-)  Gastos de administración 
+(-)  Gastos de venta 
+(=)  Utilidad o perdida de operación 
+(+)  Otros productos 
+(-)  Otros gastos 
+(=)  Utilidad neta 
+ 
+Este estado  nos permite apreciar el  resultado final del ejercicio  y conocer  en condiciones generales como se llegó al mismo aprovechando dicha información en la toma de decisiones.

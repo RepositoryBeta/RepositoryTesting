@@ -1,0 +1,23 @@
+DB_Unificada ya esta como Arturo la requiere.
+Dentro de las tres carptas stan exportadas en diferentes formas de exportado.
+
+Dentro de cada carpeta se encuentra la base de datos que esta en esta carpeta.
+DB_Unificada.
+
+Se encuentran dos carpetas una que se llama DB_Entera que contiene tres archivos con los registros de cada tabla y la otra carpeta
+que se llama PorArchivo  que contiene archivos csv de cada texto que tiee el corpus con sus respectivos registros y el conteo de terminos iguales que se han marcado
+
+El archivo DB_Unificada N_Pal N_Usu.csv tiene un estadistico de lo que se pudo encontrar con los datos
+Por su parte el archivo DB_UnificadaCuTo.csv tiene la cantidad de marcas de un termino en toda la base de datos
+
+Ahora que se sabe lo que hay dentro de cada carpeta.
+
+
+Se describe lo que son estas tres carpetas:
+
+Resultado con etiqueta y tab.- Si se copia y pega el contenido de estos archivos sobre una hoja de calculo de excel, ya se tiene la conversion de manera idonea.
+Notepadd++ es el ideal para abrir estos documentos
+
+Resultado con etiqueta y puntocoma.- La etiqueta s para poder saber que es lo que hay en cada columna y esta separado conforme al formato csv con ;
+
+Resultado sin etiqueta y puntocoma.- Es el propio formato csv tal cual lo pide Arturo.

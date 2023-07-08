@@ -1,0 +1,53 @@
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.pdb
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbprojResolveAssemblyReference.cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.Resources.resources
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.UserControl1.resources
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbproj.GenerateResource.Cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbproj.CoreCompileInputs.cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.pdb
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.pdb
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbprojResolveAssemblyReference.cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.Resources.resources
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbproj.GenerateResource.Cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbproj.CoreCompileInputs.cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.pdb
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.UC_EtiquetaTexto.resources
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.dll.config
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.dll.config
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.pdb
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EtiquetaTexto.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbprojResolveAssemblyReference.cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.Resources.resources
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.UC_EtiquetaTexto.resources
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbproj.GenerateResource.Cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.vbproj.CoreCompileInputs.cache
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.dll
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.xml
+C:\Users\CGE\Documents\Visual Studio 2017\Projects\01 EIL\EIL Final\Programa\EtiquetaTexto\EtiquetaTexto\obj\Debug\EtiquetaTexto.pdb

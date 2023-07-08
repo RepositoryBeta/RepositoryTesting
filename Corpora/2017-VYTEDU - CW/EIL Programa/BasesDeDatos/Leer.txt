@@ -1,0 +1,3 @@
+DB_Unificada.db -> Este archivo es el final y esta presente en las carpetas que se pueden ver en esta carpeta.
+
+Nuea Base.db es la misma que DB_Unificada.db pero tiene este nombre para que sea reconocido por EIL ya que de no existir una base de datos EIL crea una base de datos sin registro.

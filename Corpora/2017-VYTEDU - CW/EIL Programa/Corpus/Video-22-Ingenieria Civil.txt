@@ -1,0 +1,51 @@
+﻿UNIVERSIDAD DE GUAYAQUIL
+FACULTAD DE CIENCIAS MATEMÁTICAS Y FÍSICA
+CARRERA DE INGENIERÍA CIVIL
+MATERIA: HIDRÁULICA I
+TERCER SEMESTRE
+
+¿Qué es la hidráulica?
+Es la aplicación de la mecánica de fluidos en ingeniería, para construir dispositivos que funcionan con líquidos, por lo general agua o aceite. La hidráulica resuelve problemas como el flujo de fluidos por conductos o canales abiertos y el diseño de presas de embalse, bombas y turbinas. Su fundamento es el principio de Pascal, que establece que la presión aplicada en un punto de un fluido se transmite con la misma intensidad a cada punto del mismo.
+El filósofo científico Blaise Pascal formuló en 1647 el principio que lleva su nombre, con aplicaciones muy importantes en hidráulica.
+
+Fabricación del acero
+El acero se obtiene eliminando las impurezas del arrabio, producto de fundición de los altos hornos, y añadiendo después las cantidades adecuadas de carbono y otros elementos. La principal dificultad para la fabricación del acero es su elevado punto de fusión, 1.400 °C, que impide utilizar combustibles y hornos convencionales. En 1855, Henry Bessemer desarrolló el horno o convertidor que lleva su nombre y en el que el proceso de refinado del arrabio se lleva a cabo mediante chorros de aire a presión que se inyectan a través del metal fundido. En el proceso Siemens-Martin, o de crisol abierto, se calientan previamente el gas combustible y el aire por un procedimiento regenerativo que permite alcanzar temperaturas de hasta 1.650°C.
+
+Clasificación del acero:
+Los aceros se clasifican en:
+•	Aceros al carbono;
+•	Aceros aleados;
+•	Aceros inoxidables;
+•	 Aceros de herramientas;
+•	Aceros de baja aleación ultrarresistentes.
+Aceros al carbono: contienen diferentes cantidades de carbono y menos el 1,65% de manganeso, el 0,60% de silicio y el 0,60% de cobre.
+Aceros Aleados: poseen vanadio y molibdeno además de cantidades mayores de manganeso, silicio y cobre que los aceros de carbono.
+Aceros inoxidables: llevan cromo y níquel, entre otros elementos de aleación.
+Aceros de herramientas: Contienen volframio, molibdeno y otros elementos de aleación que les proporcionan mayor resistencia, dureza y durabilidad.
+Aceros de baja aleación ultrarresistentes: Tienen menos cantidad de elementos de aleación y deben su elevada resistencia al tratamiento especial que reciben.
+
+Fases del tratamiento de las aguas residuales urbanas
+Los principales métodos de tratamiento de las aguas residuales urbanas tienen tres fases:
+Tratamiento primario: incluye la eliminación de arenillas, la filtración, el molido, la floculación (agregación de los sólidos) y la sedimentación;
+Tratamiento secundario: Implica la oxidación de la materia orgánica disuelta por medio de lodo biológicamente activo, que seguidamente es filtrado;
+Tratamiento terciario: En el que se emplean métodos físicos y químicos, tales como la filtración granular y la adsorción de carbono activado. La manipulación y eliminación de los residuos sólidos representa entre un 25 y un 50% del capital y los costes operativos de una planta depuradora.
+
+El impacto de los vertidos industriales depende no sólo de sus características comunes, como la demanda bioquímica de oxígeno, sino también de su contenido en sustancias orgánicas e inorgánicas específicas. Hay tres opciones (que no son mutuamente excluyentes) para controlar los vertidos industriales. El control puede tener lugar allí donde se generan dentro de la planta; las aguas pueden tratarse previamente y descargarse en el sistema de depuración urbana; o pueden depurarse por completo en la planta y ser reutilizados o vertidas sin más en corrientes o masas de agua.
+
+Los olores y sabores desagradables del agua se eliminan por oxigenación. Las bacterias se destruyen  añadiendo unas pocas partes por millón de cloro, y el sabor del color se elimina con sulfito de sodio. La dureza excesiva del agua, que la hace inservible para muchos usos industriales, se consigue reducir añadiendo cal débil o hidratada, o por un proceso de intercambio irónico, utilizando ceolita como ablandador. La materia orgánica en suspensión, con vida bacteriana, y la materia mineral en suspensión, se eliminan con la adición de agentes floculantes y precipitantes, como alumbre, antes del filtrado. La fluoración artificial del agua para consumo público se lleva a cabo en algunos países para prevenir la caída de los dientes.
+
+
+Ciencia y tecnología de los materiales
+Estudio de los materiales, tanto metálicos como no metálicos, y de la forma de adaptarlos y fabricarlos para responder a las necesidades de la tecnología moderna. Empleando las técnicas de laboratorio y los instrumentos de investigación de la física, la química y la metalurgia, los científicos están hallando nuevas formas de utilizar el plástico, la cerámica y otros no metales en aplicaciones antes reservadas a los metales.
+
+Avances recientes
+El rápido desarrollo de los semiconductores para la industria electrónica, que comenzó a principios de la década de 1960, dio el primer gran impulso a la ciencia de materiales. Después de descubrir que se podía conseguir materiales no metálicos como el silicio condujeran la electricidad de un modo imposible en los metales, científicos e ingenieros diseñaron métodos para fabricar miles de minúsculos circuitos integrados en un pequeño chip de silicio. Esto hizo posible la miniaturización de los componentes de aparatos electrónicos como los ordenadores o computadoras.
+Al final de la década de 1980, la ciencia de los materiales tomó un nuevo auge con el descubrimiento de materiales cerámicos que presentan superconductividad a temperaturas más elevadas que los metales. Si se consigue encontrar nuevos materiales que sean superconductores a temperaturas suficientemente altas, serán de posibles nuevas aplicaciones, como trenes de levitación magnética o computadoras ultrarrápidas.
+
+Aplicaciones
+Investigación sobre los terremotos
+La investigación sismológica básica se concentra en la mejor comprensión del origen y propagación de los terremotos y de la estructura interna de la tierra. Según la teoría elástica del rebote, la tensión acumulada durante muchos años se libera de manera brusca en forma de vibraciones sísmicas intensas por movimientos de las fallas. Los temblores fuertes pueden, en segundos, reducir a escombros las estructuras de los edificios; por esto los geólogos e ingenieros consideran diversos factores relacionados con sismos en el diseño de las construcciones, porque los diques, las plantas de energía nuclear, los depósitos de almacenamiento de basuras, las carreteras, los silos de misiles, los edificios y otras estructuras construidas en regiones sismogénicas, deben ser capaces de soportar movimientos del terreno con máximos estipulados.
+
+Composición
+La composición de las aguas residuales se analiza con diversas mediciones físicas, químicas y biológicas. Las mediciones más comunes incluyen la determinación del contenido en sólidos, la demanda bioquímica de oxígeno (DBO5), la demanda química de oxígeno (DQO) y el pH.
+La composición de las infiltraciones depende de la naturaleza de las aguas subterráneas que penetran en la canalización. El agua de lluvia residual contiene concentraciones significativas de bacterias, elementos traza, petróleo y productos químicos orgánicos.

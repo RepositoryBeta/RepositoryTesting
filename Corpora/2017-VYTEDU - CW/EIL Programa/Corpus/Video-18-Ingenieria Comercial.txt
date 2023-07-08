@@ -1,0 +1,36 @@
+﻿GESTION DE COSTOS
+Planificar la Gestión de los Costos: Es el proceso que establece las políticas, los procedimientos y la documentación necesarios para planificar, gestionar, ejecutar el gasto y controlar los costos del proyecto. 
+Estimar los Costos: Es el proceso que consiste en desarrollar una aproximación de los recursos financieros necesarios para completar las actividades del proyecto. 
+Determinar el Presupuesto: Es el proceso que consiste en sumar los costos estimados de las actividades individuales o de los paquetes de trabajo para establecer una línea base de costo autorizada. 
+Controlar los Costos: Es el proceso de monitorear el estado del proyecto para actualizar los costos del mismo y gestionar posibles cambios a la línea base de costos.
+
+1.	PLANIFICAR LA GESTIÓN DE LOS COSTOS:
+La Gestión de los Costes del Proyecto debe considerar las necesidades de los interesados, ya que diferentes interesados medirán los Costes de diferentes formas y en diferentes momentos.
+Este proceso establece las políticas, procedimientos y documentación necesaria para planificar, dirigir, ejecutar y controlar los Costes.
+
+ENTRADAS
+Plan para la Dirección del Proyecto: Se utilizaran todos los componentes del este plan que ya desarrollados, como por ejemplo las líneas base del Alcance y del Cronograma, cualquier información que se considere útil para establecer las guías de la Gestión del Costes del Proyecto.
+Acta de Constitución: Desarrollada en el grupo de procesos de inicio, provee de información sobre el marco del Proyecto a tener en cuenta para establecer las guías de la Gestión del coste del Proyecto, por ejemplo el resumen de presupuesto a priori destinado por el patrocinador para realizarlo.
+HERRAMIENTAS
+Juicio de Expertos: El juicio de expertos se aplica también para establecer las políticas, procedimientos, técnicas, métodos y herramientas que se utilizarán en la Gestión del coste del Proyecto.. Esta experiencia es proporcionada por cualquier persona o grupo de personas con conocimientos y/o formación especializados y puede obtenerse de numerosas fuentes.
+Técnicas Analíticas: Para poder elegir racionalmente entre varias estrategias de financiación: por autofinanciación, por intercambio y por endeudamiento. También, para poder optar por diversas maneras de comprar recursos, tales como fabricar, comprar, alquilar, etc. Además, es posible que los procedimientos corporativos recomienden utilizar técnicas financieras específicas a la hora de determinar una estimación y tomar la decisión adecuada: periodo de recuperación retorno de la inversión flujo de caja y valor neto presente.
+Reuniones: Del equipo de Proyecto. Sirven para discutir y abordar cualquier asunto relacionado con establecer las políticas, procedimientos, técnicas, métodos y herramientas que se utilizarán en la Gestión del coste del Proyecto.
+SALIDAS
+Plan de Gestión de Costes: Es necesario elaborar un Plan de Gestión de Costes detallando los criterios para estructurar, estimar, preparar y aprobar el presupuesto del Proyecto y también, para controlarlos. Los procesos de Gestión del coste, así como sus técnicas, herramientas y formatos asociados varían por área de aplicación, por lo que es conveniente seleccionarlos y documentarlos en el Plan de Gestión de Costes del Proyecto.
+
+Unidades de medida. Para cada uno de los recursos se definen las unidades a usar en la medición de los Costes, como por ejemplo, Costes indirectos, tasas horarias, etc.
+Nivel de exactitud. El grado de redondeo permitido a las estimaciones de los Costes.
+Nivel de precisión. Las estimaciones de Costes se ajustarán a una precisión prescrita dependiendo del alcance de los paquetes de trabajo y de la magnitud del Proyecto. También pueden incluir una cantidad para contingencias.
+
+Enlaces con los procedimientos de la organización. El componente de la EDT usado para la contabilidad del coste del Proyecto suele ser la Cuenta de Control (CA). A cada cuenta de control se le asigna un código o número de cuenta que está vinculado de forma directa al sistema de contabilidad de la organización ejecutante. Dado que la cuenta de control incluye la estimación de los Costes de los paquetes de trabajo, hay que tener en cuenta los métodos idóneos para presupuestar dichos paquetes.
+Umbrales de control. Se suelen dejar definidos umbrales de control para permitir desviaciones de coste antes de tomar acciones correctivas ó preventivas.
+
+Reglas para la medición del rendimiento:
+
+1)	Se dejan definidas las fórmulas para calcular pronósticos,
+2)	Se dejan establecidos criterios y reglas para imputar Costes y
+3)	Se fijan los niveles de la EDT en los que se realizará el análisis del valor ganado.
+•	Formatos de informe. Se definen los diferentes tipos de informes de rendimiento de Costes.
+•	Descripciones de los procesos. Se documentan los procedimientos a emplear en cada uno de los tres procesos de la Gestión de Costes.
+•	Detalles adicionales. Fuentes de financiación recomendadas, normas para aplicar los cambios de moneda, reglas para la imputación de los Costes incurridos, etc.
+En el Plan de Gestión de Costes puede incluir otra información adicional y está incluido en el Plan de Dirección del Proyecto y es un plan subsidiario de éste.

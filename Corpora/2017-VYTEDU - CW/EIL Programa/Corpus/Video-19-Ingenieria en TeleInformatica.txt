@@ -1,0 +1,38 @@
+﻿CARRERA: TELEINFORMÁTICA
+
+MATERÍA: SISTEMAS Y MÈTODOS
+
+
+LOS SISTEMÁS DE INFORMACIÓN
+Un sistema de información es un conjunto de elementos que interactúan entre sí con el fin de apoyar las actividades de una empresa o negocio, el equipo computacional: el hardware necesario para que el sistema de información pueda operar, el recurso humano que interactúan con el Sistema de Información, el cual está formado por las personas que utilizan el sistema. Un sistema de información realiza cuatro actividades básicas: entrada, almacenamiento, procesamiento y salida de información.
+
+
+Entrada de Información
+Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información. Las entradas pueden ser manuales o automáticas. Las manuales son aquellas que se proporcionan en forma directa por el usuario, mientras que las automáticas son datos o información que provienen o son tomados de otros sistemas o módulos. Esto último se denomina interfaces automáticas. Las unidades típicas de entrada de datos a las computadoras son las terminales, las cintas magnéticas, las unidades de diskette, CD-ROM, Pendrive, los códigos de barras, los escáner, la voz, los monitores sensibles al tacto, el teclado y el mouse, entre otras.
+
+
+Almacenamiento de información
+El almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad el sistema puede recordar la información guardada en la sección o proceso anterior. Esta información suele ser almacenada en estructuras de información denominadas archivos. La unidad típica de almacenamiento son los discos magnéticos o discos duros, los discos flexibles o diskettes, pendrive y los discos compactos (CD-ROM).
+
+
+Procesamiento de Información
+Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida. Estos cálculos pueden efectuarse con datos introducidos recientemente en el sistema o bien con datos que están almacenados. Esta característica de los sistemas permite la transformación de datos fuente en información que puede ser utilizada para la toma de decisiones, lo que hace posible, entre otras cosas, que un tomador de decisiones genere una proyección financiera a partir de los datos que contiene un estado de resultados o un balance general de un año base.
+
+
+Salida de Información
+La salida es la capacidad de un Sistema de Información para sacar la información procesada o bien datos de entrada al exterior. Las unidades típicas de salida son las impresoras, terminales, diskettes, cintas magnéticas, la voz, los graficadores y los plotters, entre otros. Es importante aclarar que la salida de un Sistema de Información puede constituir la entrada a otro Sistema de Información o módulo. En este caso, también existe una interface automática de salida. Por ejemplo, el Sistema de Control de Clientes tiene una interface automática de salida con el Sistema de Contabilidad, ya que genera las pólizas contables de los movimientos procesales de los clientes.
+
+
+Los Sistemas de Información que logran la automatización de procesos operativos dentro de una organización, son llamados frecuentemente Sistemas Transaccionales, ya que su función primordial consiste en procesar transacciones tales como pagos, cobros, pólizas, entradas, salidas, etc. Por otra parte, los Sistemas de Información que apoyan el proceso de toma de decisiones son los Sistemas de Soporte a la Toma de Decisiones, Sistemas para la Toma de Decisión de Grupo, Sistemas Expertos de Soporte a la Toma de Decisiones y Sistema de Información para Ejecutivos. El tercer tipo de sistema, de acuerdo con su uso u objetivos que cumplen, es el de los Sistemas Estratégicos, los cuales se desarrollan en las organizaciones con el fin de lograr ventajas competitivas, a través del uso de la tecnología de información.
+
+Importancia de los Sistemas de Información
+Constituyen un campo esencial de estudio en administración y gerencia de empresas. Por otro lado es importante tener una comprensión básica de los sistemas de información para entender cualquier otra área funcional en la empresa, tener una cultura informática en nuestras organizaciones que permitan y den las condiciones necesarias para que los sistemas de información logren los objetivos citados anteriormente. Muchas veces las organizaciones no han entrado en la etapa de cambio hacía la era de la información sin saber que es un riesgo muy grande de fracaso debido a las amenazas del mercado y su incapacidad de competir, por ejemplo, las TI que se basan en Internet se están convirtiendo rápidamente en un ingrediente necesario para el éxito empresarial.
+
+
+Evolución de los Sistemas de Información
+De la sección anterior se desprende la evolución que tienen los Sistemas de Información en las organizaciones. Con frecuencia se implantan en forma inicial los Sistemas Transaccionales y, posteriormente, se introducen los Sistemas de Apoyo a las Decisiones. Por último, se desarrollan los Sistemas Estratégicos que dan forma a la estructura competitiva de la empresa. En la década de los setenta, Richard Nolan, un conocido autor y profesor de la Escuela de Negocios de la Universidad de Harvard, desarrolló una teoría que impactó el proceso de planeación de los recursos y las actividades de la informática. Según Nolan, la función de la Informática en las organizaciones evoluciona a través de ciertas etapas de crecimiento.
+
+Las aplicaciones empresariales requieren que la administración tenga una perspectiva de los procesos de negocios y los flujos totales de información. Los gerentes necesitan determinar qué proceso de negocios se deben integrar, los beneficios a corto y largo plazo así como el nivel adecuado tanto de recursos financieros y organizacionales que ayudarán a dicha integración.
+En las empresas hay muchos tipos de sistemas de información que apoyan diferentes niveles, funciones y procesos de negocio. Algunos de estos sistemas, como las aplicaciones empresariales (sistemas empresariales, administración de la cadena de abastecimiento, administración de las relaciones con el cliente y administración del conocimiento), abarcan más de una función o proceso de negocios y se pueden enlazar con otras organizaciones. 
+
+Los sistemas de información que apoyan flujos de información y procesos de negocios de toda la empresa o de toda la industria requieren grandes inversiones de tecnología y planeación. Las empresas deben tener una infraestructura de tecnología de información (TI) que pueda apoyar el trabajo de cómputo de toda la empresa o de toda la industria. La organización cuenta con sistemas de apoyo a ejecutivos en el nivel estratégico; sistemas de información gerencial (MIS) y sistemas de apoyo a la toma de decisiones (DSS) en el nivel administrativo; sistemas de trabajo del conocimiento (KWS), sistemas de oficina en el nivel de conocimiento, y sistemas de procesamiento de transacciones (TPS) en el nivel operativo.

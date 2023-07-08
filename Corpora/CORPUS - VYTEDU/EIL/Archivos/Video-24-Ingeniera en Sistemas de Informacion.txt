@@ -1,0 +1,43 @@
+﻿MÁQUINAS VIRTUALES
+Crean ilusiones de la máquina real, permitiendo que en cada máquina virtual se ejecute un SO distinto. Ejecuta los SO huésped dentro de un contenedor que corre el SO anfitrión, por lo que se comporta como si fuera una aplicación más dentro del equipo. El programa de control es el que se ejecuta directamente sobre el propio hardware y ofrece al nivel inmediatamente superior varias máquinas virtuales (dependiendo de la capacidad del hardware).
+
+VENTAJAS
+Compatibilidad.- Las máquinas virtuales son compatibles con todos los ordenadores x86 estándar en adelante.
+Aislamiento.- Las máquinas virtuales están aisladas unas de otras.
+Encapsulamiento.- Las máquinas virtuales encapsulan un entorno informático completo.
+Independencia.- Las máquinas virtuales se ejecutan de forma independiente del hardware subyacente.
+
+DESVENTAJAS
+1.	Agregan gran complejidad y carga operativa al sistema en tiempo de ejecución
+2.	Las aplicaciones de usuario no alcanzarán la misma velocidad de ejecución en el sistema operativo huésped que si se instalase en el sistema operativo anfitrión
+3.	El desempeño de una virtualización nunca será el mismo que el de una instalación directa sobre el hardware requerido.
+
+MAQUINAS VIRTUALES POPULARES
+
+VMWARE.- Es la opción más completa en el mercado debido a que tiene versiones de su producto específicas para centros de proceso de datos ( C P D ) , Gestiones de infraestructura, aplicaciones de seguridad, de escritorio y de gestión remota (acceso a la nube).
+
+VIRTUAL PC.- Virtual PC es un programa desarrollado por Connectix y comprado por Microsoft para crear ordenadores virtuales. Es decir, su función es emular un hardware sobre el que funcionen varios sistemas operativos. Con esto se puede conseguir ejecutar varios sistemas operativos en la misma máquina a la vez y hacer que se comuniquen entre ellos. La versión 2007 se encuentra disponible de forma gratuita.
+
+Microsoft Virtual PC es una aplicación que emula Windows en una MAC.El software fue originalmente desarrollado por Connectix, pero luego fue adquirido por Microsoft.Virtual PC emula una PC estándar y su hardware asociado. De esta manera, puede ser usado para ejecutar casi todos los sistemas operativos disponibles para PCs.
+Dos versiones:
+Windows: Es un virtualizador.
+MAC: Es un emulador.
+
+VIRTUAL BOX. - Fabricante Sun Microsystems. Permite la ejecución de máquinas virtuales de forma remota, por medio del Remote Desktop Protocolo (RDP). Los discos duros de los sistemas invitados son almacenados en los sistemas anfitriones como archivos individuales en un contenedor llamado Virtual Disk Image.
+
+INTRODUCCION A LOS SISTEMAS OPERATIVOS
+Es un software que actúa de interfaz entre los dispositivos de hardware y los programas utilizados por el usuario para gestionar un computador. Es el responsable de coordinar las actividades y llevar a cabo el intercambio de los recursos, actuando como plataforma de ejecución para las aplicaciones en el computador.
+•	Provee de un ambiente adecuado de trabajo.
+•	Hace uso eficiente del Hardware.
+•	Provee de una equitativa distribución de los recursos
+Funciones:
+•	Gobierna el sistema.
+•	Asigna los recursos.
+•	Administra y controlar la ejecución de los programas.
+
+SISTEMAS OPERATIVOS COMO ADMINISTRADOR DE RECURSOS
+Procesos: Programas en ejecución que compiten por el uso de un recurso.
+Recursos: Reales, virtuales, físicos o lógicos.
+El Sistema Operativo monitorea:
+•	Estado en el que se encuentran los recursos.
+•	Quién, cuándo y durante cuánto tiempo tiene el control.

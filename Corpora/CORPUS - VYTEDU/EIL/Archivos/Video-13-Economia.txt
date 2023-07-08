@@ -1,0 +1,35 @@
+﻿FACULTAD: CIENCIAS ECONOMICAS.
+CARRERA: ING. ECONÓMICA.
+SEMESTRE: TERCERO.
+MATERIA: PLANIFICACION PRESUPUESTARIA.
+TEMA: PLANIFICACIÓN, DISEÑO Y CONTROL DE PRESUPUESTO.
+
+¿En qué consiste la función de la planificación?
+
+La primera de las actividades que componen la tarea de la dirección de la empresa es la planificación, la cual consiste en fijar unos objetivos empresariales, marcar las estrategias necesarias para conseguirlos, definir las políticas de la empresa y establecer los criterios de decisión, siempre con la intención de conseguir los fines de la empresa.
+El proceso de planificación consta de una serie de etapas que se han de ir cubriendo durante la elaboración de los planes. Estas etapas son las siguientes:
+1. Análisis de la situación de partida: se analiza la situación actual de la empresa y su entorno, y se toma conciencia de las oportunidades existentes para poder aprovecharlas.
+2. Fijación de los recursos: se marcan los objetivos, tanto los generales como los subordinados, es decir, se concretan las metas a las que se quiere llegar.
+3. Creación de alternativas o determinación de las líneas de actuación: se marcan los diferentes caminos que lleven a la empresa hacia los objetivos propuestos.
+4. Evaluación de las alternativas: consiste en evaluar y analizar cada una de las líneas de acción, es decir, estudiar los puntos fuertes y débiles y evaluar los costes, los riesgos o las dificultades a superar.
+5. Elección de una alternativa: en esta etapa se decide qué plan se ejecutará.
+6. Control y determinación de desviaciones: aunque se haya escogido una alternativa con la seguridad de que es la mejor, es posible que la realidad evoluciones de forma diferente y esta alternativa no funcione como se esperaba; entonces, se debe volver a las alternativas anteriores y realizar las modificaciones pertinentes. Por tanto, hay que hacer un seguimiento periódico de los planes y corregirlos cuando sea necesario.
+Una vez que la planificación es operativa, entran en juego el resto de funciones de la organización interna de la empresa: organización, gestión y control.
+
+La planificación presupuestaria, una sencilla herramienta de gestión empresarial
+
+La deficiente gestión empresarial es uno de los mayores problemas que limitan la actividad y la eficiencia de muchos negocios. A veces se identifican las herramientas de gestión con fórmulas o sistemas complicados, pero podemos llevar a cabo una gestión efectiva de la actividad empresarial a corto plazo a través de la planificación presupuestaria.
+El ejercicio de diseñar un presupuesto. fijar los objetivos, asignar recursos y planificar cómo alcanzarlos y establecer mecanismos de control para corregir las desviaciones que se puedan producir no tiene una gran complicación técnica y puede servir para controlar las acciones a seguir y el resultado de las mismas.
+
+Cómo diseñar un presupuesto
+
+A la hora de plantearse cómo elaborar un presupuesto, hay varias opciones. Una manera es llevarlo a cabo de manera descendente, es la dirección de la empresa la que lo elabora y asigna objetivos, recursos y estrategias a cada uno de los departamentos.
+Otra manera de hacerlo es en forma ascendente, son los departamentos los que lo hacen individualmente y lo envían a la dirección para que los integre, armonizando todos los presupuestos particulares en uno sólo Como siempre, hay una solución mixta que aplicaría una mezcla de ambos métodos.
+En empresas pequeñas suele ser más efectivo el método descendente, pero en empresas de mayor tamaño, donde puede ser necesaria la implicación de varios departamentos y sus responsables, un presupuesto ascendente puede ser más útil. El método ascendente da la sensación de ser más democrático y el descendente más imposición de la dirección. Pero hay que tener en cuenta que el ascendente puede implicar conflictos entre los intereses de los departamentos y los generales de la organización.
+
+El control presupuestario
+
+La otra parte de la tarea es el control del presupuesto. De poco sirve la planificación sin el control de las acciones y de los resultados y detectar las desviaciones que se puedan producir.
+Para que la gestión sea efectiva se debe incluir un calendario de controles de los resultados. No podemos esperar a final de año para ver si se han cumplido los objetivos marcados, debe haber mecanismos de comprobación intermedios para detectar las desviaciones lo antes posible.
+Otra tarea importante es definir y vigilar las actividades clave. Aquellas que puedan ser más susceptibles de que se produzcan diferencias o las que su resultado influye en otras actividades o en otros departamentos.
+Los controles deben detectar y analizar las desviaciones que se vayan produciendo. Es tan importante la detección como el análisis de las causas que las han producido. Este ejercicio nos ayudará a buscar mecanismos que nos ayuden a corregir esas diferencias y a lograr que se alcancen los objetivos finales.

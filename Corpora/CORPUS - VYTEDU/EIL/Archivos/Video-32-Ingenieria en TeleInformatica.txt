@@ -1,0 +1,41 @@
+﻿SEGURIDAD INFORMATICA
+
+1.	Conceptos de seguridad informática
+La seguridad informática consiste en asegurar en que los recursos del sistema de información de una organización se utilizan de la manera que se decidió y que el acceso a la información allí contenida así como su modificación solo sea posible a las personas que se encuentren acreditadas y dentro de los límites de su autorización.  La seguridad informática se dedica principalmente a proteger la confidencialidad, la integridad (seguridad de la información) y la disponibilidad de la información. 
+
+2.	Seguridad de sistemas operativos
+
+Un Sistema Operativo (SO) es un Programa (software) que después de arrancado o iniciado el ordenador se encarga de gestionar todos los recursos del sistema informático, tanto de hardware (partes físicas, disco duro, pantalla, teclado, etc.) como el software (programas e instrucciones) permitiendo así la comunicación entre el usuario y el ordenador. Los otros programas son llamados aplicaciones. Resumiendo, un SO es el encargado de gestionar el software y el hardware de un ordenador o computadora.
+
+3.	Mecanismo de seguridad informática
+
+Un mecanismo de seguridad puede servir para implementar uno o varios servicios de seguridad, al igual que un servicio de seguridad puede ser implementado mediante varios mecanismos. Los mecanismos de seguridad son también llamadas herramientas de seguridad y son todos aquellos que permiten la protección de los bienes y servicios informáticos. Con estos mecanismos es con lo que se contesta la última pregunta de la metodología de la seguridad informática: ¿Cómo se van a proteger los bienes?
+
+4.	Políticas de seguridad basado en normas internacionales
+
+Serie ISO 27000 La información es un activo vital para la vida, el éxito y la continuidad en el mercado de cualquier organización. El aseguramiento de dicha información y de los sistemas que la procesan es, por tanto, un objetivo de primer nivel para la organización. ISO/IEC 27OO2 El objetivo del programa de certificación en seguridad de la información es concienciar y prevenir dichos riesgos. Proporciona una visión más amplia de los problemas de seguridad relacionados tanto con su información de negocio como con cualquier persona de su organización – sus dos activos más importantes.
+
+5.	Vulnerabilidad
+
+Es una debilidad del sistema informático que puede ser utilizada para causar un daño. Las debilidades pueden aparecer en cualquiera de los elementos de una computadora, tanto en el hardware, en el sistema operativo, cómo en el software. Como ejemplo de vulnerabilidad podemos comentar el siguiente. En su casa hay una computadora conectada a Internet, dónde además tiene configurada una cuenta de correo electrónico a través de la que recibe mensajes diariamente. También tiene instalado un antivirus que es capaz de chequear los mensajes electrónicos, incluidos los archivos que están adjuntos pero el antivirus no lo puede reconocer.
+
+6.	Hardening 
+
+(Palabra en inglés que significa endurecimiento) en seguridad informática es el proceso de asegurar un sistema mediante la reducción de vulnerabilidades en el mismo, esto se logra eliminando software, servicios, usuarios, etc; innecesarios en el sistema; así como cerrando puertos que tampoco estén en uso además de muchas otros métodos y técnicas que veremos durante este pequeño resumen introductorio al Hardening de sistemas.
+
+7.	Ataques de sistemas
+
+Un "ataque" consiste en aprovechar una vulnerabilidad de un sistema informático (sistema operativo, programa de software o sistema del usuario) con propósitos desconocidos por el operador del sistema y que, por lo general, causan un daño. Los ataques siempre se producen en Internet, a razón de varios ataques por minuto en cada equipo conectado. En su mayoría, se lanzan automáticamente desde equipos infectados (a través de virus, troyanos, gusanos, etc.) sin que el propietario sepa lo que está ocurriendo.
+
+8.	Protocolos de seguridad de la información
+
+Los protocolos de seguridad son un conjunto de reglas que gobiernan dentro de la transmisión de datos entre la comunicación de dispositivos para ejercer una confidencialidad, integridad, autenticación y el no repudio de la información.  Se componen de: (Cifrado de datos). Se ocupa de transposicionar u ocultar el mensaje enviado por el emisor hasta que llega a su destino y puede ser descifrado por el receptor.
+  Lógica (Estructura y secuencia). Identificación (Autenticación).
+	
+9.	Importancia de la disponibilidad
+
+Disponibilidad: Asegura que los usuarios autorizados pueden acceder a la información cuando la necesitan”. También la definiremos como la capacidad de garantizar que tanto el sistema como los datos van a estar disponibles al usuario en todo momento. Pensemos, por ejemplo, en la importancia que tiene este objetivo para una empresa encargada de impartir ciclos formativos a distancia. Constantemente está recibiendo consultas, descargas a su sitio web, etc., por lo que siempre deberá estar disponible para sus usuarios.
+
+10.	Algoritmo de encriptación
+
+Para generar una transmisión segura de datos, debemos contar con un canal que sea seguro, esto es debemos emplear técnicas de forma que los datos que se envían de  una computadora a otra estén garantizados en cuanto a que el receptor lo comprenda y sea idéntico al enviado por el emisor y que obviamente este codificado para evitar que sea interpretado por personas ajenas a la comunicación. Este proceso es totalmente transparente para el usuario, no incrementa el tamaño de los paquetes y solo puede ser des-encriptado por quien tenga la clave para hacerlo.

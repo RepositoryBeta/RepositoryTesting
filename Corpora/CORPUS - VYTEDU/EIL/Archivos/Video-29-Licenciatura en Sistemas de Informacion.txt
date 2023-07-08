@@ -1,0 +1,56 @@
+﻿Sistema Operativo
+
+El sistema operativo es el programa o software más importante de un ordenador. Para que funcionen los otros programas, cada ordenador de uso general debe tener un sistema operativo. Los sistemas operativos realizan tareas básicas, tales como reconocimiento de la conexión del teclado, enviar la información a la pantalla, no perder de vista archivos y directorios en el disco, y controlar los diversos periféricos tales como impresoras, escáner.
+Los sistemas operativos proporcionan una plataforma de software encima de la cual otros programas, llamados aplicaciones, puedan funcionar. Las aplicaciones se programan para que funcionen encima de un sistema operativo particular, por tanto, la elección del sistema operativo determina en gran medida las aplicaciones que puedes utilizar.
+
+En sistemas grandes, el sistema operativo tiene incluso mayor responsabilidad y poder, es como un vigilante de tránsito, se asegura de que los programas y usuarios que están funcionando al mismo tiempo no interfieran entre ellos. El sistema operativo también es responsable de la seguridad, asegurándose de que los usuarios no autorizados no tengan acceso al sistema.
+Un usuario normalmente interactúa con el sistema operativo a través de un sistema de comandos, por ejemplo, el sistema operativo DOS contiene comandos como copiar y pegar para copiar y pegar archivos respectivamente. 
+
+Los comandos son aceptados y ejecutados por una parte del sistema operativo llamada procesador de comandos o intérprete de la línea de comandos. Las interfaces gráficas permiten que utilices los comandos señalando y pinchando en objetos que aparecen en la pantalla.
+
+
+
+Los sistemas operativos pueden ser clasificados de la siguiente forma:
+Multiusuario: Permite que dos o más usuarios utilicen sus programas al mismo tiempo. Algunos sistemas operativos permiten a centenares o millares de usuarios al mismo tiempo.
+Multiprocesador: soporta el abrir un mismo programa en más de una CPU.
+Multitarea: Permite que varios programas se ejecuten al mismo tiempo.
+Multitramo: Permite que diversas partes de un solo programa funcionen al mismo tiempo.
+Tiempo Real: Responde a las entradas inmediatamente. Los sistemas operativos como DOS y UNIX, no funcionan en tiempo real.
+
+Uno de los propósitos del sistema operativo que gestiona el núcleo intermediario consiste en gestionar los recursos de localización y protección de acceso del hardware, hecho que alivia a los programadores de aplicaciones de tener que tratar con estos detalles. La mayoría de aparatos electrónicos que utilizan microprocesadores para funcionar, llevan incorporado un sistema operativo (teléfonos móviles, reproductores de DVD, computadoras, radios, enrutadores, etc.). En cuyo caso, son manejados mediante una interfaz gráfica de usuario, un gestor de ventanas o un entorno de escritorio, si es un celular, mediante una consola o control remoto si es un DVD y, mediante una línea de comandos o navegador web si es un enrutador.
+
+El sistema operativo cumple con cinco funciones básicas: el suministro de interfaz al usuario, la administración de recursos, la administración de archivos, la administración de tareas y el servicio de soporte y utilidades
+En cuanto a la interfaz al usuario, el sistema se encarga de que el sujeto pueda cargar programas, acceder a archivos y realizar otras tareas con la computadora. La administración de recursos permite la dirección del hardware, incluyendo los periféricos y la red. El software de sistema también se encarga de la gestión de archivos, al controlar la creación, la eliminación y el acceso a los mismos, y de la administración de las tareas informáticas que llevan adelante los usuarios finales.
+
+El sistema operativo cumple varias funciones:
+•	Administración del procesador: el sistema operativo administra la distribución del procesador entre los distintos programas por medio de un algoritmo de programación. El tipo de programador depende completamente del sistema operativo, según el objetivo deseado.
+•	Gestión de la memoria de acceso aleatorio: el sistema operativo se encarga de gestionar el espacio de memoria asignado para cada aplicación y para cada usuario, si resulta pertinente. Cuando la memoria física es insuficiente, el sistema operativo puede crear una zona de memoria en el disco duro, denominada "memoria virtual". La memoria virtual permite ejecutar aplicaciones que requieren una memoria superior a la memoria RAM disponible en el sistema. Sin embargo, esta memoria es mucho más lenta.
+
+•	Gestión de entradas/salidas: el sistema operativo permite unificar y controlar el acceso de los programas a los recursos materiales a través de los drivers (también conocidos como administradores periféricos o de entrada/salida).
+•	Gestión de ejecución de aplicaciones: el sistema operativo se encarga de que las aplicaciones se ejecuten sin problemas asignándoles los recursos que éstas necesitan para funcionar. Esto significa que si una aplicación no responde correctamente puede "sucumbir".
+
+•	Administración de autorizaciones: el sistema operativo se encarga de la seguridad en relación con la ejecución de programas garantizando que los recursos sean utilizados sólo por programas y usuarios que posean las autorizaciones correspondientes.
+•	Gestión de archivos: el sistema operativo gestiona la lectura y escritura en el sistema de archivos, y las autorizaciones de acceso a archivos de aplicaciones y usuarios.
+•	Gestión de la información: el sistema operativo proporciona cierta cantidad de indicadores que pueden utilizarse para diagnosticar el funcionamiento correcto del equipo.
+
+El sistema operativo está compuesto por un conjunto de paquetes de software que pueden utilizarse para gestionar las interacciones con el hardware. Estos elementos se incluyen por lo general en este conjunto de software:
+•	El núcleo, que representa las funciones básicas del sistema operativo, como por ejemplo, la gestión de la memoria, de los procesos, de los archivos, de las entradas/salidas principales y de las funciones de comunicación.
+•	El intérprete de comandos, que posibilita la comunicación con el sistema operativo a través de un lenguaje de control, permitiendo al usuario controlar los periféricos sin conocer las características del hardware utilizado, la gestión de las direcciones físicas, etcétera.
+•	El sistema de archivos, que permite que los archivos se registren en una estructura arbórea.
+
+Sistemas de multiprocesos
+Un sistema operativo se denomina de multiprocesos cuando muchas "tareas" (también conocidas como procesos) se pueden ejecutar al mismo tiempo
+Las aplicaciones consisten en una secuencia de instrucciones llamadas "procesos". Estos procesos permanecen activos, en espera, suspendidos, o se eliminan en forma alternativa, según la prioridad que se les haya concedido, o se pueden ejecutar en forma simultánea. 
+Un sistema se considera preventivo cuando cuenta con un programador (también llamado planificador) el cual, según los criterios de prioridad, asigna el tiempo de los equipos entre varios procesos que lo solicitan. 
+
+Se denomina sistema de tiempo compartido a un sistema cuando el programador asigna una cantidad determinada de tiempo a cada proceso. Éste es el caso de los sistemas de usuarios múltiples que permiten a varios usuarios utilizar aplicaciones diferentes o similares en el mismo equipo al mismo tiempo. De este modo, el sistema se denomina "sistema transaccional". Para realizar esto, el sistema asigna un período de tiempo a cada usuario.
+ 
+Sistemas de multiprocesadores
+La técnica de multiprocesamiento consiste en hacer funcionar varios procesadores en forma paralela para obtener un poder de cálculo mayor que el obtenido al usar un procesador de alta tecnología o al aumentar la disponibilidad del sistema (en el caso de fallas del procesador). 
+Un sistema de multiprocesadores debe tener capacidad para gestionar la repartición de memoria entre varios procesadores, pero también debe distribuir la carga de trabajo. 
+
+Sistemas fijos
+Los sistemas fijos son sistemas operativos diseñados para funcionar en equipos pequeños, como los  asistentes personales digitales o los dispositivos electrónicos autónomos (sondas espaciales, robots, vehículos con ordenador de a bordo, etcétera) con autonomía reducida. En consecuencia, una característica esencial de los sistemas fijos es su avanzada administración de energía y su capacidad de funcionar con recursos limitados.
+ 
+Sistemas de tiempo real
+Los sistemas de tiempo real se utilizan principalmente en la industria y son sistemas diseñados para funcionar en entornos con limitaciones de tiempo. Un sistema de tiempo real debe tener capacidad para operar en forma fiable según limitaciones de tiempo específicas; en otras palabras, debe tener capacidad para procesar adecuadamente la información recibida a intervalos definidos claramente (regulares o de otro tipo).

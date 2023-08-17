@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+textatistic/__init__.py
+textatistic/abbreviations.txt
+textatistic/dale_chall.txt
+textatistic/textatistic.py
+textatistic.egg-info/PKG-INFO
+textatistic.egg-info/SOURCES.txt
+textatistic.egg-info/dependency_links.txt
+textatistic.egg-info/not-zip-safe
+textatistic.egg-info/requires.txt
+textatistic.egg-info/top_level.txt

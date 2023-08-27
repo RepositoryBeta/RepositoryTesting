@@ -1,0 +1,6 @@
+texto 24
+
+Clasificación:
+Controles Preventivos: Para tratar de evitar el hecho, como un software de seguridad que impida los accesos no autorizados al sistema.
+Controles de Detección: Cuando fallan los preventivos, para tratar de conocer cuanto antes el evento. Por ejemplo, el registro de intentos de acceso no autorizados, el registro de la actividad diaria para detectar errores u omisiones, etc.
+Controles Correctivos: Facilitan la vuelta a la normalidad cuando se han producido incidencias. Por ejemplo, la recuperación de un fichero dañado a partir de las copias de seguridad.

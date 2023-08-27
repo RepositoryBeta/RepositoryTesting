@@ -1,0 +1,3 @@
+TEXTO 75
+
+Hay básicamente dos métodos de análisis diferentes, análisis de arriba hacia abajo (top down) y análisis de abajo hacia arriba (bottom up). Éstos difieren generalmente en el orden en el que se crean los elementos del árbol sintáctico. De arriba a abajo: En el método top-down, el analizador trabaja en un método orientado a objetivos, lo que significa que busca a partir del símbolo de inicio de la sintaxis y busca una derivación sintáctica adecuada. Por lo tanto, el árbol de análisis se desarrolla de arriba hacia abajo en la dirección de un desglose cada vez más detallado.

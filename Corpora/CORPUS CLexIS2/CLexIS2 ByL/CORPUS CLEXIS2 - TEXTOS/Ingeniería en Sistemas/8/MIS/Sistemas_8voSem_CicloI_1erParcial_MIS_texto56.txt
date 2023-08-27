@@ -1,0 +1,4 @@
+texto 56
+
+El acceso y la disponibilidad de la información serán mayores, a la vez que se reducirán los costos de desarrollo y mantenimiento de los programas debido a que los usuarios y programadores pueden realizar consultas ad hoc de la información en la base de datos para muchas aplicaciones simples sin tener que escribir programas complicados. El dbms permite que la organización administra de manera central los datos. Su uso y su seguridad.
+

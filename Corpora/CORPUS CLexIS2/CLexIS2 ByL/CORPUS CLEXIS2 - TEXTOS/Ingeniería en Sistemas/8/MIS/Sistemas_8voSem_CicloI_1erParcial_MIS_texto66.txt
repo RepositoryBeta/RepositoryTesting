@@ -1,0 +1,5 @@
+texto 66
+
+¿Qué es una base de datos NOSQL?
+Bases de datos NOSQL es hablar de estructuras que nos permiten almacenar información en aquellas situaciones, en las que las bases de datos relacionales generan ciertos problemas debido, principalmente a problemas de escalabilidad y rendimiento de la base de datos relacionales, donde se dan cita miles de usuarios concurrentes y con millones de consultas diarias.
+

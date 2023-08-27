@@ -1,0 +1,6 @@
+texto 84
+
+Existen diferentes métodos de transformación de variables continuas a discretas que se pueden agrupar según distintas aproximaciones: 
+métodos locales (realizan la transformación discreta en una región del espacio de las instancias, por ejemplo, utilizando un subconjunto de las instancias).
+métodos globales (utilizan el espacio de las instancias).
+métodos supervisados (utilizan la información de la clave (valor del atributo objetivo).

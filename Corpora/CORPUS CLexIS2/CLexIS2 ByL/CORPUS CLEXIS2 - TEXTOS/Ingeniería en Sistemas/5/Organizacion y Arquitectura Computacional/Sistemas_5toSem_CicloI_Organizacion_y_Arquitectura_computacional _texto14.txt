@@ -1,0 +1,6 @@
+texto 14
+
+El CPU se subdivide en la unidad lógica y la unidad de control obviamente que dentro de ella que existe los registros internos. 
+¿Cuáles son las desventajas?
+1) El bus de datos y las direcciones es único y produce el cuello de botella de Von Neumann.
+2) Todos los accesos son secuenciales y se limita el grado de paralelismo.

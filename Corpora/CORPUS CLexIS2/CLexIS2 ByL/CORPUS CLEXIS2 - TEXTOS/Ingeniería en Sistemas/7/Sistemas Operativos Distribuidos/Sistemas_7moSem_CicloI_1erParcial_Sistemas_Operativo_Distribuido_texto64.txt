@@ -1,0 +1,3 @@
+﻿Texto 64
+
+Para conseguir una alta escalabilidad, HDFS usa almacenamiento local que escala horizontalmente, aumentar el espacio de almacenamiento solamente supone añadir discos duros a nodos existentes o añadir más nodos al sistema, estos servidores tienen un coste reducido, al tratarse de hardware básico con almacenamiento conectado no, HDFS soporta miles de nodos, lo más típico en un clúster es desplegar decenas o cientos de nodos y manejar cientos de terabytes, con la capacidad de escalar a decenas de petabytes.

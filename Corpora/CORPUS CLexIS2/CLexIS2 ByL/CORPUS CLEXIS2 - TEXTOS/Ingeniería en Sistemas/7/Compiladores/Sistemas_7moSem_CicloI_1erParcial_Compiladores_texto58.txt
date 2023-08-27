@@ -1,0 +1,3 @@
+TEXTO 58
+
+He puesto el microsoftnet con el framework sdk, visual estudio developper, en fin pero todos tienen algo en común que es el lenguaje, ya que es el lenguaje C sharp. Tenemos la interacción entre el análisis léxico también habla de eso y el análisis sintáctico puede ocurrir de distintas formas, dice que pueden ejecutarse de modo batch, ambas actividades son concurrentes ambas actividades son de rutina de generador de código. 

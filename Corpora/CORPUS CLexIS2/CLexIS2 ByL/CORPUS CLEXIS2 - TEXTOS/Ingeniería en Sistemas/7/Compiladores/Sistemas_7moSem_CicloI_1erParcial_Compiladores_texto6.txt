@@ -1,0 +1,3 @@
+TEXTO 6
+
+Donde dice que en el análisis jerárquico los tokens se agrupan de manera jerárquicamente ordenado formando un conjunto anidado con un significado colectivo. Miren que estamos viendo palabras nuevas y ustedes para esta materia, ustedes tienen que olvidarse de todo lo que les habían enseñado en el tema de la programación, y así que usted se enfóquese y concéntrese en que ustedes van a aprender un nuevo lenguaje.

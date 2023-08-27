@@ -1,0 +1,3 @@
+TEXTO 24
+
+Pero, no era correcto poner un número y una variable en vez de poner a1 ponían algunos 1a, ¿Si recuerdan? eso es un error semántico. Está dicho mal. Bien, eso. Aquí hay otro ejemplo en un ordenador la forma interna de almacenar un entero y uno real es diferente, incluso aunque el entero y el real parezcan tener el mismo valor, se supone que en la sentencia de asignación va a ser energía igual a total igual la cantidad más 23. 

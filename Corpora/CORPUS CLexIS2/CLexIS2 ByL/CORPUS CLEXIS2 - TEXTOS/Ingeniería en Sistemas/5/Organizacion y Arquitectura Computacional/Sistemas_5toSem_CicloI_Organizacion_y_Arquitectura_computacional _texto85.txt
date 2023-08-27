@@ -1,0 +1,3 @@
+texto 85
+
+Desde que recibe del lenguaje de alto nivel al lenguaje de máquina se analiza que es lo pasa en ese instante, se comprende una secuencia de acciones determinada que debe llevar a cabo la CPU para ejecutar cada instrucción en programa, cada instrucción del juego de instrucciones de una CPU puede requerir diferentes números de ciclo de instrucción para su ejecución, un ciclo de instrucción está formado por uno o más ciclos de maquina.

@@ -1,0 +1,3 @@
+texto 55
+
+La instrucción STORE significa que guarda el valor del registro acumulador en La posición 102 para ello la unidad de control copia el valor 102 que figura en la instrucción en el MAR, el siguiente paso es copiar el valor del acumulador en el registro de MBR, el último paso, la unidad de control solicita la memoria que guarde el contenido del MBR en la posición 102 e indica la orden de escritura (WRITE) a través del bus de control.

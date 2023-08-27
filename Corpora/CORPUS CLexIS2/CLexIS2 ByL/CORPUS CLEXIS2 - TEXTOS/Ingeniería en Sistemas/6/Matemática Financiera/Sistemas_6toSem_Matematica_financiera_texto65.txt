@@ -1,0 +1,4 @@
+﻿texto 65
+Ventajas del VAN
+Una de las principales ventajas y la razón por la cual es uno de los métodos que más se usa es porque se homogeneizan los flujos de caja netos en el momento actual. 
+El VAN o Valor Actual Neto es capaz de reducir a una sola unidad las cantidades de dinero generadas o que se van aportando. Además, se pueden introducir signos positivos y negativos en los cálculos de flujo que corresponden a las entradas y salidas de efectivo sin que el resultado final sea alterado. Esto no se puede hacer con el TIR en el cual el resultado si es muy diferente.

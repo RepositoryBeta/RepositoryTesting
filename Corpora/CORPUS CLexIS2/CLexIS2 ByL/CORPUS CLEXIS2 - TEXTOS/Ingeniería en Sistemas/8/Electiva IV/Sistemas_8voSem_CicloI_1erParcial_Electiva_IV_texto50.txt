@@ -1,0 +1,7 @@
+texto 50
+
+También tenemos más carpetas en Carpeta / app / src / main / res, como las siguientes:
+1) / res / anim /, / res / animator /: Contienen la definición de las animaciones utilizadas por la aplicación.
+2) / res / color /: Contiene ficheros XML de definición de listas de colores según estado.
+3) / res / menu /: Contiene la definición XML de los menús de la aplicación.
+4) / res / xml /: Contiene otros ficheros XML de datos utilizados por la aplicación.

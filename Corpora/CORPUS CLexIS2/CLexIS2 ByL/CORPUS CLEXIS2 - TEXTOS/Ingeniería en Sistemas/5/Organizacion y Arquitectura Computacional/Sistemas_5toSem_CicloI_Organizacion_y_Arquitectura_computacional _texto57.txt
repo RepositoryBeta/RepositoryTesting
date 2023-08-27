@@ -1,0 +1,3 @@
+texto 57
+
+A continuación del ciclo de captación viene el ciclo de ejecución podemos observar que el primer paso de todas las instrucciones de este programa se repite, porqué es necesario obtener al menos un operando que es una posición de memoria, entonces este primer paso del ciclo de ejecución se repite en todas las instrucciones.

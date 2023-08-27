@@ -1,0 +1,9 @@
+texto 33
+
+Arquitectura de Von Neumann 
+El ciclo de trabajo es: Búsqueda (fetch) Decodificación (decode) Ejecución (execution) Los microprocesadores de las PC usualmente son variantes de esta arquitectura.
+Arquitectura Harvard
+Dos bloques de memoria eléctricamente separados, uno para datos y otro para instrucciones: Los microcontroladores mayoritariamente son Harvard o alguna variante similar.
+
+
+

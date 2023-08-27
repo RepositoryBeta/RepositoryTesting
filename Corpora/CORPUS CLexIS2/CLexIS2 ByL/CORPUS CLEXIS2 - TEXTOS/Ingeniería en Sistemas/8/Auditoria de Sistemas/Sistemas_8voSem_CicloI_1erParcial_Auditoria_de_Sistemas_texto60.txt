@@ -1,0 +1,5 @@
+texto 60
+
+INSTRUMENTOS PARA LA RECOLECCIÓN DE INFORMACIÓN Entre los instrumentos más utilizados se encuentran el cuestionario y las escalas de actitudes, los cuales están compuestos por un conjunto de preguntas con respecto a las variables que están sujetas a medición, y que son elaborados teniendo en cuenta los objetivos de la investigación.
+Metodología de una Auditoria Informática
+Existen diversas metodologías de Auditorias Informáticas y todas dependen de lo que se pretenda revisar o analizar, pero como estándar analizaremos las cuatro fases básicas de un proceso de revisión.

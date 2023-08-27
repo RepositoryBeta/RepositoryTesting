@@ -1,0 +1,3 @@
+﻿Texto 33
+
+De este modo, todo consumidor de los servicios accederá mediante el contrato, logrando la independencia entre el consumidor y la implementación del propio servicio. Con esto, se evita el manejo incorrecto de los datos, trabajo innecesario en la invocación entre estos servicios y también se pone de manifiesto que la existencia de un modelo de datos a nivel de servicio es una de las primeras necesidades que se debe tener en cuenta.

@@ -1,0 +1,3 @@
+TEXTO 12
+¿Qué es un objeto? 
+De manera informal un objeto representa a una entidad, esa entidad puede ser una entidad física, ser una entidad conceptual o puede ser una entidad de software, un objeto es una entidad con identidad bien definida que encapsula estado y conducta o comportamiento. El estado es representado por sus atributos y relaciones la conducta es representada por sus operaciones es decir objeto = estado + comportamiento + identidad.

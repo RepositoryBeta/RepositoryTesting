@@ -1,0 +1,8 @@
+texto 59
+En PL/SQL tenemos grupos de sentencias de control:
+Condicional
+Iterativo
+Secuencial
+La estructura condicional está representada por las sentencias IF y CASE.
+IF - THEN - ELSE(SI - ENTONCES - CASO CONTRARIO)
+Esta sentencia permite la ejecución de una o varias líneas de código según una condición.

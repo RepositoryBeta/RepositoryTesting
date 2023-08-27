@@ -1,0 +1,3 @@
+TEXTO 71
+
+El generador de analizadores sintácticos YACC Se puede construir un traductor utilizando YACC. Primero, se prepara un archivo, por ejemplo traduce. Y, que contiene una especificación en YACC del traductor. La orden del sistema UNIX Yacc traduce y transforma al archivo traduce, y en un programa escrito en C usando el método LALR. El programa es una representación de un analizador sintáctico escrito en C, junto con otras rutinas en C que el usuario pudo haber preparado.

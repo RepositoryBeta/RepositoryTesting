@@ -1,0 +1,9 @@
+texto 50
+
+PRINCIPIO DE RESPONSABILIDAD 
+El auditor debe responsabilizarse de lo que haga, diga o aconseje. 
+Está obligado a hacerse cargo de daños o prejuicios que pueden derivarse de una actuación culpable.
+PRINCIPIO DE SECRETO PROFESIONAL 
+La confidencia y confianza son características esenciales de las relaciones entre el auditor y el auditado. 
+El auditor no debe difundir a terceras personas ningún dato que haya visto, oído o deducido durante el desarrollo de su trabajo. 
+Imponer medidas y mecanismos de seguridad para garantizar al auditado que la informacion documentada va ha estar segura.

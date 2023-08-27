@@ -1,0 +1,3 @@
+TEXTO 32
+
+Lo mismo, este generador es lo que le va ayudar a hacer eso, es dependiendo el tipo de lenguaje que se va a interpretar o traducir. Aquí hay un ejemplo, han puesto temp1 dos puntos, igual, itof 23. ¿Quién se acuerda qué significan estos dos puntos igual? ¿De qué tipo de lenguaje es?  Es php, PHP trabaja con este tipo de operandos, dice que la variable temp1 va a ir con un valor numérico de tipo entero. Aquí le está diciendo que es de tipo entero. Hay un temp2 donde dice que la cantidad acuérdese que la cantidad que le puso ID y lo suma con el temp está guardando la información del temp y luego tenemos un total donde temp2 va a ser guardado en temp3 para finalmente tener a temp3 en energía. 

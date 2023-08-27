@@ -1,0 +1,3 @@
+TEXTO 61
+
+Estamos viendo el concepto de nociones, Nociones: Es un objetivo inicial del MLF que era en primer lugar trazar la arquitectura semántica de léxico y en segundo utilizarla como fuentes de datos para entender mejor el lenguaje. Un MLF es la adopción de una Concepción definicional de una representación de una estructura de un significado. La compilación comienza a identificar letra por letra, carácter por carácter y comienza armar su propia palabra. 

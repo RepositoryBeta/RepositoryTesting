@@ -1,0 +1,3 @@
+TEXTO 20
+
+¿Qué quiere decir?, puedo decir que mi identificador puede ser una expresión, la expresión puede estar con otra y puede cambiar también el operador. Estas son reglas de ejemplo, que se podrían hacer.  Que también el compilador lo podría leer, pero no tiene nada que ver con el árbol. Entonces, aquí indica ósea en palabras cristianas estoy diciendo que esto, que está aquí, este total contiene esta operación interna con una constante numérica y una variable así lo está creando. Las reglas también dice que se puede crear las reglas recursivas o sea en vez de hacerlo en árbol lo que está haciendo es por letra aquí lo ha puesto de dos formas. 

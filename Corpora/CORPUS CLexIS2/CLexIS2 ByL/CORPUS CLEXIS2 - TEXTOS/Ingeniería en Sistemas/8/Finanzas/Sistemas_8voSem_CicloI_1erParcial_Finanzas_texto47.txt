@@ -1,0 +1,5 @@
+texto 47
+
+Estrategia para cortar el ciclo de conversión de efectivo
+- Disminuir el periodo de conversión de inventario: esto se consigue analizando los procesos de producción para determinar aquellas necesarias con el fin de fabricar los productos más rápidamente.
+En el caso de que la empresas sea comercial se deberá buscar reducir los tiempos de llegada de la nueva mercadería, efectuando los pedidos antes de que se agote el stock de acuerdo a la demanda del producto.

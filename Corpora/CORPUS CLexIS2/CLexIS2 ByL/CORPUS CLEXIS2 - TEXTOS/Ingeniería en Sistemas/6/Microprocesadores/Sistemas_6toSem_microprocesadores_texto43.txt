@@ -1,0 +1,9 @@
+texto 43
+
+AX, AH, AL (Acumulador): a menudo conserva el resultado temporal después de una operación aritmética o lógica.
+BX, BH, BL (Base): Se utiliza para guardar la dirección base de listas de datos en la memoria.
+CX, CH, CL (Contador): Contiene el conteo para ciertas instrucciones de corrimientos y rotaciones, de iteraciones en el ciclo loop y operaciones repetidas de cadenas.
+DX, DH, DL (Datos): Contiene la parte más significativa de un producto después de una multiplicación; la parte más significativa del dividendo antes de la división.
+
+
+

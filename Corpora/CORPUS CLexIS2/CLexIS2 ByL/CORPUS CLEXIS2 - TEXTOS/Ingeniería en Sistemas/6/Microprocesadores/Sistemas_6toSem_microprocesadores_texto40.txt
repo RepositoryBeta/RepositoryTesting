@@ -1,0 +1,9 @@
+texto 40
+
+Dentro de este tipo de registros, encontramos el siguiente:
+Registro de bandera o (FLAGS). Lo encontramos en los procesadores Intel con arquitectura X86. Estamos ante un registro con 16 bits de ancho. Pero, tiene 2 sucesores:
+EFLAGS, con 32 bits de ancho.
+RFLAGS, con 64 bits de ancho.
+
+
+

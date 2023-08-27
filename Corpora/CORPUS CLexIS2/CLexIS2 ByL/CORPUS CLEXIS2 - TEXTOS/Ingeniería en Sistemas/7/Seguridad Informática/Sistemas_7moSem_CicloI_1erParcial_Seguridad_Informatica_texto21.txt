@@ -1,0 +1,5 @@
+texto 21
+
+Ataques informáticos a sitios web y servidores:
+SQL Injection.
+Es uno de los ataques más usados, actualmente con este ataque pueden tener acceso a las tablas de bases de datos, donde incluye información del usuario con su contraseña; este tipo de ataque es más común en organizaciones y negocios de comercio electrónico donde los crackers observan grandes bases de datos, con el fin de extraer información sensible, este ataque se caracteriza por ser fácil de ejecutar, ya que utiliza una técnica que modifica la cadena de consulta en base de datos donde se encuentra una inyección de código en la consulta.

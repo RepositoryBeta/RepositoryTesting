@@ -1,0 +1,3 @@
+texto 68
+
+Ahora toca el incremento del contador ahora contar prueba vale 5 esto significa que hay que hacer una copia del registro de la memoria que está en la dirección 5 al registro instrucción (IR), repito esto es así porque la memoria de la CPU es mucho más rápida que la memoria RAM ya que funciona a la misma frecuencia es decir con los mismos hercio.

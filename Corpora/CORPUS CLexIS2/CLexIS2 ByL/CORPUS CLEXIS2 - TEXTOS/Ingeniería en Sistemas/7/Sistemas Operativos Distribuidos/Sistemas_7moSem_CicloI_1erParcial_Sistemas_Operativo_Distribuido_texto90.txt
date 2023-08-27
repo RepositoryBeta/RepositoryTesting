@@ -1,0 +1,9 @@
+﻿Texto 90
+
+Características
+
+Las características genéricas de un sistema operativo de red son:
+Conecta todos los equipos y recursos de la red.
+Gestión de usuarios centralizada.
+Proporciona seguridad controlando el acceso a los datos y recursos.
+Debe validar los accesos como claves, certificados, sistemas biométricos, y aplicar las políticas de seguridad.

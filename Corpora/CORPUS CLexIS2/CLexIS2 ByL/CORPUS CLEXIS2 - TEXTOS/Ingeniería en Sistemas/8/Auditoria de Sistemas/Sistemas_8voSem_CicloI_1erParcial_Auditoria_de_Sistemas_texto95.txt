@@ -1,0 +1,6 @@
+texto 95
+
+- La información confidencial de los clientes, son responsabilidad de las organizaciones.
+- Los datos convertidos en información a través de bases de datos y procesos de negocios representan el negocio.
+- Las organizaciones deben tomar medidas mucho más allá de asegurar sus datos.
+Deben monitorearse perfectamente a fin de conocer quién o qué les hizo exactamente qué, cuándo y cómo.

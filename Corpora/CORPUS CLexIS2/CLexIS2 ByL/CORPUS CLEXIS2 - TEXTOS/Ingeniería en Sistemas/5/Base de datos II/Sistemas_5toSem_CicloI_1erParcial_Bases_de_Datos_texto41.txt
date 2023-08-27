@@ -1,0 +1,9 @@
+texto 41
+ABS: Obtiene el valor Absoluto
+SELECT ABS (-4) AS 'VALOR ABSOLUTO'
+CEILING: Devuelve el entero más pequeño mayor o igual que la expresión numérica dada.
+SELECT CEILING (5.4) AS 'CEILING'
+FLOOR: Devuelve el entero más grande menor o igual que la expresión numérica dada.
+SELECT FLOOR (5) AS 'FLOOR'
+POWER: Devuelve el valor de la expresión indicada elevada a la potencia especificada.
+SELECT POWER (3,2) AS'3 ELEVADO A 2'.

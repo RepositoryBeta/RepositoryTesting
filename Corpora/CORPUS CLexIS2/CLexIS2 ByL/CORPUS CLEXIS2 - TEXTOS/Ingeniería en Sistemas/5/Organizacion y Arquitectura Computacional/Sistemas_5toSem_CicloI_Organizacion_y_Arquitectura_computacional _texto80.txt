@@ -1,0 +1,3 @@
+texto 80
+
+Eso lo que permite hacer la mayoría las computadoras esto nos ayuda a ahorrar tiempo  y hace por mucho más versátil el recorrido del programa. Instrucciones de cálculo, acciones destinadas a ejecutar ciertas operaciones aritméticas como por ejemplo, sumar restar, multiplicar o dividir, o ciertas operaciones lógicas como son AND, OR,  así como también el desplazamiento y la rotación de bits.

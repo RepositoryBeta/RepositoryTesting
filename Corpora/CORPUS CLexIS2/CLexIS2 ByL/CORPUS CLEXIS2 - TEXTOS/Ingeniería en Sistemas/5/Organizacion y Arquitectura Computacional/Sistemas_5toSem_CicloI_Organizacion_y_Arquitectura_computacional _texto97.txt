@@ -1,0 +1,12 @@
+texto 97
+
+Cada instrucción del juego de instrucciones de una CPU puede requerir diferentes números de ciclos de instrucción para su ejecución, un ciclo de instrucción está formado por uno o más ciclos máquina.
+Fase de búsqueda:
+1) Cargar la siguiente instrucción.
+2) Incrementar  el secuenciador.
+3) Interpretar la instrucción.
+Fase de ejecución:
+1) Cargar los operandos.
+2) Ejecutar la operación.
+3) Guardar el resultado.
+4) Verificar si hay solicitudes de interrupción.

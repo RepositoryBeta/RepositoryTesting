@@ -1,0 +1,3 @@
+texto 3
+
+En un sistema de alto nivel un computador está constituido por un CPU, una memoria y la unidades de entrada y de salida cada uno o varios módulos de cada tipo estos componentes se interconectan primero que se pueden llevar a cabo la función básica del computador que su objetivo principal es ejecutar programas, el programa del sistema operativo, el programa del reconocimiento dispositivo, el internet explorer y todo lo que ustedes consideran como software predeterminados en el arranque.

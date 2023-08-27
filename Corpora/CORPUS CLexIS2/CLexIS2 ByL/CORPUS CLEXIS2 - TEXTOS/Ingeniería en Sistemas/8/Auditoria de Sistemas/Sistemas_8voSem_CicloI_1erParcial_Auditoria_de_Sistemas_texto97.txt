@@ -1,0 +1,9 @@
+texto 97
+
+Aspectos Claves
+No se debe comprometer el desempeño de las bases de datos
+- Soportar diferentes esquemas de auditoría.
+- Se debe tomar en cuenta el tamaño de las bases de datos a auditar y los posibles SLA establecidos.
+Segregación de funciones
+- El sistema de auditoría de base de datos no puede ser administrado por los DBA del área de IT.
+

@@ -1,0 +1,9 @@
+﻿texto 67
+
+GUÍA DE EVALUACIÓN.
+
+Documento formal que indica los aspectos concretos y áreas que deben ser revisados, muestra el método y la ponderación que se manejará en cada uno de esos puntos, los procedimientos que se llevarán a cabo en el examen, facilita el monitoreo del cumplimiento de cada uno.
+PONDERACIÓN
+Valor específico a cada una de los puntos que serán evaluados. 
+El peso que tenga cada actividad será asignado de acuerdo a la importancia dentro del área de sistemas.
+

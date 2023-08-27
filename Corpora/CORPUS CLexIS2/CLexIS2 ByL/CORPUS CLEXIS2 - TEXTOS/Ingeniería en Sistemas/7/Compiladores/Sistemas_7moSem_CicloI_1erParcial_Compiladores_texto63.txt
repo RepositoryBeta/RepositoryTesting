@@ -1,0 +1,3 @@
+TEXTO 63
+
+Recordemos que la computadora sólo entiende en ceros y unos si la computadora lee algo que se llama 00 sabe que eso significa 0. Sí yo a la computadora le pongo la letra a como la computadora podría entender la computadora lo entiende Como 1010. Ahora habla de la cadena en la cadena según el alfabeto, es una secuencia finita de símbolos tomados en ese alfabeto en lo que es en la frase o la palabra a menudo nosotros utilizamos cadena cuando hace una referencia a una longitud de palabras. 

@@ -1,0 +1,9 @@
+texto 65
+La mayoría de los índices se crean de manera implícita, como consecuencia de las restricciones PRIMARY KEY, UNIQUE y FOREIGN KEY. Estas restricciones provocan la creación automática de índices.
+Sintaxis:
+CREATE INDEX nombre
+ON tabla (columna1 [,columna2])
+Se aconseja crear índices en campos que:
+Contengan una gran cantidad de valores
+Contengan una gran cantidad de nulos
+Sean parte habitual de cláusulas WHERE, GROUP BY u ORDER BY.

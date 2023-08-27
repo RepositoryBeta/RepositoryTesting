@@ -1,0 +1,4 @@
+texto 40
+
+Muchas empresas vuelcan periódicamente los datos históricos que guardan estas bases de datos transaccionales en un almacén de datos, donde los preparan y limpian para poder acceder a ellos más tarde y analizarlos estratégicamente en el marco de la inteligencia empresarial.  En este trasvase los datos operativos (transaccionales) se convierten en datos preparados y útiles:
+Datos operativos: se trata de información transaccional que generan los sistemas de administración y cuentas en la práctica comercial cotidiana. 

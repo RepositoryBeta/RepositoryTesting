@@ -1,0 +1,3 @@
+texto 34
+
+Ahora, tenemos que conocer cuál es la estructura de un proyecto android, entonces como primer paso, abrir Android Studio y vamos a crear un proyecto nuevo, en la primera pantalla indicaremos, por este orden, el nombre de la aplicación, el dominio de la compañía y la ruta donde crear el proyecto. Solo vamos a llenar el nombre de la aplicación y dónde vamos a guardarlo. El segundo de los datos indicados tan sólo se utilizará como paquete de las clases java.

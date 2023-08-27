@@ -1,0 +1,2 @@
+TEXTO 40
+Siguiendo el plan, nos tocaba ver un poco con referente a punto 1.4 y 1.5 el 1.4. ¿Qué es la estructura del compilador? y la 1.5 Qué es lo mismo pero qué vamos a verla con ejemplos. Bien, en la estructura del compilador he vuelto a colocar el mismo gráfico donde tenemos el código fuente y ese código fuente va a ser evaluado por la etapa del Análisis léxico, del Análisis sintáctico, el análisis semántico y el generador de código intermedio.

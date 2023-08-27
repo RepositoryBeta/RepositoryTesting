@@ -1,0 +1,10 @@
+texto 99
+
+La virtualización completa usando traducción binaria.
+Paravirtualización o virtualización asistida de sistemas operativos.
+Hardware de virtualización asistida (primera generación).
+Arquitectura Hosted:
+La arquitectura hosted instala y ejecuta la capa de virtualización como una aplicación en la parte superior del sistema operativo y es compatible con una amplia gama de configuraciones de hardware existentes. Este es el caso de Virtualbox, Workstation, WM Player, Xen, QEMU y Virtual PC.
+
+
+

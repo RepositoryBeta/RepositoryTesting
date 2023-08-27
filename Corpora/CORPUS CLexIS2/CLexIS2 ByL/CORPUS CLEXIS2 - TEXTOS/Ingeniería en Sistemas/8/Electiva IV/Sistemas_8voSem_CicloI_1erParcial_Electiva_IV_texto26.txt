@@ -1,0 +1,4 @@
+texto 26
+
+Necesidad del usuario.
+Como ejemplo tenemos la necesidad de aprender inglés, vemos que tenemos dos alternativas para el apoyo el proceso de aprendizaje, que son: educación presencial y educación a distancia. En la educación presencial tenemos una contra que son los costos elevados. En la educación a distancia tenemos, un uso común que son los dispositivos móviles, que encaja en las alternativas existentes mediante un aprendizaje móvil, como alternativa tenemos:  duolingo, bussu y babbel.

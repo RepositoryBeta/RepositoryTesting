@@ -1,0 +1,4 @@
+texto 13
+
+Cuando hablamos de heurística nos referimos a una técnica, método o procedimiento inteligente de realizar una tarea que no es producto de un riguroso análisis formal, sino de conocimiento experto sobre la tarea. En especial, se usa el término heurístico para referirse a un procedimiento que trata de aportar soluciones a un problema con un buen rendimiento, esto tiene que ver en cuanto a la calidad de las soluciones a los recursos empleados obviamente.
+

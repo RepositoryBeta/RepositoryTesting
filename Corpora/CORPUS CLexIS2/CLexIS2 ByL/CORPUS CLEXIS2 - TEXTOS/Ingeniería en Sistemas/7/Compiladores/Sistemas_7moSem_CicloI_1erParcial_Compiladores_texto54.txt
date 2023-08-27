@@ -1,0 +1,3 @@
+TEXTO 54
+
+Usualmente se la llama Flex, en una de muchas porque hemos estado aprendiendo a compilar por líneas hasta como por máximo en el video bien seis líneas. Pero qué pasa si tienes una calificación de más de 15 ó 20 líneas. que pasa entonces se demoraría muchísimo y para que no te demores tanto se ha utilizado el compilador Flex y ese compilador flex cuando ya vayas a pasarlo a a programarlo mejor dicho a tomar los códigos fuentes, él te va a decir que vas a utilizar una palabra que se llama oparin o operadores qué operador es el más el menos es decir no utiliza los símbolos sino que utiliza estas variables que lo identifican.

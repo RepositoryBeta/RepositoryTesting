@@ -1,0 +1,3 @@
+texto 7
+
+Porque lo típico que hay es que cuando se dice: el procesador se quedó en polvo o el procesador se quedó en stanby porque fueron muchas las prestaciones que se solicitaron para que entre la memoria RAM y el procesador hagan pues la ejecución de varios programas en simultaneo, esto de aquí, estos cuellos de botella de sistema ocurre con todo tipo de arquitectura, ejemplo como en la arquitectura de Turín incluso en las arquitectura CISC y RISC.

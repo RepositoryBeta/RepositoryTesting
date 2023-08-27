@@ -1,0 +1,6 @@
+texto 92
+
+La seguridad de la información, según la ISO 27001, se basa en la preservación de su confidencialidad, integridad y disponibilidad, así como la de los sistemas aplicados para su tratamiento.
+Confidencialidad: la información no se pone a disposición ni se revela a individuos, entidades o procesos no autorizados.
+Integridad: mantenimiento de la exactitud y completitud de la información y sus métodos de proceso.
+Disponibilidad: acceso y utilización de la información y los sistemas de tratamiento de la misma por parte de los individuos o procesos autorizados cuando lo requieran. 

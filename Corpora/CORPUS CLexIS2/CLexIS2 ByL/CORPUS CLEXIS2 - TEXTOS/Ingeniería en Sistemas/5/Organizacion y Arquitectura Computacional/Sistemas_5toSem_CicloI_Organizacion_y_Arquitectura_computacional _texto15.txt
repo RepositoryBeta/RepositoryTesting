@@ -1,0 +1,3 @@
+texto 15
+
+Ahí vemos la memoria principal se interrelaciona ida y vuelta con la unidad aritmética lógica y la unidad de control ida y vuelta con la memoria principal a eso me refiero con la de transferencia  de recepción y envío la relación interna también de transferencia de las dos vías de la unidad  aritmética lógica a la unidad de control.

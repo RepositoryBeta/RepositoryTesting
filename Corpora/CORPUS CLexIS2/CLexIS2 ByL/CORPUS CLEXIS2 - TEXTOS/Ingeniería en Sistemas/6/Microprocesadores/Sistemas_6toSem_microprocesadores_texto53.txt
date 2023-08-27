@@ -1,0 +1,11 @@
+texto 53
+
+Interrupciones
+Temporización 
+- Generadas por un temporizador interno al procesador. 
+- Permite realizar ciertas funciones de manera regular. 
+E/S – Generadas por un controlador E/S. 
+Fallo de hardware – Ejemplo: error de paridad en la memoria.
+
+
+

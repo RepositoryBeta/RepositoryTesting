@@ -1,0 +1,8 @@
+texto 84
+
+Estructura y funcionamiento de un controlador de DMA Para gestionar las transferencias de información, un controlador de DMA dispone de 3 registros: datos, dirección y contador de palabras. 
+El registro de dirección almacena la dirección de la siguiente palabra a transmitir, incrementándose de forma automática después de cada transferencia. 
+El contador de palabras almacena el número de palabras que quedan por transmitir y también se decrementa automáticamente después de cada transferencia. 
+
+
+

@@ -1,0 +1,3 @@
+texto 27
+
+Android: Es un sistema operativo para dispositivos móviles, su núcleo está basado en el de Linux, posee una programación de aplicaciones en Java. Android 1.1 se publica en febrero del 2009. Esto coincide con la proliferación de smartphone táctiles, dando origen a un crecimiento y evolución del mismo. Tiene una licencia Apache open source, permite a los fabricantes añadir extensiones propietarias sin ponerlas en manos de la comunidad del software libre.

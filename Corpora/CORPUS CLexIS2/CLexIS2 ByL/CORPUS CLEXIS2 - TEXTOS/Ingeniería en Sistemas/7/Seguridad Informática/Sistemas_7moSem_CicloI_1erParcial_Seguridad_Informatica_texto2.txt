@@ -1,0 +1,5 @@
+texto 2
+
+Características de la seguridad informatica.
+Integridad: El diccionario define el término como (estado de lo que está completo o tiene todas sus partes).
+La integridad hace referencia a la cualidad de la información para ser correcta y no haber sido modificada, manteniendo sus datos exactamente tal cual fueron generados, sin manipulaciones ni alteraciones por parte de terceros.

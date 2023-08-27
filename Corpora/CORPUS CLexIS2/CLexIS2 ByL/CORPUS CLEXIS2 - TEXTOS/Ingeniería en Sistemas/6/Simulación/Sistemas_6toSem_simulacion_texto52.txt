@@ -1,0 +1,5 @@
+﻿texto 52
+
+El muestreo aleatorio constituye una de las clases más populares de muestreo aleatorio o probabilístico.
+En esta técnica, cada miembro de la población tiene la misma probabilidad de ser seleccionado como sujeto. Todo el proceso de toma de muestras se realiza en un paso, en donde cada sujeto es seleccionado independientemente de los otros miembros de la población.
+El muestreo aleatorio siemple se puede aplicar en muchos métodos,.

@@ -1,0 +1,2 @@
+TEXTO 5
+¿Qué es la tecnología orientada a objetos? La ingeniería de orientación a objetos: Es un conjunto de principios, abstracción, encapsulación y polimorfismo, que guían la construcción del software, junto con lenguajes, bases de datos y otras herramientas que soportan estos principios. No es codificar, no es matriz, es un conjunto de principios que me piden hacer esa construcción.

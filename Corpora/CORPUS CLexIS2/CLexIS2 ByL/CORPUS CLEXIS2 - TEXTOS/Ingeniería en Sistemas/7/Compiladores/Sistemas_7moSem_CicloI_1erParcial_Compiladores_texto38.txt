@@ -1,0 +1,3 @@
+TEXTO 38
+
+Pero, que nosotros al momento de codificar colocamos un valor dentro de la memoria. Entonces, aquí les pongo un ejemplo, ¿Se acuerdan de los símbolos? Que utilizan símbolos, tablas o gráficos. Aquí hay un ejemplo que dice cómo se conecta un cliente al editar el código y cómo lo ejecuta de un cliente a un servidor estos son los pasos aplicando de manera de símbolos pero con nuestro lenguaje natural. 

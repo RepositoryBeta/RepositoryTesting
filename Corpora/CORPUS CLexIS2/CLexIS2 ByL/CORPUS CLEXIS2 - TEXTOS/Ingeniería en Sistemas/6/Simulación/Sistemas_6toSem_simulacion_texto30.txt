@@ -1,0 +1,3 @@
+﻿texto 30
+
+Por ejemplo el sexo, debe ser solo hombre o mujer recuerde que cuando hablamos de orden de prioridad nosotros tenemos que medir eso a partir de un valor numérico, a pesar de que la variable cualitativa no pierde su naturaleza, pero para evaluarla tenemos que ponerle un valor numérico, la verdad porque así como estamos trabajando, es la máquina o el programa que va a utilizar, acepta solamente parte numérica a pesar de que la variable puede ser cualitativa pero usted la mide numericamente.

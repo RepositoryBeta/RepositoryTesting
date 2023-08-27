@@ -1,0 +1,8 @@
+texto 68
+
+ESTRUCTURA DE TABLA DE PONDERACIÓN 
+Excelente 1.00% (para el cumplimiento más alto).
+Bueno 0.80% (para un cumplimiento bueno sin llegar a ser excelente).
+Regular 0.60% (para un cumplimiento mínimamente aceptable).
+Deficiente0.40% (para un cumplimiento malo y mucho peor de lo esperado).
+Pésimo 0.20% (para el incumplimiento francamente desastroso).

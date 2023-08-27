@@ -1,0 +1,3 @@
+texto 53
+
+Para llevar a cabo esta depuración de registros, utiliza reglas predefinidas, algoritmos o tablas de consulta (lookup tables). Esta operación también suele denominarse gestión de la calidad (quality management). Herramientas de auditoría de datos: estos programas se utilizan para encontrar reglas y relaciones entre los datos, así como también para identificar aquellos que contravienen las reglas definidas y son previsiblemente erróneos.

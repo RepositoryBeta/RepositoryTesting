@@ -1,0 +1,4 @@
+﻿texto 64
+
+Otra ventaja del muestreo aleatorio sistemático sobre el muestreo aleatorio simple es la garantía de que el muestreo se hará equitativamente sobre la población. 
+Existe una posibilidad de un muestreo aleatorio simple que permite una selección por conglomerados de sujetos esto es eliminado sistemáticamente en el muestreo sistemático en el muestreo por conglomerados, en lugar de seleccionar a todos los sujetos de la población inmediatamente, el investigador realiza varios pasos para reunir su muestra de la población los tipos de muestra por conglomerados son.

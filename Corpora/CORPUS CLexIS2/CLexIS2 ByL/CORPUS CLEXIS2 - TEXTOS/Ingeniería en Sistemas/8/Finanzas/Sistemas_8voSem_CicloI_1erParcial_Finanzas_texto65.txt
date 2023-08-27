@@ -1,0 +1,7 @@
+texto 65
+
+Los costos en que pueden incurrir a una empresa o consecuencia de las decisiones para establecer los niveles de inventario pueden agregar en:
+Costo de mantenimiento.
+Costo de ordenamiento.
+Costo de faltantes.
+Niveles de inventarios.

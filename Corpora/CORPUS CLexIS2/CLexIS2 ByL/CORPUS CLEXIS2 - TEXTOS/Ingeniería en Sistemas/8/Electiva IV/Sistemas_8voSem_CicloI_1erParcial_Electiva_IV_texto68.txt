@@ -1,0 +1,10 @@
+texto 68
+
+Dentro de la aplicación tenemos algunos elementos que se utilizan para el libre desarrollo de la app. 
+1) View.
+2) Layout.
+3) Activity.
+4) Service.
+5) Intent.
+6) Fragment.
+7) Content Provider.

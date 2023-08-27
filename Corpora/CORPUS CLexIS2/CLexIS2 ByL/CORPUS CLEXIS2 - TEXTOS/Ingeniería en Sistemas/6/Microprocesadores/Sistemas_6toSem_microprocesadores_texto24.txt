@@ -1,0 +1,8 @@
+texto 24
+
+FSB es reemplazado por la interfaz Quickpath en i7 e i5 (zócalo 1366), y sustituido a su vez en i7, i5 e i3 (zócalo 1156) por el DMI eliminado el northbrige e implementando puertos PCI Express directamente. Memoria de tres canales (ancho de datos de 192 bits): cada canal puede soportar una o dos memorias DIMM, DDR3.
+Intel Core Sandy Bridge
+El Intel Core Sandy Bridge, llega para remplazar los chips Nehalem, con Intel Core i3, Intel Core i5 e Intel Core i7 serie 2000 y Pentium G. 
+
+
+

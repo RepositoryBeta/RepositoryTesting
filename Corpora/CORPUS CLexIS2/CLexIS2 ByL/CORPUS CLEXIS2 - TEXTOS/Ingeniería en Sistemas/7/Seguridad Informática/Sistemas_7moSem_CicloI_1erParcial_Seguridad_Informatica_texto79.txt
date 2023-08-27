@@ -1,0 +1,5 @@
+texto 79
+
+Para evitar estos eventos, es importante que se tomen medidas para asegurar los medios de almacenamiento de los datos y establecer los controles necesarios para acceso a los datos.
+Respaldo de los datos
+Frente a una situación de pérdida o alteración de datos, el contar con un respaldo de los mismos permitirá reducir el impacto de este tipo de eventos sobre una investigación.

@@ -1,0 +1,3 @@
+texto 34
+
+Los datos y el análisis se han vuelto fundamentales para que las empresas mantengan la competitividad. Las empresas utilizan informes, paneles y herramientas de análisis para extraer información de los datos, monitorear el desempeño de la empresa y respaldar la toma de decisiones. Los almacenamientos de datos son fundamentales para estos informes, paneles y herramientas de análisis. Guardan los datos de manera eficaz para reducir las operaciones de entrada y salida (E/S) de datos y entregar resultados de consultas rápidamente a cientos y miles de usuarios de manera simultánea.

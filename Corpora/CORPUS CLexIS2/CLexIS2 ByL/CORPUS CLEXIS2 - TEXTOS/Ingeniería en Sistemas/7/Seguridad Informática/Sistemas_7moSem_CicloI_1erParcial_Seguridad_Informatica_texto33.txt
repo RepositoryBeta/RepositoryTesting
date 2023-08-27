@@ -1,0 +1,6 @@
+texto 33
+
+¿Cómo funciona la seguridad de red?
+La seguridad de red combina varias capas de defensa en el perímetro y la red. 
+Cada capa de seguridad de red implementa políticas y controles. 
+Los usuarios autorizados tienen acceso a los recursos de red, mientras que se bloquea a los usuarios maliciosos para evitar que ataquen vulnerabilidades y amenacen la seguridad.

@@ -1,0 +1,5 @@
+﻿texto 25
+Equivalencia del Valor del Dinero en el Tiempo
+El valor presente y futuro se relaciona con el concepto del valor del dinero en el tiempo. El valor de una suma de dinero hoy es mayor que el valor de la misma suma de dinero mañana, ¿por qué?, por el potencial del dinero en generar más dinero.
+Ya que el valor de cierta suma de dinero hoy es más alto que dicho monto de dinero mañana, por lo que si al solicitar un préstamo y lo devuelven en 1 año, no podrán devolver la misma cantidad prestada ya que el dinero en 1 año valdrá menos. Es por lo que se paga el capital inicial, monto del préstamo, más una tasa de interés.
+

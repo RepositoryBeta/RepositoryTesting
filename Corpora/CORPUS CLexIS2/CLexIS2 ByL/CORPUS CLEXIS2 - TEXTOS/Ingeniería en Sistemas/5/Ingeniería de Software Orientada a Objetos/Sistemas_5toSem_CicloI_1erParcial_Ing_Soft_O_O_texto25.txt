@@ -1,0 +1,2 @@
+TEXTO 25
+El diseño de alto nivel, este en cambio representa la descomposición inicial del sistema en subsistemas, se usa para asignar subsistemas a equipos individuales. El diseño de alto nivel también es la semilla para el SDD (software diseño de documentación) este software es el que ayuda a documentar la arquitectura del software, el SDD básicamente es una herramienta para la documentación en el inicio del proyecto que es la primera actividad.

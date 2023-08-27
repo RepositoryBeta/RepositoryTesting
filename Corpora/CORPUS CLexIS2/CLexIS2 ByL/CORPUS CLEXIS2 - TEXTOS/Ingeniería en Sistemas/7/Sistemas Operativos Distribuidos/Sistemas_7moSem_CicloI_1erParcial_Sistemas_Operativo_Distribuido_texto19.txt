@@ -1,0 +1,5 @@
+﻿Texto 19
+
+Bueno, una característica más de los sistemas distribuidos es el tratamiento fallos. 
+
+En los sistemas, existen diferentes formas de tratamiento a fallos y una parte importante es la redundancia, el que tenga repetida la funcionalidad o los procesos, la data y eso no significa que es un mal diseño sino, que es un esquema de seguridad, la redundancia no es mala pero obviamente te consume dinero.

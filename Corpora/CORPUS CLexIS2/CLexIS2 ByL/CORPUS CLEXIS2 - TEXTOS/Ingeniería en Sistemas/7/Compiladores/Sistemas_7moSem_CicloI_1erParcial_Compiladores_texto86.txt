@@ -1,0 +1,2 @@
+TEXTO 86
+Lo que son las funciones de la librería. Por ejemplo tenemos el sqrt de forma matemática. Antes en la programación no había ayuda de las librerías y había que codificar, para que va a ser utilizada la tabla de símbolos, no solamente para las palabras reservadas, sino también para los identificadores de los usuarios una vez tomada esa entrada, buscan en la tabla reservada si coinciden o no y si le encuentras devuelven al analizador sintáctico el token asociado a ese es el proceso si no lo devuelve como identificador de verdad.

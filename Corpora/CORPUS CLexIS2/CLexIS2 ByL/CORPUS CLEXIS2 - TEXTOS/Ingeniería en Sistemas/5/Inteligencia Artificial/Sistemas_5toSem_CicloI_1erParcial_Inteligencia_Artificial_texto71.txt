@@ -1,0 +1,4 @@
+texto 71
+
+Bien, ahora vamos a ver a mayor profundidad lo que es metaheurística, son muchos tipos de algoritmos que crea en la forma de llegar a una solución dependiendo de algo, de forma aleatoria, procedimiento simple, a menudo basado en el sentido común, que se supone que ofrecerá una buena solución (aunque no necesariamente la óptima) a problemas difíciles, de un modo fácil y rápido.
+

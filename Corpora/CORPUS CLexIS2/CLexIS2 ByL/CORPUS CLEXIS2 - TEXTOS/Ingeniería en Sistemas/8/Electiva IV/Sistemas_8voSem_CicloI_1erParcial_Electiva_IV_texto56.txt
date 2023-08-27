@@ -1,0 +1,3 @@
+texto 56
+
+Ahora, vamos a ver netamente lo que tiene que ver con la parte del activity, veremos lo que tiene que ver con la parte del ciclo de vida, empezar a ver cuáles son estos estados por el cual el activity puede pasar, nosotros visualmente no lo vamos a notar, pero internamente nos vamos a ir dando cuenta que los activities pasan por diferentes estados. Un activity es cada una de las pantallas o vistas que forman una aplicación.

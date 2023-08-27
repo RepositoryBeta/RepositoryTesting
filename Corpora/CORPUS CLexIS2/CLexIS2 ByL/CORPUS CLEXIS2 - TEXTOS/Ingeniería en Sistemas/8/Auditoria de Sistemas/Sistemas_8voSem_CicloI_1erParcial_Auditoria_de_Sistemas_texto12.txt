@@ -1,0 +1,5 @@
+texto 12
+
+Un auditor TI puede tener prácticamente cualquier formación, pero con frecuencia son también técnicos en sistemas, ingenieros informáticos o de las telecomunicaciones, o tienen un grado en administración de empresas.
+Los perfiles profesionales que más suelen realizar las auditorías TI son: administradores de bases de datos, informáticos, expertos en gestión y desarrollo de proyectos o economistas expertos en gestión de costes.
+Muchas empresas valoran que el auditor informático tenga la certificación CISA (Certified Information Systems Auditor).

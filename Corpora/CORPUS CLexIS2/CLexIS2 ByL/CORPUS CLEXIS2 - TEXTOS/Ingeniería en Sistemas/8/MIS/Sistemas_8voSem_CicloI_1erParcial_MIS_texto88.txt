@@ -1,0 +1,4 @@
+texto 88
+
+Con lo cual se eliminan los cuellos de botella por los procesos de recuperación y lectura de datos en una base de datos tradicional basada en discos, y se reducen de manera drástica los tiempos de respuesta de las consultas. El procesamiento memoria hace posible que conjuntos muy grandes de datos, del tamaño de un mercado de datos de un almacén pequeño de datos, reciban totalmente en la memoria.
+

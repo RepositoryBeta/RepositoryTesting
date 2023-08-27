@@ -1,0 +1,2 @@
+TEXTO 73
+Los diagramas de interacción: La ejecución de un software orientado a objetos consiste, en un encadenamiento de operaciones y de cambio de estado de objetos, el cual a su vez consiste en que durante la ejecución de una operación o durante una transición, se llaman operaciones sobre otros objetos o sobre el mismo y se envían señales, que provocan otras transiciones así se puede describir el funcionamiento de los casos de uso y de operaciones complejas en esta acción se lleva a cabo mediante los denominados diagramas de interacción.

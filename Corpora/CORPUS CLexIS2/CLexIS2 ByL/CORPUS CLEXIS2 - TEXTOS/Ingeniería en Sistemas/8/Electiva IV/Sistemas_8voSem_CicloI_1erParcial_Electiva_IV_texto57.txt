@@ -1,0 +1,3 @@
+texto 57
+
+Nosotros podemos crear o podemos manejar diferentes tipos de activity dentro de una aplicación y poder llamarlas entre ellas. En este caso, se puede añadir un nuevo activity haciendo click derecho sobre el paquete que deseemos, New, Java Class, como vemos en la figura adjunta. Esto crear a un nuevo archivo.java desde el cual podemos manejar un nuevo activity. Esto lo veremos más adelante, veremos cómo trabajar con varios activity. Por el momento vamos a trabajar con uno.

@@ -1,0 +1,4 @@
+texto 48
+
+Veamos la falta de flexibilidad, un sistema tradicional de archivos por entregar informes programados de rutina después de intensos esfuerzos de programación, pero no puedo entregar informes ad hoc ni responder de manera oportuna a los requerimientos de información no anticipados. La información requerida por las solicitudes ad hoc está en alguna parte del sistema, pero tal vez sea demasiado costoso recuperarla.
+

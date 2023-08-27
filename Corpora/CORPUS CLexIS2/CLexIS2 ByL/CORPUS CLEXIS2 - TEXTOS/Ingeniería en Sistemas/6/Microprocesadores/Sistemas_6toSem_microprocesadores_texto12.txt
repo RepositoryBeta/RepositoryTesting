@@ -1,0 +1,8 @@
+texto 12
+
+Más adelante se lanzó una mejora de los K6, los K6-2 de 250 nanómetros, para seguir compitiendo con los Pentium II, siendo este último superior en tareas de coma flotante, pero inferior en tareas de uso general. Se introduce un juego de instrucciones SIMD denominado 3DNOW.
+Intel Pentium II
+El Intel Pentium II es un procesador de 7,5 millones de transistores, se busca entre los cambios fundamentales con respecto a su predecesor, mejorar el rendimiento en la ejecución de código de 16 bits, añadir el conjunto de instrucciones MMX y eliminar la memoria caché de segundo nivel del núcleo del procesador, colocándola en una tarjeta de circuito impreso junto a éste. 
+
+
+

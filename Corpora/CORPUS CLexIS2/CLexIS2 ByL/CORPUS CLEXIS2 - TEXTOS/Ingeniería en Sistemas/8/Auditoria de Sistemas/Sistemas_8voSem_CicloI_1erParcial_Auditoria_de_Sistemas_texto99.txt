@@ -1,0 +1,5 @@
+texto 99
+
+¿Qué es una auditoría de red?
+La auditoría de redes es el conjunto de medidas que se toman con el fin de realizar un análisis completo de la situación general y los datos de una determinada red o de un conjunto de redes. 
+El objetivo de este estudio es determinar que la red en cuestión cumple con todos los requisitos de seguridad y está protegida mediante las nuevas amenazas así como ante posibles ataques o problemas propios de un sector concreto. 

@@ -1,0 +1,2 @@
+TEXTO 34
+Identificación de las tareas iniciales: Los puntos iniciales para la identificación de tareas, son el enunciado del problema, incluyendo los productos a entregar y las fechas de entrega, el ciclo de vida de las actividades y la experiencia pasada. El cliente y el gerente del proyecto acuerdan una serie de revisiones cuyo propósito es de revisar el avance del proyecto cada producto a entregar debe ser cubierto por una tarea al menos.

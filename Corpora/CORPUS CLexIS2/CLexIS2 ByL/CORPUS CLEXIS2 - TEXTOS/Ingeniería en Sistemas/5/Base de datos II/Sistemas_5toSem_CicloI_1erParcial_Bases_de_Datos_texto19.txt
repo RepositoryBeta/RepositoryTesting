@@ -1,0 +1,4 @@
+texto 19
+PCTINCREASE: Es un factor de crecimiento para las extensiones. Por defecto es 50, lo que significa que cada extensión subsiguiente será un 50% más grande que la extensión anterior. El valor de la siguiente extensión es: NEXT = NEXT + (PCTINCREASE * NEXT) / 100 
+ONLINE: El tablespace está disponible después de crearlo. Activa tablespaces. Es el valor por defecto
+OFFLINE: Desactiva el tablespace e impide el acceso al mismo.

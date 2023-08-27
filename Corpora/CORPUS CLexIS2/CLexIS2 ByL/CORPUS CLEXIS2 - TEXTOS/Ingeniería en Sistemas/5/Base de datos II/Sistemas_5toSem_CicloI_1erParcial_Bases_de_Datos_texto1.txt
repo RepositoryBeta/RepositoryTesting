@@ -1,0 +1,8 @@
+texto 1  
+Base de datos relacionales
+Una base de datos relacional es una colección de elementos de 
+datos organizados en un conjunto de tablas 
+formalmente descritas desde la que se puede acceder a los datos 
+o volver a montarlos de muchas maneras diferentes sin tener que 
+reorganizar las tablas de la base. 
+La base de datos relacional fue inventada por E.F. Codd en IBM en 1970.

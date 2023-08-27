@@ -1,0 +1,3 @@
+texto 73
+
+Se requiere tres instrucciones, que consumen tres ciclos de captación y 3 de ejecución. En este ejemplo, se necesitan 3 ciclo de instrucción, cada uno con un ciclo de captación y un ciclo de ejecución, para sumar el contenido de la posición 940 y el contenido de la posición 941,  con un conjunto de instrucciones más complejos, se hubiera necesitado menos ciclos.

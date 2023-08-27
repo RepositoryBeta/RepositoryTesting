@@ -1,0 +1,7 @@
+﻿texto 49
+De acuerdo con las definiciones anteriores, las anualidades se clasifican de la siguiente forma:
+1) Anualidades ciertas.
+2) Anualidades eventuales o contingentes.
+3) Valor de las anualidadesa.
+4) Valor futuro y valor presente de las anualidades simples ciertas y ordinarias inmediatas.
+

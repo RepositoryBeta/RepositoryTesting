@@ -1,0 +1,3 @@
+texto 20
+
+Recuerden que también el mundo de las matemáticas, nosotros podemos hacer este asignación de valores, cuando usted dice por ejemplo, F(x) = a, entonces ahí esta haciendo una operación matemática de asignación, aquí tenemos que para cada caso se necesita un nuevo conjunto de señales de control, la solución consiste en asociar un código específico a cada posible conjunto de señales de control, y añadir al hardware de uso general una parte encargada de generar las señales de control a partir del código.

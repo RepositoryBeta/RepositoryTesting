@@ -1,0 +1,4 @@
+texto 78
+
+Tenemos múltiplos ejemplos, existe la búsqueda tabú, grasp, algoritmos genéticos, algoritmos meméticos, optimización por colonia de hormigas, optimización enjambre de partículas, recocido simulado, búsqueda local iterativa, búsqueda local estocástica, búsqueda local guiada, popmusic. Todos estos ejemplos mencionados son los llamados o denominados algoritmos de la metaheurística.
+

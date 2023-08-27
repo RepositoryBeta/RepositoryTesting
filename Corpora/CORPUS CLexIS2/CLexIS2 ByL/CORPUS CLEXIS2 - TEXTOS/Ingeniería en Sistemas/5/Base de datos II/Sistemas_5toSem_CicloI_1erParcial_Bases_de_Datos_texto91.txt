@@ -1,0 +1,3 @@
+texto 91
+A estas intersecciones se le asignan una numeración única para establecer un orden eficiente de los datos. Están pensadas para grandes volúmenes de datos.
+Estas tienen la capacidad de almacenar gran cantidad de datos dispersos. Entre las principales DDBB de este estilo podemos conseguir a Hbase de Apache que es utilizada para soportar el servicio de mensajería de Facebook, también a Bigtable de Google y la versión abierta llamada Leveldb y a Hypertable.

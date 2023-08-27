@@ -1,0 +1,5 @@
+texto 42
+¿Qué es proceso de decisión grupal?
+De acuerdo a Burn, servirá, no sólo para conocer los requisitos generales para una decisión de calidad, sino para entender las limitaciones y fallos en el proceso de toma de decisión en grupo.
+Pasos para la decisión de grupo:
+1) Definir el problema: Es decir, señalar cuáles son los objetivos de la toma de decisión. Lo importante es promulgar correctamente la cuestión sobre la que el grupo tiene que decidir. Cuanto mejor informados estén los miembros de la cuestión, mejor será la decisión que adopte el grupo.

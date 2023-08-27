@@ -1,0 +1,7 @@
+﻿Texto 77
+
+Dicho bus es un recurso de uso común por tanto debe ser arbitrado para que solamente un microprocesador lo usé en cada instante de tiempo.
+
+Multiprocesamiento asimétrico Non Uniform Memory Access
+
+Requiere un conocimiento especializado sobre las tareas que la computadora debe ejecutar, que no es fácilmente discernible en un sistema operativo de propósito general como Linux.

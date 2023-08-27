@@ -1,0 +1,4 @@
+texto 19
+
+Vamos a ver el modelamiento de aplicaciones móviles basadas en su contexto.
+Son aquellos sistemas que toman en cuenta el contexto en su interacción con el usuario o con la lógica de procesamiento. La naturaleza portátil inherente de los dispositivos permite que exista un gran número de variables influyentes tales como la edad, el género, los gustos, entre otras. Esto es referente con el modelamiento de aplicaciones móviles.

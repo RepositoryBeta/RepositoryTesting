@@ -1,0 +1,4 @@
+texto 55
+
+Android: Contenidos principales del módulo.
+Continuamos con la carpeta, Carpeta / app / build /, esta carpeta contiene una serie de elementos de código generados automáticamente al compilar el proyecto.  Cada vez que compilamos nuestro proyecto, la maquinaria de compilación de Android genera por nosotros una serie de ficheros fuente java dirigidos, entre otras muchas cosas, al control de los recursos de la aplicación. Importante: no se modifican manualmente bajo ninguna circunstancia.

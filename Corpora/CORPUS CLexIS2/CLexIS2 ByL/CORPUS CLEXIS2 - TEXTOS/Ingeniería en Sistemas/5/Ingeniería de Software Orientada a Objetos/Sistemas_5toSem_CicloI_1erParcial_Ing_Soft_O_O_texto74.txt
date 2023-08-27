@@ -1,0 +1,2 @@
+TEXTO 74
+Una interacción: Es la especificación del comportamiento de un caso de uso u operación en términos de secuencia de intercambio de mensajes entre objetos. Esto mensaje contienen estímulos que pueden ser peticiones de ejecución de operaciones o señales un hilo de ejecución. Es una secuencia de mensajes tal que el primero contiene un estímulo que provoca el envío del segundo etc. Si el mensaje A ha sido la causa de que se emitiera el mensaje B, se dice que es el predecesor de B y B el sucesor de A.

@@ -1,0 +1,8 @@
+﻿Texto 22
+
+Una API es una interfaz de programación y programada de una cierta forma de que cubra una necesidad, mientras cubra esa necesidad se denominaría un servicio.
+
+¿Cuál es la diferencia entre servicios Web y servicios Rest?
+
+Es como pasan la información, uno en texto y otro en xml. 
+Ya, listo. Ustedes dicen ese concepto a manera técnica.

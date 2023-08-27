@@ -1,0 +1,6 @@
+texto 12
+
+El prescriptivo: Se basa en el rendimiento de la empresa para recomendar acciones que den solución a situaciones iguales en el futuro.
+El predictivo: Emplea tendencias estadísticas para determinar la probabilidad de eventos futuros.
+¿A qué apunta la Analítica de negocios?
+Dentro de la empresa, la Analítica de negocios atenderá a cada una de las áreas involucradas en la actividad productiva, registrando y analizando los datos de manera focalizada.

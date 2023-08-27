@@ -1,0 +1,2 @@
+TEXTO 13
+Un objeto tiene estado, el estado de un objeto son las condiciones en las que se encuentra en un momento en el tiempo. Normalmente cambia a través del tiempo. Es representado por los valores de los atributos del objeto, en un momento determinado. Normalmente la representación de los objetos son mediante tablas donde se encuentran los atributos del objeto, los atributos van a tener una acción una operación interna del objeto.

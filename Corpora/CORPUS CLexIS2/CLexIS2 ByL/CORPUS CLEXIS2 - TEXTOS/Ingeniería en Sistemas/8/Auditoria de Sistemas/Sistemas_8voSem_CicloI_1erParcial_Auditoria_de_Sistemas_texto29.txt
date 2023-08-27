@@ -1,0 +1,4 @@
+texto 29
+
+Seguridad: Incluye las tres clases de controles fundamentales implantados en el software del sistema, integridad del sistema, confidencialidad (control de acceso) y disponibilidad.
+Gestión de Cambio: Separación de las pruebas y la producción a nivel de software y controles de procedimientos para la migración de programas software aprobados y probados.

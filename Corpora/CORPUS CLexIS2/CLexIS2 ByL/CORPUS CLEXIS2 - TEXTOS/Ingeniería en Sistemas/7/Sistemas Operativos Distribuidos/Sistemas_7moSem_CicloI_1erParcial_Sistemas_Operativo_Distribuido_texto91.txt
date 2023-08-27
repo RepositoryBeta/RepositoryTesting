@@ -1,0 +1,5 @@
+﻿Texto 91
+
+Coordina las funciones de red incluso con las propias del equipo.
+Comparte recursos y lleva a cabo la coordinación y los privilegios a la hora de compartir. Por tanto, mejora notablemente la utilización de los recursos.
+Permite monitorear y gestionar la red y sus componentes.

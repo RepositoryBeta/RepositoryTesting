@@ -1,0 +1,2 @@
+TEXTO 88
+Diseño de objetos: Un objeto es una entidad existente en la memoria del ordenador que tiene unas propiedades y unas operaciones disponibles específicas. Por ejemplo, una cuenta de banco que tenga un saldo de $1500 y un número (x) y a su vez tenga las operaciones de retirar y depositar. Un diseño de objetos, es un proceso para añadir detalles al análisis y tomar decisiones junto con el diseño del sistema, de manera que el logre de una especificación detallada antes de comenzar la implementación final.

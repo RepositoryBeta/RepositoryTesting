@@ -1,0 +1,3 @@
+﻿Texto 45
+
+Entonces, esa funcionalidad de envolver estaba en este servicio grande y como es altamente usada me afecta al servicio en general a pesar, de que está generada esa capacidad al hacer altamente usada le quita eficiencia al servicio, yo lo que hago es separarla, sigo escuchando las buenas prácticas y creo servicios más pequeños que son denominados microservicios. Cada microservicio hace una tarea específica.

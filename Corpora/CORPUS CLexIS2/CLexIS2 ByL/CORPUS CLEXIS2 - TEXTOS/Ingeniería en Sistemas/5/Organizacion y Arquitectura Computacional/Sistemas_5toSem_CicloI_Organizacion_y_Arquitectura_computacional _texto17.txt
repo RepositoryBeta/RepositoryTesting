@@ -1,0 +1,4 @@
+texto 17
+
+Alternativas de Hardware y Software
+Se construye una configuración de uso general de funciones lógicas y aritméticas,  este hardware realizará funciones diferentes según las señales de control aplicadas, en el caso del hardware específico sistema acepta datos y produce resultados, con el hardware de uso general el sistemas  acepta datos y  señales de control y produce resultados.

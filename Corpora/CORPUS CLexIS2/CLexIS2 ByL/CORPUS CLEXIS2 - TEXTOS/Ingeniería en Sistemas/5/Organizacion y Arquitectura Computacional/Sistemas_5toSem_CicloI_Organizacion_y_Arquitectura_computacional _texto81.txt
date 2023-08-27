@@ -1,0 +1,3 @@
+texto 81
+
+Cuando hablamos de rotación de bits se refieren a los desplazamientos con respecto de la multiplicación y de la división, por qué en los circuitos integrados que hay en el interior de la unidad aritmética lógica obviamente son puertas lógicas, y aquí no existen procesos de suma, de resta, si no que simplemente son de los que se mueven por desplazamiento en la multiplicación y la división, y en la suma o resta se maneja o son de complemento.

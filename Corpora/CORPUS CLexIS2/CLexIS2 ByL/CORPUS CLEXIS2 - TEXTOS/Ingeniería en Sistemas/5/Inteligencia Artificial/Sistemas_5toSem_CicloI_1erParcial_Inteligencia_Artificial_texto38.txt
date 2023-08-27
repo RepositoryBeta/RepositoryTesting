@@ -1,0 +1,4 @@
+texto 38
+
+Minería de textos, es igual o casi parecido a lo que hace la minería de datos, sólo que ya no estaba en bases de datos, sino que lo realiza en textos, busca en textos, en revistas, en libros, por ejemplo, ¿Cómo saber si un libro se trata de física? Por las terminologías que utiliza, por el título, por ejemplo lo que nosotros siempre vemos primero es la carátula y ahí dice física 1, física 2, etc. Nos basamos en palabras claves para saber de qué se trata.
+

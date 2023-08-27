@@ -1,0 +1,4 @@
+texto 90
+
+Por ejemplo, IBM Netezza tiene componentes de base de datos, servidor y almacenamiento estrechamente integrados que manejan consultas analíticas complejas 10 a 100 veces más rápido que los sistemas tradicionales. Las formas analíticas también incluyen sistemas en memoria y sistemas de administración de bases de datos no relacionales. Ahora las plataformas analíticas están disponibles como servicios en la nube.
+

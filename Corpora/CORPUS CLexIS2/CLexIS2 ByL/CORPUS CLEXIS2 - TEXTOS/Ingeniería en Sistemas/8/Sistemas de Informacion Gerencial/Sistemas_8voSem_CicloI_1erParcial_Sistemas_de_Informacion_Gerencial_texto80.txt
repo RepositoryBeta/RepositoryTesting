@@ -1,0 +1,4 @@
+texto 80
+
+Metodología técnica.
+Enfatiza los modelos basados en las matemáticas, así como en la tecnología física y las capacidades formales de éstos. Las disciplinas que contribuyen a la metodología técnica son: informática, ciencia de la administración e investigación de operaciones. La informática se encarga del tratamiento automático de la información y métodos de computación, además de métodos de almacenamiento y acceso eficiente de datos.

@@ -1,0 +1,5 @@
+texto 77
+
+Proveedores de Contenido: Las aplicaciones móviles a veces necesitan compartir información sin comprometer la seguridad del equipo:
+Ejemplo: Acceso a fotografías, contactos, etc.
+Los proveedores de contenido pueden ayudar a una aplicación a gestionar el acceso a los datos que esa u otras aplicaciones almacenan y proporcionar una forma de compartir datos con otras aplicaciones. Encapsulan los datos y proporcionan mecanismos para definir su seguridad.

@@ -1,0 +1,4 @@
+﻿texto 39
+
+Margen de error o intervalo de confianza: El margen de error es una estadística que expresa la cantidad de error de muestreo aleatorio en los resultados de una encuesta, es decir, es la medida estadística del número de veces de cada 100 que se espera que los resultados se encuentren dentro de un rango específico.
+Nivel de confianza: Son intervalos aleatorios que se usan para acotar un valor con una determinada probabilidad alta. Por ejemplo, un intervalo de confianza de 95% significa que los resultados de una acción probablemente cubrirán las expectativas el 95% de las veces.

@@ -1,0 +1,7 @@
+﻿texto 81
+Como decíamos, hoy hablamos de métodos de amortización y todo lo que hay que saber sobre ellos para escoger bien un préstamo, así que allá vamos.
+Componentes de un cuadro de amortización.
+El cuadro de amortización suele estar formado por cinco columnas:
+Periodo: Suele encontrarse en la primera columna. Es decir, cada uno de los periodos se refiere al momento en el que se tiene que realizar el pago.
+
+

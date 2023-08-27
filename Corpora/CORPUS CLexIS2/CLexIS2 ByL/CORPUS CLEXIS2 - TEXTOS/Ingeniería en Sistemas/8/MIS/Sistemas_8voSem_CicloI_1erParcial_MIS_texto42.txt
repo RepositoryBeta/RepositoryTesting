@@ -1,0 +1,5 @@
+texto 42
+
+¿Cuáles son los problemas de administrar los recursos de datos en un entorno tradicional de archivos?
+Un sistema eficaz de información proporciona a los usuarios información precisa oportuna y relevante. La información precisa está libre de errores. La información es oportuna cuando está disponible para los encargados de tomar de decisiones en el momento en que la necesitan. Asimismo, es relevante cuando es útil y apropiada tanto para los tipos de trabajo como para las decisiones que lo requieren.
+

@@ -1,0 +1,7 @@
+texto 55
+SMALLINT; 2 bytes: Un entero corto entre – 32.768 y 32.767.
+INTEGER; 4 bytes: Un entero largo entre – 2.147.483.648 y 2.147.483.647.
+IMAGE: Lo que se requiera, Desde cero hasta un máximo de 2.14 gigabytes. Se utiliza para objetos OLE.
+TEXT; 2 bytes por carácter. (Consulte las notas): Desde cero hasta un máximo de 2.14 gigabytes.
+CHAR; 2 bytes por carácter. (Consulte las notas): Desde cero a 255 caracteres.
+Si se utiliza el nombre del tipo de datos TEXT y se especifica la longitud opcional (TEXT (25), por ejemplo), el tipo de datos del campo es equivalente al tipo de datos CHAR.

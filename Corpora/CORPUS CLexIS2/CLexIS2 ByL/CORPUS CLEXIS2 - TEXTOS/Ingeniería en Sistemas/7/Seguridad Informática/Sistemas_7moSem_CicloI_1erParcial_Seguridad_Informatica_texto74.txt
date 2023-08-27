@@ -1,0 +1,5 @@
+texto 74
+
+Las estrategias de encriptación son cruciales para cualquier empresa que utilice la nube y son una excelente manera de proteger los discos duros, los datos y los archivos que se encuentran en tránsito a través de correo electrónico, en navegadores o en camino hacia la nube.
+En el caso de que los datos sean interceptados, la encriptación dificulta que los hackers hagan algo con ellos. 
+Esto se debe a que los datos encriptados son ilegibles para usuarios no autorizados sin la clave de encriptación. 

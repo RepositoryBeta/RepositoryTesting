@@ -1,0 +1,2 @@
+TEXTO 17
+Ahora, que ya se conoce lo que es un método debemos conocer lo que es una metodología, una metodología es una colección de métodos para la resolución de una clase de problemas como por ejemplo, un libro de cocina de mariscos, es una metodología para la preparación de marisco, el proceso de desarrollo de software unificado la técnica de modelado de objetos la metodología booch y catalysis lo son metodologías orientadas a objetos para el desarrollo de software.

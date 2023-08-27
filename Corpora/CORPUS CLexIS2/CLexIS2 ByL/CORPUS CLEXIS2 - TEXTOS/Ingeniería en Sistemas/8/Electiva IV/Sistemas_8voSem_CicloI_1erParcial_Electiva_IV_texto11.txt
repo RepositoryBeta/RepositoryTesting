@@ -1,0 +1,4 @@
+texto 11
+
+Retos de las plataformas móviles. ¿Cuáles son estos retos?
+Siempre que usted desarrolle una aplicación móvil primero usted va a tener un reducido de ancho de banda, ¿por qué reducido de ancho de banda?, porque usted en este caso va a tener que consumir lo menos posible de datos, probablemente en un celular, usted no se puede dar el lujo de consumir recursos, consumir el ancho de banda como a usted le dé la gana, hay que medir y hay que saberlo aprovechar.

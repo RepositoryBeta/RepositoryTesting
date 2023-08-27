@@ -1,0 +1,5 @@
+texto 32
+
+Como tercer punto tenemos:
+3) Suelen ser intensivos en cálculos y escasos en entradas y salidas de información pues está ya que fue recopilada por los sistemas transaccionales. Por ejemplo: Un modelo de planeación financiera requiere poca información de entrada, pero generalmente realiza muchos cálculos durante el proceso.
+

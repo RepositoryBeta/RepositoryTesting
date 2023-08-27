@@ -1,0 +1,8 @@
+texto 24
+
+Como protegerse del ataque DDOS:
+- Restrinja el uso de ancho de banda a los hosts que cometan violaciones.
+- Realice un monitoreo de las conexiones TCP y UDP que lleve a cabo el servidor.
+- Limite el número de conexiones concurrentes en el servidor.
+Fuerza bruta
+El principal objetivo de este ataque es intentar romper todas las combinaciones posibles de nombre usuario y contraseña, estos ataques buscan contraseñas débiles para ser descifradas y tener acceso de forma fácil.

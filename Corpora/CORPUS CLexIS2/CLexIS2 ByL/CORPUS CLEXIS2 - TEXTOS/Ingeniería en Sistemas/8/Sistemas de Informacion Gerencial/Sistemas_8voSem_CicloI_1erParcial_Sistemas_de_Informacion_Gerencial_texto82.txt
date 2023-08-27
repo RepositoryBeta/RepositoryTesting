@@ -1,0 +1,4 @@
+texto 82
+
+Metodología del comportamiento.
+Los aspectos del comportamiento surgen en el desarrollo y mantenimiento en el largo plazo de los sistemas de información. Aspectos como la integración estratégica de negocios, el diseño, la implementación, la utilización y la administración no se pueden explorar útilmente con los modelos que se utilizan en la metodología técnica. Los sociólogos estudian los SI con un enfoque hacia la manera en que los grupos y las organizaciones dan forma al desarrollo de los sistemas, y en cómo afectan a individuos, grupos y organizaciones.

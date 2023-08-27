@@ -1,0 +1,8 @@
+texto 43
+
+Como base sobre la cual trabajan los diversos métodos de minería de datos, el contenido de un DWH sostiene todas las reflexiones y tomas de decisiones en relación con la gestión del rendimiento y la planificación estratégica del negocio.
+¿Cómo se estructura un data warehouse?
+Al proceso de gestión y examen de un almacén de datos se le denomina data warehousing y este comprende las siguientes fases:
+1) Obtención e integración de los datos.
+2) Conservación de los datos.
+3) Evaluación y análisis de los datos.

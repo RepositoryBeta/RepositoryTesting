@@ -1,0 +1,3 @@
+texto 51
+
+3) L = Loading (carga): en esta fase se guardan los datos ya transformados en su base de datos correspondiente en el almacén de datos. Este primer nivel de recolección puede contener una denominada staging area, un área temporal en la cual los datos que se van a cargar se someten a una preparación previa, lo que puede resultar necesario en el caso de procesos ETL muy complejos.

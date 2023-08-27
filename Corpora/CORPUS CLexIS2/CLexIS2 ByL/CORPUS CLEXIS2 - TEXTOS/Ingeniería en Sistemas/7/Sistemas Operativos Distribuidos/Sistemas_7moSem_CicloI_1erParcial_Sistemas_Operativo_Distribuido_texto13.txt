@@ -1,0 +1,3 @@
+﻿Texto 13
+
+El concepto de Api, como su nombre lo dice (Application Program Interface), son interfaces de programación que me permiten interactuar con los sistemas. Ahora, yo tengo un proveedor que me da el ARP y yo le digo que aparte que me ponga el monolítico, habilítame la API que yo quiero desarrollar mis propias herramientas, mis CRM, mis aplicativos móvil que de alguna u otra forma interactúe con tu herramienta.

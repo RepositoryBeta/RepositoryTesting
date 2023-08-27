@@ -1,0 +1,5 @@
+texto 87
+
+7) Evaluación de los patrones: Se identifican verdaderamente patrones interesantes que representan conocimiento usando diferentes técnicas incluyendo análisis estadísticos y lenguajes de consultas.
+8) Interpretación de resultados: Consiste en entender los resultados del análisis y sus implicaciones y puede llevar a regresar a algunos de los pasos anteriores.
+Un indicador clave de rendimiento (KPI) es una métrica de negocio para evaluar los factores que son cruciales para el éxito de una organización. El propósito de usar KPI es enfocar la atención en las tareas y procesos que la gerencia ha determinado como los más importantes para avanzar hacia metas y objetivos declarados.

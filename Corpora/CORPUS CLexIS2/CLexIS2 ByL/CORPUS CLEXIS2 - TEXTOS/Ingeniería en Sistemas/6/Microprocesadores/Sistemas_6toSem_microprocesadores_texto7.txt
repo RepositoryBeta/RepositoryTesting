@@ -1,0 +1,5 @@
+﻿texto 7
+
+Aquí vemos que el científico alemán heinrich rudolf herts fue quien descubrió la propagación de las ondas electromagnéticas que equivale un ciclo por segundo, entendiendo ciclo como la repetición de un suceso y podemos ver en el gráfico ahí tenemos 5 hertz, significa que hay 5 ciclos en un segundo, mientras más ciclos tengo obviamente la velocidad va a ser mucho más rápida, dentro de un segundo hay cinco ondas, estas cinco ondas representan un hertz.
+
+

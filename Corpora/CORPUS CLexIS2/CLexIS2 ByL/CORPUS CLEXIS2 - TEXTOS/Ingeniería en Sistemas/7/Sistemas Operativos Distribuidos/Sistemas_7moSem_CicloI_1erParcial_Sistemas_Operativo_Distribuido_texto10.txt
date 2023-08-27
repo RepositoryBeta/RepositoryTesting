@@ -1,0 +1,5 @@
+﻿Texto 10
+
+Una de las características de los Sistemas Operativos Distribuidos es, que estos señores tienen que ser extensibles, ¿Qué entiende usted por el extensible?
+
+Como dice la misma palabra, extenderse a diferentes áreas, entonces entendemos que estos sistemas puedes distribuirse en distintas áreas y conglomerarlos en una sola.

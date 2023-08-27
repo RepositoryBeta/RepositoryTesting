@@ -1,0 +1,6 @@
+texto 36
+SQL ALIAS: ALIAS se utiliza para renombrar una tabla o una columna
+SQL JOINS: JOIN permite consultar datos de 2 o más tablas.
+SQL INNER JOIN: INNER JOIN sirve para combinar cada fila de una tabla con cada fila de otra tabla.
+SQL LEFT JOIN: LEFT JOIN sirve para combinar los valores de la primera tabla con los valores de la segunda tabla. Siempre devolverá las filas de la primera tabla.
+SQL RIGHT JOIN: RIGHT JOIN sirve para combinar los valores de la primera tabla con los valores de la segunda tabla. Siempre devolverá las filas de la segunda tabla.

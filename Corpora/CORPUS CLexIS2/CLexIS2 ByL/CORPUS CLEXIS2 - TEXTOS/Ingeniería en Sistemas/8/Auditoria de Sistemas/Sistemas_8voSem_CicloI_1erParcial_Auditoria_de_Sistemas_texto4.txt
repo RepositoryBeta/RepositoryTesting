@@ -1,0 +1,5 @@
+texto 4
+
+¿Qué hace el auditor informático?
+Un auditor informático (también llamado auditor de sistemas o auditor TI) analiza los procesos dentro de una empresa e identifica el potencial de optimización identificando debilidades y disfunciones.
+La mayoría de los auditores trabajan en pequeños equipos de hasta cuatro personas y son el enlace comunicativo entre departamentos y dirección. Actúan como observadores que se comunican con todos los departamentos entrevistando a los empleados, pero también evaluando los datos y revisando los documentos (manuales de la empresa, descripciones de procesos y especificaciones de productos).

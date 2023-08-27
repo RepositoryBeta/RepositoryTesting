@@ -1,0 +1,3 @@
+﻿Texto 46
+
+Realmente no existe un estándar de como debe ser una arquitectura basada en microservicio, ni en el tamaño de los mismos, ni siquiera en el lenguaje de programación, cada pequeño servicio que compone la aplicación puede estar escrito en un lenguaje de programación diferente, ya que se comunica con los otros a través de llamadas de API.

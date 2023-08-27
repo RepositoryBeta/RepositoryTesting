@@ -1,0 +1,4 @@
+texto 25
+
+Los asistentes virtuales o chatbots son una de las utilidades más conocidas de la PLN, pero no son la única. Además, es importante entender que el PNL no dota de inteligencia a un chatbot, sólo le da la capacidad de procesar y generar lenguaje humano. En caso de querer dotar de inteligencia a un asistente virtual, habría que utilizar sistemas como reglas o redes neuronales. Muchas veces cuando se habla de procesamiento de lenguaje natural, algunas personas únicamente lo relacionan con los chatbots.
+

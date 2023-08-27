@@ -1,0 +1,4 @@
+texto 77
+
+Así como existe una clasificación de las metaheurísticas, también existen varios tipos de búsquedas, tenemos la búsqueda simple, en esta búsqueda la metaheurística debe estar basada en un principio sencillo y claro; fácil de comprender. Tenemos la búsqueda precisa, los pasos y fases de la metaheurística deben estar formuladas en términos concretos. Por último, la búsqueda coherente, los elementos de la metaheurística deben deducirse naturalmente de sus principios.
+

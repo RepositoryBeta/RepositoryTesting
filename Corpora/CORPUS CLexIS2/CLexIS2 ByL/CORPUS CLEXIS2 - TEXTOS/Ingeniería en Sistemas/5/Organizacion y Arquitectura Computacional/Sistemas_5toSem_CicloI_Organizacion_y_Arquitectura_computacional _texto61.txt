@@ -1,0 +1,3 @@
+texto 61
+
+Voy a explicar cómo se ejecuta un programa que está escrito en un lenguaje que se llama ensamblador y le haremos funcionar dentro de una máquina que corresponde al esquema de Von Neumann, tenemos una zona de memorias,  la memoria principal está dividida en dos partes: datos  y órdenes de los programas, el otro elemento importante es la CPU la cual se divide en dos partes la unidad de control y la unidad de procesamiento.

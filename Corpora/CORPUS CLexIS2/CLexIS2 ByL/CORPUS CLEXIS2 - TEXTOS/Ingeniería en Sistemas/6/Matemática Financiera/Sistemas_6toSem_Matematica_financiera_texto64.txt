@@ -1,0 +1,6 @@
+﻿texto 64
+Entonces, para que entendamos rápidamente
+Cuando se da el último caso, quiere decir que el proyecto es rentable y se puede seguir adelante con él. Cuando se da el caso en el que queda tablas el proyecto es rentable por que se incorpora la ganancia TD pero hay que tener cuidado. Cuando se da el primer caso, el proyecto no es rentable y hay que buscar otras opciones.
+Debes escoger el proyecto que nos de la mejor ganancia adicional.
+
+

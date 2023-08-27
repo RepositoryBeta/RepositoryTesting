@@ -1,0 +1,5 @@
+texto 26
+
+¿Qué son los datos?
+Datos son flujos de elementos en bruto que representan los eventos que ocurren en las organizaciones o en el entorno físico antes de ordenarlos e interpretarlos en una forma que las personas puedan comprender y usar.
+Por Información nos referimos a los datos que se han modelado en una forma significativa y útil para los seres humanos. 

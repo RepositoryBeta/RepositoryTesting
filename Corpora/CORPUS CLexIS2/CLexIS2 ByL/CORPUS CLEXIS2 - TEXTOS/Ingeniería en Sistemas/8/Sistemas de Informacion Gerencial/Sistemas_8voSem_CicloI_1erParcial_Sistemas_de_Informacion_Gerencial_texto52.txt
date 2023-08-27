@@ -1,0 +1,5 @@
+texto 52
+
+Funciones fundamentales de los SI en los negocios:
+Apoyo en la toma de decisiones.
+Los sistemas de información también ayudan a los gerentes de las tiendas y a otros profesionales de los negocios a tomar mejores decisiones. Por ejemplo, las decisiones acerca de qué líneas de mercancías tienen que añadirse o descontinuarse, o qué tipo de inversión requieren, son realizadas por lo general después de un análisis proporcionado por los sistemas de información basados en cómputo.

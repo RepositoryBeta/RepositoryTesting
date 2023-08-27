@@ -1,0 +1,5 @@
+TEXTO 3
+
+Ahí está el análisis léxico en la cual se refleja la primera fase y lo tengo que comparar con mis etapas y les estoy pasando las diapositivas para que puedan compararlos. ¿Si ven? Para luego darme mi front-end, backend. Ya habíamos indicado front-end, back-end. Front-end  referente más a visual, a diseño y back-end más a la codificación interna. Entonces dicho esto vamos a hacer una pequeña comparación. 
+
+ 

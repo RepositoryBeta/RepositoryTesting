@@ -1,0 +1,6 @@
+TEXTO 33
+
+¿Si se fijan? ¿Cómo está yendo? ¿De izquierda a derecha o de derecha a izquierda? 
+De derecha a izquierda. 
+¿Verdad, está? 
+Sus docentes siempre tuvieron que haber enseñado que la máquina lee de derecha a izquierda pero, para hacer un análisis léxico tiene que ser de izquierda a derecha.

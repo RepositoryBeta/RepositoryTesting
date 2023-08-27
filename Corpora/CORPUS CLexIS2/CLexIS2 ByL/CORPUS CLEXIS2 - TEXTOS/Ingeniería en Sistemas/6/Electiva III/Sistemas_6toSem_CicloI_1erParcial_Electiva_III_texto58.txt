@@ -1,0 +1,4 @@
+texto 58
+
+En este tipo de esquema, la tabla de hechos está conectada por relaciones de clave externa con todas sus tablas de dimensiones, pero no estas entre sí. 
+Una evolución del esquema de estrella es el esquema en copo de nieve (snowflake schema). Mientras que las tablas de dimensiones de un esquema en estrella no están normalizadas, la información referencial en un esquema de copo de nieve se almacena según la tercera norma formal (3NF): los datos se clasifican y ordenan jerárquicamente y la información redundante se guarda en tablas separadas. Es así como se crean las estrellas ramificadas que recuerdan a la estructura interna de los copos de nieve.

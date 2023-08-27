@@ -1,0 +1,7 @@
+texto 38
+
+Cuando los datos se incorporan, se almacenan en varias tablas descritas por el esquema. Las herramientas de consulta usan el esquema para determinar a qué tablas de datos obtendrán acceso y cuáles de ellas analizarán.
+¿Cuáles son los beneficios de utilizar un almacenamiento de datos?
+Dentro de los beneficios de un almacenamiento de datos se incluyen los siguientes:
+1) Toma de decisiones fundamentadas.
+2) Datos consolidados provenientes de muchos orígenes.

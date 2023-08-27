@@ -1,0 +1,4 @@
+texto 29
+
+De ahí vienen los sistemas de soporte a la toma de decisiones, llamados DSS, estos sistemas brindan apoyo a la toma de decisiones que no es rutinaria. Se enfoca en problemas que son únicos y cambian con rapidez, para los cuales el proceso para llegar a una solución tal vez no esté por completo predefinido de antemano. Tratan de responder a preguntas como estas.
+

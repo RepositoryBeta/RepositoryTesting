@@ -1,0 +1,6 @@
+﻿texto 42
+Una anualidad es una sucesión de pagos periódicos iguales. Si los pagos son diferentes o alguno de ellos es diferente a los demás, la anualidad toma, según el caso, los nombres de anualidades variables o anualidades impropia.
+Anualidades fijas: generalmente se considera más conservador. Una anualidad fija proporciona pagos de ingresos fijos en dólares, respaldados por las garantías del contrato. El beneficiario no puede perder la inversión una vez que comienzan los pagos de ingresos. El monto de esos pagos no cambiará. Con anualidades fijas, la empresa asume el riesgo de inversión.
+
+
+

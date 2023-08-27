@@ -1,0 +1,5 @@
+﻿Texto 49
+
+Es fundamental tener en cuenta aspectos como: la estrategia de continuous delivery y el despliegue automatizado para poder abordar con garantías un proyecto de alta complejidad. Además, los desarrolladores tendrán que lidiar con factores como la latencia de la red, el balanceo de carga, la tolerancia a fallos, etc.
+
+Distribución: Los sistemas distribuidos son más complejos de programar ya que las llamadas remotas son lentas y están siempre en riesgo de fallo.

@@ -1,0 +1,3 @@
+﻿Texto 16
+
+Entonces, el término de escalabilidad no solo es crecer por crecer, sino crecer de manera ordenada. Entonces, los Sistemas Operativos Distribuidos de alguna u otra manera se caracterizan por tener esas propiedades que prácticamente nosotros se las implementamos. Como ven, hay un término que se llama replicación. Ésta es una de las características importantes de los Sistemas Operativos Distribuidos.

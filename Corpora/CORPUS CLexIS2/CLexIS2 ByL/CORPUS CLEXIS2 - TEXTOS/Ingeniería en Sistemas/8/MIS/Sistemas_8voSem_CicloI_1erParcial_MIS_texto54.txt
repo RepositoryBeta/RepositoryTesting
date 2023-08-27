@@ -1,0 +1,5 @@
+texto 54
+
+¿Cómo resuelve un dbms los problemas del entorno de archivos tradicionales?
+Un dbms reduce la redundancia e inconsistencia de los datos al minimizar los archivos aislados en los que se repiten los mismos datos. Tal vez un dbms no lo logre que la organización elimine del todo la redundancia de datos, pero puede ayudar a controlarla. Incluso si la organización mantiene ciertos datos redundantes.
+

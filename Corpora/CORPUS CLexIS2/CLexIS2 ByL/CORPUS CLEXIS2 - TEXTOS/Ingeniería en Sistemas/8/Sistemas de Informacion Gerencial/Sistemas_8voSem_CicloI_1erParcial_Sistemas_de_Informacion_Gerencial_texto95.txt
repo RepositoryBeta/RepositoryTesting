@@ -1,0 +1,4 @@
+texto 95
+
+Sistemas de soporte de decisión.
+Los sistemas DSS brindan apoyo a la toma de decisiones poco habituales, que no es rutinaria. Se enfocan en problemas que son de naturaleza única y que cambian con rapidez, para los cuales el proceso para llegar a una solución tal vez no esté por completo predefinido de antemano. El DSS es una de las herramientas más emblemáticas del BI ya que, entre otras propiedades, permiten resolver gran parte de las limitaciones de los programas de gestión.

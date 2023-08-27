@@ -1,0 +1,9 @@
+texto 89
+
+Los modelos de programación rígida en la ejecución de los procesadores de primera generación dejan poco margen para la flexibilidad en la gestión de software, ya sea la frecuencia o el costo en las transiciones de hipervisor hacia los huéspedes. 
+Debido a esto, VMWARE sólo aprovecha esta técnica en los procesadores de 64 bits que contengan estas características.
+Paravirtualizacion o virtualización asistida por sistemas operativos
+La paravirtualización se refiere a la comunicación entre el sistema operativo huésped y el hipervisor para mejorar el rendimiento y la eficiencia. 
+
+
+

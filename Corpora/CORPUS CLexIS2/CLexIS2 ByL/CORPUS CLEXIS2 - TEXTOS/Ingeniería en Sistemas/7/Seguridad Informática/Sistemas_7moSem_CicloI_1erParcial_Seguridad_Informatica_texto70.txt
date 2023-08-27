@@ -1,0 +1,5 @@
+texto 70
+
+Controles preventivos: refuerzan el sistema contra incidentes, generalmente reduciendo o eliminando vulnerabilidades. 
+Suministran autenticaciones fuertes de los usuarios de la nube, reduciendo la posibilidad de que usuarios no autorizados tengan acceso al sistema, y mejorando su identificación.
+Controles de detección: están destinados a detector y reaccionar adecuadamente a cualquier incidente que ocurra. 

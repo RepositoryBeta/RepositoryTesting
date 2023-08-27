@@ -1,0 +1,7 @@
+texto 42
+RAND: Devuelve un valor float aleatorio de 0 a 1.
+Las llamadas repetitivas de RAND en una única consulta producirán el mismo valor.
+SELECT RAND (6) AS ' ALEATORIO '
+Rand sobre los milisegundos actuales
+SELECT RAND (DATEPART (MS, GETDATE)) AS ' ALEATORIO '
+SELECT RAND (999999999) AS 'ALEATORIO'.

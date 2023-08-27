@@ -1,0 +1,2 @@
+TEXTO 71
+Diagrama de interacción - Control estructurado: Así como el flujo de control pose operadores también lo poseen el orden dentro del cual tenemos los siguientes: Seq, Strict, Critical. Así mismo existen operadores de interacción dado la casualidad dentro del cual tenemos los siguientes: Assert, neg e ignore. Todos estos operadores de interacción principal pertenecen al control estructurado dado en el diagrama de interacción. 

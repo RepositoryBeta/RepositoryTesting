@@ -1,0 +1,8 @@
+﻿texto 12
+Fórmula Interés Simple
+A continuación vamos a ver la fórmula del interés simple y sus componentes:
+VF = VA (1 + n * i).
+VF = Valor Futuro.
+VA = Valor Actual.
+i = Tasa de interés.
+n = Periodo de tiempo.

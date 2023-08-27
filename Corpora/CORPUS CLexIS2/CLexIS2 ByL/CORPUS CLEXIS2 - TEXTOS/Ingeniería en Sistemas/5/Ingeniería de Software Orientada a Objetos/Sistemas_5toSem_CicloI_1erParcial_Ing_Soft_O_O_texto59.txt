@@ -1,0 +1,2 @@
+TEXTO 59
+Diagrama de secuencia: Existen las flechas, organizan cronológicamente hacia abajo, en el diagrama síncrono se muestra mediante flechas de punta abierta, una llamada síncrona se muestra con una punta de flecha triangular rellena asíncrono, hace referencia a independiente y síncrona, hace referencia a realizarlos juntos para el caso de la programación, estos dos conceptos el asíncrono y síncrono significan lo mismo.

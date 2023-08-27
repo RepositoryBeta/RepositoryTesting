@@ -1,0 +1,3 @@
+texto 26
+
+Por ello, debe existir un sitio para almacenar temporalmente tanto las instrucciones como los datos, ese módulo se llama memoria, o memoria principal para distinguirlo de los periféricos y la memoria externa. Von Neumann indicó que la misma memoria puede ser usada tanto para las instrucciones como para los datos.

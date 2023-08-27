@@ -1,0 +1,7 @@
+texto 46
+
+Jerarquía o cadena escalar
+Representa la cadena de mando, quién manda a quién, hay que respetarla dirigiéndose al inmediato superior / inferior, como dice esto representa a la cadena de mando esto lo vemos claramente en los organigramas.
+
+
+

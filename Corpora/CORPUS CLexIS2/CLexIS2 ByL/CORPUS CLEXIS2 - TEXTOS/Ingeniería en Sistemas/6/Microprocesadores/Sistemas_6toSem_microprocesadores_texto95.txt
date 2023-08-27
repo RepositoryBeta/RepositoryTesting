@@ -1,0 +1,8 @@
+texto 95
+
+Técnicas de virtualización
+Para comprender los retos que tuvo que afrontar la virtualización debemos tener en cuenta que:
+Los sistemas operativos están diseñados para ejecutarse directamente en el hardware (sobre el propio componente físico o metal desnudo), asumiendo que es lo mejor. Como muestra la figura una arquitectura x86 ofrece cuatro niveles de privilegio (anillos 0, 1, 2 y 3) a los sistemas operativos y aplicaciones para gestionar el acceso al hardware y periféricos.
+
+
+

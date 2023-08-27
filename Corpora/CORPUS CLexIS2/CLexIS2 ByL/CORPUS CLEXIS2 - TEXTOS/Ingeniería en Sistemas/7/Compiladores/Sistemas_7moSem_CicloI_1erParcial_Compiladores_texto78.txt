@@ -1,0 +1,3 @@
+TEXTO 78
+
+En estos analizadores existe algo de lo que se llama la parte gramatical, en la parte gramatical también maneja los tipos de lenguajes como el c o el c ++ y luego hace una función de tantos lenguajes tanto como pequeños como lenguaje de alto nivel como como como java o C sharp.  Es la unión de todos los lenguajes. Un analizador puede empezar con el símbolo inicial e intentar transformarlo en la entrada, intuitivamente esto sería ir dividiendo la entrada progresivamente en partes cada vez más pequeñas.

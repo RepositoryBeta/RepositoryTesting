@@ -1,0 +1,5 @@
+﻿Texto 25
+
+El tema de servicios basado en las APIS, es para diseñar o cubrir una necesidad de negocio. Cuando hablamos de APIS, nos referimos de interfaces de programación que me permiten interactuar con las herramientas. Entonces, cuando hablamos del término API, de servicios Rest, servicios Web o GRPC.
+
+Un servicio es un programa de software que hace que su funcionalidad esté disponible a través de una API publicada que forme parte de un contrato de servicio.

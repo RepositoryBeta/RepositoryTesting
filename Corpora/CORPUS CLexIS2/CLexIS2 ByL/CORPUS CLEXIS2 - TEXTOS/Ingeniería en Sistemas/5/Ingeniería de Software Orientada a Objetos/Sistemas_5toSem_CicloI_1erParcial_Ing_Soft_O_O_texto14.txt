@@ -1,0 +1,2 @@
+TEXTO 14
+Un objeto tiene conducta, la conducta determina como un objeto actúa y reacciona como ya se conoce un objeto tiene atributos que generan acciones. La conducta visible de un objeto es modelada por un conjunto de mensajes que corresponden a las operaciones que el objeto realiza. El objeto presenta una conducta o comportamiento, esta conducta son las acciones correspondientes al objeto algunas actividades.

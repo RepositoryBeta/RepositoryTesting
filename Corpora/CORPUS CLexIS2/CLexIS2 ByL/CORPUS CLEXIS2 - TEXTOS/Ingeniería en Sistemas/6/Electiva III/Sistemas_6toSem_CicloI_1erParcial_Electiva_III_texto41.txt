@@ -1,0 +1,4 @@
+texto 41
+
+Entre las fuentes típicas de datos transaccionales se cuentan sistemas de administración de datos como los programas de contabilidad, los sistemas de gestión de mercancías, los sistemas de planificación de recursos de empresa (ERP) o los sistemas de ayuda y pedido.
+Datos útiles: Son los datos que resultan cuando los datos operativos de uso cotidiano se agrupan, guardan, depuran y preparan para el análisis en un lugar central separado.

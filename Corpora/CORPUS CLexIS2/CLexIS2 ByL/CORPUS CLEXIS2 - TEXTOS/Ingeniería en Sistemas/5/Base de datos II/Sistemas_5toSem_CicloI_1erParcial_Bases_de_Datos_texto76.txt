@@ -1,0 +1,4 @@
+texto 76
+Estas BBDD utilizan sus propios lenguajes de consulta de datos y APIs, por lo que no tienen una gran interoperabilidad (por ejemplo dificultad de migraciones de una BBDD a otra, integración con aplicaciones, consultas heredadas en SQL, etc.).
+No hay estandarización para este tipo de BBDD, algo que sí es un punto fuerte de las relacionales.
+Las Bases de Datos NOSQL funcionan ampliamente en máquinas Linux, pero no existe en general soporte a otros Sistemas Operativos.

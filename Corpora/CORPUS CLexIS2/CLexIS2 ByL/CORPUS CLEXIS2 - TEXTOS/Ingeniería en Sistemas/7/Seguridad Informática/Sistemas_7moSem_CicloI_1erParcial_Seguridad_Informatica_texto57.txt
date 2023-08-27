@@ -1,0 +1,5 @@
+texto 57
+
+El Hardening consiste en el endurecimiento del sistema, con el fin de reducir y evitar las amenazas y los peligros de este.
+Hardening o también llamado endurecimiento informático, es el término que se le da al proceso de reducción de vulnerabilidades en el sistema. Esto se consigue, estableciendo unas medidas de seguridad con el objetivo de estar preparados ante un ataque informático.
+El Hardening consiste en el endurecimiento del sistema, con el fin de reducir y evitar las amenazas y los peligros de este.

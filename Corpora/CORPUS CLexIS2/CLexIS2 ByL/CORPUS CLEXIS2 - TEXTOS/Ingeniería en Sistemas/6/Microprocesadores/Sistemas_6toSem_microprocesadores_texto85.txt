@@ -1,0 +1,10 @@
+texto 85
+
+La lógica de control comprueba el contenido del contador de palabras y finaliza la operación cuando alcanza el valor 0. 
+Un decodificador se encargará de identificar la dirección de memoria asignada al DMA. La CPU debe enviar, pues, la siguiente información al DMA cuando quiera realizar una operación de E/S: 
+1) El sentido de la operación de E/S: lectura o escritura.
+2) La dirección del periférico.
+3) La posición de memoria donde comienza el bloque a leer o escribir.
+
+
+

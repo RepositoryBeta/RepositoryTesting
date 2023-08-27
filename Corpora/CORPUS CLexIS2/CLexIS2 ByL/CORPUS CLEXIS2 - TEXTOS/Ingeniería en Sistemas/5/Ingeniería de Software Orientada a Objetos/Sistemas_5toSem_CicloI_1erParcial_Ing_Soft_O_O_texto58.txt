@@ -1,0 +1,2 @@
+TEXTO 58
+Diagrama de secuencia: Durante el tiempo que existe un objeto de la línea de vida se representa con una línea discontinua durante el tiempo, que la ejecución de la especificación de un procedimiento, sobre el objeto está activo, la línea de vida se representa con una línea doble. Un diagrama de secuencia sólo muestra secuencia de mensaje y no intervalos exactos de tiempo, un mensaje se muestra como una flecha desde la línea de vida de un objeto la línea de vida del otro.

@@ -1,0 +1,3 @@
+texto 81
+Baja estandarización: No se tiene un criterio plenamente definido entre los motores que se utilizan en este tipo de base de datos. El lenguaje tiende a variar según el tipo de base de datos que se vaya a utilizar.
+Herramientas GUI: la mayoría de las bases de datos NOSQL no contienen una interfaz gráfica. Requiere conocimiento especial para poder ejecutar algunas de ellas.

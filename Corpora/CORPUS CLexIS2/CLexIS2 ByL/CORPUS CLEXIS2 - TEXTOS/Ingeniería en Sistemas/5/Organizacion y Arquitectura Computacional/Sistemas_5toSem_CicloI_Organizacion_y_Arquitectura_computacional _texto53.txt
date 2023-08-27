@@ -1,0 +1,3 @@
+texto 53
+
+Una vez terminada de ejecutar la segunda instrucción del programa ADD 101 sigue el turno de la tercera instrucción del programa STORE 102, el ciclo de captación comienza cuando la unidad de control toma la dirección del PC y lo copian el MAR luego solicita a la memoria el contenido de esta posición a través del bus de direcciones e indica la orden de lectura a través del control, la memoria devuelve la instrucción STORE 102 que está almacenada en la posición 2 a través del bus de datos y lo deposita en el MBR.

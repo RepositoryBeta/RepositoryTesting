@@ -1,0 +1,3 @@
+TEXTO 52
+
+Acuérdese que el léxico lee de izquierda a derecha que es importante que tú recuerdes en la parte léxica, que veas lo que se va a eliminar, si ven comentarios el léxico lo elimina y si ve tabuladores o el retorno de carro también los elimina, reconoce los identificadores de usuarios, número de palabras, lenguajes, todo esto lo identifica, avisa los errores léxicos. Por ejemplo se utiliza un carácter arroba que significa si utilizó un carácter arroba me va a decir que ese arroba es ese error. 

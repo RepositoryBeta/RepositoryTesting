@@ -1,0 +1,7 @@
+texto 62
+
+Por lo que es recomendable, dotar a los trabajadores de cursos de seguridad y concienciación.
+En CISET, podemos orientarte, para reforzar la seguridad informática de tus sistemas.
+Consulte la información e infórmate de como nuestro servicio de Hardening de usuarios puede ayudar a la seguridad de su empresa concienciando a sus trabajadores en buenas prácticas sobre seguridad informática.
+Medidas que pueden seguirse a nivel usuario:
+No abrir archivos desconocidos.

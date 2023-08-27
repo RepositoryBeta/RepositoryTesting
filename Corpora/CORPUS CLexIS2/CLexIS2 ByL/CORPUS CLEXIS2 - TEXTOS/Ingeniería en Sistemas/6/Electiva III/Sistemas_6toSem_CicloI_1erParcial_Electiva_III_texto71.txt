@@ -1,0 +1,7 @@
+texto 71
+
+Tareas centrales de este gestor de DWH son la planificación (scheduling) de los procesos y la gestión de los metadatos, de la seguridad y del sistema. Scheduling: la planificación engloba el control de los procesos en el almacén de datos. Las funciones de administración en esta sección se pueden organizar en la siguientes categorías en relación con los tres niveles de la arquitectura del almacén.
+
+
+
+ Registro e integración de los datos: en el nivel de recogida de datos, el gestor es responsable del diseño y del ajuste de los procesos ETL, así como de supervisar las actualizaciones y la gestión de la calidad.

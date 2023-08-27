@@ -1,0 +1,14 @@
+texto 15
+Su sintaxis es: 
+CREATE TABLESPACE nb_tablespace
+DATAFILE ‘nb_archivo’ [SIZE entero [K|M][REUSE]]
+[AUTOEXTEND {OFF|ON claúsulas}]
+[‘nb_archivo’ [SIZE entero [K|M][REUSE]
+[AUTOEXTEND {OFF|ON claúsulas}], ]
+[DEFAULT STORAGE
+(INITIAL tamaño
+NEXT tamaño
+MINEXTENTS tamaño
+MAXEXTENTS tamaño
+PCTINCREASE valor )]
+[ONLINE|OFFLINE].

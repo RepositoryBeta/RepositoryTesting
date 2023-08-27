@@ -1,0 +1,4 @@
+texto 93  
+Principales bases de datos NOSQL.
+Ya conocimos las características de las bases de datos NOSQL, que son y en qué se diferencian de las SQL, ahora te contaremos sobre las principales bases de datos de este tipo.
+Cassandra: Esta base de datos está basada en un modelo de almacenamiento clave–valor, de código abierto que está escrita en Java. Permite grandes volúmenes de datos en forma distribuida. Esta base la usan Twitter, Apple, Facebook, Netflix y Soundcloud, entre otros. La arquitectura de Cassandra está basada en una serie de nodos iguales que se comunican con un protocolo P2P. Está desarrollada por Apache Software Foundation.

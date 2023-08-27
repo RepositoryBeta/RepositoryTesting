@@ -1,0 +1,3 @@
+texto 79
+
+Esta transferencia de datos se da entre la memoria hacia los registros internos del proceso y viceversa porque va en sentido bidireccional, en un momento en un sentido y en algún otro momento en otro sentido, también se usan para pasar datos de un registro a otro dentro del microprocesador, existen algunas instrucciones que permiten mover no solo un dato, sino un conjunto de hasta 64 kByte con una sola instrucción.

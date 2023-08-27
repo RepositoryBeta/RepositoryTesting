@@ -1,0 +1,5 @@
+﻿Texto 52
+
+Y lo que en un principio hablar de contratos con REST era hablar de una ausencia de estándares ahora ya no es así, tenemos Swagger, el que parece que se está imponiendo y también RAML o API Blueprint.
+
+Pero, este principio va más allá de tener en cuenta el contract first y un formato de contrato estándar. También, significa el usar un lenguaje común en la aplicación (o conjunto funcional de servicios) y también en la empresa.

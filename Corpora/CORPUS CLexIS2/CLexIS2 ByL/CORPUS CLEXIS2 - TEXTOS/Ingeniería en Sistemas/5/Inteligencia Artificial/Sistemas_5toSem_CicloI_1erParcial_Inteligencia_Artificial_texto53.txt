@@ -1,0 +1,4 @@
+texto 53
+
+Aprendizaje automático, bueno esta parte de aquí es cuando le comentaba que ya se basaba en metaheurística y aprendizaje automático, metaheurística es aleatoria y aprendizaje automático es la forma en la que usted ve inteligencia artificial pero basado en estadística, aquí si yo pongo matemáticamente qué es lo que yo debo hacer para tomar una decisión, eso que yo no voy a hacer en aleatorio buscando un conjunto de solución, yo voy a hacerlo sin soluciones a ver qué me sale.
+

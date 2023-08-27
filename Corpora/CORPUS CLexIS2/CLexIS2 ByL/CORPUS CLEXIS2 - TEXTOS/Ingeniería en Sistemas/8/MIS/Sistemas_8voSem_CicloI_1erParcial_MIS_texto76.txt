@@ -1,0 +1,4 @@
+texto 76
+
+Una infraestructura contemporánea para la inteligencia de negocios tiene una variedad de herramientas para obtener información útil de todos los tipos diferentes de datos que usan las empresas en la actualidad, incluyendo Big Data semiestructurados y no estructurados en grandes cantidades. Estas capacidades incluyen almacenes de datos y mercados de datos, Hadoop, computación en memoria y plataformas analíticas. Algunas de estas capacidades están disponibles como servicios en la nube.
+

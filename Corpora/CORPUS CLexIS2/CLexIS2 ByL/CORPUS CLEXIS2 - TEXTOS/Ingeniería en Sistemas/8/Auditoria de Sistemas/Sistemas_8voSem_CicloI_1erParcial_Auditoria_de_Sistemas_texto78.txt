@@ -1,0 +1,6 @@
+texto 78
+
+Programas de verificación 
+Programas elaborados por desarrolladores: Son desarrollados previamente por distribuidores y fabricantes de software, de acuerdo con una necesidad. 
+Programas elaborados por el auditor: El auditor de sistemas determina de acuerdo con su experiencia, conocimientos y necesidades de evaluación, el programa que va a utilizar.
+

@@ -1,0 +1,5 @@
+texto 58
+
+Así mismo tenemos una definición del otro tipo, nos dice, Aprendizaje no supervisado:
+Por el contrario, en el caso del aprendizaje no supervisado, lo que se lleva a cabo es un entrenamiento de la computadora mediante patrones que no han sido etiquetados ni clasificados con anterioridad. Lo que implica un mayor esfuerzo, pero permite al ordenador identificar los patrones por sí mismo en el futuro.
+

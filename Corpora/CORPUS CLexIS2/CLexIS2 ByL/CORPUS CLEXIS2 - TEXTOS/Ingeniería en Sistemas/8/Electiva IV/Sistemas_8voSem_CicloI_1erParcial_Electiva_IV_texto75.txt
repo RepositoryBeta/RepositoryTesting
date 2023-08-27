@@ -1,0 +1,3 @@
+texto 75
+
+Un Fragment representa un comportamiento o una parte de la interfaz de usuario en una Fragmentactivity. Puedes combinar varios fragmentos en una sola actividad para crear una IU multipanel y volver a usar un fragmento en diferentes actividades. Puedes pensar en un fragmento como una sección modular de una actividad que tiene un ciclo de vida propio, que recibe sus propios eventos de entrada y que puedes agregar o quitar mientras la actividad se esté ejecutando (algo así como una subactividad que puedes volver a usar en diferentes actividades).

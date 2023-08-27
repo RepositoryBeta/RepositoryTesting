@@ -1,0 +1,3 @@
+﻿texto 51
+
+Imaginemos que yo conozco, yo tengo una base de datos y esa base de datos ya está llena, ya alguien ya la ha trabajado, cuando yo tengo una base datos, entonces yo puedo directamente trabajar, yo puedo obtener el tamaño, imagine, porque tengo una base de datos de 100000 elementos pero es muy grande esa base de datos, por lo tanto yo quiero determinar cierta cantidad de elementos de esa base de datos de ahí, determinar una muestra y de repente sale que la muestra es de 300 elementos.

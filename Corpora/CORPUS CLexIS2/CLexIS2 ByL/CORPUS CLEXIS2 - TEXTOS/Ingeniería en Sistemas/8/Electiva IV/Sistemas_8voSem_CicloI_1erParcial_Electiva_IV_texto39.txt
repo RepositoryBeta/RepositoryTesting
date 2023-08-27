@@ -1,0 +1,6 @@
+texto 39
+
+Android: Elementos principales de la estructura.
+1) Se debe distinguir son los conceptos de proyecto y módulo.
+2) La entidad proyecto es única, y engloba todos los demás elementos.
+3) Dentro de un proyecto se pueden y podemos incluir varios módulos, que pueden representar aplicaciones distintas, versiones diferentes de una misma aplicación.

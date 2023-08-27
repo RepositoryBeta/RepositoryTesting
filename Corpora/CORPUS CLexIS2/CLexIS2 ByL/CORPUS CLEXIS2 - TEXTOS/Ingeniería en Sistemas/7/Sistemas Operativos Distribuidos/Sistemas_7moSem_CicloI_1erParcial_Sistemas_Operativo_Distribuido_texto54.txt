@@ -1,0 +1,5 @@
+﻿Texto 54
+
+El poner de acuerdo a toda la organización para usar un mismo lenguaje es una tarea casi imposible, como se ha visto estos años, pero también pierde un poco de sentido. Si tenemos este lenguaje común perderemos parte de esta independencia de los microservicios.
+
+En definitiva, el concepto de contract first y del contrato en sí mismo, mantiene toda su vigencia, incluso se ha visto en la práctica cómo los servicios REST se han dotado de un formato estándar de contrato del que carecían. Así pues este principio de SOA, aplicado a microservicios, sigue vivo, muy vivo.

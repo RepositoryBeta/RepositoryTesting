@@ -1,0 +1,9 @@
+texto 99
+¿Qué son los modos de incumplimiento de contrato?
+El incumplimiento puede ser:
+Total: Cuando el deudor simplemente no realiza la prestación debida. Ósea, cuando no paga nada.
+Parcial: Cuando el deudor cumpla sólo con parte de la prestación. A su vez, cumplimiento parcial puede deberse:
+1) Cuando falta algún elemento que configura la prestación.
+2) Cuando uno o varios elementos de la prestación se hallan incompletos.
+Tardío: Cuando el deudor cumple con la prestación, pero fuera del tiempo acordado o legal.
+Esto ocurre cuando la obligación está sujeta a un plazo extintivo.

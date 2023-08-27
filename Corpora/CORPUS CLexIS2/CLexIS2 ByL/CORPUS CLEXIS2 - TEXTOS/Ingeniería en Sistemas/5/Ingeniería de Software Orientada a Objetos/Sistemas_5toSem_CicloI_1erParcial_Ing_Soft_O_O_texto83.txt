@@ -1,0 +1,2 @@
+TEXTO 83
+En los diagramas de secuencia: Identificar los actores, la entidad, el UML no es un método, existen algunas metodologías para la UML,  el catalysis, Booch, etc. El diagrama de estado es un diagrama gráfico de la UML para la notación de la descripción,  esas gráficas son extensiones del modelado de la máquina del estado finito, eso va a ayudar a que satisfaga un objeto. Por ejemplo: Un diagrama de estado UML para la clase incidentes.

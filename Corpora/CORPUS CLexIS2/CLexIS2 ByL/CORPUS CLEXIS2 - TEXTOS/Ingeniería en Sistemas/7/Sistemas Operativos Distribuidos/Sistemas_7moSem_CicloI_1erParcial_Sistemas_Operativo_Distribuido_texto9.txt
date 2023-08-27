@@ -1,0 +1,3 @@
+﻿Texto 9
+
+La capa Middleware provee herramientas como conectores a base de datos, les permite herramientas como para manejar colas, mensajería o caché distribuido (algo muy parecido a la memoria de las computadoras pero distribuidas) y muchas cosas más. Esa es la capa Middleware.

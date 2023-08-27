@@ -1,0 +1,4 @@
+texto 11
+
+Hablamos de seguridad de Hardware cuando adoptamos medidas para proteger todos nuestros elementos físicos de posibles daños de cualquier índole. Es muy similar al concepto de seguridad física, pero la complementa al incluir mecanismos adicionales de protección como por ejemplo el uso de SAI, o sistemas de alimentación ininterrumpida que protegen a nuestros equipos físicos de sobre tensiones o de faltas de alimentación.
+Engloba también todo tipo de redundancias a nivel físico de los servidores para garantizar su correcto funcionamiento de forma ininterrumpida.

@@ -1,0 +1,2 @@
+TEXTO 37
+Preparación de los equipos: En la preparación de los equipos, el siguiente paso en el inicio del proyecto, desarmar los equipos que elaborarán los productos a entregar, pueden asignarse todos los actores, desarrolladores que trabajaran en el proyecto de una vez (contratación llana) o el proyecto puede crecer en forma gradual contratando personal conforme se necesita (contratación gradual). Existen muchos proyectos que fracasan por no manejar bien la preparación de los equipos.

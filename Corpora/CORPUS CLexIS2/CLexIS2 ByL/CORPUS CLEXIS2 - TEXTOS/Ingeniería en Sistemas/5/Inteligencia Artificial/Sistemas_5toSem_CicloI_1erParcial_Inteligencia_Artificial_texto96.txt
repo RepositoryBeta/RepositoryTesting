@@ -1,0 +1,4 @@
+texto 96
+
+Los MA son técnicas de optimización que combinan sinérgicamente conceptos tomados de otras metaheurísticas, tales como la búsqueda basada en poblaciones (como en los algoritmos evolutivos), y la mejora local (como en las técnicas de seguimiento del gradiente). Los MA son metaheurísticas basadas en población, tienen un conjunto de soluciones candidatas para el problema considerado. De acuerdo a la jerga utilizada en los algoritmos evolutivos, a cada una de estas soluciones tentativas se les conoce como individuos.
+

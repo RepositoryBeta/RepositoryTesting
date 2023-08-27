@@ -1,0 +1,8 @@
+texto 83
+
+Continuando con los elementos de un activity, tenemos: 
+9) Background: Color de fondo.
+10) Longclickable: Mantener pulsado. Ideal para copiar texto.
+11) Hint: Valores virtuales que se ponen en un elemento, al colocar el cursor sobre el elemento, el valor desaparecerá visualmente.
+12) InputType: Mascara de entrada de un elemento.
+13) Cursovisible: Cursor visible de manera lantente.

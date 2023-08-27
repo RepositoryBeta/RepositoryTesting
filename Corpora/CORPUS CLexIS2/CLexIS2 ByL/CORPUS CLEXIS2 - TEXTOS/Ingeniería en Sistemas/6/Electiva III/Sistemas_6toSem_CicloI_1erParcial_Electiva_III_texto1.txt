@@ -1,0 +1,3 @@
+texto 1
+
+La Inteligencia de Negocios o Business Intelligence (BI) se puede definir como el proceso de analizar los bienes o de datos  acumulados en la empresa y extraer una cierta inteligencia o conocimiento de ellos. Dentro de la categoría de bienes se incluyen las bases de datos de clientes, información de la cadena de suministro, ventas personales y cualquier actividad de marketing o fuente de información relevante para la empresa.

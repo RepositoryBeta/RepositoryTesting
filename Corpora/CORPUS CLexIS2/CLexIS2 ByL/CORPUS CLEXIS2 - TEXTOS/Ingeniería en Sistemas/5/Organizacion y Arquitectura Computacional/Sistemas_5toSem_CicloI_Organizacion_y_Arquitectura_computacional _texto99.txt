@@ -1,0 +1,4 @@
+texto 99
+
+Reloj de sistema
+Toda computadora contiene un reloj del sistema, este reloj es accionado por un  cristal de cuarzo que al momento de aplicarle electricidad las moléculas en el cristal vibran muchas veces cada segundo. Las vibraciones son usadas por la computadora para medir sus operaciones de procesamiento. Al paso de los años las velocidades de los relojes se han incrementado constantemente la primera PC operaba a 4.77 Megahertz.

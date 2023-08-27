@@ -1,0 +1,4 @@
+texto 98
+
+Proceso de servicio: (Service process).
+Hospeda un servicio que ha sido inicializado con el método startservice. Aunque estos procesos no son directamente visibles al usuario, generalmente están haciendo tareas que para el usuario son importantes (tales como reproducir un archivo mp3 o mantener una conexión con un servidor de contenidos). El sistema siempre tratará de mantener esos procesos corriendo, a menos que los niveles de memoria comiencen a comprometer el funcionamiento de los procesos de primer plano o visibles.

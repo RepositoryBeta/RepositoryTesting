@@ -1,0 +1,8 @@
+texto 94
+
+La importancia de la auditoría del entorno de bases de datos radica en que es el punto de partida para poder realizar la auditoría de las aplicaciones que utiliza esta tecnología.
+La Auditoría de BD es importante porque:
+- Toda la información financiera de la organización reside en bases de datos y deben existir controles relacionados con el acceso a las mismas.
+- Se debe poder demostrar la integridad de la información almacenada en las bases de datos.
+- Las organizaciones deben mitigar los riesgos asociados a la pérdida de datos y a la fuga de información.
+

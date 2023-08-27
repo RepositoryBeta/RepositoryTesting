@@ -1,0 +1,3 @@
+TEXTO 55
+
+Bien, ustedes ya saben compilar pero también conocen que existen herramientas que le permiten compilar de una manera más rápida ahora entienden porque los distintos lenguajes de programación, el profesor o en la referencia que ustedes han tenido le dicen compile primero y luego que compila y ejecuta internamente lo que hace el compilador compila la mayor velocidad posible. Recuerden que en los años 40 antes de que el hombre descubriera la luna, no había computadoras había las personas que hacían cálculos matemáticos y demoraban en hacer esos cálculos y ya luego vino la máquina IBM para hacer esos cálculos miren como hemos ido avanzando tan rápido.

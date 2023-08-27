@@ -1,0 +1,4 @@
+texto 94
+
+Sistemas de información gerencial.
+Los MIS dan servicio a la gerencia intermedia proporcionando informes sobre el desempeño actual de la organización. Esta información se utiliza para supervisar y controlar la empresa y pronosticar su desempeño futuro. Los MIS resumen e informan sobre las operaciones básicas de la empresa utilizando los datos aportados por los sistemas de procesamiento de transacciones TPS. Esos datos de los TPS se comprimen y por lo general se presentan en informes que se producen con regularidad.

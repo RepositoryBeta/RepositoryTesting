@@ -1,0 +1,4 @@
+texto 51
+
+Si los usuarios encuentran valores desiguales de la misma pieza de información en dos sistemas diferentes, tal vez no quieran usar estos sistemas debido a que no pueden confiar en la precisión de sus datos. ¿Cuáles son las principales capacidades de los sistemas de administración de base de datos (DBMS) y por qué es tan poderoso un dbms relacional? La tecnología de las bases de datos resuelve mucho de los propósitos de la organización de los archivos tradicionales.
+

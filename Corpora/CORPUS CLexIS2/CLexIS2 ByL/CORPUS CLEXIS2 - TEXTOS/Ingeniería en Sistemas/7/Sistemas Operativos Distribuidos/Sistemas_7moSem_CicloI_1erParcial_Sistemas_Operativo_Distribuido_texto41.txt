@@ -1,0 +1,5 @@
+﻿Texto 41
+
+Service Discoverability (Descubrimiento)
+
+Todo servicio debe poder ser descubierto de alguna forma para que pueda ser utilizado, consiguiendo así evitar la creación accidental de servicios que proporcionen las mismas funcionalidades, en el caso de los Servicios Web, el descubrimiento se logrará publicando los interfaces de los servicios en registros UDDI.

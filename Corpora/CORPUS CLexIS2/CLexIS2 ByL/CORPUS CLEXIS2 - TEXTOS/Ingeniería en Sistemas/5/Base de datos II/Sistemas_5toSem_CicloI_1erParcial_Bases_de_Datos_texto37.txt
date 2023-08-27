@@ -1,0 +1,5 @@
+texto 37
+SQL FULL JOIN: FULL JOIN sirve para combinar los valores de la primera tabla con los valores de la segunda tabla. Siempre devolverá las filas de las dos tablas.
+SQL UNION: UNION es utilizada para acumular los resultados de dos sentencias SELECT.
+SQL UNION ALL: SQL UNION ALL es utilizada para acumular los resultados de dos sentencias SELECT, incluso aparecerán las filas que estén repetidas.
+SQL SELECT INTO: SELECT INTO se utiliza para copiar datos de una tabla en otra tabla diferente.

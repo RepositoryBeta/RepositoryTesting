@@ -1,0 +1,7 @@
+texto 83
+
+Tenemos algunas ventajas de este algoritmo, que son:
+1) Es un esquema muy sencillo.
+2) Transforma problema complejo en uno que se pueda resolver con mayor facilidad, porque lo divide en subpartes.
+3) Es una metaheurística que ayuda bastante en los problemas de optimización combinatoria.
+

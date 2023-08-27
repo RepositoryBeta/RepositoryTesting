@@ -1,0 +1,3 @@
+texto 80
+
+Proceso de Extracción del Conocimiento (KnowledgeDiscovery in Databases (KDD)). El proceso KDD lo podemos definir como (el proceso no trivial de identificar patrones válidos, novedosos y potencialmente útiles y en última instancia, comprensible a partir de los datos). Este proceso también es conocido por diferentes nombres que podrían ser sinónimos del mismo, entre los cuales se encuentran Data Archeology ,DependencyFunctionAnalysis, InformationRecollect, Pattern Data Analysis o KnowledgeFishing.

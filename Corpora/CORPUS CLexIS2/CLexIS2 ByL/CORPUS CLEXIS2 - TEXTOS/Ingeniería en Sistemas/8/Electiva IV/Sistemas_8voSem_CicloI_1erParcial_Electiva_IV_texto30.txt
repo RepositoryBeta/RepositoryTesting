@@ -1,0 +1,3 @@
+texto 30
+
+Tenemos algunas consideraciones para el desarrollo, que son: pequeña capacidad de procesamiento, memoria ram limitada, memoria permanente de poca capacidad, pantallas pequeñas de poca resolución, transferencia de datos costosa y lenta en términos energía y económicos, inestabilidad de las conexiones de datos, batería muy limitada y necesidad de terminar la aplicación en cualquier momento. Cuando yo estoy realizando un proyecto en android, necesito evaluar todas estas cosas.

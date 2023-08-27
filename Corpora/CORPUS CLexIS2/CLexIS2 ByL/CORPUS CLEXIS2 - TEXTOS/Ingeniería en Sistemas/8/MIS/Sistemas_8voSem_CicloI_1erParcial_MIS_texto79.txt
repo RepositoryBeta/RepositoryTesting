@@ -1,0 +1,4 @@
+texto 79
+
+Continuando con los almacenes de datos y mercado de datos nos dice que , el almacén de datos ponen los datos a disposición de todos según sea necesario, pero no se puede alterar. Un sistema de almacén de datos también provee un rango de herramientas de consulta ad hoc las cuales son consultas específicas y estandarizadas, herramientas analíticas y facilidades de informes gráficos. Los almacenes de datos y los mercados de datos es toda la información que hay en una determinada empresa.
+

@@ -1,0 +1,2 @@
+TEXTO 98
+En los años 40 empezó, donde crean nemotécnicos para las operaciones binarias, desde ahí empezó, que era utilizar los equipos para traducirlos a código máquina, en los años 50 nace en los lenguajes de alto nivel como C++, python. El primer compilador fue fortran en 1950 y fue IBM en los años sesenta fue el principio del diseño de los compiladores, en los años setenta y aparecieron los lenguajes de alto nivel como Pascal y C.

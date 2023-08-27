@@ -1,0 +1,2 @@
+TEXTO 66
+Los diagramas de interacción tiene como elementos a los objetos o roles que son las instancias de clases e interfaces componentes y nodos, también tiene actores, enlaces, mensajes, opcionalmente pueden incluir anotaciones, que son comentarios y restricciones. Traducir estas anotaciones pueden ser incluidas como también pueden que no estén incluidas, en los diagramas de interacción para todos los elementos anteriores no es válida esta observación.

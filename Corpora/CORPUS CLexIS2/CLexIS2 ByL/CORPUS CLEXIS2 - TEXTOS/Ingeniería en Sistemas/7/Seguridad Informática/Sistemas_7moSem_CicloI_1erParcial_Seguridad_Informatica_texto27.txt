@@ -1,0 +1,7 @@
+texto 27
+
+Como protegerse del ataque Man in the Middle:
+- Utilice un sistema de cifrado fuerte entre cliente servidor mediante un certificado digital.
+- Evite que los usuarios puedan conectarse a una red wifi abierta.
+Ataque de día cero
+Este tipo de ataque afecta directamente al ordenador, donde tratan de explotar las vulnerabilidades que no han sido detectadas e informadas a la audiencia, por lo anterior son vulnerabilidades desconocidas y que se presentan si aún no se cuenta con una actualización o parche que lo proteja de la vulnerabilidad.

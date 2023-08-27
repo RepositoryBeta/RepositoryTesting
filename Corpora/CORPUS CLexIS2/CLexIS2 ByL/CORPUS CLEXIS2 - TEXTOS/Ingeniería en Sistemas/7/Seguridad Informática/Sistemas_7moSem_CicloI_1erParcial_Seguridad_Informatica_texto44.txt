@@ -1,0 +1,6 @@
+texto 44
+
+Seguridad de dispositivos móviles
+Los ciberdelincuentes cada vez se centran más en los dispositivos y las aplicaciones móviles. En los próximos 3 años, el 90 por ciento de las organizaciones de TI tendrá aplicaciones corporativas para dispositivos móviles. 
+Obviamente, debe controlar qué dispositivos pueden acceder a la red. También debe configurar las conexiones para preservar la privacidad del tráfico de red.
+

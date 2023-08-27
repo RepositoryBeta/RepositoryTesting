@@ -1,0 +1,5 @@
+texto 36
+
+El nivel inferior de la arquitectura es el servidor de la base de datos, donde los datos se cargan y almacenan. Los datos se almacenan de dos diferentes maneras: 
+1) Los datos a los que se obtiene acceso de forma frecuente se almacenan en almacenamiento muy rápido (como unidades SSD);  
+2) Los datos a los que se obtiene acceso de forma poco frecuente se almacenan en un almacenamiento de objetos rentable, como Amazon S3. 

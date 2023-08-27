@@ -1,0 +1,4 @@
+texto 16 
+
+Arquitectura de Harvard 
+Esta arquitectura surgió en la universidad que lleva su mismo nombre poco después de que la arquitectura Von Newmann apareciera por la universidad Princeton. Al igual que la arquitectura Von neumann, el programa se almacena como un código numérico en la memoria, pero no en el mismo espacio de memoria ni en el mismo formato que los datos.

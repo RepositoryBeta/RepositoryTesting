@@ -1,0 +1,4 @@
+texto 59
+
+Las empresas están recurriendo a las tecnologías de base de datos no relacionales NOSQL para este fin. Los sistemas de administración de base de datos no relacionales usan un modelo de datos más flexibles y están diseñados para manejar grandes conjuntos de datos entre varias máquinas y distribuidas, además de que pueden escalar fácilmente para aumentar o reducir su tamaño.
+

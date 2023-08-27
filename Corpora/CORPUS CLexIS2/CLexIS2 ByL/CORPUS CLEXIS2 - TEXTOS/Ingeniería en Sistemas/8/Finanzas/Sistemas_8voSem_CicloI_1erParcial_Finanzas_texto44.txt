@@ -1,0 +1,4 @@
+texto 44
+
+Esta información es útil para los gerentes de la empresa y otras personas que toman decisiones en la empresa así como los inversionistas potenciales que pueden en considerar la duración del ciclo de las operaciones para determinar si deben invertir en una empresa en particular.
+El ciclo operativos = el plazo el promedio de inventario + el plazo promedio de cuentas por cobrar (CO = PPI + PPC x C).

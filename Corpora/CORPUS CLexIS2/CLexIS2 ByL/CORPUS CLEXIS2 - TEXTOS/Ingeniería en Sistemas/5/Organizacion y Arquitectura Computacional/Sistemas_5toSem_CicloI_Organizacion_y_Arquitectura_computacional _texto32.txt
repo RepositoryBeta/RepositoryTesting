@@ -1,0 +1,3 @@
+texto 32
+
+Si vemos ahí en el gráfico tenemos aquí el ciclo del computador y comenzamos con el inicio y finaliza con la parada, el ciclo de captación y el ciclo de ejecución, capta la siguiente instrucción y ejecuta la instrucción luego recorre y nuevamente sigue captando entonces este ciclo se vuelve repetitivo hasta que se produzca el fin de ese programa o la última instrucción entonces el procesamiento que requiere una instrucción se denomina ciclo de instrucción.

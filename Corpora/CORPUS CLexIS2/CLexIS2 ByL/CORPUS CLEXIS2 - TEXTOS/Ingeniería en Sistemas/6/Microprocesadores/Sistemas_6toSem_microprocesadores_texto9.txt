@@ -1,0 +1,6 @@
+﻿texto 9
+
+Y aquí podemos ver que significa tener kiloherts, pues son miles de operaciones por segundo con megaherts, millones de operaciones por segundo y gigaherts miles de millones de operaciones por segundo, es la velocidad con la que se maneja un procesador en el tiempo que emite el reloj.
+Ahora la distribución de la memoria o transferencia de datos y de la velocidad se mide en byte, kilobyte,  megabyte, gigabyte y terabyte todas las medidas de almacenamiento de datos y transferencia de datos.
+
+

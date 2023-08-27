@@ -1,0 +1,2 @@
+TEXTO 91
+La tabla de símbolos es una importante estructura de datos creada y mantenida por los compiladores con el fin de almacenar información acerca de la ocurrencia de diversas entidades, tales como nombres de variables, nombres de funciones, objetos, clases, interfaces, etc. La tabla de símbolos se utiliza en el análisis y la síntesis de un compilador. También para almacenar los nombres de todas las entidades de forma estructurada en un solo lugar.

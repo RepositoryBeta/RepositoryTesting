@@ -1,0 +1,3 @@
+﻿texto 26
+
+Si se da cuenta el valor de 19 tiene al lado un corchete quiere decir que va incluido el valor, del lado derecho el 21 simplemente está como paréntesis quiere decir que no incluye el 21 y que al menos para trabajar vamos a coger los valores hasta 20.99999 ahorita 21 ya no se lo considera pero si se considera, por ejemplo a personas con la edad de 20 años con 9 meses, 8 meses ahora dentro de las variables cualitativas tienes su clasificación acordémonos que era las ordinales y la segunda que era las nominales.

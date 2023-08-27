@@ -1,0 +1,6 @@
+texto 72
+
+Service: Es un proceso que se ejecuta en segundo plano. Además, no es necesario la interacción con el usuario.
+Existen 2 tipos de servicios:
+Locales: Ejecutados en el mismo proceso.
+Remotos: Ejecutados en procesos separados.

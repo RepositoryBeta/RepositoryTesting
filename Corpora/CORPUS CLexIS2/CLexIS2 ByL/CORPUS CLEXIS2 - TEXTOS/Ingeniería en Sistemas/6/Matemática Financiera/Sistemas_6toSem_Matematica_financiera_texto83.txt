@@ -1,0 +1,8 @@
+texto 83
+Capital del préstamo pendiente de amortizar: Se encuentra en la quinta columna. Para calcularlo se resta en cada periodo el capital pendiente del periodo anterior y la amortización del periodo actual.
+Implicaciones de un cuadro de amortización.
+Un cuadro de amortización puede tener distintas implicaciones, en función de su tipo de interés:
+Si el tipo de interés es fijo: 
+El cuadro de amortización es real y definitivo desde el primer momento. Es decir, el cuadro de pagos que se establezca en la concesión del préstamo es el que se aplicará.
+
+

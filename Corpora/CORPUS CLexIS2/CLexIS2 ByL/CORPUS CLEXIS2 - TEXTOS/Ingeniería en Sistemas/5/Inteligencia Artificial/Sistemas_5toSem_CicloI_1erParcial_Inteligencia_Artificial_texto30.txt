@@ -1,0 +1,4 @@
+texto 30
+
+Ahora tenemos la minería de datos, se trató de la excavación como en una mina, se empieza a excavar o tratar de indagar hasta lo último poder encontrar cosas, hace también ecuaciones matemáticas, pero eso ya depende de la parte de la computación que usted use, ahora datos, ¿Qué es dato?, dato es una palabra que en ocasiones no tiene sentido, por ejemplo, 1101 pero usted significa código binario, pero hay personas a las cuales no significa nada.
+

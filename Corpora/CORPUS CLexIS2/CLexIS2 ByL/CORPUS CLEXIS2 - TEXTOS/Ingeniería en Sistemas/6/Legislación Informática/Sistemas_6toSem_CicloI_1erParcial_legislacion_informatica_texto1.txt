@@ -1,0 +1,4 @@
+﻿texto 1
+¿Qué son las telecomunicaciones?
+Las telecomunicaciones es toda transmisión y recepción de señales de cualquier naturaleza típicamente electromagnéticas que contengan signos, sonidos, imágenes o, en definitiva, cualquier tipo de información que se desee comunicar a distancia. Algo muy utilizado son las antenas para la transmisión de datos, imágenes.
+

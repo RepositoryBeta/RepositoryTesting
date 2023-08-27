@@ -1,0 +1,2 @@
+TEXTO 86
+Definición de subsistema:  En todas las aplicaciones salvo en las más pequeñas, el primer paso para diseñar un sistema consiste en dividir el sistema en un pequeño número de componentes, cada uno de los componentes principales de un sistema se llama subsistema, cada subsistema abarca aspectos del sistema que comparten alguna propiedad común. Un subsistema no es ni una función ni un objeto, sino un paquete de clases asociaciones operaciones sucesos y restricciones interrelacionados.

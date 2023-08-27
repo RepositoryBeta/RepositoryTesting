@@ -1,0 +1,3 @@
+﻿Texto 30
+
+Si se dan cuenta, en este servicio que tiene mucha granularidad y hace muchas funcionalidades a pesar de que está bien diseñado (porque en realidad fue diseñado con las buenas prácticas), nos dimos cuenta, que ese servicio no le dan. Necesita un poco, tiene funciones muy demandantes y las creó como microservicios, es decir, un cambio en este microservicio no afectaría a los otros componentes que participan como parte de la orquestación modelo de la solución.

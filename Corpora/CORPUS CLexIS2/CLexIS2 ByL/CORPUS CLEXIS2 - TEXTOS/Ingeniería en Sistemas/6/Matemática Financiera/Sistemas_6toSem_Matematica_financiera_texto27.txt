@@ -1,0 +1,8 @@
+﻿texto 27
+¿Cómo puedo calcular el valor presente de una determinada cantidad?
+Para poder calcular el valor presente que tendrá una inversión en una determinada fecha, debemos de conocer la siguiente información:
+VA = Valor presente.
+VF = Valor Futuro.
+i = Tipo de interés.
+n = plazo de la inversión.
+

@@ -1,0 +1,6 @@
+﻿Texto 92
+
+Entorno de los sistemas operativos en red
+Los componentes de los sistemas operativos de red habitualmente son:
+Servidores: Son equipos con sistemas operativos en red que proporcionan recursos a los clientes, haciéndolos accesibles a los equipos de la red, sea otros servidores o, habitualmente a clientes.
+Clientes: Son equipos con sistema operativo monopuesto conectados para empezar a trabajar en red, a diferencia de los servidores no comparten sus recursos.

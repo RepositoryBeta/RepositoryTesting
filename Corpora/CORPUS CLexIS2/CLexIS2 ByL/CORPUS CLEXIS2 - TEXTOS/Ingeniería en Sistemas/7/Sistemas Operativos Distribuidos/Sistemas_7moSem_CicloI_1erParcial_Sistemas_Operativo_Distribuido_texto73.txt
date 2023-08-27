@@ -1,0 +1,5 @@
+﻿Texto 73 
+
+Multiprocesadores
+
+Se denomina multiprocesador a un computador que cuenta con dos o más microprocesadores (CPUS), puede ejecutar simultáneamente varios hilos pertenecientes a un mismo proceso o bien a procesos diferentes, los ordenadores multiprocesador presentan problemas de diseño como por ejemplo, pueden interferirse entre sí, concretamente en lo que se refiere a las lecturas y escrituras en memoria.

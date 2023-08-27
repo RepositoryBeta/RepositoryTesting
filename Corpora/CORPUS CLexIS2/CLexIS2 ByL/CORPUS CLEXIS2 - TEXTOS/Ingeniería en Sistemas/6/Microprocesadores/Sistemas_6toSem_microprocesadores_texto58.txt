@@ -1,0 +1,8 @@
+texto 58
+
+D (Dirección): Controla la selección de autoincremento o autodecremento de los registros DI o SI durante las instrucciones de cadenas y arreglos. Si D = 1 hay autodecremento en los registros y si D = 0 hay autoincremento. El estado de esta bandera se controla con las instrucciones std (habilitar dirección) y cld (desactivar dirección).
+Lenguaje de Programación 
+Es un conjunto de símbolos y reglas sintácticas y semánticas que definen su estructura y el significado de sus elementos y expresiones, y utilizado para controlar el comportamiento físico y lógico de una máquina. 
+
+
+

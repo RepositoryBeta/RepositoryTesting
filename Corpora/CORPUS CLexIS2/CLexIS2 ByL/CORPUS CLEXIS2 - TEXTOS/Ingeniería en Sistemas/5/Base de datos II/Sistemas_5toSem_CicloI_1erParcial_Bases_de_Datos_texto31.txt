@@ -1,0 +1,5 @@
+texto 31
+Oracle lleva un histórico del orden de los Redo Logs (y por ende de las transacciones realizadas a la base de datos) y cuando hay necesidad de restaurar información, 
+lo hace consistentemente y deja la base de datos como estaba hasta el momento en el cual las fallas ocurrieron o hasta el punto en el tiempo que el cliente 
+lo desee; esto se hace restaurando un cold backup y aplicando los Redo Logs (transacciones) ocurridas a partir de ese backup hasta una fecha y hora determinada que se necesite. 
+De esta forma se obtiene una fotografía exacta y consistente de cómo estaba la base de datos en un día y hora determinados.

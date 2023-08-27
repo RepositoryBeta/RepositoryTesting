@@ -1,0 +1,2 @@
+TEXTO 15
+Un objeto tiene identidad, cada objeto tiene una identidad única aún cuando su estado sea idéntico al de otro. Ejemplo: existen dos profesores que enseñan la misma materia y su identidad única sería el género. ¿Qué son los principios básicos de la orientada a objetos? Principios básicos son la abstracción, la encapsulación, la modularidad y la herencia estos son los principios básicos con los que cuenta un objeto.

@@ -1,0 +1,8 @@
+texto 16
+
+Amd Atlon XP
+Además no era práctico para el overclocking, entonces para seguir estando a la cabeza en cuanto a rendimiento de los procesadores x86, AMD tuvo que diseñar un nuevo núcleo, y sacó el Athlon XP. Este compatibilizaba las instrucciones SSE y las 3DNOW. 
+Entre las mejoras respecto al Thunderbird se puede mencionar la prerrecuperación de datos por hardware, conocida en inglés como prefetch, y el aumento de las entradas TLB, de 24 a 32.
+
+
+

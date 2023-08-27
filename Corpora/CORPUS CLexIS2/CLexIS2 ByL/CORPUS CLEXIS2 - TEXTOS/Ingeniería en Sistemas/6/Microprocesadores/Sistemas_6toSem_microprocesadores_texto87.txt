@@ -1,0 +1,7 @@
+texto 87
+
+Las mejoras en los procesadores Intel incluyen Virtualización Technology (VT-x) y AMD incluye AMD-V ambos destinados a procesar instrucciones privilegiadas o sensibles, gracias a estas nuevas características en modo de ejecución, el CPU que permite que el VMM se ejecute en un nuevo modo raíz por debajo del anillo 0.
+Las llamadas privilegiadas y sensibles son derivadas automáticamente al hipervisor, eliminando la necesidad de la traducción binaria o paravirtualización.
+
+
+

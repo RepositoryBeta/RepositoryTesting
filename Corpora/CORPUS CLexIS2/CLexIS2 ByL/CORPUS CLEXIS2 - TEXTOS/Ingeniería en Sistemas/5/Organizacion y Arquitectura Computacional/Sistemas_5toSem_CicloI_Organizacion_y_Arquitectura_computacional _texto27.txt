@@ -1,0 +1,3 @@
+texto 27
+
+En la figura nos muestra estos componentes de alto nivel y sugiere las interacciones entre ellos,  típicamente la cpu se encarga del control, intercambia datos con la memoria, para ello, usualmente utilizados registros internos en la CPU: Un registro de direcciones de memoria (MAR, Memory address register) que especifica la dirección en memoria de la próxima lectura o escritura, y un registro para datos de memoria (MBR, Memory buffer register).

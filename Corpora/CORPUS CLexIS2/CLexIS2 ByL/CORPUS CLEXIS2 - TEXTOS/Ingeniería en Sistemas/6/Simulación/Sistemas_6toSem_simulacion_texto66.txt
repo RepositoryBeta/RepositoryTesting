@@ -1,0 +1,3 @@
+﻿texto 66
+
+Entre el muestreo por conglomerados y el muestreo estratificado es la inclusión de conglomerados o estratos en el muestreo aleatorio estratificado, se realiza el muestreo en todos los estratos de la población, mientras que en el muestreo por conglomerados el investigador sólo selecciona aleatoriamente un número de conglomerados de la colección de conglomerados de toda la población para determinar la población estudiada consiste en determinar quiénes eran las personas las cuales vamos a encuestar, es decir las personas de las cuales vamos a tener la información requerida.

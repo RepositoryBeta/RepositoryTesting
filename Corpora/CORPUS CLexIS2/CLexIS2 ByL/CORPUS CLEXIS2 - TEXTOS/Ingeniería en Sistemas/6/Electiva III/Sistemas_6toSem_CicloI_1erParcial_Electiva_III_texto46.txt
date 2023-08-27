@@ -1,0 +1,4 @@
+texto 46
+
+Datos internos de sistemas de planificación de recursos de empresa (Enterprise Resource Planning, ERP), de sistemas gestión de las relaciones con los clientes (Customer Relationship Management, CRM), de bases de datos transaccionales, de gestores de contenido (CMS), de archivos (Excel, CSV, texto), de correos electrónicos, etc. 
+Datos externos desde aplicaciones y sistemas de terceros, páginas web o Internet, redes sociales, servicios en la nube, etc. Los sistemas que actúan en este nivel se comunican con los sistemas operacionales de una empresa por medio de interfaces que se utilizan en la primera fase del almacenamiento del data warehousing. 

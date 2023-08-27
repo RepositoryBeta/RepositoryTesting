@@ -1,0 +1,10 @@
+texto 87
+
+Los procesos de negocios de ventas y marketing son:
+1) Identificar los clientes.
+2) Hacer que los clientes estén conscientes del producto.
+3) Vender el producto.
+Los procesos de negocios de finanzas y contabilidad son:
+1) Pagar a los acreedores.
+2) Crear estados financieros.
+3) Administrar cuentas de efectivo.

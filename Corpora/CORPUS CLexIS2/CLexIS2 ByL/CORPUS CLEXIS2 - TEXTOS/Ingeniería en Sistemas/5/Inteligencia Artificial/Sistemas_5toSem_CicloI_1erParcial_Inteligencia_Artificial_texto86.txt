@@ -1,0 +1,4 @@
+texto 86
+
+Una de las aportaciones más grandes que hace Genet es la incorporación de un algoritmo de aprendizaje que le permite escapar de los óptimos locales. Es una técnica de optimización general y compacta adecuada para una amplia gama de problemas de optimización combinatoria. GLS surge como una evolución de una serie de algoritmos aprendizaje. Es considerada por sus estrategias de optimización similar a la búsqueda tabú.
+

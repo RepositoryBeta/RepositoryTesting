@@ -1,0 +1,7 @@
+texto 51
+
+En otras palabras un decodificador de dirección es un simple circuito lógico combinacional usado para decodificar la dirección de memoria. La mayoría de los decodificadores tienen una o mássalidas que hacen activa un área particular de memoria.
+Para poder conectar un dispositivo de memoria al microprocesador es necesario decodificar la dirección enviada desde este último. La decodificación hace que la memoria funcione en una sección o una partición única del mapa de memoria. 
+
+
+

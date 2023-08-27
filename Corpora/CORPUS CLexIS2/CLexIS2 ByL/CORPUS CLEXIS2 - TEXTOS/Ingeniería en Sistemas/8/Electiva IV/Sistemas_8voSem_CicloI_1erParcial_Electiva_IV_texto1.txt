@@ -1,0 +1,3 @@
+texto 1
+
+Vamos a hablar como primer punto, es la computación móvil, hablaremos de qué se trata la computación móvil, cómo ha venido creciendo en el transcurso del tiempo, ahora todas las aplicaciones prácticamente están almacenadas en su gran mayoría en la nube, a excepción de ciertas aplicaciones empresariales que trabajan como módulo o se alimentan de módulos móviles.

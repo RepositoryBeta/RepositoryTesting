@@ -1,0 +1,6 @@
+texto 96
+
+Mientras que las aplicaciones a nivel de usuario normalmente se ejecutan en el anillo 3, el sistema operativo tiene que tener acceso directo a la memoria y el hardware y deberá ejecutar sus instrucciones privilegiadas en el anillo 0. La virtualización de la arquitectura x86 requiere la colocación de una capa de virtualización en el sistema operativo (que debería estar en el anillo más privilegiados 0) para crear y administrar las máquinas virtuales que ofrecen los recursos compartidos.
+
+
+

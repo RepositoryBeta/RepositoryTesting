@@ -1,0 +1,8 @@
+texto 58
+
+Tecnología de la información (TI).
+La TI consiste principalmente de:
+1) Hardware de computadora.
+2) Software de computadora.
+3) Administración de datos.
+4) Redes y Telecomunicaciones.

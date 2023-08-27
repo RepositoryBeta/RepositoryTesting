@@ -1,0 +1,4 @@
+texto 11
+
+Desde una perspectiva técnica, la analítica de negocios tiene un comportamiento similar a las estrategias de mantenimiento, buscando anticiparse a situaciones futuras para valerse de ellas o evitarlas. De esa forma, se emplean herramientas de análisis y se toman en cuenta tendencias para aprovechar oportunidades en el mercado. Perspectivas para el análisis de negocios. Existen varios tipos de análisis de negocios, entre los que se encuentran:
+1) El descriptivo: Busca determinar el estado actual de la empresa en base a los indicadores clave de rendimiento.

@@ -1,0 +1,2 @@
+TEXTO 79
+El diagrama de secuencia a diferencia del diagrama de colaboración, el diagrama de secuencias no se representa de forma explícita, los papeles de asociaciones (quedan implícitos en los mensajes), esa es la principal diferencia con el diagrama de colaboración que si lo representa, en el diagrama de secuencia se representa explícitamente, el orden en el tiempo e incluso la duración de los mensajes y de las operaciones que ponen en marcha.

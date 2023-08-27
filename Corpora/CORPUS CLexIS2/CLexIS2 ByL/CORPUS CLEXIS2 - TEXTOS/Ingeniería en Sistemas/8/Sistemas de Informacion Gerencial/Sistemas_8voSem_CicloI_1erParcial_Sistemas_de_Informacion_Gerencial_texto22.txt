@@ -1,0 +1,5 @@
+texto 22
+
+¿Qué es un sistema de información?
+Definición de un SI:
+Es un conjunto de componentes interrelacionados que recolectan (o recuperan), procesan, almacenan y distribuyen información para apoyar los procesos de toma de decisiones y de control en una organización.

@@ -1,0 +1,6 @@
+texto 37
+
+Actividades de un SI:
+En el entorno están los actores ambientales como clientes, proveedores, competidores, accionistas y agencias regulatorias, que interactúan con la organización y sus sistemas de información.
+¿Qué tenemos en el entorno?
+Los clientes, ellos no pertenecen a la organización, los clientes son fuera de la organización. Los proveedores, toda organización necesita proveedores, etc.

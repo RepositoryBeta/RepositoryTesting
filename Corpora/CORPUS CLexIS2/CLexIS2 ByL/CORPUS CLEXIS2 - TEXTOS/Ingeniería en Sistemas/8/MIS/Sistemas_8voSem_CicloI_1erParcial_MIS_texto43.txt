@@ -1,0 +1,4 @@
+texto 43
+
+Tal vez le sorprenda saber que muchas empresas no tienen información oportuna, precisa o relevante debido a que los datos en sus sistemas información han estado mal organizados y se les ha dado un mantenimiento inapropiado. Esta es la razón por la que la administración de los datos están esencial. Para comprender el problema, veamos como en los sistemas de información organizan los datos en archivos de computadora, junto con los métodos tradicionales de administración de archivos.
+

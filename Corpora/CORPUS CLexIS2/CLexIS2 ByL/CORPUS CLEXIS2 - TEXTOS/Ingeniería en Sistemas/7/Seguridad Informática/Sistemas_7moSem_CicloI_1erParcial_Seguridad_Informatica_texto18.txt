@@ -1,0 +1,5 @@
+texto 18
+
+Tipos de ataques
+Malware: Se cataloga como un código malicioso compuesto por gusanos, worms, spyware, troyanos, virus o script malintencionados que tiene como propósito infiltrarse y dañar un computador o sistema de información sin el consentimiento de los propietarios.
+Troyanos: Permite la administración remota de un ordenador de forma oculta sin la autorización del usuario, por lo general son enviados en mensajes llamativos que inducen al usuario a ver el mensaje y ejecutarlo sin que el usuario se dé cuenta, por lo general su objetivo es causar daño y borrado de archivos.

@@ -1,0 +1,3 @@
+texto 7
+
+Nuevo Cuadrante Mágico de Gartner 2020,de soluciones líderes en visualización analítica e inteligencia de Negocio. Vemos que se asientan como líder: Microsoft Power BI entre las mejores herramientas de BI (mas accesible, fácil, para todos). Muchas herramientas lideres del viejo BI tradicional ya quedaron muy relegadas. Ahora se premia la rapidez para la implementación, la integración con Machine Learning de R, la democratiza la inteligencia de negocio para todos.

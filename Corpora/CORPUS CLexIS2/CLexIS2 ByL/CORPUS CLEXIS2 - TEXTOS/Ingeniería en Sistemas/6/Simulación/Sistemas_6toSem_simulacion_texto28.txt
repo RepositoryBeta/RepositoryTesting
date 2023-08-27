@@ -1,0 +1,3 @@
+﻿texto 28
+
+Entonces se puede decir que al total acuerdo le voy a poner cinco como valor prioritario y al total desacuerdo le voy a poner como valor prioritario 1, es decir el mínimo valor aquellas personas, por ejemplo al profesor usted le pone 5 eso afecta imaginemos que lo que quiere calificar es el rendimiento en la enseñanza del profesor, eso significa que ese profesor es muy buen profesor pero si usted le pone uno al final significa que ese profesor fue mal profesor.

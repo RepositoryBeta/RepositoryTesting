@@ -1,0 +1,4 @@
+texto 4
+Por ejemplo, un gerente de sucursal podría preferir una vista o informe sobre todos los clientes que han comprado productos después de una fecha determinada. 
+Un gerente de servicios financieros en la misma empresa podría, desde las mismas tablas, obtener un informe sobre las cuentas que deben ser pagadas.    
+Al crear una base de datos relacional, se puede definir el dominio de posibles valores de una columna de datos y restricciones adicionales que pueden aplicarse a ese valor de dato. 

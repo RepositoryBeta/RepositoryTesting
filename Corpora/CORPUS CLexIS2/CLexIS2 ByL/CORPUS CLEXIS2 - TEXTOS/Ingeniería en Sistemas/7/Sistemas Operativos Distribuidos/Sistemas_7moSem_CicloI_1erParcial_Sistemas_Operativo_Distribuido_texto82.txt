@@ -1,0 +1,6 @@
+﻿Texto 82
+
+En el multiprocesamiento asimétrico tenemos:
+Sólo el procesador maestro ejecuta las tareas del sistema operativo.
+Cada procesador maestro asigna procesos a los procesadores de esclavos o tienen algunos procesos predefinido.
+Todos los procesadores en multiprocesamiento simétrico pueden tener la misma o diferente arquitectura.

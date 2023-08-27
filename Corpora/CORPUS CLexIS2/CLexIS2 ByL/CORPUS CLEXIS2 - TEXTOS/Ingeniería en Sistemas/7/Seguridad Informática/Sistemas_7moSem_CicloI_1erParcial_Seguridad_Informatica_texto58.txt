@@ -1,0 +1,4 @@
+texto 58
+
+Un proceso de Hardening informático, por ejemplo, sería el del cerrado de puertos que no son utilizados ni necesarios para nuestro sistema. El Hardening también se logra eliminando software que no está siendo utilizado.
+Está basado en la idea de que los sistemas que cumplen con una única función son más seguros, que los sistemas que cumplen con varias funciones. Para lograr un endurecimiento en nuestro sistema y una buena defensa en profundidad.

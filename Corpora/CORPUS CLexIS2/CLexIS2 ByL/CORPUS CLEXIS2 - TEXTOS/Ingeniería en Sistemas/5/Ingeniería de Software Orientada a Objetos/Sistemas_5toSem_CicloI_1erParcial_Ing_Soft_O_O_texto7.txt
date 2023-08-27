@@ -1,0 +1,2 @@
+TEXTO 7
+El diseño estructurado versus el diseño orientado a objetos, en el diseño estructurado yo puedo trabajar en tipo Pascal o C. En cambio, para el diseño orientado a objetos se puede trabajar en tipo Java o c++, en la estructurada los datos y procedimientos están separados, su parte en diseño orientado a objetos, los datos que son atributos y procedimientos que son los métodos, están juntos formando lo que llamamos objetos.

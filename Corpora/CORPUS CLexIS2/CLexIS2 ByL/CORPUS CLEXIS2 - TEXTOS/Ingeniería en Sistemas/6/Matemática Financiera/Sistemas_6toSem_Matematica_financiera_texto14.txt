@@ -1,0 +1,7 @@
+﻿texto 14
+Calculadora de Interés Simple
+El interés simple surge de los intereses generados durante lo que dura la inversión realizada a partir del capital inicial. 
+Por lo general es utilizado en operaciones a corto plazo, suele ser menos de 1 año.
+Al utilizar la calculadora de interés simple, pueden calcular desde el capital inicial, el capital final, el tiempo.
+
+

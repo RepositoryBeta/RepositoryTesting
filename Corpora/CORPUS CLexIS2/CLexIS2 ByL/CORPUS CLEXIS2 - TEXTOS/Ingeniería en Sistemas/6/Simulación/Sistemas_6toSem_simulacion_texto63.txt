@@ -1,0 +1,4 @@
+﻿texto 63
+
+Intervalo el investigador elige otro número entero que servirá como la diferencia constante entre dos números consecutivos en la progresión.
+El número entero se selecciona típicamente de modo que el investigador obtenga el tamaño de la muestra correcto la principal ventaja de utilizar un muestreo sistemático sobre un muestreo aleatorio simple es su sencillez, permite que el investigador añada un grado de sistema o proceso en la selección aleatoria de los sujetos.

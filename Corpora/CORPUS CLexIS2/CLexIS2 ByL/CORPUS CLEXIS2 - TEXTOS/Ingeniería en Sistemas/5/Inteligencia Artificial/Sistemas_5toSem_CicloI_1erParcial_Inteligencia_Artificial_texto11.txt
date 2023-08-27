@@ -1,0 +1,4 @@
+texto 11
+
+Estas son sólo algunas principales, porque realmente existen muchas más, la primera es en la forma en la que se mide o en la forma en la que se toman las decisiones, una toma de decisiones aleatoria o una toma de decisiones por parte de estadísticas, los sistemas de decisión que vienen por parte de aleatorio, se llaman metaheurística, usted toma decisiones por parte de estadísticas eso se llama aprendizaje automático.
+

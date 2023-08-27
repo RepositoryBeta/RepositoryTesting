@@ -1,0 +1,4 @@
+texto 95
+
+Fetchoperandos: Si la instrucción utiliza un insumo que se encuentra operando en la memoria, la unidad de control utiliza una operación de lectura para recuperar el operando y copiarla en los registros internos. Los registros internos no son visibles para programas de usuario.
+Ejecutar: La ALU ejecuta la instrucción con los registros con nombres y los registros internos como operandos y envía el resultado a los registros de nombres y/o memoria. Los indicadores de estado ALU proporcionan información sobre el estado del procesador.

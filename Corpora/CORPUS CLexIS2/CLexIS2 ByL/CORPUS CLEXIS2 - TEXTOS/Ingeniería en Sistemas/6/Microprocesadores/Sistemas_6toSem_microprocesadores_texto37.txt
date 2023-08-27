@@ -1,0 +1,6 @@
+texto 37
+Registro de datos de memoria (MDR)
+Es al que hacíamos referencia antes, se trata de un registro que se encuentra en el procesador y que está conectado al bus de datos. 
+Tiene poca capacidad y una velocidad alta por la que escribe o lee los datos del bus que van dirigidos a la memoria o al puerto E/S, es decir, un periférico.
+
+

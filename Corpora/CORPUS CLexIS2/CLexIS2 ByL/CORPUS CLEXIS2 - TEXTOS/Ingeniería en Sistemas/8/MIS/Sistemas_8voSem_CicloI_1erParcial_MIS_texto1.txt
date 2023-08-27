@@ -1,0 +1,4 @@
+texto 1
+
+Hoy veremos metodologías contemporáneas de los SI, se refiere a las ciencias aplicadas o disciplinas que se están utilizando para construir los SI o para interactuar con ellos, porque existen puntos de vista desde el desarrollo de los sistemas información, herramientas a nivel de conocimiento, en ciencias deben conocer para poder construirlo y el otro aplicar los sistemas de información también con el conocimiento de ciertas ciencias o disciplinas.
+

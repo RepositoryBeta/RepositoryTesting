@@ -1,0 +1,3 @@
+﻿Texto 29
+
+Entonces, lo que hace esa capacidad la sacan y ese momento se convirtió en un servicio más pequeño basado en el papá, SOA es el papá y microservicio que también es hijo de SOA tiene buenas prácticas. No es otra cosa, que un servicio más pequeñito que es altamente demandado y que de alguna u otra forma debe ser altamente escalable.

@@ -1,0 +1,6 @@
+﻿texto 8
+También se puede obtener mediante la devolución de una solicitud o mediante la diferencia entre el valor spot y el valor a plazo en una transacción comercial.
+Cantidad (M)
+Corresponde al valor futuro, es decir, es capital más intereses más valor.
+Por lo tanto, M = C + J.
+

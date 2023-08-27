@@ -1,0 +1,2 @@
+TEXTO 49
+En el área principal que corresponde a la parte dinámica, tenemos como primera vista la vista de máquina de estado, luego tenemos la vista actividad y la vista de interacción. Asimismo, para tener una vista de máquina estado, tengo un diagrama de máquina de estados, para la vista actividad existe un diagrama de actividades, para la vista interacción existe un diagrama de secuencia y un diagrama de comunicación.

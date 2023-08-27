@@ -1,0 +1,6 @@
+texto 10
+
+Tal diseño se conoce como el nombre de arquitectura de Von neumann y se basa sobre tres conceptos claves:
+1) Los datos y las instrucciones almacenan en una sola memoria de lectura y escritura.
+2) Los contenidos de esta memoria se direccionan indicando su posición sin considerar el tipo de dato contenido en la misma.
+3) La ejecución se produce siguiendo una secuencia de instrucción tras instrucción (a no ser que dicha secuencia se modifique explícitamente).

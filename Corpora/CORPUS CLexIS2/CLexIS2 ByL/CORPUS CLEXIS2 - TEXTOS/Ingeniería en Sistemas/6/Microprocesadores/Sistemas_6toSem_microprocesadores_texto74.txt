@@ -1,0 +1,8 @@
+texto 74
+
+DMA, Acceso Directo a Memoria 
+El DMA (Acceso Directo a Memoria) es un sistema que realiza operaciones de movimiento de datos entre RAM y dispositivos mapeados en memoria. El DMA es programado por la CPU y la descarga de trabajo. 
+Las CPU y el DMA deben compartir el bus del sistema, y por lo tanto el DMA debe solicitar el uso del bus (BRQ, BusReest) y la CPU concederlo (BGN, Busgrant). La concesión y transferencia se realiza por ráfagas (bursts).
+
+
+

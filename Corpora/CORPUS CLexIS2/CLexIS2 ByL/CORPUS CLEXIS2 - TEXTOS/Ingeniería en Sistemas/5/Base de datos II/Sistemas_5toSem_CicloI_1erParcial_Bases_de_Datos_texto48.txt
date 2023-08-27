@@ -1,0 +1,7 @@
+texto 48
+Control de las transacciones
+Existen tres comandos básicos de control en las transacciones SQL:
+COMMIT. Para guardar los cambios.
+ROLLBACK. Para abandonar la transacción y deshacer los cambios que se hubieran hecho en la transacción.
+SAVEPOINT. Crea checkpoints, puntos concretos en la transacción donde poder deshacer la transacción hasta esos puntos.
+Los comandos de control de transacciones se usan sólo con INSERT, DELETE y UPDATE. No pueden utilizarse creando tablas o vaciándolas porque las operaciones se guardan automáticamente en la base de datos.

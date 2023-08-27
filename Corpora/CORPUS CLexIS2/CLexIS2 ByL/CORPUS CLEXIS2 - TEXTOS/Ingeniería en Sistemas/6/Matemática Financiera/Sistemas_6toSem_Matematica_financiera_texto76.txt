@@ -1,0 +1,5 @@
+﻿texto 76
+Amortización parcial: Consiste en cancelar parte de un préstamo, dejando otra parte todavía sin cancelar, por lo que se seguirá pagando el préstamo. Se ve reducido en nuestro pasivo a nivel contable.
+Amortización total: En este caso se cancela la totalidad del préstamo, desaparece de nuestro pasivo a nivel contable, y por ende, no se pagan más cuotas de esa deuda.
+Por otra parte se tiene que elegir entre restar tiempo a la vida de la deuda o restar cuota mensual (o trimestral, anual, etc) sobre la deuda. 
+

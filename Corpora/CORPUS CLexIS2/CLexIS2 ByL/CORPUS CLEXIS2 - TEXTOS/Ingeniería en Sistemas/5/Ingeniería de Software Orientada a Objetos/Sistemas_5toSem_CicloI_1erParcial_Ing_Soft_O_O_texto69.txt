@@ -1,0 +1,2 @@
+TEXTO 69
+Diagrama de interacción - Control estructurado: En UML 2 los flujos de control complejos en diagramas se describen utilizando fragmentos de interacción, donde hace referencia a las regiones rectangulares dentro del diagrama que engloban parte de las interacciones del diagrama, el tipo de operador se indica en la etiqueta de la esquina superior el alcance del operador, los representan las líneas de vida se denominan también fragmentos combinados.

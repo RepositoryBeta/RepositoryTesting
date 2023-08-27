@@ -1,0 +1,3 @@
+texto 6
+
+Posteriormente se realiza la extracción, transformación y carga (ETL) de los datos; a continuación se apoyan en un datawarehouse que evita que se saturen los servidores. Como resultado tenemos información unificada, depurada y consolidada que se almacena en un datawarehouse corporativo y de ahí se construyen datamart departamentales, los cuales permiten un óptimo análisis de los datos mediante bases de datos transaccionales o analíticas.

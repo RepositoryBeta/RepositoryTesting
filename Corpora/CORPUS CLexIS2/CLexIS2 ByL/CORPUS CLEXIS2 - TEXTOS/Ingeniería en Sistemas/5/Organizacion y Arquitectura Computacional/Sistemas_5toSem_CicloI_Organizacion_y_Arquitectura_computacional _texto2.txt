@@ -1,0 +1,5 @@
+texto 2
+
+Se analiza y se revisan son los aspectos funcionales, luego estaremos analizando los buses que interconectan los componentes luego nos vamos a concentrar en lo que es la instrucción y los buses del sistema.
+Funciones e interconexiones de un computador.
+Nosotros tenemos dos esquemas de analizar la computadora desde el punto de vista de bajo nivel como de alto nivel.

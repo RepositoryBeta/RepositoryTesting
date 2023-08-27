@@ -1,0 +1,6 @@
+texto 43
+ROUND: Devuelve una expresión numérica, redondeada a la longitud o precisión especificada.
+Round (Numero, Redondeo del Número)
+ROUND siempre devuelve un valor. Si length es un valor negativo y mayor que el número de dígitos anteriores al separador decimal, ROUND devuelve 0.
+SELECT ROUND (123.4567,2)
+SELECT ROUND (123.4567,-3).

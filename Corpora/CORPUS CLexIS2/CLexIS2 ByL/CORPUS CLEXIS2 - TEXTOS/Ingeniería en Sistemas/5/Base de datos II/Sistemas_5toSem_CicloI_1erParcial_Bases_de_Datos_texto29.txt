@@ -1,0 +1,5 @@
+texto 29
+Desventajas:
+Nada excluido: esto se convierte en una desventaja cuando no se desea restaurar toda la información.
+Aquí no se permiten hacer respaldos ni restauraciones parciales, es decir se respalda todo o nada y se restaura todo o nada; 
+Solo se puede hacer con la base de datos cerrada: nadie puede estar trabajando.

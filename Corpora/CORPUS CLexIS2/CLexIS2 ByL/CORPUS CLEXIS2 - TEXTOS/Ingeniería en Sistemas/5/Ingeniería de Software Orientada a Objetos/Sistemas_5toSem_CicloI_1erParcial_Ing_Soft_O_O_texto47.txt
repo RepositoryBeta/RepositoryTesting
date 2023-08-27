@@ -1,0 +1,2 @@
+TEXTO 47
+El objeto es una instancia de una clase, es una combinación de datos/atributos específicos y de rutinas/métodos que pueden operar con esos datos. Vistas y diagramas de uml en el área principal sólo existe estructural en el apartado de vista existe la vista estática, la vista de diseño y vista de casos de uso, en los diagramas. Existe el diagrama de clase, que tiene como concepto principal: Es la asociación la clase la dependencia la generalización e interfaz.

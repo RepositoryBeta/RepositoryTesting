@@ -1,0 +1,8 @@
+texto 19
+
+Como protegerse de los Troyanos:
+- Evite conectarse a una red WIFI abierta.
+- Active los controles de integridad de los archivos de sistemas.
+- Separe las cuentas de usuario de las cuentas administrador.
+- Use programas especializados para detectar posibles intrusiones.
+- Utilice cifrado de disco.

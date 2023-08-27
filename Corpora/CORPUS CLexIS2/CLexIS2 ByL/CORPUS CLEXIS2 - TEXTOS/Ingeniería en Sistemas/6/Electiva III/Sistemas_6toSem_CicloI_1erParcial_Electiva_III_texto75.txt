@@ -1,0 +1,4 @@
+texto 75
+
+Junto a sus ventajas para la toma de decisiones, los abanderados de la protección de datos, sin embargo, también ponen de relieve los riesgos que este tipo de análisis de big data traen consigo, en particular para el derecho fundamental al control de la propia información y la protección de la esfera privada.
+Según los críticos, los análisis que permiten la creación de perfiles personales y la predicción automatizada de formas de comportamiento y de actuación son los más peliagudos. En el centro del debate se sitúa el potencial de manipulación de los datos que se obtienen de estos análisis.

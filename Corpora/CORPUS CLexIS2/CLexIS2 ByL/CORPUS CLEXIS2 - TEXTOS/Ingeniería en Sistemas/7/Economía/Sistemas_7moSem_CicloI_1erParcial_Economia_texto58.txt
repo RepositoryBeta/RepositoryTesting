@@ -1,0 +1,8 @@
+texto 58
+
+Modelo: flujo circular de la Renta, supone en su versión más simple:
+- ¿Qué es la economía? Sólo se compone de dos sectores, los hogares y las empresas.
+- Las empresas producen bienes y demandan trabajo para producirlos.
+- Los hogares ofrecen su trabajo a las empresas a cambio de un salario.
+- Los organismos utilizan los salarios para escribir bien es de las empresas.
+- Empresa venden las mercancías o bienes que producen a cambio de un cierto precio.

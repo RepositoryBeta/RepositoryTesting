@@ -1,0 +1,6 @@
+texto 76
+
+¿En qué se basa la seguridad de la información?
+La seguridad de la información, como concepto, se basa en cuatro pilares: la disponibilidad, la integridad, la confidencialidad y la autenticación.
+Disponibilidad: Acceso a la información cuando se requiere, teniendo en cuenta la privacidad. Evitar caídas del sistema que permitan accesos ilegítimos, que impidan el acceso al correo.
+Confidencialidad: Información accesible solo para personal autorizado. La información no debe llegar a personas o entidades que no estén autorizados.

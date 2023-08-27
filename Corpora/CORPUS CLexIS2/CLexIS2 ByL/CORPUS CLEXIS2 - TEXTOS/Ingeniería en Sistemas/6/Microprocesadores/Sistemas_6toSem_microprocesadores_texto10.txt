@@ -1,0 +1,4 @@
+﻿texto 10
+
+Bueno, estos son otros detalles, la resolución gráfica se mide en píxeles, megapíxeles, velocidades de transmisión de datos es bps, bits por segundo y puede llegar a bytes por segundo a kilobytes, megabytes y gigabytes por segundo, la resolución de impresion es ppp puntos por pulgada y las velocidades de impresión ppm páginas por minuto, usualmente cuando se adquiere un producto de tecnología como una computadora ustedes van a ver estas caracteristicas.
+

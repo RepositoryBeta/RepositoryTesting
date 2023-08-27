@@ -1,0 +1,5 @@
+﻿Texto 57
+
+Abstracción
+
+Este principio busca ocultar los detalles internos del servicio, tanto como sea posible, considerando al servicio como una caja negra, como en el ejemplo anterior, estamos ante un principio que se ha visto acentuado en la práctica, uno de las características de los nuevos servicios, por poner solo un ejemplo, es que son políglotas, es decir, que cada uno se puede hacer con el lenguaje que más convenga, la abstracción, otro concepto SOA que no ha perdido validez, todo lo contrario.

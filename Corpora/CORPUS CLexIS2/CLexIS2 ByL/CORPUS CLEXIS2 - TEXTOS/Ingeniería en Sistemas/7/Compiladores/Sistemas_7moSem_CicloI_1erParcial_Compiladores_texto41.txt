@@ -1,0 +1,2 @@
+TEXTO 41
+Cuando llegue al generador de código intermedio realiza un fron-tend ese Fron-tend realiza  cada una de estas etapas y el back-end es el que hace la optimización y la generación de código fuente, para obtener nuestro último proceso. Aquí tenemos unas notitas para recordar, estos componentes léxicos representan palabras reservadas, como: if, while, do. Tenemos los identificadores que eso ya ustedes entienden que son las variables, nombre de funciones, tipos definidos por el usuario.

@@ -1,0 +1,8 @@
+texto 8
+
+Seguridad activa y Seguridad pasiva.
+Esta clasificación de la seguridad se focaliza en el momento en que estamos poniendo en marcha las medidas de seguridad.
+La seguridad activa es aquella que se centra en prevenir o evitar daños a los sistemas informáticos en conjunto, ya sea de hardware o de software o de red. 
+Los mecanismos más habituales relacionados con la seguridad activa son por ejemplo los antivirus, los controles de acceso a salas de servidores, la encriptación de la información, los sistemas de redundancia de hardware, etc.
+En definitiva, hablaremos de seguridad activa cuando usamos medios para ser proactivos ante posibles amenazas.
+

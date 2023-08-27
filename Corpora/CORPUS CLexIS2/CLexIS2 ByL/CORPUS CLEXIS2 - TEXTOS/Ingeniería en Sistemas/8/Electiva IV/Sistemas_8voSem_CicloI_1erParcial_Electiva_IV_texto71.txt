@@ -1,0 +1,6 @@
+texto 71
+
+Activity: Una aplicación Android esta formada por varias actividades. Descendiente de la clase activity. Actividad = Pantalla. Dentro del activity, encontramos otros elementos que lo conforman, tales como: 
+1) Activitygroup.
+2) Fragmentactivity.
+3) Listactivity.

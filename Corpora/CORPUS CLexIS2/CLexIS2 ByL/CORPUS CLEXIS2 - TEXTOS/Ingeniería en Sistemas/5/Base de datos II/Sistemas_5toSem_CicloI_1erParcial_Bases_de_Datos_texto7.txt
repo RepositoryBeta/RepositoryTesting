@@ -1,0 +1,5 @@
+texto 7
+El objetivo de la arquitectura de tres niveles es el de separar los programas de aplicación de la base de datos física. 
+En esta arquitectura, el esquema de una base de datos se define en tres niveles de abstracción distintos: 
+En el nivel interno se describe la estructura física de la base de datos mediante un esquema interno. Este esquema se especifica mediante un modelo físico y describe todos los detalles para el almacenamiento de la base de datos, así como los métodos de acceso.
+

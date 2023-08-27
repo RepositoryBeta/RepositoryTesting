@@ -1,0 +1,4 @@
+texto 58
+
+Bases de datos no relacionales y bases de datos en la nube, durante más de 30 años, la tecnología de base de datos relacionales ha sido el estándar de oro. La computación en la nube, los volúmenes de datos sin precedentes, las enormes cargas de trabajo para los servicios web y la necesidad de almacenar nuevos tipos de datos requieren alternativas de base de datos con respecto al modelo relacional tradicional de organizar los datos en forma de tablas columnas y filas.
+

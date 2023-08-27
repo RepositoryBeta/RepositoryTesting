@@ -1,0 +1,2 @@
+TEXTO 26
+Ahora, tenemos la organización, ésta describe los equipos iniciales del proyecto sus papeles y sus rutas de comunicación, el plan inicial de tareas y la calendarización inicial son las descripciones iniciales de la manera de asignar recursos, la organización el plan inicial de tareas y la calendarización inicial son las semillas para el SPMP que es un software de plan de administración de proyectos que documenta todos los aspectos administrativos del proyecto.

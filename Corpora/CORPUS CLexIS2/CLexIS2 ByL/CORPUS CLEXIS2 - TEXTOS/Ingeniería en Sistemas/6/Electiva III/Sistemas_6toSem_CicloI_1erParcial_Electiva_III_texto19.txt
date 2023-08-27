@@ -1,0 +1,7 @@
+texto 19
+
+Tipos de herramientas de Business Intelligence.
+A pesar de que se trata de una categoría muy amplia - podría discutirse por ejemplo si los servicios de monitorización de medios se consideran una herramienta de BI - podemos distribuir las soluciones de inteligencia de negocio en tres categorías:
+1) Herramientas para la gestión de datos (del inglés, data management tools).
+2) Permiten desde la depuración y estandarización de datos de procedencia diversa hasta su extracción, transformación y traslado a un determinado sistema.
+

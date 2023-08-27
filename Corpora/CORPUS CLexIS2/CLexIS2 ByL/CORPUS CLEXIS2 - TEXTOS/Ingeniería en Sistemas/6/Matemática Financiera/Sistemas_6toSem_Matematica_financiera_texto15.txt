@@ -1,0 +1,9 @@
+﻿texto 15
+Hasta el tipo de interés o los intereses de una operación de interés simple usando los siguientes parámetros de cálculo:
+1) Intereses totales.
+2) Tipo de interés.
+3) Capital inicial.
+4) Capital final.
+5) Periodo - Días = Resultado.
+
+

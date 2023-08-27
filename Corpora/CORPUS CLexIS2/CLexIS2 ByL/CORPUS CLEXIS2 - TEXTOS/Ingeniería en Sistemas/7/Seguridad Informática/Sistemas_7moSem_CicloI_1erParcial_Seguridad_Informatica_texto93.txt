@@ -1,0 +1,4 @@
+texto 93
+
+La ISO 27001 es una norma internacional de Seguridad de la Información que pretende asegurar la confidencialidad, integridad y disponibilidad de la información de una organización y de los sistemas y aplicaciones que la tratan. 
+Este estándar ha sido desarrollado por la Organización Internacional de Normalización (ISO: International Organization for Standardization) y por la Comisión Electrotécnica Internacional (IEC: International Electrotechnical Commission).

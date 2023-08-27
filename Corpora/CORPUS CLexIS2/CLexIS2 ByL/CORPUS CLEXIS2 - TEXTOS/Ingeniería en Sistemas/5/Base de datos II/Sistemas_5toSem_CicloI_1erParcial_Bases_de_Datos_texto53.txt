@@ -1,0 +1,6 @@
+texto 53
+MONEY: 8 bytes: Un número entero comprendido entre – 922.337.203.685.477,5808 y 922.337.203.685.477,5807.
+DATETIME: 8 bytes: Una valor de fecha u hora entre los años 100 y 9999.
+UNIQUEIDENTIFIER: 128 bits: Un número de identificación único utilizado con llamadas a procedimientos remotos.
+DECIMAL: 17 bytes: Un tipo de datos numérico exacto con valores comprendidos entre 1028 - 1 y - 1028 - 1. Puede definir la precisión (1 - 28) y la escala (0 - precisión definida).
+La precisión y la escala predeterminadas son 18 y 0, respectivamente.

@@ -1,0 +1,6 @@
+texto 22
+Como protegerse del ataque SQL Injection:
+- No utilice sentencias SQL construidas dinámicamente.
+- No utilice cuentas con privilegios administrativos.
+- No proporcione mayor información de la necesaria.
+- Verifique el tamaño como el tipo de datos de las entradas del usuario.

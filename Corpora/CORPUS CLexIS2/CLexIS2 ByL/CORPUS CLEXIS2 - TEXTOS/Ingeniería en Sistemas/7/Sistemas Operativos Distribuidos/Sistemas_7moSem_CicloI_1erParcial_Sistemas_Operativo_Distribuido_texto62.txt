@@ -1,0 +1,3 @@
+﻿Texto 62
+
+Para ello, crea una capa de abstracción como un sistema de ficheros único, HDFS se encarga de almacenar los datos en varios nodos manteniendo sus metadatos, distribuir los datos en varios nodos de almacenamiento aumenta la velocidad de procesamiento, el paralelismo en las operaciones y permite la replicación de los datos.

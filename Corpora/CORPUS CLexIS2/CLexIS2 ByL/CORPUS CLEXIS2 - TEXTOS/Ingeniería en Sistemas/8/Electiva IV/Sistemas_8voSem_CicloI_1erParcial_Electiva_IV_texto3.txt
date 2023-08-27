@@ -1,0 +1,4 @@
+texto 3
+
+Plataformas móviles de comunicación y procesamiento.
+Una aplicación móvil pasa a formar parte de un procesamiento, en una aplicación x, que es alimentada por x dispositivo. Vamos a poner de ejemplo una empresa de cobranza, antes una empresa de cobranza tenía que imprimir la cantidad de documentación que tenía que comenzar a moverse, a buscar y a cobrar, de forma presencial, de esta manera a un cliente. Actualmente se puede utilizar un dispositivo.

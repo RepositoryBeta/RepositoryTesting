@@ -1,0 +1,3 @@
+﻿texto 100
+
+Y para finalizar seguimos con el ejemplo anterior. En este caso, el sistema creciente, a razón del 3% anual nos da una TAE del 3.70%, situando a esta modalidad de amortización como la segunda más atractiva desde el punto de vista del coste financiero anualizado, aunque se asumen un total de 46.768 euros en intereses y la cuota periódica crece desde los 881 euros iniciales hasta los 1.333 euros de los últimos periodos, esto es un + 51%.

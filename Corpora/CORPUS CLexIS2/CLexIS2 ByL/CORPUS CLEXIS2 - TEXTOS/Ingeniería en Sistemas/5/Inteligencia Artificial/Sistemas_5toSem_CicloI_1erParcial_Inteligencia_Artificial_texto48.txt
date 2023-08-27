@@ -1,0 +1,4 @@
+texto 48
+
+Otra, visión por computadora, es que con la ayuda de una cámara poder hacer diferentes descripciones, diferentes cosas, por ejemplo, recordemos el carro tesla, obviamente tenía camaritas por todos lados y veía al frente para poder manejar solo, entonces en este caso, en la diapositiva podemos observar que existe una cámara que identifica tres carros delante de él, eso significa que esos datos se lo va a pasar a un sensor y le va a decir sabes que tienes que minorar tu velocidad, porque hay carros delante tuyo.
+

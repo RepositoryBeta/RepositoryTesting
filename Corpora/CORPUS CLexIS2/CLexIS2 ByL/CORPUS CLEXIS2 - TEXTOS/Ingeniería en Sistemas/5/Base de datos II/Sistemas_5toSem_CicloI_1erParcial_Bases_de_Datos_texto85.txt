@@ -1,0 +1,4 @@
+texto 85
+Gozan de un excepcional rendimiento para responder de forma eficiente al análisis y consulta de volúmenes gigantescos de datos. Ofrece también una diversidad de métodos analíticos y de consulta que la convierten en una de las opciones más flexibles en NOSQL. 
+Es bastante frecuente conseguir la implementación de este modelo de BBDD en estructuras web de blogs. Twitter es uno de los casos más relevantes donde una BBDD de Grafos está relacionada.
+Las Bases de Datos orientadas a grafos también tiene otras funcionalidades que no te puedes perder. Entre las marcas más reconocidas está nuestra ya conocida Neo4j, pero esta no es la única. También están las conocidas Hypergraphdb, Infogrid, Allegrograph, Infinitegraph, Sones y DEX/Sparksee.

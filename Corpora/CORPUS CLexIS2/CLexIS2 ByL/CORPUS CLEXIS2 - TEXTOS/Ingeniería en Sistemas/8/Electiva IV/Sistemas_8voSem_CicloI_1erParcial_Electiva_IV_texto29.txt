@@ -1,0 +1,3 @@
+texto 29
+
+Android sdk: licencias, distribución y desarrollo gratuitos, acceso al Hardware de wifi, GPS, Bluetooth  y telefonía, control completo de multimedia, incluyendo la cámara y el micrófono, APIS para los sensores: acelerómetros y brújula. Tenemos almacenes de datos compartidos, proveedores de contenidos, SQLITE, acceso a SD Card, aplicaciones y procesos en segundo plano, widgets para la pantalla de inicio, uso de mapas y controles de las aplicaciones y aceleración gráfica por hardware, incluyendo OPENGL 2.0 para 3D.

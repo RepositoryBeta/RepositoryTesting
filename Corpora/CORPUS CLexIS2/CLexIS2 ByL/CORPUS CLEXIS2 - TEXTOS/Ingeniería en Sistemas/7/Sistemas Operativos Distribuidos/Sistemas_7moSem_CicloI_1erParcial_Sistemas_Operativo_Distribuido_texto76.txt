@@ -1,0 +1,3 @@
+﻿Texto 76
+
+Los sistemas SMP permiten que cualquier procesador trabaje en cualquier tarea sin importar su localización en memoria con un propicio soporte del sistema operativo, estos sistemas pueden mover fácilmente tareas entre los procesadores que garantizan eficientemente el trabajo, se componen de microprocesadores independientes que se comunican con la memoria a través de un bus compartido.

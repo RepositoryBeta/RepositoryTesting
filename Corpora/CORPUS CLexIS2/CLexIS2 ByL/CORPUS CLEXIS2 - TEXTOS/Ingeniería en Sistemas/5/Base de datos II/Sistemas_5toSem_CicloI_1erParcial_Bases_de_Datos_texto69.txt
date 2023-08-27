@@ -1,0 +1,8 @@
+texto 69
+secuencia. Es el nombre que se le da al objeto de secuencia.
+INCREMENT BY. Indica cuánto se incrementa la secuencia cada vez que se usa. Por defecto se incrementa de uno en uno.
+START WITH. Indica el valor inicial de la secuencia (por defecto 1).
+MAXVALUE. Máximo valor que puede tomar la secuencia. Si no se indica, se toma NOMAXVALUE que permite llegar hasta el 1027.
+MINVALUE. Mínimo valor que puede tomar la secuencia. Por defecto -1026.
+CYCLE. Hace que la secuencia vuelva a empezar si se ha llegado al máximo valor.
+CACHE. Indica cuántos valores de la secuencia, Oracle dejará prealojados en la memoria, por defecto deja 20. Si se elige NOCACHE no se guarda ninguno en memoria.

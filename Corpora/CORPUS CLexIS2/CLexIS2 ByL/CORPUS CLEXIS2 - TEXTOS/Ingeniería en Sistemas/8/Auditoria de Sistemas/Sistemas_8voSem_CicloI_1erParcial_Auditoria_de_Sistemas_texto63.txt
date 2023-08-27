@@ -1,0 +1,4 @@
+﻿texto 63
+
+La distribución de carga del mismo, establecerá los motivos, objetivos, alcance y recursos que usará, definirá la metodología de trabajo, la duración de la auditoria, presentará el plan de trabajo y analizará detalladamente cada problema encontrado con todo lo anteriormente analizado.
+Comunicación de resultados: Se elaborará el borrador del informe a ser discutido con los ejecutivos de la empresa hasta llegar al informe definitivo, el cual se presentará esquemáticamente en forma de matriz, cuadros o redacción simple y concisa que destaque los problemas encontrados, los efectos y las recomendaciones de la auditoria.

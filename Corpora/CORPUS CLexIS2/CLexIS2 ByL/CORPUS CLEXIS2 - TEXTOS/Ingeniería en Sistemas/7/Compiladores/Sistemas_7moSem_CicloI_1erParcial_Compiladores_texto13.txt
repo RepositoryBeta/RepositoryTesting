@@ -1,0 +1,7 @@
+TEXTO 13
+
+Hay otra labor habitual del analizador léxico que son los espacios en blanco que separan los tokens esos también son considerados. La consecuencia de tokens  se le llama un lexema. 
+¿Cuáles son las secuencias de caracteres?  
+Token.  
+¿Y cómo se les llama? 
+Lexema. 

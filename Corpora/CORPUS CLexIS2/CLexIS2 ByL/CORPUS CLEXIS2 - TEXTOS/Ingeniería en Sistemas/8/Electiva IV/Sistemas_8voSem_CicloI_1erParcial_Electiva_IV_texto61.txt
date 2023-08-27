@@ -1,0 +1,4 @@
+texto 61
+
+Métodos de un activity.
+Cuando la actividad se encuentra en estado activa puede pasar por estos 3 métodos: oncreate, onstart y onresume. Para pasar del estado activo al estado visible, usted tiene medio el método onpause. Ahora, si quiere pasar del estado visible al estado de parada, se tienen dos caminos o dos métodos, que son el onstop y onrestart. Así mismo, para ir de parada al estado destruido, nos encontramos con el método ondestroy.

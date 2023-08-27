@@ -1,0 +1,2 @@
+TEXTO 19
+La metodología OMT supone que ya se han definido los requerimientos y no proporciona métodos para la obtención de los mismos OMT unificado también incluye una actividad de análisis y trata el diseño del sistema y el diseño del objeto como una sola actividad llamada diseño, el proceso unificado a diferencia del OMT incluye una actividad de captura de requerimientos para la obtención y el modelado de requerimientos.

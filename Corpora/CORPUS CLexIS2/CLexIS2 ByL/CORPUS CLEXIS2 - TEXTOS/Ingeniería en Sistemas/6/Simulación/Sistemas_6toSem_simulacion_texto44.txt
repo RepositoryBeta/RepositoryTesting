@@ -1,0 +1,3 @@
+﻿texto 44
+
+En este caso nosotros vamos a tener un error de muestreo, porque nosotros vamos a trabajar con proporción, es decir una varianza proporcional, cuando nosotros trabajamos con la varianza muestral. Que es otra cosa cuando trabaja con la varianza muestral, entonces lo que aparece es como sigma, es una fórmula del cálculo del tamaño de la muestra pero en esa fórmula no tenemos proporciones sino que tenemos valores para poder obtener, por ejemplo la media la varianza y se puede obtener lo que son los estadísticos.

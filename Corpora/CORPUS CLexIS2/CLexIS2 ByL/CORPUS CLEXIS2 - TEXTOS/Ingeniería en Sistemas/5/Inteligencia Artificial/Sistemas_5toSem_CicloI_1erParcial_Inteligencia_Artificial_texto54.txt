@@ -1,0 +1,4 @@
+texto 54
+
+El aprendizaje automático se basa y justamente en que la máquina aprende de lo que usted hace de forma estadística, ella prende normalmente sola, hay momentos en que hay un empujón, dale, aprende. ¿Cómo aprende? Por ejemplo, voy a decir que tengo un celular, entonces que cada vez que él vea algo como eso, él va a decir que es un celular o le puedo decir y mira tengo un objeto, busca en la web a qué se parece, mira cuales son las partes de él y ponle objeto x, llegará el momento donde se va a dar cuenta que el objeto es un celular.
+

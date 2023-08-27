@@ -1,0 +1,4 @@
+texto 74
+
+Por ejemplo, coger un conjunto de números y de forma ordenada voy preguntando uno a uno cuál es mejor, si quiero buscar el mínimo o si quiero buscar el máximo, la mayoría de metaheurística se basan en la búsqueda local, seguimos, métodos de descomposición, dividen el problema en varios más pequeños y la solución se obtiene a partir de la solución de cada uno de estos. Es decir, divide en vecindarios y realiza una búsqueda local en este vecindario, y empieza a buscar la mejor solución.
+

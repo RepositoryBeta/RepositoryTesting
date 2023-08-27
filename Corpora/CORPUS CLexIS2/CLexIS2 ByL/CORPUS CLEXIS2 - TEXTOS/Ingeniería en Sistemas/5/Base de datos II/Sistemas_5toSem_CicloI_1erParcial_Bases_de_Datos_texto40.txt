@@ -1,0 +1,4 @@
+texto 40
+SQL TRUNCATE: TRUNCATE sirve para borrar los datos (no la estructura) de una tabla
+SQL ALTER: ALTER se utiliza para modificar la definición de alguna columna de una tabla.
+SQL AUTO INCREMENT: AUTO INCREMENT genera numero autoincremental para alguna columna de una tabla.

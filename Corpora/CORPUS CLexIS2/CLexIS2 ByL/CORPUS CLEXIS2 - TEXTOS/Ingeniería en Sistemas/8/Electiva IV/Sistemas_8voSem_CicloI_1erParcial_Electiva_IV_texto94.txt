@@ -1,0 +1,4 @@
+texto 94
+
+Proceso de primer plano: (Foreground process).
+Hospeda una actividad en la superficie de la pantalla y con la cual el usuario está interactuando (su método onresume ha sido llamado). Debería haber solo uno o unos pocos procesos de este tipo. Sólo serán eliminados cómo último recurso, si es que la memoria está tan baja que ni siquiera estos procesos pueden continuar corriendo.

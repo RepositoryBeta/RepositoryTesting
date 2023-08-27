@@ -1,0 +1,7 @@
+texto 35
+
+Tipos de seguridad de red
+Firewalls
+Los firewalls ponen una barrera entre su red interna de confianza y las redes externas que no son de confianza, como Internet. Usan un conjunto de reglas definidas para permitir o bloquear el tráfico.
+Un firewall puede ser hardware, software o ambos. Cisco ofrece dispositivos de gestión unificada de amenazas (UTM) y firewalls de próxima generación centrados en las amenazas.
+

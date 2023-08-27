@@ -1,0 +1,5 @@
+﻿Texto 3
+
+Si se dan cuenta, lo que vemos es la comunicación de los componentes que residen en estos computadores conectados en red y obviamente trabajen de manera coordinada, eso es lo importante. 
+¿Cuál es la diferencia en realidad de la materia Sistemas Operativos Distribuidos con la de Sistemas Operativos?
+Cuando nosotros manejamos Sistemas Distribuidos existen muchas computadoras que para usted es transparente y los procesos ya no corren en una sola máquina sino que los procesos ocurren en diferentes equipos, pero con la ilusión de que solo trabajan con un solo computador.

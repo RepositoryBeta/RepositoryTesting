@@ -1,0 +1,2 @@
+TEXTO 99
+Pruebas de sistemas orientado a objetos - Caja negra: La caja negra es diseñada sin conocer la implementación de una función sólo su especificación, una de las ventajas de las pruebas de caja negra son las siguientes: En primer lugar quien hace las pruebas puede ser alguien diferente a quien hace el programa, tiende a mejorar la calidad de las pruebas, las pruebas de caja negra son independientes de los posibles cambios en la implementación del programa.

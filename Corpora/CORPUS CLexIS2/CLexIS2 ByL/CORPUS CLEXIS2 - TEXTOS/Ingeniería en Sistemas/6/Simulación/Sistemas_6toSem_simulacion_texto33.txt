@@ -1,0 +1,6 @@
+﻿texto 33
+
+Antes de calcular el tamaño de la muestra necesitamos determinar varias cosas:
+Tamaño de la población Una población es una colección bien definida de objetos o individuos que tienen características similares. 
+Hablamos de dos tipos: población objetivo, que suele tiene diversas características y también es conocida como la población teórica. 
+La población accesible es la población sobre la que los investigadores aplicaran sus conclusiones.

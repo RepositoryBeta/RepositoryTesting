@@ -1,0 +1,2 @@
+TEXTO 4
+Actividades de desarrollo de ingeniería: Que es la obtención de requerimientos, el análisis y el diseño del sistema. El diseño de objetos y posteriormente, la implementación, para luego administrar, el desarrollo de software, donde existen: la comunicación, la administración de la fundamentación, las pruebas, la administración de configuración de software, administración de proyecto y ciclo de vida de software. Todo esto forma una escala de procedimientos.

@@ -1,0 +1,3 @@
+texto 17
+
+Definir, implantar y ejecutar mecanismos y controles para comprobar el logro de los grados adecuados del servicio informático. La auditoria informática es el proceso de recoger, agrupar y evaluar evidencias para determinar si un sistema informático salvaguarda los activos, mantiene la integridad de los datos, lleva a cabo eficazmente los objetivos de la organización y utiliza eficientemente los recursos.

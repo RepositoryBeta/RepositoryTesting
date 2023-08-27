@@ -1,0 +1,2 @@
+TEXTO 81
+Documento de análisis de requerimientos: ¿Para qué sirve?:  La especificación de requisitos de software, es el resultado del levantamiento de información con el usuario o cliente del producto. Son un método para una comunicación más concisa y clara entre los encargados de desarrollar el software y el área de negocio o clientes que usarán el producto. En este documento se deben dejar definidos los requerimientos.

@@ -1,0 +1,9 @@
+texto 23
+
+Todas las CPU Phenom poseen características tales como controlador de memoria DDR2 integrado, tecnología Hypertransport y unidades de coma flotante de 128 bits, para incrementar la velocidad y el rendimiento de los cálculos de coma flotante.
+Intel Core i7
+Intel Core i7 es una familia de procesadores de cuatro núcleos de la arquitectura Intel x86-64. 
+Los Core i7 son los primeros procesadores que usan la microarquitectura Nehalem de Intel y es el sucesor de la familia Intel Core 2. 
+
+
+

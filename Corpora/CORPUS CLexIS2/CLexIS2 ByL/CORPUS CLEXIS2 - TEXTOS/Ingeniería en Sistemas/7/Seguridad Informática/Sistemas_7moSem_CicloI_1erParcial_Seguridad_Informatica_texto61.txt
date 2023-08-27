@@ -1,0 +1,5 @@
+texto 61
+
+También hay que mencionar que el Hardening igual que consiste en desprendernos de lo innecesario de nuestros sistemas con el fin de endurecerlo, también nos habla de tener sumamente cuidado, en que las acciones de protección no afecten al correcto funcionamiento del mismo sistema y por consiguiente a su propósito.
+Hardening de usuarios
+El endurecimiento de del sistema, no solo es cosa de los sistemas operativos o hardware también pasa por la concienciación de los usuarios, unos usuarios bien concienciados acerca de los posibles problemas reales son menos propensos a ser vulnerables y, por ende, a que lo sea nuestro sistema.

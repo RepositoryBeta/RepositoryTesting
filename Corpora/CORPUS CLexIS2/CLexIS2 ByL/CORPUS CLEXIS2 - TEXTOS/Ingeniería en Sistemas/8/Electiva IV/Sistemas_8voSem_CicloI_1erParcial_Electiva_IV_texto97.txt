@@ -1,0 +1,4 @@
+texto 97
+
+Proceso visible: (Visible process).
+Hospeda una actividad que está visible en la pantalla, pero no en el primer plano (su método onpause ha sido llamado). Considerado importante, no será eliminado a menos que sea necesario para mantener los procesos de primer plano. Un proceso visible realiza una tarea sobre la que el usuario tiene conocimiento, por lo que su eliminación tendría un impacto negativo notable en la experiencia del usuario. 

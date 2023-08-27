@@ -1,0 +1,5 @@
+texto 58
+
+¿Cuáles son los estados de una actividad?
+1) Activa (Running): La actividad está encima de la pila, lo que quiere decir que es visible y tiene el foco. 
+2) Visible (Paused): La actividad es visible pero no tiene el foco. Se alcanza este estado cuando pasa a activa otra actividad con alguna parte transparente o que no ocupa toda la pantalla. Cuando una actividad está tapada por completo, pasa a estar parada.

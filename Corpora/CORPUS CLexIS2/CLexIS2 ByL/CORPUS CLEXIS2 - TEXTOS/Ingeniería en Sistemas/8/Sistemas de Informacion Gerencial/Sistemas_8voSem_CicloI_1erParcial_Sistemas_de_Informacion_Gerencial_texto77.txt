@@ -1,0 +1,4 @@
+texto 77
+
+También existen metodologías y disciplinas académicas que se utilizan para estudiar los SI.
+La diapositiva nos dice que el estudio de los sistemas de información es un campo multidisciplinario. No hay ninguna teoría o perspectiva dominante Los sistemas de información son sistemas sociotécnicos. Aunque están compuestos de máquinas, dispositivos y tecnología física dura, requieren considerables inversiones sociales, organizacionales e intelectuales para hacer que funcionen de manera apropiada.

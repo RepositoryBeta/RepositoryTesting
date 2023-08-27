@@ -1,0 +1,2 @@
+TEXTO 93
+Panorama general del diseño del sistema: Una vez identificado las actividades y tareas se puede optar en diseñar. Este es el paso 3, aquí estoy haciendo las actividades como definir objetivos de diseño, definir subsistemas, implementar subsistemas, establecer la correspondencia entre los subsistemas y las plataformas de Hardware y Software, manejar los datos persistentes definir, las políticas de control de acceso, seleccionar un flujo de control global y describir las condiciones de frontera.

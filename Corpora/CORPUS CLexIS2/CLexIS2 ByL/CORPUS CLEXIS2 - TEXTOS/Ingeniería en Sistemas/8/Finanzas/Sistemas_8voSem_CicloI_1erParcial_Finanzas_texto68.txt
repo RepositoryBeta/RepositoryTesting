@@ -1,0 +1,5 @@
+texto 68
+
+Costo de faltante
+Se deben evaluar las consecuencias que para la empresa tiene una carencia del artículo, asignándole un valor, este costo es difícil de establecer, por lo que poco utilizado en cálculo del costo total de inventario. Al calcular la cantidad económica de pedido se parte de unos supuestos como son: la de la demanda es conocida con certeza 
+que las ventas se efectúa uniformemente durante el periodo  y que los inventarios se recargan instantáneamente y que los costos no varían durante el período.

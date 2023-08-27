@@ -1,0 +1,6 @@
+﻿texto 38
+Aunque se puede considerar como fecha focal cualquier momento del tiempo, se recomienda tomar la fecha en la que aparezca una de las incógnitas o valores a determinar. 
+Para resolver problemas aplicando ecuaciones de valor se deben seguir 5 sencillos pasos: 
+1) Determinar el valor de las obligaciones (deudas) en la fecha de su vencimiento. 
+2) Realizar la gráfica de tiempo y valor, considerando como unidades de tiempo las de la tasa de reestructuración; colocando en la parte superior el monto de las deudas sobre su fecha de vencimiento y en la parte inferior de la línea del tiempo, los nuevos pagos después de la reestructuración, indicando con flechas hacia dónde se deben trasladar los valores. 
+

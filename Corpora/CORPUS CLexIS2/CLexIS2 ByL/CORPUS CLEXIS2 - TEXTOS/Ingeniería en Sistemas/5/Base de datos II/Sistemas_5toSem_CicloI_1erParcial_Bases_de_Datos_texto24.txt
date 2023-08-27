@@ -1,0 +1,5 @@
+texto 24  
+Fallos de configuración En cualquier parte del sistema que da soporte a la aplicación web: sistema operativo, servidor HTTP, contenedor/servidor de aplicaciones, intérpretes (p.ej. PHP), DBMS, intranet. 
+Impacto: 
+Instalación de puertas traseras [backdoors]. 
+Accesos no autorizados.

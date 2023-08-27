@@ -1,0 +1,5 @@
+texto 50
+De esta forma, una sola sentencia puede equivaler a uno o más programas que se utilizarían en un lenguaje de bajo nivel orientado a registros. 
+SQL también tiene las siguientes características:
+LENGUAJE DE DEFINICIÓN DE DATOS: El LDD de SQL proporciona comandos para la definición de esquemas de relación, borrado de relaciones y modificaciones de los esquemas de relación.
+LENGUAJE INTERACTIVO DE MANIPULACIÓN DE DATOS: El LMD de SQL incluye lenguajes de consultas basado tanto en álgebra relacional como en cálculo relacional de tuplas.

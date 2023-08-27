@@ -1,0 +1,6 @@
+texto 84
+
+También tenemos algunas desventajas de este algoritmo, que son:
+1) Suele dar resultados subóptimos debido a que la división del problema se hace de manera arbitraria.
+2) Es difícil encontrar una forma adecuada para dividir el problema en partes más pequeñas.
+

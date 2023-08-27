@@ -1,0 +1,4 @@
+texto 57
+
+Es más fácil compartir datos en toda la organización debido a que los datos se presentan a los usuarios en una sola ubicación, en vez de fragmentarlos en muchos sistemas y archivos distintos. La desorganización en ocasiones complica un poco, sabemos el modelo del negocio, estamos todos en el mismo esquema. Aquí hay un término ad hoc, ad hoc significa específico, consulta específica.
+

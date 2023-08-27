@@ -1,0 +1,3 @@
+TEXTO 29
+
+Generador de código intermedio: Ya pasé por la primera, por la segunda, por la tercera ahora voy a generar. Este generador, es como una especie motor el es el que va a ser que sea fácil en producirse y fácil en traducirse, como quien dice éste va a ser el que va a gestionar todo eso que inicialmente pasó por un proceso. En este no vamos a entrar mucho en detalle porque realmente no hay nada semántico, sintáctico, ni léxica que tratar. Sólo dice, sabes que tiene que haber un intermediador como nuestro lenguaje es el verbo. Entonces es lo mismo, el generador va a gestionar esa representación intermedia de muchas formas posibles. 

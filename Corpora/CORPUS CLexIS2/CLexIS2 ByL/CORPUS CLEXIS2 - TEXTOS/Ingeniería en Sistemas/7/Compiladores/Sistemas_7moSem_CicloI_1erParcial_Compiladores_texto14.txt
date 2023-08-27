@@ -1,0 +1,3 @@
+TEXTO 14
+
+Los tokens son conceptos generales como dice CTE ENTERA, simplemente una abreviatura general, si identificador y operador etc. Aquí tenemos algunos tokens con sus patrones y lexemas si se dan cuenta vamos a tener identificador, operador y el for.  En este caso son las palabras reservadas. Aquí hay una descripción y aquí hay un lexema, ojo verán como va a tener que hacer la tarea al final. Una vez identificado vamos a ver un ejemplo. ¿Cómo lo haría? Mi analizador léxico, donde dice que energía va a ser mi ID, total va a ser la asignación de ese ID, cantidad va a ser otra asignación de ID, porque estas dos hacen casi la misma labor pero diferente el ID. Y por último le pones CTEENT el número 23.  

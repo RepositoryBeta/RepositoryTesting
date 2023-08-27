@@ -1,0 +1,3 @@
+texto 12
+
+Entonces, luego tenemos los estándares de seguridad, debemos en este caso tener estándares de seguridad, tenemos en realidad que ver qué es lo que necesitamos darle al usuario en este caso para que pueda trabajar con la aplicación. No es dar por dar toda la parte de la seguridad. Luego tenemos el consumo de potencia, es decir, nosotros no podemos en este caso consumir toda la potencia de un celular, tenemos que saber aprovechar esos recursos.

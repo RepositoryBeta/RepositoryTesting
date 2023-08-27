@@ -1,0 +1,3 @@
+TEXTO 46
+
+Esto nos enseñaron de chiquitos ya que en el ejercicio inicial, decía esto es una oración cuando éramos pequeños a nosotros nos enseñaron identificar cuál era el sujeto cuando era el predicado, bien entonces lo mismo es para la formulación de lexema, bien ahora con la utilización del segundo ejercicio que es la codificación, ahora con la codificación primero hay que detectar las palabras reservadas if, while, do. Los identificadores asociados hacia los nombres y finalmente los operadores.

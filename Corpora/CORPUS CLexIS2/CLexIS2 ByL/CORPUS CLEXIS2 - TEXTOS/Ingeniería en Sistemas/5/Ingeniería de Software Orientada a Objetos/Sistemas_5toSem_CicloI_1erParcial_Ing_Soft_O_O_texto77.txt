@@ -1,0 +1,2 @@
+TEXTO 77
+Tipo de mensajes: Mensajes asíncronos y mensaje síncronos. Mensajes asíncrono: La comunicación asíncrona se produce cuando la clase emisora envía un mensaje al suministrador y se continúa ejecutando sin esperar a que llegue el resultado. La clase receptora por su parte no ejecuta la operación inmediatamente sino que deja la petición en una cola se representa mediante una flecha con la punta abierta y cortada horizontalmente.

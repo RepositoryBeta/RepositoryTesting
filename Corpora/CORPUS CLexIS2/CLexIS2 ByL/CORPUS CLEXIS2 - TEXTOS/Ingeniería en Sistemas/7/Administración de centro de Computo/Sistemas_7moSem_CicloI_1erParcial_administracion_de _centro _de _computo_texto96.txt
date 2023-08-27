@@ -1,0 +1,10 @@
+texto 96
+
+- Administración de emergencias.
+- Escalamiento.
+- Monitoreo físico del sitio.
+- Seguridad física.
+- Monitoreo físico.
+
+
+

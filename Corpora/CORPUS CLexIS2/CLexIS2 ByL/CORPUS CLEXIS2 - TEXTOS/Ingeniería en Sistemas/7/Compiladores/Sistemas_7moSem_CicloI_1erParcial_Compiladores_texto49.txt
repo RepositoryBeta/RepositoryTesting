@@ -1,0 +1,3 @@
+TEXTO 49
+
+Recordamos Cuáles son las etapas del compilador: la primera etapa era el análisis léxico, la segunda etapa que era el sintáctico, teníamos luego el semántico, luego teníamos el generador intermedio de código y luego de ello optimizamos y por último teníamos nuestro código objeto. Para reforzar en la parte del léxico se trabaja con tokens. ¿Qué eran tokens? Eran un conjunto de caracteres. Aquí tenemos una tabla de componentes léxicos donde dice que mi token constantes de un lexema constante y un patrón constante un patrón era un modelo a seguir.

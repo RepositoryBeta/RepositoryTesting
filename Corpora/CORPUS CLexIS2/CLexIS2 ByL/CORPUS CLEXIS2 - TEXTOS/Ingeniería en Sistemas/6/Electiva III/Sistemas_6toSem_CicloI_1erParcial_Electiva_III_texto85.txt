@@ -1,0 +1,5 @@
+texto 85
+
+5) Reducción de datos: Reducir el tamaño de los datos, encontrando las características más significativas dependiendo del objetivo del proceso. Se pueden utilizar métodos de transformación para reducir el número efectivo de variables a ser consideradas, o para encontrar otras representaciones de los datos.
+1) Reducción de dimensiones (la extracción irrelevante y débil de atributo), compresión de datos (reemplazando valores de datos con datos alternativos codificados).
+2) Reducción de tamaño (reemplazando valores de datos con representación alternativa más pequeña).

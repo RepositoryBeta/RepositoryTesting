@@ -1,0 +1,3 @@
+texto 63
+Secuencial
+La sentencia GOTO permite cambiar la línea secuencial de la ejecución hacia una etiqueta. Las etiquetas son marcadas con los símbolos <<  y  >>. Para ir dirigir la ejecución hacia una etiqueta simplemente hay que usar la sentencia GOTO.

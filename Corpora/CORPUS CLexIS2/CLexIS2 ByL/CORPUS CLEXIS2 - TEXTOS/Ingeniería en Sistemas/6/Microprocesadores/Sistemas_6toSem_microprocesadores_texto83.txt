@@ -1,0 +1,6 @@
+texto 83
+
+Dinámicas: son variables cuyo espacio se reserva y libera durante la ejecución de un procedimiento. Este tipo de variables se emplea para almacenar estructuras de datos que pueden crecer o decrecer en ejecución tales como listas enlazadas, árboles, etc. 
+El lugar de almacenamiento de estas variables se denomina área dinámica o heap y puede no ser contiguo ya que el sistema operativo va concediendo memoria según el programa la va solicitando y no siempre la memoria está disponible de forma contigua.
+
+

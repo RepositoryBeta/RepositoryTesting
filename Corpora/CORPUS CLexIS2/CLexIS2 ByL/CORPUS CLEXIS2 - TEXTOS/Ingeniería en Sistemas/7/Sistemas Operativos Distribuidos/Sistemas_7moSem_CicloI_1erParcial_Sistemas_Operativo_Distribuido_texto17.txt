@@ -1,0 +1,3 @@
+﻿Texto 17
+
+Ejemplo, cuando ustedes tienen un servidor, tienen diferentes formas de redundancia y ésta puede ser activa o pasiva. Es decir, yo tengo dos equipos replicados con la información y un equipo sólo está atendiendo. Cuando éste equipo tenga una falla, lo que hace es levantarse el pasivo, obviamente, yo trato de no perder el servicio que es lo más importante. 

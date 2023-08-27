@@ -1,0 +1,7 @@
+texto 28
+
+El principal propósito de los sistemas TPS en este nivel es responder a las preguntas de rutina y rastrear el flujo de transacciones por toda la organización. Tales como:
+1) ¿Cuántas piezas están en el inventario?
+2) ¿Qué ocurrió con el pago del Sr. Smith?
+Para responder a estos tipos de preguntas, por lo general información debe ser fácilmente disponible, actualizada y precisa.
+

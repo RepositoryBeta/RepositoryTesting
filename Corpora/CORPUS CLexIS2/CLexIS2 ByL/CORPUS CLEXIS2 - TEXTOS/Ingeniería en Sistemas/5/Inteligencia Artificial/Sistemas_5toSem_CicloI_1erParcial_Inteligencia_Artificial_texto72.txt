@@ -1,0 +1,4 @@
+texto 72
+
+Hay ciertas reglas, ciertas normas de los algoritmos de metaheurística que se basan en sólo coger una parte, dos partes o tres partes del conjunto de soluciones, pero en realidad existen millones de partes, lo que pasa es que yo como creador del algoritmo de metaheurística tengo que indicarle cuántas veces va a preguntar, sabes que yo voy a preguntar mil veces, todo depende por dónde comienza usted la metaheurística, viendo de eso puede obtener una solución local o una solución global.
+

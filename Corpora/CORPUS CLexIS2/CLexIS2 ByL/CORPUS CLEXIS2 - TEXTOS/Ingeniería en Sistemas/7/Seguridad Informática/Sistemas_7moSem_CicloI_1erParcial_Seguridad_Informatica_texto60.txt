@@ -1,0 +1,7 @@
+texto 60
+
+Ejemplos para aumentar la confidencial e integridad:
+Cerrar puertos que se encuentren sin uso.
+Utilizar backup (copias de seguridad) como respaldo de datos importantes.
+Instalar un firewall.
+Actualizar los sistemas operativos para obtener los parches de seguridad.

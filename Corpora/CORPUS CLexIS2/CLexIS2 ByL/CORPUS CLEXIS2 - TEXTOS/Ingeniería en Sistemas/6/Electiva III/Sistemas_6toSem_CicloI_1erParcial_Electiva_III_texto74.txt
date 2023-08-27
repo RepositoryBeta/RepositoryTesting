@@ -1,0 +1,5 @@
+texto 74
+
+Gestión del sistema: aquí el gestor del DWH facilita diferentes funciones de administración para el funcionamiento del almacén de datos propiamente dicho, entre ellas el monitoring (rendimiento, carga, etc.), el archivado de los datos o la copia de los datos.
+Almacenamiento y protección datos en los data warehouses.
+La agregación a gran escala de datos operativos, de negocio y de los clientes en un almacén de datos, así como su análisis con ayuda de métodos de data mining o de operaciones de OLAP, ofrece a las empresas una gran oportunidad a la hora de optimizar los procesos de negocio de forma sostenible. 

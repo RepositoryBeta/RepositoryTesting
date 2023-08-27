@@ -1,0 +1,6 @@
+texto 83
+
+Características de las auditorías
+Hay seis principios de auditoría, sobre los cuales se basa la auditoría, de acuerdo con lo que establecen las normas ISO:
+Integridad: toda auditoría debe basarse en la profesionalidad.
+Presentación justa: cada auditoría tiene la responsabilidad de informar sus hallazgos de manera no solo precisa sino también veraz.

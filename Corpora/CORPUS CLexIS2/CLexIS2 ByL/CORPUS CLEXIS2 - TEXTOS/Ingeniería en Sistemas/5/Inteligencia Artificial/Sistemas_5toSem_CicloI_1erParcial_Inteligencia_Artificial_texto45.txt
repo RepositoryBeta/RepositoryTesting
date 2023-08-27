@@ -1,0 +1,4 @@
+texto 45
+
+Seguimos con lógica difusa, esta área de aquí es para mí, es una de las partes que menos me gusta de la inteligencia artificial, porque lógica es algo que se da a entender y difusa es todo lo contrario, lo único que se entiende y lo que no se entiende a la vez en la perspectiva, realmente la perspectiva se basa en como usted logra ver el objeto, lo malo de la lógica difusa es que usted puede manipular los datos, para que la gente vea lo que usted quiere ver ósea su propia perspectiva.
+

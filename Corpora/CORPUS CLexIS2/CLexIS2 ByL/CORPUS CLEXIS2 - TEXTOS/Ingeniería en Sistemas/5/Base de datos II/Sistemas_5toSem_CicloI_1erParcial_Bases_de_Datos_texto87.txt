@@ -1,0 +1,6 @@
+texto 87
+Estos modelos de BBDD son uno de los preferidos de los clientes 
+NOSQL, porque son simples en cuanto a funcionalidad y brindan alto rendimiento a la hora de ejecutar
+ las lecturas y escrituras de datos. Ya hemos dado algunos ejemplos de Bases de Datos Clave-Valor 
+como Cassandra y Redis, pero es obligatorio expandir la lista cuando tenemos importantes BBDD como
+ BigTable de Google, Dynamo de Amazon, Project Voldemort de Linkedin, ORACLENOSQL y Riak.

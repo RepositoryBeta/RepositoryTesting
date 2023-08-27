@@ -1,0 +1,2 @@
+TEXTO 39
+Modos de comunicación calendarizados: Estos incluyen los indicadores de avances planeados como las revisiones del cliente y del proyecto. Las reuniones de estado del equipo las inspecciones, modos de comunicación basados en eventos, estos incluyen los reportes de problemas, las peticiones de cambio, la discusión de asuntos y las resoluciones. Todas estas comunicaciones pasan por el gerente del proyecto los desarrolladores el cliente y los usuarios.

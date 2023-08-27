@@ -1,0 +1,4 @@
+texto 78
+
+Como los sistemas de ventas, las cuentas de clientes, la manufactura, y pueden incluir datos de transacciones de sitios web. El almacén de datos extrae los datos actuales e históricos de varios sistemas operacionales dentro de la organización. Estos datos se combinan con los datos de fuentes externas y se transforman al corregir los datos imprecisos e incompletos y reestructurar los datos para generar informes gerenciales y realizar análisis antes de cargarlos en el almacén de datos.
+

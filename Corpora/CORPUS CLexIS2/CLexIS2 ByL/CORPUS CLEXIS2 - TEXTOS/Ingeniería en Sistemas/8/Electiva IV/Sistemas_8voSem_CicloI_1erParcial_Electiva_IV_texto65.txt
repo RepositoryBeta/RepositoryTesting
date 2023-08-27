@@ -1,0 +1,3 @@
+texto 65
+
+Vamos a ver entonces, sobre los controles de usuario, donde tenemos input, en este caso todos los input que nosotros podemos utilizar, tenemos los controls o los controles, alertas y pickers. Entonces, como controles entrada nosotros ya hemos visto y ahora visualizamos que tenemos como controles entrada el Edittext y el Spinner, estos dos elementos pertenecen al tipo imputtype, que nosotros podemos utilizar.

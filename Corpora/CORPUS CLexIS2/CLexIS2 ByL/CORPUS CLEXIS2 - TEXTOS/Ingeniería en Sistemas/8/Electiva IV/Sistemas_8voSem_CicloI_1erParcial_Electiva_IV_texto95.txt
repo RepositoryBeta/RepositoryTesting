@@ -1,0 +1,4 @@
+texto 95
+
+Un proceso en primer plano es uno que se requiere para lo que el usuario está haciendo actualmente. Varios componentes de la aplicación pueden hacer que el proceso que los contiene se considere en primer plano de diferentes maneras. Un proceso se considera en primer plano si se cumple alguna de las siguientes condiciones: 
+1) Ejecuta una Activity en la parte superior de la pantalla con la que el usuario está interactuando (se llamó a su método onresume). 

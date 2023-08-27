@@ -1,0 +1,3 @@
+TEXTO 66
+
+Usualmente esto suele usarse cuando ustedes realizan una compilación de búsqueda de palabras en algún momento tuvieron que haber utilizado Mysql o algún otro motor. En javascript dice que las expresiones regulares son objetos como por ejemplo, cuáles son esos patrones, los métodos except, rest, como los métodos match, replace. Todos esos son expresiones regulares. Las expresiones regulares son en base a un patrón y un patrón es una forma de construir lexema.

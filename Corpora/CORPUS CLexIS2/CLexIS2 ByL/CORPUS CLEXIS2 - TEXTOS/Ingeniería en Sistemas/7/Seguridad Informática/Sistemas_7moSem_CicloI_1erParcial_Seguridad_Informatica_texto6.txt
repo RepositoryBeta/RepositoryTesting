@@ -1,0 +1,5 @@
+texto 6
+
+Seguridad física y Seguridad lógica.
+Estos dos tipos de seguridad hacen referencia al recurso a proteger. 
+La seguridad física se refiere básicamente a la protección de todos nuestros elementos desde el punto de vista de posibles desastres naturales como incendios, terremotos o inundaciones, así como también de otras amenazas externas como puede ser robo, problemas eléctricos, etc. Las diferentes medidas que se suelen tomar pasan por adecuar el espacio dedicado al HW de forma que las amenazas mencionadas queden mitigadas lo máximo posible.

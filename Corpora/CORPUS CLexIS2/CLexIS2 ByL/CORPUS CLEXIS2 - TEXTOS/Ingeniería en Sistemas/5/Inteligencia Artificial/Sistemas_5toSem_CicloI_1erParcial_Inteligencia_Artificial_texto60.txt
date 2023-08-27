@@ -1,0 +1,4 @@
+texto 60
+
+Entonces, se guarda toda la información habida y por haber, las neuronas no guardan toda la información no es por ejemplo, yo digo estoy viendo clases de inteligencia artificial, en una neurona no se va a guardar todo lo que es inteligencia artificial, se va a guardar en una parte. Es decir, en una neurona se va a grabar que me está dando la clase Charles Pérez, en otra se va a grabar que en el fondo de él está la universidad Guayaquil, en otra estamos hablando de redes neuronales, etc.
+

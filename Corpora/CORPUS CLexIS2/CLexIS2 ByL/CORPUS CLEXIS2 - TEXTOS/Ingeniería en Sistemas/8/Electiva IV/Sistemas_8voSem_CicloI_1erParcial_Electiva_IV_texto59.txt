@@ -1,0 +1,6 @@
+texto 59
+
+Continuando con los estados de una actividad tenemos:
+3) Parada (Stopped): Cuando la actividad no es visible. El programador debe guardar el estado de la interfaz de usuario, preferencias, etc.
+4) Destruida (Destroyed): Cuando la actividad termina al invocarse el método finish, o es matada por el sistema.
+Una actividad puede tomar el estado de activo, visible, parado o destruido.

@@ -1,0 +1,6 @@
+texto 70
+
+Herramientas de previsión y simulación
+Las forecasting and simulation tools permiten a los usuarios extrapolar al futuro los indicadores guardados en el DWH para poder elaborar modelos de predicción.
+Gestión de almacenes de datos.
+En todos los niveles de un data warehouse se encuentran contenidas diversas herramientas que suelen incluirse en el ámbito de la gestión de almacenes y cuya misión consiste en crear, mantener y operar todas las funciones administrativas necesarias en un almacén de datos. 

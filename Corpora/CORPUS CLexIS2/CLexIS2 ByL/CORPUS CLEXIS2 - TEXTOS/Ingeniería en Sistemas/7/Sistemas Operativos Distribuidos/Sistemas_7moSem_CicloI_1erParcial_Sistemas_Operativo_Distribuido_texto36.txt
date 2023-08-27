@@ -1,0 +1,3 @@
+﻿Texto 36
+
+Este nivel de abstracción permite centrarnos exclusivamente en la especificación del servicio, sin incluir información tecnológica ni de ninguna otra naturaleza, más allá de la propia especificación estándar del servicio desde el punto de vista del negocio al que sirve, que queda recogida en su contrato.

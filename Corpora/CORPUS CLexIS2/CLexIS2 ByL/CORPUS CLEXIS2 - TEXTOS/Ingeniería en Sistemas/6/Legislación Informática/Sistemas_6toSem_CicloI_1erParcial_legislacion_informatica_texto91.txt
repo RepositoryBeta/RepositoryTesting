@@ -1,0 +1,14 @@
+texto 91
+Pasos para solicitar el certificado de cumplimiento obligaciones en el servicio de rentas internas SRI:
+1) Entrar a página web del SRI http://www.sri.gob.ec.
+2) Escoge la opción servicios en línea.
+3) Escoger la opción certificado tributario.
+4) Ingresar número de titular y contraseña.
+5) Escoger en la parte izquierda la opción general.
+6) Escoger la opción certificado tributario.
+7) Escoger opción certificado de cumplimiento tributario.
+8) Escoger opciones generar certificado.
+9) Imprimir certificado.
+Existe una frase que se llama fuerza mayor o caso fortuito.
+
+

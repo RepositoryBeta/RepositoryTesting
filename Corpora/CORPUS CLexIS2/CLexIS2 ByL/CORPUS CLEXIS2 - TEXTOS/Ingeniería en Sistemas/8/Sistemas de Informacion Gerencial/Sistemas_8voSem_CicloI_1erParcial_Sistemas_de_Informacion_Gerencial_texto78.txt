@@ -1,0 +1,7 @@
+texto 78
+
+En el MIS existen dos tipos de metodologías, que son:  metodologías técnicas y metodologías del comportamiento.
+En las metodologías técnicas tenemos 3 elementos. 
+1) Ciencias de la administración.
+2) Informática.
+3) Investigación de operaciones.

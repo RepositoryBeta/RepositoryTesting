@@ -1,0 +1,7 @@
+texto 2
+
+La informática ayuda a las empresas a tomar decisiones y gestionar sus negocios con el fin de obtener beneficios pero deben cumplir ciertas normas y estándares marcados.
+El objetivo de las auditorías de sistemas de la información es determinar si:
+Los sistemas informáticos trabajan eficientemente.
+Los sistemas informáticos cumplen con la normativas.
+La gestión de los recursos informáticos funcionan correctamente.

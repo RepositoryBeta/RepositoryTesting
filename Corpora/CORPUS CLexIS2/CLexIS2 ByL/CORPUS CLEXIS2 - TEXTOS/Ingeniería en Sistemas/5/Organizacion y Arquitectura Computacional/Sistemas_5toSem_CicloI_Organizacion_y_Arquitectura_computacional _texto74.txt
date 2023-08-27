@@ -1,0 +1,4 @@
+texto 74
+
+Así, en algunos procesadores más antiguos se incluían instrucciones con más de una dirección, de esta forma, el ciclo de ejecución de una instrucción generaría más de una referencia a memoria, bien entonces ahí tenemos el ejercicio y sigamos estos pasos.
+1) El contador de programa PC contiene el valor 300, la dirección de la primera instrucción, esta instrucción ( el valor hexadecimal 1940) se carga en el registro de instrucción (IR).

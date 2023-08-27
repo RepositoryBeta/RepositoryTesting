@@ -1,0 +1,2 @@
+TEXTO 90
+Diseño de objetos:  Así mismo, existen algunas etapas, entre ellos tenemos: Comprender y definir el contexto y los modos de utilización del sistema, diseñar la arquitectura del sistema, objetos principales en el sistema, desarrollar los modelos de diseño y especificar las interfaces de los objetos. Existen unas capas de la pirámide del diseño orientado a objetos donde se encuentran los diseños de responsabilidades, diseño de mensajes, diseño de clases y objetos y diseño de subsistemas.

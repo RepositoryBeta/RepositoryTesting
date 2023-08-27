@@ -1,0 +1,2 @@
+TEXTO 83
+Esto no es lo que comúnmente estamos acostumbrados a pensar, es decir, el número de memoria que tiene el código o donde está situada hace referencia al valor que almacenará en cuanto a tiempo, no almacena la dirección sino el tiempo de demora o el tiempo de ejecución, a eso hace referencia la dirección de memoria. Tenemos también el valor del elemento. ¿Qué son los intérpretes sencillos?, ¿Qué es un intérprete? Es en el que se encarga de traducir el código de alto nivel a lenguaje máquina. 

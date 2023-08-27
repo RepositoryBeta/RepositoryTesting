@@ -1,0 +1,3 @@
+texto 28
+
+El analista de datos (data analyst) es un profesional que se dedica, principalmente, al reporting, desarrollo de dashboards, análisis mediante técnicas OLAP y otras herramientas de minería de datos. Realizan tareas de BI y BA con soluciones empaquetadas, es decir, productos empaquetados que realizan los procesos de análisis. A veces se conoce a estas herramientas como (cajas negras), debido a que no puedes acceder al detalle de los métodos y algoritmos subyacentes.

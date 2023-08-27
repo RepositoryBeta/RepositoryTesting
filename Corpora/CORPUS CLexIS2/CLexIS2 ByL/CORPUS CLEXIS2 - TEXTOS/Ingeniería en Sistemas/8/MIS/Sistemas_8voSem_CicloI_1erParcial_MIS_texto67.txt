@@ -1,0 +1,4 @@
+texto 67
+
+Además de lo comentado anteriormente, las bases de datos NOSQL son sistemas de almacenamiento de información que no cumplen con el esquema entidad relación. Tampoco utilizan una estructura de datos en forma de tabla donde se van almacenando los datos sino que, para el almacenamiento hacen uso de otros formatos como clave valor, mapeo de columnas o grafos.
+

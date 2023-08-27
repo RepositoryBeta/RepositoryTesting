@@ -1,0 +1,3 @@
+TEXTO 30
+
+El esquema le va a mostrar si está de forma correcta, si el código está bien, en este caso, dice que determina el código de tres direcciones, el llamado ctd  en español o TAC  en inglés qué signifca Three Address Code. Ósea, mi árbol de dirección de código, eso es equivalente a un ensamblador para un ordenador, en el que cada dirección de memoria puede actuar como un registro, el código de tres direcciones consta de una secuencia de instrucciones cada una de las cuales tiene como máximo tres operandos y un solo operador binario. 

@@ -1,0 +1,5 @@
+﻿Texto 100
+
+Escalabilidad
+La escalabilidad de un sistema se puede medir de acuerdo con al menos tres dimensiones:
+Primero un sistema puede ser escalable con respecto a su tamaño lo cual significa que podemos agregarle fácilmente usuarios y recursos, el segundo, un sistema escalable geográficamente es aquel en el cual usuarios y recursos pueden radicar muy lejos unos de los otros y el tercero un sistema puede ser escalable administrativamente, esto puede ser fácil de manejar incluso si involucra muchas organizaciones administrativas diferentes.

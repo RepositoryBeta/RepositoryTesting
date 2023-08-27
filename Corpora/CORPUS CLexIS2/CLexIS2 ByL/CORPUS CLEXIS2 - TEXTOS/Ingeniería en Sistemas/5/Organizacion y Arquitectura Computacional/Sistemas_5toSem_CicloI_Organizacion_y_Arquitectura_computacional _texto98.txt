@@ -1,0 +1,6 @@
+texto 98
+
+Temporizador
+Es la forma en la que se coordinan los eventos en el bus los buses utilizan temporización síncrona y asíncrona. Con temporización síncrona la presencia de un evento en el bus está determinada por un reloj, el bus tiene una línea de reloj en la que se transmite una secuencia de intervalos regulares con duración de 1 a 0. La temporización asíncrona en presencia de un evento en el bus es  consecuencias de que se produzca un evento previo.
+
+La temporización es de fácil implementación pero es menos flexible que la temporización asíncrona.

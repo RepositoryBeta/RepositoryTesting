@@ -1,0 +1,9 @@
+﻿texto 7
+Capital (C)
+En matemática financiera representa el valor del dinero en la actualidad. Este monto puede ser una inversión, deuda o préstamo.
+Interés (J)
+Representan los valores obtenidos por la remuneración de un capital. El interés representa, por ejemplo, el valor del dinero prestado.
+
+
+ 
+

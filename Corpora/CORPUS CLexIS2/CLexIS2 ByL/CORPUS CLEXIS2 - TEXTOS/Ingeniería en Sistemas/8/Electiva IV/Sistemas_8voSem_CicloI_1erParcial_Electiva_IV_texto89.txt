@@ -1,0 +1,5 @@
+texto 89
+
+Continuando con la interface de usuario en layouts, tenemos: 
+3) Tablelayout: Modelo de organización basado en una organización con tablas. El diseño lo organizaremos en filas (elemento Tablerow) y dentro de cada fila, pondremos los elementos.
+4) Relativelayout: Más flexibles de todos. Los elementos se colocan relativos a otro elemento o a otro layout.

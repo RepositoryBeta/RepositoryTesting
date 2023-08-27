@@ -1,0 +1,3 @@
+texto 40
+
+El objetivo de este vídeo demostrar mediante animaciones y los pasos necesarios para realizar el ciclo básico de inducción recordemos que él ciclo básico de instrucción está compuesto por dos etapas. Inicia con un ciclo de captación que se encarga de captar la siguiente instrucción, a continuación tiene un ciclo de ejecución que se encarga de ejecutar la instrucción, si el programa tiene mas intrusiones se vuelve a captar las siguientes instrucción sino finalista.

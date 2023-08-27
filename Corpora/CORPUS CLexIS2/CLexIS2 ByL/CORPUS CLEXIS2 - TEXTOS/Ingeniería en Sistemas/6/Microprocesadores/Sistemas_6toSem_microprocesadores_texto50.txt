@@ -1,0 +1,9 @@
+texto 50
+
+Registro de instrucciones (IR), contiene la dirección de la siguiente instrucción que se va a ejecutar.
+Palabras de estado del programa (PSW), contiene códigos de condición junto con otras informaciones de estado como el signo, acarro, desbordamiento, entre otras.
+Decodificación de direcciones.
+Un decodificador de direcciones es un dispositivo o circuito digital que indica que un área particular de memoria está siendo direccionada, o apuntada por el microprocesador. 
+
+
+

@@ -1,0 +1,6 @@
+﻿texto 24
+Conocer el valor presente y valor futuro de una determinada cantidad o inversión nos puede servir para saber la cantidad que debemos ahorrar para tener un capital suficiente en nuestra jubilación o el dinero que debemos ahorrar para solicitar un crédito hipotecario. 
+Contenidos sobre valor presente y valor futuro
+Valor Presente: Es la forma de valorar activos, cuyo cálculo es el descontar el flujo futuro en base a una tasa de rentabilidad ofrecida por alternativas de inversión comparables, denominada costo de capital o tasa mínima.
+Valor Futuro: Hace a la referencia de la cantidad de dinero que podrá alcanzar una inversión en una fecha futura al ganar intereses a una tasa compuesta.
+

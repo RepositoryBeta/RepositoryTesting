@@ -1,0 +1,3 @@
+texto 93
+
+Android ordena los procesos en una lista jerárquica, asignándole a cada uno de ellos una determinada importancia. Esta lista se confecciona basándose en los componentes de la aplicación que están corriendo (actividades y servicios) y el estado de estos componentes. Para establecer esta jerarquía de importancia se distinguen los siguientes tipos de procesos: procesos de primer plano, proceso visible, proceso de servicio, proceso de fondo y proceso vacío.

@@ -1,0 +1,2 @@
+TEXTO 6
+¿Cuáles son las fortalezas de la tecnología de objetos? Las fortalezas vienen dada por reflejar un paradigma de modelaje sencillo, para facilitar, la reutilización de elementos arquitectónicos y códigos, poder crear modelos más apegados a la realidad, vamos a mantener estabilidad y adaptarse a cambios en el dominio del problema. Estas son las fortalezas que tiene la tecnología de objetos que son muy importantes y hay que tenerlo en cuenta.

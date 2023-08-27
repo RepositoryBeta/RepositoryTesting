@@ -1,0 +1,5 @@
+texto 57
+
+Aquí lo tenemos un poco más definitorio lo que es, nos dice, Aprendizaje supervisado:
+En este caso, se trata de un tipo de aprendizaje que permite al ordenador aprender mediante los patrones que le han sido proporcionados de forma previa. Esto se lleva a cabo ofreciéndole a la computadora patrones que han sido previamente etiquetados, es decir, se le ofrece información que puede interpretar por sí mismo.
+

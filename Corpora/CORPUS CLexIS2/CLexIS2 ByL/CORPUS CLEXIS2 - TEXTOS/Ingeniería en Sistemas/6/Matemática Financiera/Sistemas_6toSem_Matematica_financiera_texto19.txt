@@ -1,0 +1,12 @@
+﻿texto 19
+Calculadora de interés compuesto
+También existe la opción de la calculadora de interés compuesto que pueden utilizar en base a los siguientes parámetros:
+1) Capital Inicial
+2) Adición Anual
+3) Años
+4) Tasa de Interés
+5) Interés Compuesto
+6) Veces al Año
+7) Hacer las Adiciones A / Inicio / Fin de Cada período
+8) Calcular = Valor Futuro.
+

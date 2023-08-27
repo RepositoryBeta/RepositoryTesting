@@ -1,0 +1,2 @@
+TEXTO 23
+Las siguientes actividades administrativas son inicio del proyecto: Incluye la definición del problema, la identificación del plan inicial de tareas y la asignación de recursos a las tareas. Estado estable incluye la supervisión del proyecto, la administración, el acuerdo del proyecto y por último la terminación del proyecto que incluye la prueba de aceptación del cliente, la instalación y el post mortem del proyecto. Estas son las actividades del líder.

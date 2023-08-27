@@ -1,0 +1,4 @@
+texto 37
+
+Software antivirus y antimalware.
+El malware, abreviatura de software malicioso, abarca los virus, gusanos, troyanos, ransomware y spyware. En algunos casos, el malware puede infectar una red y permanecer latente por días o incluso semanas. Los mejores programas antimalware no solo detectan la entrada de malware, sino que también hacen un seguimiento constante de los archivos para detectar anomalías, eliminar malware y reparar daños.

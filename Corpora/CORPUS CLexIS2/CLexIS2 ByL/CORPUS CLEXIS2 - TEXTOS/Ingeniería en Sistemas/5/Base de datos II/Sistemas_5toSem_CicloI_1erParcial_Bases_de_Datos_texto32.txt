@@ -1,0 +1,9 @@
+texto 32  
+CONSULTAS
+Una consulta SQL es tipo de consulta a una base de datos empleando lenguaje SQL.
+Una consulta SQL básica puede constar con un máximo de seis cláusulas, de las cuales sólo dos son obligatorias (SELECT y FROM).
+Las cláusulas se especifican en el siguiente orden:
+SELECT: indica qué atributos o funciones se van a recuperar.
+SELECT < lista de atributos >
+FROM: especifica todas las relaciones (tablas) que se necesitan en la consulta.
+FROM < lista de tablas >.

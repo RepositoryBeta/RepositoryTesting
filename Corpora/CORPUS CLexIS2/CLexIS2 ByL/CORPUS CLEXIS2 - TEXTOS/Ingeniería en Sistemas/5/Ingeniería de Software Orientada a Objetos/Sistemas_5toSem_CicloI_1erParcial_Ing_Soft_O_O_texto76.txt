@@ -1,0 +1,2 @@
+TEXTO 76
+Patrones: Una colaboración parametrizada constituye la parte estructural de un patrón orientado a objeto, los patrones son receta formales para resolver problemas de diseños que se presentan a menudo y la descripción de la solución que proponen tienen una parte estructural y otra dinámica. Los patrones se representan como elipses con el contorno discontinuo una aplicación de un patrón en un caso particular se representa conectando el símbolo.

@@ -1,0 +1,8 @@
+texto 76
+
+Interrupción del reloj 
+IRQ del reloj: un dispositivo programable 4 realiza una interrupción hardware periódica (cada centésima de segundo, hasta 1 µs) con el objetivo de lanzar operaciones de mantenimiento y gestión del sistema. 
+Esa IRQ provoca la ejecución de la rutina de atención al reloj, indexada en el Vector de Interrupciones. Cada vez que se produce esa IRQ lo llamamos un tick de reloj y el Sistema Operativo realiza operaciones periódicas. 
+
+
+

@@ -1,0 +1,3 @@
+texto 67
+
+También tenemos los Spinner y alertas, que también se pueden utilizar, los podemos utilizar en este caso en la parte de los contenidos. Aquí podemos observar en el archivo string, nosotros también podemos ir detallando e indicando nuestras etiquetas, podemos nosotros crear o ir poblando el archivo string, podemos utilizar los ítems que nosotros en este caso vamos a crear en el string-array, podemos crear todos los ítems que vayamos a usar.

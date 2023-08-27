@@ -1,0 +1,8 @@
+texto 77
+
+El tiempo en Unix5 es un entero con signo de 32 bits que cuenta el número de segundos desde 1 - 1 - 1970. El último segundo con este sistema, el 2 31 - 1 será en 2038.
+Elementos en memoria: código común y reutilizable tendremos en memoria el código dependiente del hardware común a todos los programas, que por ello se puede mantener en memoria y ser reutilizable: es el origen del SO. 
+El Vector de Interrupciones (VI) Rutinas de atención a la interrupción de reloj, rutinas de error hardware y software, rutinas dispersoras (integran diferentes operaciones de una misma IRQ) Rutinas de atención a interrupciones de los dispositivos Rutinas de E/S.
+
+
+

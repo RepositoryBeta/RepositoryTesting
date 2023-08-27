@@ -1,0 +1,3 @@
+﻿texto 11
+
+Quiero analizar y saber como estan los grupos de dar préstamos versus moroso, quiero saber si las dos variables están relacionadas entre sí, si me voy a dar cuenta me va a dar normalmente no van a estar relacionadas las variables, porque si se supone que eres moroso no te van a dar crédito, yo las quiero analizar este momento, yo estoy diciendo, estoy dando esta lógica, si es moroso se supone que no le debe de dar crédito la primera variables crédito y la segunda variable es persona morosa.

@@ -1,0 +1,4 @@
+texto 67
+
+Costo de ordenamiento: 
+Se consideran desde que se solicita el pedido del producto hasta que se recibe en la empresa, estos costos incluyen comunicación entre oficinas, despachos, embarques, fletes, demoras, perdidas, daños, deterioros, seguros, aranceles, descargues, recibo y costos administrativos. El costo de ordenamiento se expresa de la siguiente manera: Costo de ordenamiento = CO = F * N = F*(S / Q).

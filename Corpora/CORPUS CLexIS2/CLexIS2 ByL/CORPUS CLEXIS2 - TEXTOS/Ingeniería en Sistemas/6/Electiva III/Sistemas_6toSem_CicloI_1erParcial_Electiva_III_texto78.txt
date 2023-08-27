@@ -1,0 +1,4 @@
+texto 78
+
+3) Deber de guardar secreto (art. 10): La empresa ha de garantizar que se cumplen los deberes de secreto y seguridad (salvaguardarlos del acceso no autorizado de terceros). El artículo 9 impone a los responsables de ficheros adoptar las medidas necesarias para garantizar la seguridad técnica del archivo. Para facilitar a las empresas el cumplimiento de la LOPD, la Agencia Estatal por la protección de los datos ha elaborado esta guía de seguridad.
+4) Deber de información (art. 5): Antes de recabar los datos de ha de informar al interesado al respecto y obtener su debido consentimiento.

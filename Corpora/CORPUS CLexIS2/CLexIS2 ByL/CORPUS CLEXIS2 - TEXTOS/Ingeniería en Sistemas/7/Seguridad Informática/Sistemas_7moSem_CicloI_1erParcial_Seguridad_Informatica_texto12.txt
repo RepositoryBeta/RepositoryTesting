@@ -1,0 +1,5 @@
+texto 12
+
+La seguridad de Software es la que se centra en proteger nuestro software de amenazas. Cada vez este tipo de seguridad está cogiendo mayor relevancia ya que cada vez más el software adquiere importancia fundamental en los sistemas. 
+Aquí englobamos los mecanismos de protección contra virus, hackers y robo de información sensible.
+Por último, hablamos de seguridad de red cuando nos focalizamos en los mecanismos de protección de las redes corporativas de empresas o incluso de redes más domésticas. 

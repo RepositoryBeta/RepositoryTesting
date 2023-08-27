@@ -1,0 +1,3 @@
+﻿Texto 66
+
+El sistema de ficheros en HDFS es jerárquico, como ocurre en otros sistemas de ficheros, el usuario o aplicación debe crear primero un directorio, dentro del cual se podrán crear, eliminar, mover o renombrar ficheros, HDFS proporciona una herramienta por línea de comandos (CLI) para interaccionar con el sistema de ficheros. Aquí tienes una entrada con los comandos más usados de HDFS.

@@ -1,0 +1,3 @@
+TEXTO 68
+
+Una vez que yo tenga hecha mi identificación. ¿Quién es el identificador?, ¿Quién es el operador?, ¿Quién?, ¿Cómo sé cual es mi arbol parser? Si no hay árbol parser que sea de recursividad, luego la generación luego de todo ese proceso se debe generar ese analizador léxico cómo les mencioné podemos utilizar el aplicativo Flex que es un herramienta útil para lograr generar ese análisis y establecer expresiones regulares que se puedan validar.

@@ -1,0 +1,5 @@
+Texto 79
+
+Procedimiento de Contingencia se aplican a situaciones de emergencia. Por lo tanto, aunque pueden nunca ser usados, deben estar siempre bien definidos y capaces de una implementación inmediata.
+Procedimientos del servicio de soporte: Estos procedimientos afectan indirectamente el qué tan bien son procesadas las tareas; comprenden al monitoreo, la evaluación y corrección de funciones en el centro de datos.
+

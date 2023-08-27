@@ -1,0 +1,8 @@
+texto 34
+
+Comparación de Arquitecturas Von Neumann es mas flexible, al utilizar un mismo tipo de memoria para datos e instrucciones Harvard es mas segura, dado que ningún programa del usuario tiene posibilidad de modificar la memoria de programa.
+¿Qué es un registro?
+Un registro es una memoria que esta ubicada en el procesador y se encuentra en el nivel más alto en la jerarquía de memoria, por lo tanto tiene una alta velocidad pero con poca capacidad para almacenar datos que va desde los 4 bits hasta los 64 bits dependiendo del procesador que se utilice. 
+
+
+

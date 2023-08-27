@@ -1,0 +1,4 @@
+texto 91
+
+Linearlayout también es compatible con la asignación de un volumen a campos secundarios individuales con el atributo:
+1) android: layout weight: Este atributo asigna un valor de importancia a una vista en términos de la cantidad de espacio que debe ocupar en la pantalla. Un valor de volumen más grande posibilita la expansión para llenar el espacio restante en la vista primaria. Las vistas secundarias pueden especificar un valor de volumen y, luego, todo espacio restante en la vista del grupo se asigna a los campos secundarios según la proporción de su volumen declarado. El volumen predeterminado es cero.

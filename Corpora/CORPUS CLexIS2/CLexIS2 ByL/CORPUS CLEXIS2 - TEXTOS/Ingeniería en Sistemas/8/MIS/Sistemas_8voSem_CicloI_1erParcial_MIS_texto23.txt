@@ -1,0 +1,4 @@
+texto 23
+
+Los sistemas transaccionales, son los primeros sistemas, son los más básicos de la organización, es todo lo que tiene que ver con movimientos transaccionales, ingresos que hay en el día, movimiento de información cuando existen reclamaciones, servicios al cliente, detalles y todo eso almacenando en la base de datos y sobre eso se toman decisiones. Pero eso llega a otro nivel, por eso se dice que estos sistemas transaccionales ayudan y apoyan a otros sistemas.
+

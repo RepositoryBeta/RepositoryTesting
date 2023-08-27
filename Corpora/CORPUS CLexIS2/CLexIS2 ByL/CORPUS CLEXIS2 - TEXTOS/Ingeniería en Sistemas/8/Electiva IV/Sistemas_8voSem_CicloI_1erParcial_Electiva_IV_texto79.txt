@@ -1,0 +1,3 @@
+texto 79
+
+Por lo general, son dos las situaciones en las que se trabaja con proveedores de contenido: Cuando quieres implementar código para acceder a un proveedor de contenido existente en otra aplicación o cuando decides crear un proveedor de contenido nuevo en tu aplicación a fin de compartir datos con otras aplicaciones. En este tema, se contemplan los aspectos básicos para trabajar con proveedores de contenido existentes.

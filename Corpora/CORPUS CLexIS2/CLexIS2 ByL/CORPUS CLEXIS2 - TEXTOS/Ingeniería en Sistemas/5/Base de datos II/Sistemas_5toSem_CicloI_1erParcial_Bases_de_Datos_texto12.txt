@@ -1,0 +1,5 @@
+texto 12
+Existen dos tipos de instancias:
+Las instancias con nombre: se accede usando una barra inclinada hacia la izquierda seguida del nombre de la instancia, que es la forma de identificarlas.
+Por ejemplo: local Instancia, Instancia, localhost Instancia, 127.0.0.1 Instancia, NombreServidor Instancia, 192.168.1.5 Instancia.
+La instancia predeterminada: a ésta accedemos simplemente usando el nombre del servidor o su dirección IP.

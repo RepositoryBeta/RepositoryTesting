@@ -1,0 +1,7 @@
+﻿Texto 47
+
+Pero si podemos identificar algunos rasgos comunes de los microservicios.
+Independencia: Cada módulo es un ejecutable en sí mismo y puede ser desplegado sin afectar al resto.
+Granularidad: Cada microservicio se encarga de una única funcionalidad de negocio.
+Aplicación modular: Posibilidad de ampliar o reducir en función de las necesidades.
+Arquitectura distribuida: Cada microservicio dispone de su propia base de datos. 

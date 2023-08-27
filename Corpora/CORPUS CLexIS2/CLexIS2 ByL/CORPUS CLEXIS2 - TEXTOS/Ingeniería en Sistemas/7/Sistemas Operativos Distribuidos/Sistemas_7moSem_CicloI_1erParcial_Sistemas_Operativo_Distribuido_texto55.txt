@@ -1,0 +1,5 @@
+﻿Texto 55
+
+Servicios con bajo acoplamiento
+
+No es necesario ningún estudio en profundidad para constatar que el principio de bajo acoplamiento no solo se ha mantenido sino que se ha visto corregido y aumentado, si bien antes lo normal era tener tanto el consumidor como el proveedor del servicio dentro de la misma empresa, e incluso dentro de la misma (aplicación), en la situación actual estamos cada vez más acostumbrados a tener una composición, un mashup, de servicios que pertenecen a nuestra organización, a partners y a terceras partes. 

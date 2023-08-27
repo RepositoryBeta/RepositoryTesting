@@ -1,0 +1,3 @@
+texto 98
+
+3) Con la plataforma de Planning Analytics logra llegar al nivel deseado en materia de escalabilidad, gobierno de datos y seguridad informática. Y si ya con Cognos Analytics se lograba un excelente rendimiento para reducir costes de migración de información y tiempos, hoy, con la computación cognitiva que la plataforma Watson pone a disposición de la compañía, los datos se convierten en rentabilidad.

@@ -1,0 +1,6 @@
+texto 64
+
+En este contexto, los métodos de minería de datos aplicados al data warehousing no hacen más que ganar en relevancia.
+Herramientas de Online Analytical Processing (OLAP)
+Entre las herramientas disponibles de análisis y evaluación en almacenes de datos se han consolidado las aplicaciones de OLAP como interfaz estándar de usuario. 
+Las herramientas que se utilizan en el marco del procesamiento analítico en línea presentan funciones con las cuales los usuarios pueden formular consultas específicas (ad hoc) al almacén de datos que permiten explorar el contenido multidimensional del mismo.

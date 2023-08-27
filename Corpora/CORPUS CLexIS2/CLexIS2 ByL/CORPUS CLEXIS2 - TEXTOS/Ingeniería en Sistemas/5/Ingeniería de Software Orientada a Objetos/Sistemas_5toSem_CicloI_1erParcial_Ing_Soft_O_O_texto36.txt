@@ -1,0 +1,2 @@
+TEXTO 36
+La creación de la calidad y calendarización inicial, la calendarización inicial se crea estableciendo la correspondencia entre el modelo de tareas y el tiempo de los recursos las dependencias entre las tareas, la duración estimada de las mismas y la cantidad de participantes, se usan para crear la calendarización inicial, por ejemplo: Tener distintas tareas con un tiempo estimado para la resolución de dichas tareas, eso conforma la calendarización.

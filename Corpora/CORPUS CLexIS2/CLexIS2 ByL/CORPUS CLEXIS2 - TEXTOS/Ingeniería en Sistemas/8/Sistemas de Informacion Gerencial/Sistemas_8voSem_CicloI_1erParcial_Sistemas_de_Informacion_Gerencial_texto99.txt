@@ -1,0 +1,4 @@
+texto 99
+
+Sistemas de apoyo a ejecutivos.
+Los ESS presentan gráficos y datos de muchas fuentes a través de una interfaz sencilla de manejar para los gerentes de nivel superior. A menudo la información se ofrece a los altos ejecutivos por medio de un portal, el cual utiliza una interfaz Web para presentar contenido de negocios personalizado e integrado. Los ESS están diseñados para incorporar datos sobre eventos externos, como leyes fiscales o competidores nuevos, pero también obtienen información sintetizada proveniente de sistemas MIS y DSS. Filtran, comprimen y rastrean datos críticos, para mostrar la información de mayor importancia a los gerentes de nivel superior.

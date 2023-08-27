@@ -1,0 +1,4 @@
+texto 36
+
+Big data, habíamos conversado que en la minería de datos se trataba en sí de buscar o escarbar datos especiales, normalmente la minería de datos cuando usted busca en una sola base de datos, normalmente es una minería de datos pero simple, cando usted ya empieza a buscar en muchas bases de datos a la vez, es cuando ya comienza a tener el nombre de Big Data, que realmente es la búsqueda en diferentes base de datos, para que usted pueda encontrar realmente la información que usted desee.
+

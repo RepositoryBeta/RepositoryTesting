@@ -1,0 +1,8 @@
+texto 92
+
+La paravirtualización ofrece una menor sobrecarga de virtualización, aunque el rendimiento de la paravirtualización sobre la virtualización completa puede variar mucho dependiendo de la carga de trabajo.
+Como la paravirtualización no puede apoyarse en sistemas operativos no modificados (Windows), su compatibilidad y portabilidad en estos sistemas es pobre.
+Si bien es cierto que es muy difícil construir un soporte sofisticado para la traducción binaria en la virtualización completa, la paravirtualizacion es relativamente fácil solo se requiere modificar el sistema operativo invitado. 
+
+
+

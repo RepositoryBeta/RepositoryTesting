@@ -1,0 +1,3 @@
+texto 24
+
+SAS Institute, es una herramienta que desarrolla el análisis de los modelos encargados de la minería de datos favoreciendo la gestión de riesgo financiero. IBM Cognos Analytics, la IBM desarrolló por medio de ésta plataforma empresarial, un grupo de herramientas que exploran y descubren datos e informaciones analizadas, suministrando reportes profesionales, creando cuadros de mando, seguimiento de control y métricas.

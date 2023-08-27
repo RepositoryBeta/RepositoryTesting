@@ -1,0 +1,3 @@
+TEXTO 2
+
+Vamos a ver un poco ahora la estructura de la construcción sistemática del compilador. Permítame la 1.3 vamos a ver hoy un poco de actividad autónoma y así le he puesto referenciado del libro donde he estado sacando la información para darles ¿Cuál es la estructura del compilador?, ¿Cómo sería la construcción? Este gráfico era donde tengo mi código fuente que en este caso serían las líneas de código. 

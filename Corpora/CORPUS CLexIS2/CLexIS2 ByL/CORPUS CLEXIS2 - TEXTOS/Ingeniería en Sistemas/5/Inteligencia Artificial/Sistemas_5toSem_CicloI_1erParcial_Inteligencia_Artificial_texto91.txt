@@ -1,0 +1,4 @@
+texto 91
+
+Búsqueda tabú, el término tabú fue introducido de 1986 por Fred Glover, los principios fundamentales de la búsqueda tabú fueron elaborados en una serie de artículos a finales de los años 80 y principios de los 90, este algoritmo es especialista en resolver problemas de optimización complejo, específicamente en aquellos que surgen del mundo real, su filosofía se basa en derivar y explotar una estrategia específica, posee una memoria adaptiva.
+

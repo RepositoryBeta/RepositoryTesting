@@ -1,0 +1,2 @@
+TEXTO 55
+La relación de generalización es una relación taxonómica entre una descripción más general y una descripción más específica que se construye sobre ella y va extendiendo la descripción más específica, es completamente consciente con la más general, una generalización se representa como una flecha del hijo al padre, con un gran triángulo hueco en el extremo conectado al padre, varias relaciones de generalización se pueden representar como un árbol con una única punta de flecha que se ramifica en varias líneas a los hijos.

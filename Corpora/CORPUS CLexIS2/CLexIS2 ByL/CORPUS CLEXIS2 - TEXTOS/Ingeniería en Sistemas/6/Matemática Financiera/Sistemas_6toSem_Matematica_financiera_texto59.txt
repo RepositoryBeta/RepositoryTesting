@@ -1,0 +1,6 @@
+﻿texto 59
+La tasa de corte del VAN puede ser:
+El interés que se tenga en el mercado. Lo que se hace es tomar una tasa de interés a largo plazo que se puede sacar fácilmente del mercado actual.
+La tasa en la rentabilidad de una empresa. El tipo de interés que se marque en ese momento, dependerá de cómo se financie la inversión. Cuándo se hace con capital que otra persona ha invertido, entonces la tasa de corte refleja el costo de capital ajeno. 
+
+

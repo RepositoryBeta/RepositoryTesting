@@ -1,0 +1,4 @@
+TEXTO 21
+
+Este es otro ejemplo de recursividad, las construcciones lexigráficas no necesitan recursividad mientras que las construcciones sintácticas si suelen hacerlo, lexigráfica de léxico sintáctica lo que ya estamos viendo. Eso es una notita. El árbol sintáctico: asignación, el identificador  energía  donde abre otra asignación, dónde está el identificador total y donde el operador va a dividirme el identificador de  cantidad con la constante. Miren como va el árbol, ósea va a desmenuzar mi línea de código de izquierda a derecha y para crear mí árbol no sé si dan cuenta, miren asignación, asignación y el operador. Así voy a ir desmenuzando.
+ 

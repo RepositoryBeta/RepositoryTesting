@@ -1,0 +1,10 @@
+﻿Texto 32
+
+Standardized Service Contract (Contrato de Servicios Estandarizados)
+
+Cuando un servicio se implementa como un servicio web, se debe adherir (proporcionar) un contrato de comunicaciones explícitamente declarado y definido colectivamente por uno o más descriptores del servicio, en el cuál debe figurar especificaciones como:
+Nombre del Servicio.
+Forma de accesos.
+Funcionalidades que ofrece.
+Descripción de los datos de entrada de cada funcionalidad que ofrece.
+Descripción de los datos de salida de cada funcionalidad que ofrece.

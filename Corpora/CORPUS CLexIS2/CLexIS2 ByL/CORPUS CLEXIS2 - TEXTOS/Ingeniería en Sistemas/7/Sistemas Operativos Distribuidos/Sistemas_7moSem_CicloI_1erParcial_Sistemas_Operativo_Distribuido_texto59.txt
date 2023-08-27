@@ -1,0 +1,3 @@
+﻿Texto 59
+
+Bueno, en el capítulo de Sistemas de Archivos y también lo vimos en Sistemas Operativos que son implementaciones que me permiten compartir varios discos y verlos como uno solo o me permiten manejar con varios servidores o dejar un sistema como un sistema de archivo de manera local pero de N equipos. Ejemplo, ustedes interactúan con Onedrive. En éste, no es que sea un solo equipo que está brindando almacenamiento, son pull de equipo o clúster de equipos de almacenamiento.

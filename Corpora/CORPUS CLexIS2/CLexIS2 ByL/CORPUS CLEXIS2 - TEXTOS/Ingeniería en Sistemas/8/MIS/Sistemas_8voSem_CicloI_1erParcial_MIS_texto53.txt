@@ -1,0 +1,4 @@
+texto 53
+
+Una sola base de datos al servicio varias aplicaciones. Por ejemplo, en vez de que una corporación almacén de los datos de los empleados en sistemas de información y archivos separados para personal, nómina y beneficios, podría crear una sola base de datos común de recursos humanos. A medida que fueron madurando los sistemas informáticos, podía comprar varias aplicaciones, no venía todo integrado.
+

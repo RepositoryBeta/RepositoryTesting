@@ -1,0 +1,5 @@
+texto 61
+
+Administración de inventarios
+¿Qué es la administración de inventarios?
+Un inventario como ya lo había mencionado es la existencia de bienes mantenido para su uso o venta en el futuro la administración de los inventarios consiste en mantener disponibles estos bienes al momento de requerir su uso o venta para mantener las operaciones al costo más bajo posible basados en políticas que permitan decidir cuándo y en cuanto está el inventario.

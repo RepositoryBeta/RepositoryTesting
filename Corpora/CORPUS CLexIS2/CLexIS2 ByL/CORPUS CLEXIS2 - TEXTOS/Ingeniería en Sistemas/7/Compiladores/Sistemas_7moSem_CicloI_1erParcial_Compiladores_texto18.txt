@@ -1,0 +1,3 @@
+TEXTO 18
+
+Listo. Entonces tenemos la expresión de asignación y dentro de esa asignación tenemos el identificador total, que quiere decir que recién vamos a estar aquí o sea que para crear este que está aquí ID de energía miren el árbol que tuve que construir sólo para asignar el ID de energía. Luego, así mismo asignación, viene luego la expresión numérica y tenemos la cantidad más constante, eso sería aquí, cantidad más el número 23, este sería. Entonces este será mi árbol que quiero decir con esto, que si se dan cuenta por cada cosa de mi línea de código yo tengo qué estar identificando cuál es mi ID, cuál será mi asignación, identificando si es una expresión, identificando si es un carácter, identificando si es un operador. 

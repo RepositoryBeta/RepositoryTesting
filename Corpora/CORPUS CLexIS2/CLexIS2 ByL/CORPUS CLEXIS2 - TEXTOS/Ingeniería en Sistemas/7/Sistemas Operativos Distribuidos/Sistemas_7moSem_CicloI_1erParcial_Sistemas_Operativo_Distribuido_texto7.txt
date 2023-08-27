@@ -1,0 +1,5 @@
+﻿Texto 7
+
+¿Qué es Middleware?
+
+Es una capa o un software que abstrae esa complejidad para comunicar diversos sistemas heterogéneos. Ya conocemos que los Sistemas Distribuidos y los Sistemas Operativos en primer lugar no necesariamente deben ser iguales. Sin embargo, deben trabajar en conjunto y dar una sola solución, ósea estamos viendo las características de los Sistemas Operativos Distribuidos.

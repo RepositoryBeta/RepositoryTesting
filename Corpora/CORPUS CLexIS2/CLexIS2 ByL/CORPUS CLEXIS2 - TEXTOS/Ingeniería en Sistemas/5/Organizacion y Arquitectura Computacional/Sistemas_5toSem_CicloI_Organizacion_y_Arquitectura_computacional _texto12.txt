@@ -1,0 +1,3 @@
+texto 12
+
+En esta gráfica vemos los dispositivos de entrada, la unidad central de proceso (CPU), la memoria RAM y los dispositivos de salida es una arquitectura sencilla del modelo de Von Neumann esta arquitectura es la más empleada en la actualidad ya que es muy versátil, ejemplo de esto es el funcionamiento de los computadores, los cuales son programas que toman como entrada un archivo de texto conteniendo código fuente y  generan como datos de salida el código de máquina que corresponde a dicho código fuente.

@@ -1,0 +1,7 @@
+﻿texto 89
+
+Cabe destacar que si se produjera un aumento de los tipos de interés, dado que estamos ante un sistema de amortización de cuotas constantes, se debería aumentar la duración del préstamo o aumentar la cuota a pagar. Pero si por ejemplo, queremos realizar una amortización parcial anticipada de capital, podemos elegir entre reducir cuota o plazo. 
+Es decir, podemos elegir entre seguir pagando la misma cuota pero un periodo menor de tiempo, o bien, mantener el plazo pactado pero reduciendo la cuota mensual a pagar.
+
+
+

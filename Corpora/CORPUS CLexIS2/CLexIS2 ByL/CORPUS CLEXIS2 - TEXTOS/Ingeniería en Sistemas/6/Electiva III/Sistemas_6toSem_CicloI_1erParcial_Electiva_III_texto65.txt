@@ -1,0 +1,6 @@
+texto 65
+
+Su representación por el método OLAP permite modelar los datos depurados en relación con tantas dimensiones predefinidas como sean necesarias. En este proceso, los analistas pueden recurrir a diversas operaciones con las cuales se puede editar un cubo OLAP:
+Slicing: se conoce como slicing el procedimiento por el cual se delimita una dimensión del cubo OLAP por una porción cuantitativa, prácticamente como si se cortara un (trozo) de datos y se estudiara por separado.
+
+Dicing: cuando se interviene en un cubo OLAP con varias operaciones de slicing simultáneas en varias dimensiones se habla de dicing, porque se crea un cubo nuevo más reducido que contiene una porción del cubo global.

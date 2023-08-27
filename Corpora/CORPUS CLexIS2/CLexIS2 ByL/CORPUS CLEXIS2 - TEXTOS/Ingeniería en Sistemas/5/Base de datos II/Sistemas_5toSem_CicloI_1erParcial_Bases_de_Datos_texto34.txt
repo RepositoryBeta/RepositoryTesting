@@ -1,0 +1,5 @@
+texto 34
+HAVING: especifica una condición que deben cumplir los grupos seleccionados, no las tuplas individuales. Las funciones agregadas integradas COUNT, SUM, MIN, MAX y AVG se usan junto con la agrupación.
+HAVING < condición de agrupación >
+ORDER BY: especifica un orden para presentar el resultado de una consulta.
+ORDER BY < lista de atributos >.

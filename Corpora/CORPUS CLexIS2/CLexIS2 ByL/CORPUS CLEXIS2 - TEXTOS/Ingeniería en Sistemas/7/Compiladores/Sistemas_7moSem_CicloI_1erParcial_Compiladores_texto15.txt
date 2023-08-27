@@ -1,0 +1,3 @@
+TEXTO 15
+
+Pero miss, ¿Qué es eso? Aquí te dice y te explica y te dice que tú le vas a poner un nombre a cada uno de los tokens. Correcto. Por favor concentrados, ahora vamos al sintáctico. El sintáctico constituye un análisis jerárquico también que se lo llama parser consiste en agrupar los tokens del programa fuente formando frases gramaticales que son utilizadas en el traductor para sintetizar el resultado. Es decir aquí van a hacer las frases gramaticales pero formando árboles, ejemplo, vamos a formar una unidad lógica ya que se entiende que la suma se realiza antes que la asignación. 

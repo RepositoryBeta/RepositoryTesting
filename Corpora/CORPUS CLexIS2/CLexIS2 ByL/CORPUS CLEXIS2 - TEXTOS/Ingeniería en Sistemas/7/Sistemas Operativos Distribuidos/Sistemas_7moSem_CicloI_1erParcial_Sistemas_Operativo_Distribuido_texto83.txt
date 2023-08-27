@@ -1,0 +1,5 @@
+﻿Texto 83
+
+Los procesadores no resultan comunicarse idea que están controladas por el procesador maestro.
+Si falla un procesador maestro, se envía un esclavo al procesador maestro para continuar la ejecución, si un procesador esclavo falla, su tarea cambia a otros procesadores.
+El multiprocesador asimétrico es simple, ya que el procesado maestro accede a la estructura de datos.

@@ -1,0 +1,9 @@
+texto 52
+
+Sin un decodificador de dirección, solamente un dispositivo de memoria podría conectarse al microprocesador, lo cual lo haría prácticamente inútil.
+Interrupciones 
+Mecanismo mediante el que otros módulos (Ejemplo: E/S) pueden interrumpir el procesamiento normal de la CPU. 
+Programa – Ejemplo: desbordamiento aritmético (overflow), división por cero.
+
+
+

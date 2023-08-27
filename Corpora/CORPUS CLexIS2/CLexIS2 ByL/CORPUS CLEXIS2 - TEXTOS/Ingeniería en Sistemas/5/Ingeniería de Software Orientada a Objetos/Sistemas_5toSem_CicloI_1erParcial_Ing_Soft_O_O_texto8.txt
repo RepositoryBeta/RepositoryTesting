@@ -1,0 +1,2 @@
+TEXTO 8
+En el diseño estructurado los procedimientos se pasan datos y operan sobre ellos el orientado a objetos, los objetos se comunican entre ellos, transmitiendo órdenes e información. En el  estructurado, los programas se dividen en módulos de procedimientos, similares que se usan entre sí usan, a los de otros módulos, para el orientado objetos, los programas se dividen en paquetes de clases similares, que se relacionan de varias formas entre sí y se relacionan con las de otros paquetes.

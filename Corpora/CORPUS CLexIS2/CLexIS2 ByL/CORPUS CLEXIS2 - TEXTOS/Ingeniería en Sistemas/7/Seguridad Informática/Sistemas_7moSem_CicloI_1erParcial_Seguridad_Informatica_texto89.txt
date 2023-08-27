@@ -1,0 +1,6 @@
+texto 89
+
+Insuficiente registro y monitoreo
+El tiempo para detectar errores debe ser el más corto posible, el nulo monitoreo de un sistema puede generar una vulnerabilidad severas en la aplicación web o una constante fuga.
+Exposición a datos sensibles
+Debido a las vulnerabilidades mencionadas en esta lista una aplicación web no debería almacenar datos confidenciales como la ubicación, datos financieros o de contacto personal, ante una filtración revelar estos datos sería perjudicial para el personal.

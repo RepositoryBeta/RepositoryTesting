@@ -1,0 +1,10 @@
+texto 66
+
+Justo después de la directiva CODE hay que inicializar el segmento de datos (ya que la directiva no genera código): 
+MOV AX, DATA 
+MOV DS, AX 
+Los comentarios permiten describir las sentencias de un programa, facilitando su comprensión. Comienzan por (;), el ensamblador ignora el resto de la línea. 
+Ejemplo: INICONT: MOV CX, DI ; inicia el contador.
+
+
+

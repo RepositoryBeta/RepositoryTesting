@@ -1,0 +1,3 @@
+texto 70
+
+Esto significa que debe dirigirse a la dirección 6 y copiar este registro al registro de instrucción, ahora el decodificador al ver que es una suma le dice al secuenciador que mande por el bus de datos el registro 1 y el registro 2 a la unidad de aritmética lógica, para que una vez allí se haga la suma, el resultado de la suma se irá al registro 3, igual que antes las direcciones van por el bus de direcciones, los datos por el bus de datos y la orden de si debe de leer o si debe escribir lo hace mediante el bus de control.

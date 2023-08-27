@@ -1,0 +1,9 @@
+texto 91
+
+Tipos generales comunes de visualización de datos:
+1) Cuadros.
+2) Tablas.
+3) Gráficos.
+4) Mapas.
+5) Infografía.
+6) Dashboards.

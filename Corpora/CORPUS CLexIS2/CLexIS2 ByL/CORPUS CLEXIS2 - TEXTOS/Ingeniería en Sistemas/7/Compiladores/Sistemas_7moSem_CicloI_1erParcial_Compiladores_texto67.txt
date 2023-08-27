@@ -1,0 +1,3 @@
+TEXTO 67
+
+Los lexemas es la agrupación de caracteres y esos caracteres son los tokens. Porque decimos que hay una expresión regular porque está dentro de un corchete, tenemos los paréntesis tenemos los operadores tenemos la llave. Entonces estamos diciendo aquí que tenemos una expresión regular de letras y operadores, las expresiones regulares siempre tiene que estar encerradas ya sea en corchetes en llaves o en barras. 

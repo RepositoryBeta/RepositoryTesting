@@ -1,0 +1,12 @@
+texto 31
+
+Un bus se caracteriza por: 
+Ancho en bits.
+Velocidad de transporte de datos (ancho de banda).
+Latencia (retardo de transmisión).
+Dentro de un microprocesador se identifican tres buses principales: 
+Bus de datos.
+Bus de direcciones.
+Bus de control.
+
+

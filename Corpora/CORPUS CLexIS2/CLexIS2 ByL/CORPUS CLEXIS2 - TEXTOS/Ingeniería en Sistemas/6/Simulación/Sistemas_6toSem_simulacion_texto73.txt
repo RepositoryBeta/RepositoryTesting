@@ -1,0 +1,3 @@
+﻿texto 73
+
+Y por ultimo tenemos el método congruencial aditivo, en cambio este método congruencial adictivo tiene una particularidad, yo le doy una muestra de valores enteros, le voy a dar los valores de x1, x2, x3, x4, x5, etc. Yo le doy cinco valores, yo le puedo dar más, le puedo dar ocho, diez lo que yo quiera dar, ¿Cuál es el objetivo de este metodo congruencial? Fácil, el objetivo de que a partir de esta muestra que yo le doy de valores enteros, de números enteros yo tengo que determinar los siguientes valores no edad.

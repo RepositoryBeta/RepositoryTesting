@@ -1,0 +1,6 @@
+﻿Texto 37
+
+Service Reusability (Reusabilidad)
+La reutilización es el principal principio de la arquitectura SOA, cada servicio debe ser analizado, diseñado y construido de manera que su uso pueda ser explotado al máximo, es decir, cada servicio debe ser de algún modo genérico con el fin de que pueda usarse en diferentes contextos y satisfacer distintos objetivos. 
+
+De esta manera, los servicios podrán ser reusables dentro de la misma aplicación, dentro del dominio de aplicaciones de la empresa o incluso dentro del dominio público para su uso masivo.

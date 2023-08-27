@@ -1,0 +1,3 @@
+texto 83
+
+Es decir, entre la unidad de control y los registros, este permiten también acceder a diversas funciones, como por ejemplo activar o desactivar las interrupciones, pasar órdenes al coprocesador matemático, detener la actividad del microprocesador hasta que se produzca una interrupción, etc, eso más adelante veremos el efecto de la introducción y obviamente se verán los tipos de direccionamiento, el acceso directo a la memoria y mas.

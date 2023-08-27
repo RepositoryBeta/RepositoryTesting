@@ -1,0 +1,2 @@
+TEXTO 11
+Relaciones entre clases: Tenemos la generalización y su inversa: especialización, se realiza mediante la herencia entre clases. Composición (parte de) y su inversa (todo): Se realiza mediante la inclusión de referencia a los objetos que son (partes) en los atributos del objeto que es (todo). Tenemos la asociación, que es el que usa y es usado, donde también se realiza mediante inclusión de referencias a los objetos (usados) en los atributos del objeto que los (usa).

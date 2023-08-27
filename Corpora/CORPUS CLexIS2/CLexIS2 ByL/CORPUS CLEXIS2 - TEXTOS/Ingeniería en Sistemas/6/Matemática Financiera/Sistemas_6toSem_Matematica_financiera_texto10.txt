@@ -1,0 +1,8 @@
+﻿texto 10
+¿Qué es la tasa de interés simple?
+Consideramos que la tasa de interés es simple cuando los interés que obtenemos al vencimiento no se suman al capital para poder generar nuevos intereses. El interés simple se calcula siempre sobre nuestro capital inicial. Por tanto, los intereses que vamos obteniendo no se reinvierten en el siguiente período. Por tanto, el interés obtenido en cada período es el mismo. 
+
+
+
+
+

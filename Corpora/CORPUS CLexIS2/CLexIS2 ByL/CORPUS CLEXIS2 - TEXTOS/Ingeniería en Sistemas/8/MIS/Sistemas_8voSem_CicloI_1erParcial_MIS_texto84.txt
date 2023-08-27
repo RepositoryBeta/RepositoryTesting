@@ -1,0 +1,4 @@
+texto 84
+
+Hadoop consta de varios servicios clave: sistema de archivos distribuido hadoop (HDFS) para almacenamiento de datos y Mapreduce para procesamiento de datos en paralelo de alto rendimiento. HDFS enlaza entre sí los sistemas de archivos en los numerosos nodos de un clúster Hadoop para convertirlos en un gran sistema de archivos. Hadoop se inspiró en el sistema Mapreduce de Google para desglosar el procesamiento de enormes conjunto de datos y asignar trabajo a los diversos nodos en un clúster.
+

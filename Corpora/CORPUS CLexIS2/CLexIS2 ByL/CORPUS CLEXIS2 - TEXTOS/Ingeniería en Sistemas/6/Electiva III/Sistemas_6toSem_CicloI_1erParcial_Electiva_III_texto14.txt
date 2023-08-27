@@ -1,0 +1,6 @@
+texto 14
+
+Luego se procesa la información digital, se analiza, interpreta y se realizan simulaciones.
+Presentación y comunicación de los hallazgos y resultados para la toma de decisiones.
+Instrumentos a emplear.
+El instrumental que se puede emplear, o el conjunto de aplicaciones y herramientas, conjuga software para la visualización de los datos y creación de informes, herramientas de análisis estadístico, minería de datos, Big data y modelos de análisis predictivo.

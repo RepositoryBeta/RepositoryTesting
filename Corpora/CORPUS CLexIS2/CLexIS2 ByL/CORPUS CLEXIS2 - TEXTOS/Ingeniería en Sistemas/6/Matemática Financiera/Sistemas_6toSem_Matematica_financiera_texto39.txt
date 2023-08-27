@@ -1,0 +1,6 @@
+﻿texto 39
+3) Calcular el valor de cada deuda y cada pago en la fecha focal. 
+4) Plantear la ecuación de valor, recordando que la suma de las deudas es igual a la suma de los pagos en la fecha focal. 
+5) Resolver la ecuación de valor para encontrar el o los valores que hagan falta.
+
+

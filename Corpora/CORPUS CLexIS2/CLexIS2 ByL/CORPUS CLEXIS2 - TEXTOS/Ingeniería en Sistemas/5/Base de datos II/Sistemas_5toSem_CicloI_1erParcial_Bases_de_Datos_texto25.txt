@@ -1,0 +1,4 @@
+texto 25 
+Una copia de seguridad es una copia tu base de datos que se puede usar para reconstruirla. Se pueden dividir en copias físicas y copias lógicas
+Copias de seguridad física:
+Las copias de seguridad físicas son respaldos de los archivos físicos utilizados para almacenar y recuperar tu información, como archivos de datos, archivos de control y registros. En última instancia, cada copia de seguridad física es una copia de archivos que almacenan información de la base de datos en otra ubicación, ya sea en un disco o en algún almacenamiento fuera de línea como la cinta.

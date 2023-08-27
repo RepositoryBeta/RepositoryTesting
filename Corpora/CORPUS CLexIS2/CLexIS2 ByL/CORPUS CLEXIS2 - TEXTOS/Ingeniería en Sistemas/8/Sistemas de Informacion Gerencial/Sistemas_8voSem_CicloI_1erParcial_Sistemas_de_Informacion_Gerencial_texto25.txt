@@ -1,0 +1,5 @@
+texto 25
+
+¿Qué es un sistema de información?
+Los sistemas de información contienen información sobre personas, lugares y cosas importantes dentro de la organización, o en el entorno que la rodea. Aquí podemos hablar de datos e información. 
+Datos e información son dos cosas distintas señores, los datos así como tales no nos dicen nada, una vez que hemos procesado y analizado, ahí sí nos brindan información.

@@ -1,0 +1,3 @@
+texto 60
+
+Se supone que en esta economía existe dos agentes económicos, los consumidores(familias) y los productores(empresas), además, se considera que la economía cerrada y que los consumidores gastan todos sus ingresos, la economía real los flujos de bienes y servicios qué representa el flujo de bienes y servicios entre las familias y las empresas. Las familias venden el uso de los factores de producción a las empresas. Las empresas utilizan estos factores para producir bienes y servicios.

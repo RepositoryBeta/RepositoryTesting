@@ -1,0 +1,6 @@
+﻿texto 56
+El pago que está en el punto 1 se traslada por n - 1 periodos, el que está en 2, por n - 2 periodos y así sucesivamente, hasta que se llegue al pago que está en n el cual no se traslada por estar en la fecha focal, entonces se tiene:
+(F / A, n, i) = S n i = ( 1 + i ) n - 1 / i.
+- El valor presente: Este se representa por el símbolo (a ni) o por (P / A, n, i), que significa el presente de una anualidad en n periodos a la tasa i. Se representa por la fórmula:
+(P / A, n, i) = a ni = 1 – ( 1 + i ) - n / i.
+

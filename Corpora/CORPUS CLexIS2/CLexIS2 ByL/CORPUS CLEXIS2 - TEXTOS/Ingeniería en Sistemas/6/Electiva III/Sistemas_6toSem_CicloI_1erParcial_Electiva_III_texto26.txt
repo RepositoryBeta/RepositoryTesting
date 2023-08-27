@@ -1,0 +1,4 @@
+texto 26
+
+Roles profesionales.
+Los managers o consultores de business intelligence (Inteligencia de negocio o BI), business analytics (BA) o Big Data son profesionales que se encargan de la gestión de proyectos relacionados con el desarrollo e implantación de proyectos de BI, BA o Big Data, respectivamente. Entre sus tareas principales se encuentra la gestión de proyectos y sus recursos asociados. Como tal, deben conocer especialmente el negocio, los proveedores, los clientes y la tecnología que están empleando sus equipos de trabajo.

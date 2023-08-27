@@ -1,0 +1,3 @@
+﻿texto 27
+
+Cuando hablamos de variables cualitativas ordinales, cuando el resultado, el valor de respuesta de esa pregunta tenía un orden de prioridad. ¿A qué llamamos orden de prioridad? Le voy a dar un ejemplo rápido, la evaluación docente cuando ustedes evaluaban a los docentes tenían ustedes, total acuerdo, parcial acuerdo, diferente, total desacuerdo y parcial desacuerdo, como ya les dije anteriormente, se supone que usted va a clasificar eso valores dependiendo de un valor numérico prioritario.

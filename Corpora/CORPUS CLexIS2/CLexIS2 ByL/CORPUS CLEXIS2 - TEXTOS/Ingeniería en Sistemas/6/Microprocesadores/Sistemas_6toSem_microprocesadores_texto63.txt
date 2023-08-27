@@ -1,0 +1,8 @@
+texto 63
+
+Las directivas son comandos que afectan al ensamblador, no al procesador. Se puede usar para preparar segmentos y procedimientos, definir símbolos, reservar memoria, etc. La mayoría de las directivas no generan código objeto.
+Las directivas más comunes son: 
+MODEL para usar las directivas simplificadas es necesario incluir esta directiva que define el modelo de memoria que debe usarse. 
+
+
+

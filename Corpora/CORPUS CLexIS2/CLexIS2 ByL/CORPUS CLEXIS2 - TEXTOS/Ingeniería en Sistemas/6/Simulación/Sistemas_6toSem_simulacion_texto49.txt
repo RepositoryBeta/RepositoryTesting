@@ -1,0 +1,3 @@
+﻿texto 49
+
+Es decir, aquellos que todos los individuos tienen la misma probabilidad de ser elegido para formar parte de una muestra, y consiguiente todas las posibles muestras de tamaño n tiene la misma probabilidad de ser seleccionado, sólo estos métodos de muestreo probabilístico no según la representatividad de muestra extraída que significa eso, es decir que una vez que nosotros hemos tenido el tamaño de la muestra y nosotros tenemos el tamaño de la población.

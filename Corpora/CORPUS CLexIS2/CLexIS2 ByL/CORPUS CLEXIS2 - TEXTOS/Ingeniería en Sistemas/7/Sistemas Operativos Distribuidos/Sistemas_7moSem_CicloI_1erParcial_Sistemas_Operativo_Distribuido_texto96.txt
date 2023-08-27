@@ -1,0 +1,5 @@
+﻿Texto 96
+
+Sistemas distribuidos
+
+Distribuye los cálculos en diferentes procesadores, su objetivo principal es compartir recursos y datos entre usuarios, obteniendo transferencias, son sistemas débilmente acoplados ya que cada procesador tiene su propia memoria local. Los procesadores se comunican entre sí a través de varias líneas de comunicación, tales como buses de alta velocidad o líneas telefónicas, su característica principal es que son controlados por un solo sistema operativo que funciona en torno a él.

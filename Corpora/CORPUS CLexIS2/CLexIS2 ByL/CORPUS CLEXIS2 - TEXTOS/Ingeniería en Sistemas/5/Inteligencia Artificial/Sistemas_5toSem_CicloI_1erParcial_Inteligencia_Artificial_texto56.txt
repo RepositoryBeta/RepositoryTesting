@@ -1,0 +1,4 @@
+texto 56
+
+Obviamente hacer un aprendizaje no supervisado es mucho más complicado que hacer un aprendizaje supervisado, una de las ventajas que se obtienen del aprendizaje automático es que consigue llevar a cabo la distinción de forma automática de los patrones haciendo uso de algoritmo matemáticos. Este tipo de técnicas se usan para la clasificación de las imágenes o de la toma de decisiones y, a grandes rasgos, se pueden dividir en dos tipos principales, que son las supervisadas y las que no están supervisadas.
+

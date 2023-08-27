@@ -1,0 +1,2 @@
+TEXTO 1
+Introducción a la orientación a objetos: Es importante que ustedes conozcan las áreas de aplicación de la ingeniería, que son: lenguajes de programación, base de datos, reingeniería de procesos, inteligencia artificial, sistemas operativos e interfaces de usuario. Así mismo, existen beneficios potenciales como mejorar la calidad del software, acortar los tiempos de desarrollo, aumentar la productividad del programador e incrementar la reutilización del software.

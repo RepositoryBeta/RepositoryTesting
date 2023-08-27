@@ -1,0 +1,2 @@
+TEXTO 33
+Definición del diseño de alto nivel, donde se describe a arquitectura de software del sistema. En una organización basada en proyecto o equipo el diseño de alto nivel se usa como base para la organización cada subsistema se asigna un equipo y éste es responsable de su definición y realización tenemos la descomposición del subsistema, se refina y modifica más adelante durante el diseño sistema y tenemos que identificar los sistemas principales y sus servicios.

@@ -1,0 +1,11 @@
+﻿texto 96
+
+Principales características del sistema de amortización alemán.
+Cuota mensual: intereses constantes del préstamo.
+C = I = V * i.
+C = cuota mensual.
+V = capital prestado.
+i = tipo de interés del período.
+
+
+

@@ -1,0 +1,3 @@
+texto 43
+
+La CPU que es la unidad central de proceso esta compuesta por la ALU que es la unidad aritmética lógica,  la unidad de control que contiene los componentes de la computadora los registros que son pequeños bancos de memoria que están dentro del CPU dentro de los registros vamos a mencionar el contador de programa (PC) que contiene la dirección de la próxima estación ejecutar el MAR (registro dirección de memoria) almacena temporalmente la dirección.

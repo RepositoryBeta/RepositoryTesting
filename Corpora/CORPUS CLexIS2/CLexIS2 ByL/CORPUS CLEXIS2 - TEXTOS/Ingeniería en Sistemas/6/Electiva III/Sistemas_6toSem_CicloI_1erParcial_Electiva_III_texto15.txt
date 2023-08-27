@@ -1,0 +1,5 @@
+texto 15
+
+La Analítica de negocios es entonces, una disciplina funcional que toda empresa debe considerar y manejar para el desarrollo de proyectos y planes comerciales que apunten al mejoramiento y crecimiento de las organizaciones.
+La Analítica de negocios forma parte de la Inteligencia de negocios, y no al revés.
+El big data es la acumulación y tratamiento masivo de datos, hasta llegar a generar una base de datos propia que se autoalimente diariamente, y se caracteriza principalmente por el volumen, la velocidad, la variedad y el valor. 

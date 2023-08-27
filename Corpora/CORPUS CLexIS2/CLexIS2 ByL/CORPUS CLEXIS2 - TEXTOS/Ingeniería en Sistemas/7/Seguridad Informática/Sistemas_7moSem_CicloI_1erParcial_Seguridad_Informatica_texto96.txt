@@ -1,0 +1,5 @@
+texto 96
+
+Hacer (Do): implantación y operación del Sistema de Gestión de Seguridad de la Información definido y desarrollado.
+Verificar (Check): revisar y evaluar su eficacia y eficiencia. Si el desempeño no es el esperado analizar las causas y determinar las mejoras.
+Actuar (Act): mejora continua del SGSI.

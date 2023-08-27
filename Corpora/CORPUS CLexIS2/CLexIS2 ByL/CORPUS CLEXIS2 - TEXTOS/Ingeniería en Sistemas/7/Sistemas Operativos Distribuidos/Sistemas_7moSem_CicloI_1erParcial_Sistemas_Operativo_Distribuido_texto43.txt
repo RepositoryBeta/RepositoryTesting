@@ -1,0 +1,3 @@
+﻿Texto 43
+
+El concepto de Desarrollo de Software a partir de componentes existentes independientemente fomenta el concepto de composición, por ello el concepto de composición es heredado por la orientación a servicios, por lo que un proceso de negocio está automatizado mediante la combinación de múltiples servicios. Sin embargo, dentro de la orientación a servicios es mayor el enfoque en la creación de servicios que se pueden componer y recomponer dentro de múltiples soluciones para proporcionar la agilidad prometida por la SOA. 

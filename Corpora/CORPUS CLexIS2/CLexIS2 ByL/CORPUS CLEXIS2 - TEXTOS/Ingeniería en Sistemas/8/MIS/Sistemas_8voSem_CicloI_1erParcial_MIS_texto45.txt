@@ -1,0 +1,4 @@
+texto 45
+
+Desde luego, cada aplicación requería su propios archivos y sus programas de cómputo para funcionar. Por ejemplo, el área funcional de recursos humanos podría tener un archivo maestro de personal, uno de nómina, uno de seguros médicos, uno de pensiones, uno de listas de correos, etc., hasta que hubiera decenas, tal vez cientos, de archivos y programas en la compañía como un todo, este proceso condujo a varios archivos maestros mantenidos y operados por divisiones o departamentos separados.
+

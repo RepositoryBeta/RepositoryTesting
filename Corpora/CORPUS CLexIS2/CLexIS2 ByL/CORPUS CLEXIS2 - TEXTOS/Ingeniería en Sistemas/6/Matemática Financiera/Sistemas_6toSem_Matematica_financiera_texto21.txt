@@ -1,0 +1,6 @@
+﻿texto 21
+Diferencias entre interés simple e interés compuesto
+Las principales diferencias entre el interés simple y el interés compuesto son:
+En el interés simple el capital inicial es el mismo durante toda la operación, mientras que en el interés compuesto este capital va variando en cada periodo.
+En el interés simple el interés es el mismo, mientras en el interés compuesto el interés va variando en cada periodo.
+

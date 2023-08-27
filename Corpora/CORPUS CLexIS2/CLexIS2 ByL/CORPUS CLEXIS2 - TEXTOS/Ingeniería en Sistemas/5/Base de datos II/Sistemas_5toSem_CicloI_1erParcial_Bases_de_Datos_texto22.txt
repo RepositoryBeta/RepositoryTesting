@@ -1,0 +1,7 @@
+texto 22  
+Usuarios y roles 
+Usuarios identificados con contraseña mediante un proceso de login (p.ej. usuario específico para cada aplicación que usa la base de datos)
+Por ejemplo:
+Invitado: guest 
+Administrador: sys/system (Oracle), db2admin (IBM DB2), sa/dbo (SQL Server), root (MySQL), sysdba (InterBase).
+Roles para simplificar la gestión de permisos: Un usuario puede estar asociado a múltiples roles.

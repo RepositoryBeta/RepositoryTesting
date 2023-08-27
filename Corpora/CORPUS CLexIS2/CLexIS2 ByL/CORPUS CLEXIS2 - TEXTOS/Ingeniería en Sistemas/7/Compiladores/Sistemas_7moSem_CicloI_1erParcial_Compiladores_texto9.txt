@@ -1,0 +1,3 @@
+TEXTO 9
+
+Necesito que ustedes estén 100% concentrados hacia mí porque una vez terminada esta unidad ustedes van a tener que hacerme la estructura de una compilación  ya con un ejemplo real, vamos a concentrarnos aquí. En la primera ya sabemos el analizador léxico es la primera fase del compilador, aquí va hacer la representación interna en programa donde cambia la compilación. Por favor concentraditos por favor este analizador léxico lee la secuencia de caracteres del programa fuente y la convierte en una secuencia de tokens.

@@ -1,0 +1,4 @@
+texto 40
+
+La minería de textos tiene muchas aplicaciones. Por ejemplo, la minería de textos puede ayudar a encontrar tecnologías nuevas e innovadoras dentro de ciertos dominios. Es un método muy eficiente para generar nueva información y conocimiento. La minería de textos permite a las empresas reducir el tiempo dedicado a la lectura de textos extensos y extractos de lecturas. Esto significa que los recursos clave se pueden encontrar con mayor rapidez y eficacia. También permite a los usuarios obtener nueva información que de otro modo sería difícil de encontrar.
+

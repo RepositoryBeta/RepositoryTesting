@@ -1,0 +1,6 @@
+texto 28
+
+Seguridad del Ordenador Base: Identificar y verificar usuarios, control de acceso, registro e información, integridad del sistema, controles de supervisión, etc.
+PARA LA IMPLANTACIÓN DE UN SISTEMA DE CONTROL INTERNO INFORMÁTICO DEBE DEFINIRSE
+Gestión de sistemas de Información: Política, pautas y normas técnicas que sirvan para el diseño y la implantación de los sistemas de información y de los controles correspondiente.
+Administración de Sistemas: Controles sobre la actividad de los centros de datos y otras funciones de apoyo al sistema, incluyendo la administración de las redes.

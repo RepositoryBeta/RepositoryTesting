@@ -1,0 +1,3 @@
+texto 30
+
+Contiene todos los registros llamados buffer internos para almacenar los datos temporalmente hasta que puedan enviarse, ahora entremos en el tema del funcionamiento del computador. La función básica que realiza un computador es la ejecución de un programa constituido por conjunto de instrucciones almacenadas en memoria.

@@ -1,0 +1,3 @@
+texto 17
+
+El Business Intelligence es un tipo de estrategia empresarial que pretende optimizar el rendimiento de una empresa a través de la información obtenida de sus datos históricos, que normalmente se concentran en bases de datos (big data). El objetivo final de todo departamento de BI es contribuir a la toma de decisiones estratégicas a partir de información objetiva, tanto descriptiva (hechos históricos de la empresa) como prescriptiva (forecasting sobre cómo evolucionará la empresa en función de las decisiones que se tomen).

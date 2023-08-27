@@ -1,0 +1,2 @@
+TEXTO 92
+Panorama general del diseño del sistema: El segundo paso hace la correspondencia entre Hardware y Software, es decir, ya se tiene el diseño ya sabe cuáles son los requerimientos funcionales y no funcionales, evaluar si es prudente la construcción del software en un supuesto Hardware o software. También está la administración de datos el control de acceso control y las condiciones de frontera donde caben las preguntas: ¿Cómo se inicia el sistema?, ¿Cómo se le apaga?.

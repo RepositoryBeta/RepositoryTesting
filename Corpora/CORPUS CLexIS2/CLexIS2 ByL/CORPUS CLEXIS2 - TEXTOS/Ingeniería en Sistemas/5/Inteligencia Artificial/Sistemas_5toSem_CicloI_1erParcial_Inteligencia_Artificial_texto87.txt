@@ -1,0 +1,4 @@
+texto 87
+
+El concepto nos dice que las búsquedas locales son procesos iterativos que empiezan en una solución, la va mejorando realizando modificaciones locales, hasta que no se puede mejorar la solución dada. GLS es una alternativa más efectiva. Lo que la GLS pretende conseguir es aumentar la función objetivo añadiendo penalizaciones a ciertos atributos, así la búsqueda local puede seguir de sus últimos locales.
+

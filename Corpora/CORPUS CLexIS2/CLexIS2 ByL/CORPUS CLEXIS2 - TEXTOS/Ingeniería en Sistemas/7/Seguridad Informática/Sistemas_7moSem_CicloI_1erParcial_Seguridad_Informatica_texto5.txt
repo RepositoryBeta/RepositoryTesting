@@ -1,0 +1,4 @@
+texto 5
+
+Disponibilidad: El tercer y último pilar de la Seguridad de la Información es la disponibilidad, y es posiblemente el término que menos apreciaciones requiere. Por disponible entendemos aquella información a la que podemos acceder cuando la necesitamos a través de los canales adecuados siguiendo los procesos correctos.
+Esta característica, la disponibilidad, puede en ocasiones chocar frontalmente con la confidencialidad, ya que un cifrado complejo o un sistema de archivado más estricto puede convertir la información en algo poco accesible, por lo que no se trata en absoluto de un punto menor y marca en gran medida el buen hacer del responsable de la seguridad de la información de la empresa u organización.

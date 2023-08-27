@@ -1,0 +1,11 @@
+texto 29
+
+Arquitectura
+Clasificada por persistencia: volátiles y no volátiles 
+Clasificada por utilización: datos y programa 
+Clasificada por tecnología: registros, caché y externa.
+Registros 
+La cpu contiene un conjunto de dispositivos capaces de almacenar datos cuyo tiempo de acceso es muy pequeño, lo cual permite manipular operandos, punteros, etc.
+
+
+

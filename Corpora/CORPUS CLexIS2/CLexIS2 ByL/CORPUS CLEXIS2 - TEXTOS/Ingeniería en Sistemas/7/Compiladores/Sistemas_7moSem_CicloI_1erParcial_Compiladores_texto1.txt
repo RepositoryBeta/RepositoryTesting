@@ -1,0 +1,3 @@
+TEXTO 1
+
+Muy bien, vimos las diferentes etapas de léxico, semántico, sintáctico, el gestor de verdad de optimización del gestor de ayuda y el final el último gestor que realiza el gestionamiento. Hoy les voy a dar  un poquito, Aquí está como para recordarles, aquí está la gestión de errores y la tabla símbolos, tabla de símbolos y tenía la gestión de errores para hacer proceso. Aquí está el análisis léxico, sintáctico, semántico, generación de código intermedio, la utilización y el último el último el código final generalizado.

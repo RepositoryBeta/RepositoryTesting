@@ -1,0 +1,3 @@
+TEXTO 51
+
+El léxico aparte de leerse de izquierda a derecha también lee los caracteres de entrada para elaborar una salida de manera secuencial. Eso no podemos olvidarnos, tenemos un gráfico pequeño que da sobre el analizador léxico pero ya como un léxico gráfico. Eso quiere decir que es cuando ya tomó un conjunto de tokens. Entonces ingresa al programa fuente, tenemos el conjunto de tokens que ingresa al lexicografico y luego va el sintáctico ese sintáctico retorna cuando le dicen dame otro componente léxico. 

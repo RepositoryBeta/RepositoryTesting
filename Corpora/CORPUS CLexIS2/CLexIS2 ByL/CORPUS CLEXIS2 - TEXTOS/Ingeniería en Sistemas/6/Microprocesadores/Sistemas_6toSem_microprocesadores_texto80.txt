@@ -1,0 +1,9 @@
+texto 80
+
+Según este criterio las variables pueden ser de tres tipos:
+Permanentes: son variables cuya vida es el tiempo total de ejecución del programa. 
+Estas variables se almacenan en una zona de memoria accesible desde cualquier punto del programa denominada área global. 
+Se accede a este área con direccionamiento relativo o direccionamiento por base y desplazamiento, tomando como base un registro que apunte a la dirección de comienzo del programa. 
+
+
+

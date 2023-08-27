@@ -1,0 +1,7 @@
+texto 23
+DDOS
+Es un ataque muy común donde su objetivo principal es denegar el funcionamiento de sitios web, donde se vulnera la disponibilidad del servicio ya que cuando un usuario trata de ingresar al sitio este se encuentra fuera de servicio cumpliendo con el objetivo propuesto.
+Hay variedades de ataques DDOS
+- Ataques por volumen: donde se intentan desbordar el ancho de banda de un sitio web.
+- Ataques de protocolo: donde los paquetes intentan consumir servicios de red.
+- Ataques de aplicaciones: donde las peticiones se hacen con el fin de explotar un servidor web mediante la capa de aplicación.

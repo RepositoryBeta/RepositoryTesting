@@ -1,0 +1,4 @@
+texto 52
+
+Una definición más rigurosa de una base de datos es la de un conjunto de datos organizados para dar servicio de manera eficiente a muchas aplicaciones al centralizar los datos y controlar los que son redundantes. En vez de guardar los datos en archivos separados para cada aplicación, se almacenan de modo que los usuarios crean que están en una sola ubicación.
+

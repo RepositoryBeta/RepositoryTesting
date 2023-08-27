@@ -1,0 +1,7 @@
+texto 82
+Intereses: Está en la segunda columna.Aquí se indican los intereses que el prestatario paga al prestamista en cada periodo. Se calcula multiplicando el tipo de interés pactado por el capital pendiente (que como veremos es la quinta columna).
+El interés puede ser fijo o variable.
+Amortización del capital: Suele estar en la tercera columna. La amortización consiste en la devolución del préstamo, sin contar los intereses. Es decir, es lo que se descuenta cada periodo del capital pendiente.
+Cuota a pagar: Está en la cuarta columna. 
+Se trata de la suma de los intereses y la amortización.
+

@@ -1,0 +1,8 @@
+texto 18
+
+Ventajas de las herramientas de Business Intelligence.
+Las cuatro grandes ventajas que ofrece el uso de herramientas de inteligencia de mercado son:
+1) La capacidad de analizar de forma combinada información interna y externa procedente de distintas fuentes y sistemas.
+2) Una mayor profundidad de análisis y una capacidad ampliada de reporting.
+3) La posibilidad de remontar ese análisis atrás en el tiempo en base a series históricas.
+4) La capacidad de realizar proyecciones y pronósticos de futuro en base a toda esa información.

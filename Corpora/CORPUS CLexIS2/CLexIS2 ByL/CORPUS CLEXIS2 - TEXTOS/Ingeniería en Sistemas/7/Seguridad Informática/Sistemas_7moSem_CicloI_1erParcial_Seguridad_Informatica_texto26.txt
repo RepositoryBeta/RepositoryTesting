@@ -1,0 +1,6 @@
+texto 26
+
+Como protegerse del ataque Cross Site Scripting:
+- No confie en datos que vengan de usuarios externos.
+Man in the middle
+Se utiliza para supervisar la comunicación entre dos partes y falsifica los intercambios para hacerse pasar por una de ellas, este ataque es realizado utilizando la técnica de rastreo de puertos.

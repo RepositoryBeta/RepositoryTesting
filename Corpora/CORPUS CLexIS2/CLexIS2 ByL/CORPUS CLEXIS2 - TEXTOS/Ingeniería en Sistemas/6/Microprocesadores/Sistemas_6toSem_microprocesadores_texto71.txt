@@ -1,0 +1,11 @@
+texto 71
+
+Direccionamiento Indirecto con Indice o Indexado 
+El operando se encuentra en una dirección determinada por la suma de un registro de segmento 16, un registro de índice, SI o DI y un desplazamiento de 8 ó 16 bits. 
+Ejemplos: MOV AX, [DI + DESP] ó MOV AX, desp [DI] ADD [SI + DESP], BX ó ADD desp [SI], BX.
+
+Direccionamiento con base e indice o Indexado a base 
+El operando se encuentra en una dirección especificada por la suma de un registro de segmento 16, uno de base, uno de índice y opcionalmente un desplazamiento de 8 ó 16 bits: MOV AX, ES: [BX + DI  + DESP] ó MOV AX, ES: desp [BX][DI] MOV CS: [BX + SI + DESP], CX ó MOV CS: desp [BX][SI], CX.
+
+
+

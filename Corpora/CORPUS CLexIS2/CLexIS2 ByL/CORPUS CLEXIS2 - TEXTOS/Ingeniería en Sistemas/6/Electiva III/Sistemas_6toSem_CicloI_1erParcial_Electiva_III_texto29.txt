@@ -1,0 +1,3 @@
+texto 29
+
+Quedan fuera de sus tareas, y en muchos casos, de sus conocimientos, los detalles de implementación y parametrización (fine-tunning) de los métodos y algoritmos que utilizan. El científico de datos o data scientist es un perfil de reciente creación, hasta hace unos pocos años no se hablaba de este perfil ni en la industria ni en la academia. Este perfil presenta un nivel de conocimientos superior al del analista de datos, pudiendo realizar sus mismas tareas, pero con un nivel de profundidad superior a nivel de conocimientos matemáticos y de programación.

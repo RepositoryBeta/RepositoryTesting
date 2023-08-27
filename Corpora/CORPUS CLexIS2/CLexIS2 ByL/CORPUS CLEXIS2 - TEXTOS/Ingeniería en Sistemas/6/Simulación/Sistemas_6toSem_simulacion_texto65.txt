@@ -1,0 +1,4 @@
+﻿texto 65
+
+Muestra por conglomerados en una etapa Recordemos el ejemplo anterior: una muestra por conglomerados en una etapa ocurre cuando el investigador incluye a todos los estudiantes secundarios de todos los conglomerados seleccionados al azar como muestra.
+Muestra por conglomerados en dos etapas en el ejemplo anterior, se obtiene la muestra por conglomerados en dos etapas cuando el investigador sólo selecciona un número de estudiantes de cada conglomerado mediante muestreo aleatorio simple o sistemático la diferencia principal.

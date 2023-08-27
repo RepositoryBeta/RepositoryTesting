@@ -1,0 +1,4 @@
+texto 83
+Las bases de datos documentales almacenan cada uno de los registros y los datos asociados en un solo documento. Cada documento contiene datos semiestructurados que pueden ser consultados con diferentes herramientas de análisis. 
+Estas bases de datos ofrecen mucha flexibilidad, escritura rápida, y consultas rápidas gracias a su gran capacidad de indexación. Entre las BBDD documentales más reconocidas encontramos la ya conocida por nosotros a MONGODB, de 10gen, y COUCHDB, de Apache.
+También gozan de un gran reconocimiento en el mundo de las Bases de datos NOSQL la RAVENDB, de Hibernating Rhinos, BASEX, djondb, EXIST, SIMPLEDB, de Amazon, IBM Lotus Domino y Terrastore.

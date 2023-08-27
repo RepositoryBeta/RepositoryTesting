@@ -1,0 +1,3 @@
+TEXTO 57
+
+Ya hemos visto que era un análisis léxico, es importante que ustedes entiendan que no es lo mismo léxico que lexema y que tokens. El análisis léxico también remueve las tabulaciones y también remueve los saltos de línea, el análisis léxico también remueve los comentarios y agrupa los caracteres en unidades llamadas tokens, yo le he puesto algo como tipos de compiladores qué plataformas, frameworks puede utilizar el tema de los compiladores. 

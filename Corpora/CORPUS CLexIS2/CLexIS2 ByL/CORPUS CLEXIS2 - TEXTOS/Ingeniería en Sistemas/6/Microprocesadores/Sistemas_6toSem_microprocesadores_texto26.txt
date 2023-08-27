@@ -1,0 +1,9 @@
+texto 26
+
+Intel Core Ivy Bridge
+Ivy Bridge es el nombre en clave de los procesadores conocidos como Intel Core de tercera generación. Son por tanto sucesores de los micros que aparecieron a principios de 2011, cuyo nombre en clave es Sandy Bridge. 
+Pasamos de los 32 nanómetros de ancho de transistor en Sandy Bridge a los 22 de Ivy Bridge. Esto le permite meter el doble de ellos en la misma área. 
+Un mayor número de transistores significa que puedes poner más bloques funcionales dentro del chip. Es decir, este será capaz de hacer un mayor número de tareas al mismo tiempo.
+
+
+

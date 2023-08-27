@@ -1,0 +1,4 @@
+texto 84 
+
+La forma más sencilla de comprender una inyección LDAP, es que los hackers atacan al sistema de validación de usuarios, para intentar así cambiar la permisología de estos y hasta crear usuarios con los cuales acceder luego a otros equipos o a zonas más sensibles del dominio.
+Este tipo de ataques OWASP top 10, puede generar un punto de acceso para el filtrado de información y la descarga de malware, siendo el principal punto de ataque los formularios de entrada. 

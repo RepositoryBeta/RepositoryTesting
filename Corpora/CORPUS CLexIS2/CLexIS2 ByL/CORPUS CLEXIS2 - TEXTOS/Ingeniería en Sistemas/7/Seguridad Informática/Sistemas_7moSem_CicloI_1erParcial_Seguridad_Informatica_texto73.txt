@@ -1,0 +1,5 @@
+texto 73
+
+La ingeniería de seguridad cubre mucho terreno e incluye muchas medidas, desde pruebas de seguridad y revisiones de código regulares hasta la creación de arquitecturas de seguridad y modelos de amenazas para mantener una red bloqueada y segura desde un punto de vista holístico
+Encriptación
+La encriptación protege los datos y archivos reales almacenados en ellos o que viajan entre ellos a través de Internet. 

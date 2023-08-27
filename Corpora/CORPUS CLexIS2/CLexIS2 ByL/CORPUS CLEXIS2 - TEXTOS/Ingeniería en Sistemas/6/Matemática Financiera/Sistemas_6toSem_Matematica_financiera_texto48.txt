@@ -1,0 +1,6 @@
+﻿texto 48
+Anualidades perpetuas o perpetuidades. Son una variación de las anualidades ciertas, en las que la duración del pago es ilimitada.
+Según la forma en que se estipule el pago de la renta o anualidad, se originan las anualidades ordinarias o vencidas y las anualidades anticipadas.
+Una anualidad es ordinaria o vencida, si el pago de la renta se hace al final del período de pago. Es anticipada, si el pago se efectúa al principio del período de pago.
+
+

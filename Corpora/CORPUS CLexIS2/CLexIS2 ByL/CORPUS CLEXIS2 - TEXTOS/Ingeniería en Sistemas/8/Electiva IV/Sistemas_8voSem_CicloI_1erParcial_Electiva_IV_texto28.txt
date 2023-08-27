@@ -1,0 +1,4 @@
+texto 28
+
+Aspectos positivos: Es de código abierto, en este caso tenemos un valor añadido para todos, se posee una mantenibilidad, hay seguridad informática y transparencia del uso de sensores, también los servicios gratuitos de google.
+Aspectos negativos: Obigatorio login con el ID de Googgle (dependencia), constante intercambio de datos con Google, envío de localización(desactivable), aunque el SO sea libre, gran parte de su valor está en los servicios gratuitos de Google, que no son libres.

@@ -1,0 +1,2 @@
+TEXTO 57
+Interacción entre objetos, diagrama de secuencia muestra una interacción como un gráfico de dos dimensiones: la dimensión vertical es el eje de tiempo que avanza hacia el final de la página, la dimensión temporal muestra los roles que representan objetos individuales en la colaboración, cada rol se representa mediante una columna vertical que contiene un símbolo de cabecera y una línea vertical que es la línea de vida.

@@ -1,0 +1,7 @@
+texto 46
+
+Registros De Segmentos:
+CS (Código): Tiene la dirección lógica del segmento en que se encuentra el código de un programa. Si el código ocupa más de un segmento, contiene la dirección lógica de uno de los segmentos.
+DS (Datos): Tiene la dirección lógica del segmento en que se encuentran los datos estáticos de un programa. Si los datos ocupan más de un segmento, contiene la dirección lógica de uno de los segmentos.
+
+

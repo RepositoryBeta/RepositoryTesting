@@ -1,0 +1,7 @@
+texto 79
+
+El ámbito de visibilidad de los nombres de las variables es un concepto que maneja solamente el compilador, concretamente en la tabla de símbolos haciendo que un símbolo sólo sea reconocido en su ámbito de validez, y no transciende al código ejecutable del programa. 
+Sin embargo, hay otro concepto similar que es el de vida de la variable que se define como el tiempo que transcurre desde que una variable se comienza a usar hasta que se la menciona por última vez o, lo que es lo mismo, el tiempo en que es necesario que la variable tenga espacio reservado en memoria. 
+
+
+

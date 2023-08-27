@@ -1,0 +1,4 @@
+texto 25
+
+Caso 2: Aplicaciones móviles basadas en su contexto.
+Tenemos un sistema de aprendizaje situado capaz de entregar contenidos a estudiantes de ingeniería de acuerdo con el contexto, se fundamenta en la filosofía cliente-servidor. El cliente se configura para proporcionar un acceso offline a online, la configuración offline se hace uso de la realidad aumentada, mediante objetos modelados en 3D que son almacenados y presentados en una computadora personal y mediante el acceso online, el estudiante puede seleccionar a través de una aplicación móvil, la lectura a realizar: QR Code, mientras el servidor de gestionar los contenidos respectivos.

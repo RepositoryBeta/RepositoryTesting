@@ -1,0 +1,6 @@
+texto 76
+
+3) El registro PC Se incrementa, y se capta la siguiente instrucción (5941) desde la dirección 301.
+4) El contenido interior de la AC y el de la posición de memoria 941 se suman, y resultado se almacena en AC.
+5) El registro PC Se incrementa, y se capta la siguiente instrucción (294) desde la posición 302.
+6) El contenido de AC se almacena en la posición 941.

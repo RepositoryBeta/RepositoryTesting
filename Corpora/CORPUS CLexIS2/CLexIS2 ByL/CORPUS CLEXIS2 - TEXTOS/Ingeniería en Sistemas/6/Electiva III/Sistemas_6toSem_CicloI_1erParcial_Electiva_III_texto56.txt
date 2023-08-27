@@ -1,0 +1,4 @@
+texto 56
+
+Un data mart es una copia de un subconjunto de datos generalmente realizada como copia temporal no persistente. En ocasiones también se utilizan los llamados data marts independientes, que guardan un subconjunto de datos separado de forma perdurable.
+Un esquema en estrella es un tipo de diagrama entidad-relación (Entity Relationship Diagram, ERD), es decir, una representación gráfica de la estructura tabular de una base de datos que ilustra tanto las diferentes entidades como las relaciones entre ellas. Así, un esquema en estrella sirve para visualizar estructuras de datos multidimensionales.

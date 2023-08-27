@@ -1,0 +1,3 @@
+texto 92
+
+Una vez que la unidad de decodificación sabe cuál es el significado de la instrucción leída de memoria, se lo comunica a la unidad de ejecución. Esta unidad será la encargada de consumar la ejecución y para ello activará las señales necesarias en el orden determinado, es decir, es la encargada de dar las órdenes necesarias las diversas partes del microprocesador para poder ejecutar cada una de las instrucciones.

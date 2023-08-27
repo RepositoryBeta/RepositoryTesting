@@ -1,0 +1,8 @@
+texto 35
+
+Los datos que almacena son los que se usan frecuentemente, cada registro puede contener una instrucción, una dirección de almacenamiento o cualquier tipo de dato. 
+En un procesador encontramos espacios con una capacidad que oscila entre 4 y 64 bits porque cada registro debe tener un tamaño suficiente para contener una instrucción. 
+En el caso de que un ordenador de 64 bit, cada registro de tener un tamaño de 64 bits.
+
+
+

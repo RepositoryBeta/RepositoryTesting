@@ -1,0 +1,9 @@
+texto 15
+
+Intel Pentium IV
+Se estrenó con la arquitectura NetBurst, la cual no daba mejoras considerables respecto a la anterior P6. Intel sacrificó el rendimiento de cada ciclo para obtener a cambio mayor cantidad de ciclos por segundo y una mejora en las instrucciones SSE.
+Amd Atlon XP
+El AMD Athlon XP, cuando Intel sacó el Pentium 4a 1,7 GHZ en abril de 2001 se vio que el Athlon Thunderbird no estaba a su nivel. 
+
+
+

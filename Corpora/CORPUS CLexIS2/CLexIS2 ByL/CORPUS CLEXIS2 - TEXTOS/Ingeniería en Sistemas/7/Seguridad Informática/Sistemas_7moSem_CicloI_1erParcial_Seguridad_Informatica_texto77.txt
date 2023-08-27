@@ -1,0 +1,5 @@
+texto 77
+
+Integridad: Información correcta sin modificaciones no autorizadas ni errores. Se protege frente a vulnerabilidades externas o posibles errores humanos.
+Autenticación: Información precedente de un usuario que es quien dice ser. Se verifica y se debe garantizar que el origen de los datos es correcto.
+Conocer y aplicar los cuatro pilares de la seguridad de la información es la base para una actitud ciber resiliente.

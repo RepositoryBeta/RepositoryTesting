@@ -1,0 +1,4 @@
+texto 30
+RESPALDOS EN CALIENTE (Hot Backup)
+Este tipo de respaldo es especialmente utilizado en organizaciones en las cuales la base de datos necesita estar disponible durante las veinticuatro horas y los siete dias de la semana.
+Los respaldos en caliente son una consecuencia de una funcionalidad de Oracle llamada el modo ARCHIVE. Este modo consiste en configurar algunos parámetros de la base de datos para que se registren todos los cambios hechos a la misma por mínimos que sean en unos archivos llamados REDO LOGS.

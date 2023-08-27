@@ -1,0 +1,3 @@
+texto 69
+
+Una vez hecho esto se repite el mismo procedimiento, el decodificador ve que su LOAD por lo cual indica el secuenciador que deba hacer una lectura lo dice por el bus de control y por el bus de direcciones indica que le debe hacer a la dirección 1, este registro es copiado por el bus de datos a la unidad de procesamiento en el registro 2, como ya hemos acabado este paso, ahora se vuelve a incrementar el contador programa, ahora es 6.

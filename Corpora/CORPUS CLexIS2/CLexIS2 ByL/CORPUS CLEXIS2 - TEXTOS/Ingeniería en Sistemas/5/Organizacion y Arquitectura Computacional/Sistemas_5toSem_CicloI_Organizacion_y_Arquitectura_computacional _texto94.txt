@@ -1,0 +1,4 @@
+texto 94
+
+Fetch: Recuperar la instrucción de la cola de la instrucción y los incrementos del puntero de instrucción (IP), el puntero de instrucción es también conocido como el contador de programa.
+Decode (Decodificar): Su función es decodificar la instrucción para determinar lo que la instrucción hace, operandos de entrada de la instrucción se pasan a la unidad aritmética lógica (ALU) y las señales son enviadas a la ALU que indica la operación a realizar.

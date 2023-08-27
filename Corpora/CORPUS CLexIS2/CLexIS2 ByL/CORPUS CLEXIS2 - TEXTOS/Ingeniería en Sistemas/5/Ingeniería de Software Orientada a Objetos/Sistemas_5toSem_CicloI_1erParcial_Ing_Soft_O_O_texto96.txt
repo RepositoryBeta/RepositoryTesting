@@ -1,0 +1,2 @@
+TEXTO 96
+Pruebas de sistemas orientado a objetos: Caja blanca utilizando la técnica del camino básico a su vez utilizar la complejidad ciclomática para delimitar el número máximo de pruebas a realizar. En las pruebas de caja blanca se dispone del código fuente y si intentan analizar tanto fragmentos como sea posible a priori se puede pensar que es viable la verificación de la totalidad de los caminos/alternativas del código pero realmente Esto no es posible.

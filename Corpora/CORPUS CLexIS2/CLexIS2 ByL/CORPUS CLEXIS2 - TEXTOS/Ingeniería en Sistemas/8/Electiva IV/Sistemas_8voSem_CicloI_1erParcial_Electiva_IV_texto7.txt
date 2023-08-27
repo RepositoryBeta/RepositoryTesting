@@ -1,0 +1,4 @@
+texto 7
+
+Plataformas móviles de comunicación y procesamiento.
+Entonces todo dispositivo que actualmente podemos tener en nuestros hogares utilizan android, entonces, usted lo que ahora va aprender, le va a servir no sólo para desarrollar una aplicación móvil, es decir, en el celular, sino para programar cualquier tipo de equipo que usted desee realizar. Para eso le va a servir lo que aprenderá en esta asignatura.

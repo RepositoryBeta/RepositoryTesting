@@ -1,0 +1,5 @@
+texto 45  
+¿Qué son las transacciones?
+Las transacciones en SQL son unidades o secuencias de trabajo realizadas de forma ordenada y separada en una base de datos. Normalmente representan cualquier cambio en la base de datos, y tienen dos objetivos principales:
+Proporcionar secuencias de trabajo fiables que permitan poder recuperarse fácilmente ante errores y mantener una base de datos consistente incluso frente a fallos del sistema.
+Proporcionar aislamiento entre programas accediendo a la vez a la base de datos.

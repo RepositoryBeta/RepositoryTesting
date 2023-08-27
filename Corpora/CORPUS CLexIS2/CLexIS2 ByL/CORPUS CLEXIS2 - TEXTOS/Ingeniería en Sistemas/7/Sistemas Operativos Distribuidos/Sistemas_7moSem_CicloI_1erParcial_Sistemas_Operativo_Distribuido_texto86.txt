@@ -1,0 +1,4 @@
+﻿Texto 86
+
+En un multicomputador cada nodo es una computadora clásica, los nodos colaboran para resolver juntos un mismo problema o ejecutar la misma aplicación.
+La compartición de datos es explícita, ya que el acceso a los datos comunes es por paso de mensajes.

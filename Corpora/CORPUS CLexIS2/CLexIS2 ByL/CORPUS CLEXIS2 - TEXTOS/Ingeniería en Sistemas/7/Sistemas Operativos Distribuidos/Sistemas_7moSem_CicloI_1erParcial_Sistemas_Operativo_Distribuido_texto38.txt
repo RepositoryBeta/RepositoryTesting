@@ -1,0 +1,5 @@
+﻿Texto 38
+
+Por otro lado, estos servicios reutilizables deben estar diseñados de manera tal que su solución lógica sea independiente de cualquier proceso de negocio o tecnología en particular.
+
+Con este principio se busca reducir las posibilidades de duplicación de lógica, si un servicio que ya existe en un contexto funcional se ajusta a la nueva lógica reutilizable, en lugar de crear un nuevo servicio, dicha lógica debe formar parte del servicio existente.

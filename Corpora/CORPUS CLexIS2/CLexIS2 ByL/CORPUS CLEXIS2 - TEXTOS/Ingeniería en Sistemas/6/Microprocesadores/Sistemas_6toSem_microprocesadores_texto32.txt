@@ -1,0 +1,8 @@
+texto 32
+
+ALU: Unidad Aritmético Lógica 
+Es un módulo responsable de llevar a cabo operaciones aritméticas, lógicas y de desplazamiento sobre operandos enteros (bytes y/o palabras).
+Unidad de Control: Es el módulo responsable de arbitrar las interacciones al interior del procesador; permitir el acceso a los buses y registros y coordinar la ejecución de los programas.
+
+
+

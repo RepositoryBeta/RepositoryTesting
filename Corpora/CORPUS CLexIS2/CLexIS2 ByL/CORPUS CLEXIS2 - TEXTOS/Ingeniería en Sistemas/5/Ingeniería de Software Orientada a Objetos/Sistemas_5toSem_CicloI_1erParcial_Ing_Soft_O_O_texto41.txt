@@ -1,0 +1,2 @@
+TEXTO 41
+El arranque del proyecto consta de tres reuniones, la primera es la presentación al cliente, la segunda, la reunión de arranque de la administración y las reuniones de arranque de equipos individuales, como mínimo debe existir 3 reuniones. Posterior a esto, se realiza la supervisión del proyecto es importante que el gerente del proyecto tenga una mentalidad neutral para poder tomar decisiones efectivas, muchas veces lo desarrolladores no reportan a su líder de equipo cualquier problema que se suscita y eso es un grave error. 

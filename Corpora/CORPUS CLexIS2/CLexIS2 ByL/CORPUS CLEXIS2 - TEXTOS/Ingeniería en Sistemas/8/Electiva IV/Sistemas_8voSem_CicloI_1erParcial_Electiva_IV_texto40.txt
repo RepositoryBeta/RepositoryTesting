@@ -1,0 +1,3 @@
+texto 40
+
+Cuando manejamos módulos siempre se almacenan en la carpeta app, mi proyecto siempre será el nombre de mi aplicación, vemos que tenemos contenidos principales del módulo, tenemos la dirección Carpeta / app / src / main / java, esta carpeta contendrá todo el código fuente de la aplicación, clases auxiliares, etc. Inicialmente, Android Studio creará por nosotros el código básico de  la pantalla (actividad o activity) principal de la aplicación.

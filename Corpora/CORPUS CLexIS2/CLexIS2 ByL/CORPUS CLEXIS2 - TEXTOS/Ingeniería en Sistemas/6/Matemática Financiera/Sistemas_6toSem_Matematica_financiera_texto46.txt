@@ -1,0 +1,6 @@
+﻿texto 46
+Período de pago o período de la renta. El tiempo que se fija entre dos pagos sucesivos es el período de pago o período de la renta.
+Tiempo o plazo de una anualidad: El intervalo de tiempo que trascurre entre el comienzo del primer período de pago y el final del último es el tiempo o plazo de una anualidad.
+Renta anual: La suma de los pagos hechos en un año es la renta anual.
+
+

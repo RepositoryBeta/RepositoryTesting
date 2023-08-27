@@ -1,0 +1,3 @@
+texto 64
+
+Se necesita tener las instrucciones en la CPU porque la memoria de la CPU va a la misma frecuencia que el CPU por lo cual es una memoria es mucho mas rápida que la memoria RAM, o sea a la memoria principal, si no seria así el procesador se pasaría mucho tiempo inactivo esperando a los datos de la RAM, luego el resto de los registros sirven para almacenar datos o resultados temporalmente, otro elemento importante de la unidad de procesamiento es la unidad aritmético lógica.

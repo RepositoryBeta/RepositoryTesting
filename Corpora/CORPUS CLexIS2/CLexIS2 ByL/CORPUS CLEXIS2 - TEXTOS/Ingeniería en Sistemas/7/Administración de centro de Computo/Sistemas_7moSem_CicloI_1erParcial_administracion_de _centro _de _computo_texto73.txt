@@ -1,0 +1,8 @@
+texto 73
+
+Por eso se llaman estándares porque lo puedo implementar en cualquier organización.
+Existen diferentes categorías de estas normas o métodos tenemos:
+Los estándares de métodos: Como guías, los estándares son utilizados para establecer prácticas uniformes y técnicas comunes.
+Los estándares de desempeño: Como normas, los estándares son utilizados para medir el desempeño de la función del procesamiento de datos.
+
+

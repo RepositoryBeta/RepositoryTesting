@@ -1,0 +1,3 @@
+TEXTO 34
+
+Optimizador de código intermedio: ¿Por qué le llaman optimizar? Porque hay ciertas variables que están aquí, que se las puede de alguna forma no depender de ella, a ver, de aquí. Por ejemplo, esta variable, ¿Qué podría yo reducir? ¿Qué podría yo pensar qué ustedes consideran que no es necesario? A ver, analicen. Yo diría que temporal dos y temporal tres se están asignando a sí misma. Okay, vamos a ver si es así.  

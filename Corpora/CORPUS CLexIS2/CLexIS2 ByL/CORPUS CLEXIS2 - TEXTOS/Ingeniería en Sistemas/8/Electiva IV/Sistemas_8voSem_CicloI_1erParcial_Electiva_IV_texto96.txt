@@ -1,0 +1,5 @@
+texto 96
+
+2) Tiene un Broadcastreceiver que actualmente está en ejecución (se está ejecutando su método onreceive). 
+3) Tiene un Service que actualmente está ejecutando código en una de sus devoluciones de llamadas (oncreate, onstart o ondestroy).
+Solo habrá unos pocos procesos de este tipo en el sistema, y solo se eliminarán como último recurso si la memoria es tan baja que ni siquiera estos pueden continuar ejecutándose.

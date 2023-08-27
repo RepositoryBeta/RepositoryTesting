@@ -1,0 +1,4 @@
+texto 94
+
+En la memoria a largo plazo se usa para ir a lugares que no han sido visitados hasta el momento, la memoria a corto plazo se utilizan para para la intensificación en la búsqueda. También tenemos la exploración sensible donde se tiene indicadores de sensibilidad con memoria adaptiva para evitar regresar a subespacios ya explorados. Así mismo, tenemos el tabú search, se parece al graps, realiza una búsqueda en vecindad (si encuentra un mejor vecino pasaje y si no encuentra pasa el mejor entre los peores).
+

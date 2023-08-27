@@ -1,0 +1,4 @@
+texto 65
+
+Como definición tenemos, la robótica es una ciencia o rama de la tecnología, que estudia el análisis, diseño, construcción y aplicación de robots, los cuales, son capaces de desempeñar tareas realizadas por el ser humano, principalmente laboriosas, repetitivas o peligrosas. Las ciencias y tecnologías de las que se apoya la robótica principalmente son: Mecánica, Electrónica, Control Automático y los Sistemas Computacionales, que en conjunto integran sistemas robotizados.
+

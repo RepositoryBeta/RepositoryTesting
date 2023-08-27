@@ -1,0 +1,4 @@
+texto 15
+
+De esta forma se han obtenido, tanto técnicas y recursos computacionales específicos, como estrategias de diseño generales para procedimientos heurísticos de resolución de problemas. Estas estrategias generales para construir algoritmos, que quedan por encima de las heurísticas, y van algo más allá, se denominan metaheurísticas. Entonces en la metaheurística necesito un conjunto de soluciones para tomar una decisión aleatoria.
+

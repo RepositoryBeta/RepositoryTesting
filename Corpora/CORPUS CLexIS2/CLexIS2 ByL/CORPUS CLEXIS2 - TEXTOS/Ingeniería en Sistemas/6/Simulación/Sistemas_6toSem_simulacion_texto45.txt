@@ -1,0 +1,3 @@
+﻿texto 45
+
+Los estimadores son la media, la moda, la varianza, etc. Cuando se trabaja con estimadores, error de muestreo, cuando se trabaja con proporciones entonces entramos como seguimos con el mismo tema, vamos a seguir analizando, ampliando el muestreo. En estadística se usa la palabra población para referirse no sólo una sola persona sino a todos los elementos que han sido escogidos para su estudio.

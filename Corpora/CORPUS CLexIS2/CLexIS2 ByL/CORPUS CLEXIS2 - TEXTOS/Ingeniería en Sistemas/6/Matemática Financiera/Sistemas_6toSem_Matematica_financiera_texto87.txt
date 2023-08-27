@@ -1,0 +1,8 @@
+﻿texto 87
+
+Pero este cambio de cuota se realizaría en base al valor del Euribor, y durante todo el periodo hasta la siguiente revisión, tendremos la misma cuota, debido al sistema de amortización francés.
+La cuota fija de amortización está compuesta por los intereses del préstamo y por la parte del préstamo que amortizamos, pero no en la misma cantidad. 
+Es decir, que aunque la cuota sea fija, la cantidad de amortización e intereses que componen la cuota van variando a lo largo de la vida de nuestra hipoteca.
+
+
+

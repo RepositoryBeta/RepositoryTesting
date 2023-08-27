@@ -1,0 +1,4 @@
+TEXTO 87
+La tabla de símbolos, también llamada tabla de nombres o tabla de identificadores, se trata sencillamente de una estructura de datos de alto rendimiento que almacena toda la información necesaria sobre los identificadores de usuario. Tiene dos funciones principales:
+1) Efectuar chequeos semánticos.
+2) Generar código.

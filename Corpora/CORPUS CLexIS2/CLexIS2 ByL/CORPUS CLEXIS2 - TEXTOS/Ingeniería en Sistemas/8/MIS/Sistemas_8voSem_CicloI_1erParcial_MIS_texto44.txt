@@ -1,0 +1,4 @@
+texto 44
+
+Tenemos lo siguiente, problemas con el entorno tradicional de archivos, la organización de los sistemas tendían a crecer de manera independiente sin un plan a nivel de toda la compañía. Contabilidad, finanzas, manufactura, recursos humanos, ventas y marketing desarrollaban sus propios sistemas y archivos de datos, donde se debe visualizar la metodología normal para el procesamiento de la información.
+

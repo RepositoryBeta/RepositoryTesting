@@ -1,0 +1,5 @@
+texto 42
+
+Prevención de pérdida de datos.
+Las organizaciones deben asegurarse de que el personal no envíe información confidencial fuera de la red. 
+Las tecnologías de prevención de pérdida de datos (DLP) pueden evitar que las personas carguen, reenvíen o incluso impriman información confidencial de manera no segura.

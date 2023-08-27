@@ -1,0 +1,8 @@
+texto 28
+
+Como protegerse de este ataque de dia cero:
+- Elimine del sistema aplicaciones que no utilice.
+- Mantenga actualizado los parches de los proveedores de los programas.
+- Utilice un sistema de prevención contra intrusos HIPS con el fin de detener otra amenaza.
+Ingeniería social
+Es el arte de engañar a las personas, las amenazas de la ingeniería social son más peligrosas, ya que es más difícil protegerse frente a ellas, debido a que el objetivo principal no solamente el sistema si no la víctima.

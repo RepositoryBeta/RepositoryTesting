@@ -1,0 +1,4 @@
+texto 79
+
+5) Atención de los derechos de los ciudadanos: se ha de garantizar que el ciudadano pueda ejercer su derecho de oposición, acceso, rectificación y cancelación; que las empresas con las que se colabora también cumplan con lo establecido en la LOPD, y cumplir con la legislación sectorial correspondiente. Según el artículo 44.3.e) de la LOPD (El impedimento o la obstaculización del ejercicio de los derechos de acceso, rectificación, cancelación y oposición) constituye una falta grave.
+Sin delimitar explícitamente el caso de los almacenes de datos y de los procedimientos de análisis de big data, de la LOPD se extrae lo establecido por la AEPD en materia de almacenamiento de datos de cualquier forma que permita su tratamiento y su análisis, también en DWH.

@@ -1,0 +1,4 @@
+texto 54
+
+NAC para Internet de las cosas
+Los dispositivos de Internet de las cosas, ya sea que pertenezcan al sector de manufactura, servicios de salud u otra industria, crecen exponencialmente y sirven como puntos de entrada adicionales para los atacantes que ingresan en la red. El NAC puede reducir estos riesgos en los dispositivos de Internet de las cosas mediante la aplicación de políticas de acceso y elaboración de perfiles definidas para varias categorías de dispositivos.

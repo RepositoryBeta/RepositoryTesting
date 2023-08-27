@@ -1,0 +1,4 @@
+texto 71
+
+El monitoreo de la seguridad de red y del sistema, incluyen detección de intrusos y alistamientos de prevención, y son típicamente utilizados para detectar ataques en el sistema de la nube, y dar soporte a la infraestructura de comunicación.
+Controles correctivos: reducen las consecuencias de un incidente, normalmente limitando el daño. Su efecto ocurre durante o después de un ataque. Por lo general están diseñados para reconstruir un sistema comprometido después de un ataque mediante copias de respaldo.

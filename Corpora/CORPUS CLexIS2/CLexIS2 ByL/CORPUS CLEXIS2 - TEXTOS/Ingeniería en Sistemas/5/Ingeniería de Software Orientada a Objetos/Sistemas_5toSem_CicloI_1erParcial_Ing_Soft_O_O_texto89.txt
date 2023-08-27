@@ -1,0 +1,2 @@
+TEXTO 89
+Diseño de objetos: Existen algunos aspectos a resolver, entre ellos: Determinar como las clases, atributos y asociaciones del modelo de análisis deben implementarse en estructura de datos específicas, determinar si se requiere introducir nuevas clases en el modelo de diseño, si se requiere modificar o eliminar clases del modelo de análisis  y por último determinar los algoritmos para implementar las operaciones.

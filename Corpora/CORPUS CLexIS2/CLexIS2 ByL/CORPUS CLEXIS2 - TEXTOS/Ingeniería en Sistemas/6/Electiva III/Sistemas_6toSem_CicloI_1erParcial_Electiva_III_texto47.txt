@@ -1,0 +1,4 @@
+texto 47
+
+Las funciones centrales de estos sistemas son la recolección y la integración de los datos. Los datos se obtienen utilizando los siguientes métodos de extracción:
+Trigger (disparador): si los sistemas operacionales de una empresa soportan disparadores de bases de datos, estos se pueden utilizar para automatizar la extracción de datos. Los disparadores permiten definir operaciones que se ejecutan tan pronto de producen determinados eventos, que suelen consistir en cambios en la base de datos del sistema de origen. Esto conduce a la extracción de los datos modificados hacia el almacén de datos.  

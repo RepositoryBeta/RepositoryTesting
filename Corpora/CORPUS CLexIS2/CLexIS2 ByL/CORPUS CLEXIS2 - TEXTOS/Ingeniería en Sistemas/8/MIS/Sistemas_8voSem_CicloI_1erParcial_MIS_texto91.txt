@@ -1,0 +1,4 @@
+texto 91
+
+Una infraestructura contemporánea de inteligencia de negocios cuenta con capacidades y herramientas para administrar y analizar grandes cantidades y distintos tipos de datos provenientes de varias fuentes. Se incluyen herramientas de consulta y generación de informes fáciles de usar, para los usuarios de negocios casuales y conjuntos de herramientas analíticas más sofisticadas para usuarios avanzados.
+

@@ -1,0 +1,8 @@
+﻿texto 91
+
+Método Alemán o método de cuotas de amortización constantes.
+En este tipo de préstamo la parte de amortización de cada cuota es constante, mientras que los intereses son decrecientes, de forma que la cuota final es también decreciente.
+Este tipo de préstamo liquida menos intereses que el préstamo francés en sus primeros años de vida, pero más en el tramo final, siendo el coste financiero anualizado total ligeramente superior al coste financiero anualizado del método francés. 
+
+
+

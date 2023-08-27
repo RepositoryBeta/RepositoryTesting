@@ -1,0 +1,2 @@
+TEXTO 60
+Conceptos objeto y rol: Los objetos que participan en una interacción son elementos concretos que hace referencia a las instancias se te representan algo del mundo real: Prototipicos: Que hace referencia a los roles. Estos representan cualquier elemento de un cierto tipo en el contexto de una interacción. Se puede encontrar instancia que pueden ser clase componentes nodos y casos de uso ,las instancias de clases abstractas e interfaces en realidad reflejan en instancias indirectas es decir prototipicas o roles de cualquier clase.

@@ -1,0 +1,4 @@
+texto 86
+Bases de datos clave-valor
+Las bases de datos clave valor son modelos no relacionales que utilizan un método simple de almacenamiento de datos. Este tipo de BBDD toma los datos como un conjunto de pares clave-valor en los que las claves cumplen funciones de identificadores únicos.
+Las claves o lo valores pueden ser cualquier tipo de datos. Pueden ser objetos simples o complejos. Estas BBDD son altamente divisibles y brindan grandes capacidades de escalabilidad horizontal.

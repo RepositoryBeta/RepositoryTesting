@@ -1,0 +1,5 @@
+texto 35
+
+Entre las actividades de un SI tenemos: 
+1) La entrada captura o recolecta los datos en crudo desde el interior de la organización o a través de su entorno externo. Esto quiere decir, que son datos sin ningún tipo de procesamiento o análisis.
+2) El procesamiento convierte esta entrada en bruto en un formato significativo.

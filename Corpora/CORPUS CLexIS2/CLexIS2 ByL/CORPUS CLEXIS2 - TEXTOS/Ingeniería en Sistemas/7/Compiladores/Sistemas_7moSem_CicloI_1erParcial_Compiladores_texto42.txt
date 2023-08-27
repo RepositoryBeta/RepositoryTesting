@@ -1,0 +1,2 @@
+TEXTO 42
+Tenemos también etiquetas. Por ejemplo: posición, velocidad, tiempo. Los operadores que también en las otras clases hemos dicho, cuáles son los operadores tenemos los símbolos especiales, que son los corchetes las llaves, constantes numéricas, literales que representan valores, enteros o numéricos o también flotante, y tenemos los caracteres especiales. Eso es importante que el léxico lo identifique. Recuerden que para hacer el proceso léxico decíamos que una secuencia de caracteres para formar el token. 

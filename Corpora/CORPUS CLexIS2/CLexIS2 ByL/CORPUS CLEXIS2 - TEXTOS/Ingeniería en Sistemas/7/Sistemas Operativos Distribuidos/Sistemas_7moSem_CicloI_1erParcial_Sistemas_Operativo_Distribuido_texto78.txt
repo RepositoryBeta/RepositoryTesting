@@ -1,0 +1,5 @@
+﻿Texto 78
+
+A cada procesador se le asigna una tarea específica, el procesador maestro  planifica y asigna el trabajo a los procesadores esclavos.
+
+Usa la programación de procesos, cada proceso se ejecuta en una CPU a la vez, el núcleo sin embargo podría ser llamado por diferentes procesos ejecutándose en CPUS diferentes, el procesador maestro asigna procesos a los procesadores esclavos.

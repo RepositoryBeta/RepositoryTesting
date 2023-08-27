@@ -1,0 +1,5 @@
+﻿Texto 31
+
+¿Pero ese microservicio debe de mantener siempre las mismas normas estandarizadas?
+
+Entre los siete principios básicos para el diseño de servicios, cuenta que el servicio es algo conceptual. Entonces, SOA nos dice que para diseñar un servicio, éste debe cumplir los siguientes principios e implementar contratos estandarizados. 

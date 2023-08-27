@@ -1,0 +1,2 @@
+TEXTO 51
+Ahora, veamos la multiplicidad, asociación y generalización que son clases que se aplican en las relaciones, las relaciones entre clasificadores son asociación generalización y varios tipos de dependencia entre los que se incluyen la realización y el uso, cuando hay una relación de asociación hace referencia a la descripción de una conexión entre instancias de clases lo que quiere decir que voy a relacionar varias clases en una sola.

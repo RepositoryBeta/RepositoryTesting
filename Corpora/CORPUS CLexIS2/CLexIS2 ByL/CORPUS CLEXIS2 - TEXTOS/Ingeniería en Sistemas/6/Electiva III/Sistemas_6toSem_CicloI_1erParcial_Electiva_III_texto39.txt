@@ -1,0 +1,7 @@
+texto 39
+
+Análisis de datos históricos.
+Calidad, coherencia y precisión de los datos
+Separación del procesamiento de análisis de las bases de datos transaccionales, lo que mejora el rendimiento de ambos sistemas
+¿Qué es un data warehouse?
+Un almacén de datos es un sistema de base de datos separado de los sistemas operativos de procesamiento de datos (bases de datos transaccionales), en el cual se comprimen y guardan a largo plazo datos procedentes de fuentes diferentes y en ocasiones muy heterogéneas. 

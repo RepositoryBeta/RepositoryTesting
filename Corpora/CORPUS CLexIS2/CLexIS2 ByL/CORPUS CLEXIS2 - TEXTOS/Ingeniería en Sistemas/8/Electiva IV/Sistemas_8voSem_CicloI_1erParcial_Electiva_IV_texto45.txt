@@ -1,0 +1,3 @@
+texto 45
+
+Entonces, éstas imágenes que usted comienza a crear y comienza a categorizarlas, usted dentro de su proyecto las puede arrastrar a la carpeta correspondiente, dependiendo la categoría en la que se encuentra su imagen, todo esto es para que usted lo tenga más estructurado. Si queremos diseñar para diferentes pantallas, se tendrá que empezar por la norma básica (tamaño normal y MPDI) y escalar hacia arriba y hacia abajo para el resto de tamaños.

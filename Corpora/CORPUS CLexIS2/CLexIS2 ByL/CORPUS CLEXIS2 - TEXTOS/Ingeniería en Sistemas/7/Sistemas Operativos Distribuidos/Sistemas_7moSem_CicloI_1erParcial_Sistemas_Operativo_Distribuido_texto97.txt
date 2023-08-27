@@ -1,0 +1,9 @@
+﻿Texto 97
+
+Características de un sistema distribuido
+
+Los sistemas operativos distribuidos son frecuentemente acoplados para multiprocesadores y multicomputadoras homogéneas. Su objetivo principal es ocultar y administrar los recursos del Hardware.
+
+Los NOS de red son débilmente acoplados para multicomputadoras y heterogéneas como es la LAN y el WAN ofrece servicios locales a clientes remotos.
+
+Middleware: Tiene una capa adicional por encima de NOS, que implementa servicios de propósito general y su objetivo es proporcionar transparencia en la distribución.

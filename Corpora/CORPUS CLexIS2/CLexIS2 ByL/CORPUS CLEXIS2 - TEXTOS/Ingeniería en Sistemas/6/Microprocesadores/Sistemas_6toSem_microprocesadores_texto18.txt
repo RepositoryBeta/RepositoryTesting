@@ -1,0 +1,8 @@
+texto 18
+
+El Athlon 64 también presenta una tecnología de reducción de la velocidad del procesador cuando el usuario está ejecutando aplicaciones que requieren poco uso del procesador, baja la velocidad del mismo y su tensión se reduce.
+Intel Core Duo.
+Intel lanzó el Core Duo, esta gama de procesadores de doble núcleo y CPU 2×2 MCM (módulo Multi Chip) de cuatro núcleos con el conjunto de instrucciones x86 - 64, basado en la nueva arquitectura Core de Intel. 
+
+
+

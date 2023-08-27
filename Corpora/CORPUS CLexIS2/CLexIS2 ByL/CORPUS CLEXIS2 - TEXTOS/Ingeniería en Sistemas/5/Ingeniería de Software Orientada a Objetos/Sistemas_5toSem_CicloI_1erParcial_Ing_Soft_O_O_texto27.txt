@@ -1,0 +1,2 @@
+TEXTO 27
+Durante el inicio del proyecto la gerencia ensambla los equipos de acuerdo con el diseño de alto nivel y las organizaciones seleccionadas, establece la infraestructura de comunicación, luego arranca el proyecto organizando la primera reunión, en estos puntos lo que primero se debe hacer es identificar al equipo, seleccionar las herramientas necesarias para el desarrollo del proyecto, todo esto engloba la organización.

@@ -1,0 +1,4 @@
+texto 63
+
+Herramientas de minería de datos
+Bajo el título de data mining o minería de datos se engloban todos aquellos métodos de análisis no direccionales, en parte automatizados, que tienen como objetivo encontrar patrones, tendencias y relaciones relevantes en la información. Los programas de minería de datos se apoyan en métodos estadísticos y matemáticos, así como en tecnologías de inteligencia artificial (KI) y de aprendizaje automático. El volumen de los datos que las empresas generan, procesan y agrupan en almacenes de datos para analizarlos crece de forma exponencial y cada dos años se duplica el volumen medio de datos en todo el mundo. 

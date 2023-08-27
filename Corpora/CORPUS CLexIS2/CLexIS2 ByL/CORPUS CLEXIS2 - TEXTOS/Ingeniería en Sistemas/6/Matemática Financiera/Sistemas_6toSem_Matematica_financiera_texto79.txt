@@ -1,0 +1,11 @@
+﻿texto 79
+¿Qué se paga en una amortización?
+Se paga de forma mensual una cuota que incluye:
+- Capital.
+- Intereses.
+- Seguros por operación.
+- Otros factores.
+
+
+
+

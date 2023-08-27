@@ -1,0 +1,2 @@
+TEXTO 92
+Necesidad de la tabla de símbolos: Los compiladores utilizan una gramática libre de contexto para describir la sintaxis de lenguaje y una fase de análisis semántico posterior para restringir las sentencias que ( semánticamente ) no pertenecen al lenguaje. El analizador sintáctico se limita a comprobar, mediante una gramática libre de contexto, que un identificador forma parte de un expresión. Luego si la sentencia es sintácticamente correcta, el analizador semántico deberá verificar que el identificador empleado haya sido declarado. 

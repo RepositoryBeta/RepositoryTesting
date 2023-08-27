@@ -1,0 +1,2 @@
+TEXTO 10
+¿Qué es una clase? Es una abstracción de los lenguajes de programación orientada a objetos, las clases encapsulan estructura y comportamiento, describen sus atributos y sus métodos ya que este es el punto de partida para crear nuevos objetos, es decir, las clases van a distraer esos tipos de lenguaje que van a ser programados y van a ser orientados a la utilización de objetos que a su vez se encapsulan en una estructura y en un comportamiento específico.

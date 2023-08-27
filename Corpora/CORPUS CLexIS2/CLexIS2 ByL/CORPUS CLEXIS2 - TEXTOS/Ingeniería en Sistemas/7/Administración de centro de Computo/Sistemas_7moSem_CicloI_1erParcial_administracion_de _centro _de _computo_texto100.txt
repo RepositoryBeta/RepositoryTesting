@@ -1,0 +1,4 @@
+texto 100
+
+El SLA es un documento que guía el servicio que el centro de cómputo ofrece a sus clientes(interno o externo).
+Para ser efectivo el SLA debería indicar cunado, donde y como el servicio es provisto por el centro de computo, incluyendo quien es responsable o penalizaciones en caso de no reunir los requisitos mencionados por el SLA.

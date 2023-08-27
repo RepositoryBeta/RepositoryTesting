@@ -1,0 +1,8 @@
+﻿texto 52
+El número de pagos debe ser igual al número de periodos.
+Algunos términos empleados cuando se trata de anualidades:
+Renta: Es el pago periódico de igual valor.
+Periodo de renta: Es el tiempo que transcurre entre los pagos periódicos continuos.
+Plazo: El tiempo que transcurre entre el principio del primer periodo y el final del último periodo se denomina plazo de la anualidad y se representa por la letra n.
+
+

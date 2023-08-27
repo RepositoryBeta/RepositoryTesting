@@ -1,0 +1,3 @@
+texto 23
+
+Ejemplo en la figura me muestras dos componentes esenciales del sistema: un intérprete de instrucciones y un módulo de uso general para las funciones aritméticas y lógicas, estos dos elementos constituyen la CPU, se requiere varios componentes adicionales para que la computadora pueda funcionar, los datos y las instrucciones deben introducirse en el sistema, para eso se necesita algún tipo de módulo de entrada.

@@ -1,0 +1,7 @@
+texto 64
+
+Se centra en cuatro aspectos básicos:
+Primero unidades que deberán producirse en un momento dado.
+Segundo en qué momento debe producirse el inventario.
+Tercero qué artículos del inventario merecen atención especial. 
+Por último tenemos que sí podemos protegernos de los cambios de costos de inventarios.

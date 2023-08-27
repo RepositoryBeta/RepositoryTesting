@@ -1,0 +1,6 @@
+texto 84
+
+Debido cuidado profesional: cada auditoría debe realizarse de tal manera que se apliquen el buen juicio y la debida diligencia al proceso.
+Confidencialidad: mucha de la información que se recopila y comparte durante una auditoría es de naturaleza confidencial. Su seguridad debe, por lo tanto, ser asegurada apropiadamente.
+Independencia: la auditoría, ya sea que la lleve a cabo un auditor interno o externo, debe ser imparcial y las conclusiones deben ser objetivas, sin verse influidas por ningún miembro de la gerencia de la organización.
+

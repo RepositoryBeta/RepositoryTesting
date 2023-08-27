@@ -1,0 +1,5 @@
+﻿texto 33
+La tasa de interés puede ser tanto fija como variable, la primera se mantiene estable por el tiempo que dura la inversión o se devuelve el préstamo, mientras que la variable se va actualizando de forma mensual, adaptándose a la inflación, la variación del tipo de cambio y otras variables.
+ Tasas de Interés: Tipos de tasas de interés.
+
+

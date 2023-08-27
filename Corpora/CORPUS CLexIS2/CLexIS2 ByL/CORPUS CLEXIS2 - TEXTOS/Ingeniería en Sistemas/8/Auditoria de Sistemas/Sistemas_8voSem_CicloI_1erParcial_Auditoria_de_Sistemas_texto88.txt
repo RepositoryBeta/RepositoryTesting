@@ -1,0 +1,7 @@
+﻿texto 88
+
+AUDITORIA DEL DESARROLLO
+La auditoría del desarrollo tratará de verificar la existencia y aplicación de procedimientos de control adecuados que permitan garantizar que el desarrollo de Sistemas de Información cumple con los principios de ingeniería, o por el contrario determinar las deficiencias. 
+APLICADA: 
+La auditoría se divide en dos grandes áreas: auditoría de la organización y administración del área de desarrollo y auditoría de proyectos de desarrollo de SI. ISACA (Information Systems Auditand Control Asociación) propone una metodología basada en administración de riesgos, y determina controles para minimizar éstos.
+

@@ -1,0 +1,4 @@
+texto 55
+
+Nivel de conservación de los datos
+Este nivel constituye el núcleo del almacén de datos y comprende el denominado Core Data Warehouse o almacén maestro. Los datos extraídos en la fase anterior se guardan en él en la forma de matrices multidimensionales (esquemas de bola de nieve y de estrella) y se mantienen aquí con vistas a ser archivados a largo plazo para análisis futuros. Dado que estos análisis rara vez tienen como objeto el contenido completo del almacén de datos, para garantizar un examen eficiente suele ser habitual crear los denominados data marts (mercados de datos), basados en subconjuntos o extractos de la información total contenida en el almacén central.

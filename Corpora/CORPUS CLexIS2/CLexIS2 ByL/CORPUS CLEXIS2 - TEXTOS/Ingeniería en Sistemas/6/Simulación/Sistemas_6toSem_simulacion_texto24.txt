@@ -1,0 +1,3 @@
+﻿texto 24
+
+Dentro de las variables cuantitativa tenemos que tener claro también que nosotros tenemos dos tipos de variables cuantitativas, las que son discretas y las que son continuas, cuando hablamos de variables discretas cuando es un valor puntual como por ejemplo, la edad yo le pregunto a una persona y me puede decir tengo 18, a otra persona le puedo preguntar y me puede decir tengo 19, a otra persona, que tengo 20 y asi etc, etc es decir valores puntuales.

@@ -1,0 +1,3 @@
+texto 48
+
+Se solicita la memoria el contenido de la posición 100  a través del bus de direcciones y se indica la orden de READ a través del bus de control, la memoria devuelve el valor 3 que está almacenada en la posición 100 de memoria a través del bus de datos y lo deposita en el MBR  el último paso de este ciclo de ejecución es copiar el valor del MBR al acumulador.

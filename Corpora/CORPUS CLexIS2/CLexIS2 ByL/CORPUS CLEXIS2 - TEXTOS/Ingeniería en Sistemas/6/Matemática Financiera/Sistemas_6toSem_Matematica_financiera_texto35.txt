@@ -1,0 +1,5 @@
+﻿texto 35
+Tasa de Interés Variable: Este tipo de tasa se actualiza generalmente de forma mensual y en algunos casos de forma trimestral. Normalmente esta tasa se encuentra asociada a una tasa de referencia, la cual puede ser el DTF más un diferencial o también al IPC más un diferencial.
+Tasa de Interés Fija: Es una tasa que se mantiene igual durante toda la vigencia del préstamo, por ejemplo se puede indicar que se aplicará al préstamo una tasa de 10%, y una vez acordada esta tasa no varía.
+
+

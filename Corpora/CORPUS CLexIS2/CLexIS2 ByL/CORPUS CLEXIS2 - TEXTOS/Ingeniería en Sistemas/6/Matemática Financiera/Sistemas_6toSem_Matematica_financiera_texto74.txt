@@ -1,0 +1,4 @@
+﻿texto 74
+Entonces, ¿qué opciones pueden ser más rentables que una amortización de deuda? Depende. Si el tipo de interés de la deuda es superior a la tasa de rentabilidad de cualquier inversión, entonces el ahorro de pago de intereses será superior al beneficio que nos pueda dar cualquier inversión.
+Sin embargo, si la tasa de rentabilidad de una posible inversión es superior al tipo de interés que se esté pagando en la deuda, se optará por destinar los recursos de la empresa a la inversión.
+

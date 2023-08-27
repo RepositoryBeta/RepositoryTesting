@@ -1,0 +1,4 @@
+texto 82
+
+Ahora hablaremos un poco de Hadoop, los productos de dbms relacionales y almacenes de datos no se adaptan bien por organizar y analizar Big Data o datos que no caben fácilmente en las columnas y filas utilizadas en sus modelos de datos. Para manejar datos no estructurados y semiestructurados en grandes cantidades, así como datos estructurados las organizaciones usan Hadoop, que es un marco de trabajo de software de código abierto, administrado por la fundación de software Apache.
+

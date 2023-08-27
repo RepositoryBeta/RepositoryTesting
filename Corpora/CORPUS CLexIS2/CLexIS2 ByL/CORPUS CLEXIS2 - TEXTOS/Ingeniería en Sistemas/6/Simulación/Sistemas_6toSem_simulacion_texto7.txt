@@ -1,0 +1,5 @@
+﻿texto 7
+
+Habíamos visto también cuales son las características de las técnicas de muestreo, teníamos descriptiva, teníamos analítica y teníamos mixtos, dentro de la descriptivas teníamos que el objetivo es obtener cierta información respecto a grandes grupos, analítico se comparan varios subgrupos de una población para averiguar si existen diferencias entre ellos y formulado verifica la hipótesis sobre sus causas, y los mixtos se saben que integran ambos tipos de técnicas.
+
+

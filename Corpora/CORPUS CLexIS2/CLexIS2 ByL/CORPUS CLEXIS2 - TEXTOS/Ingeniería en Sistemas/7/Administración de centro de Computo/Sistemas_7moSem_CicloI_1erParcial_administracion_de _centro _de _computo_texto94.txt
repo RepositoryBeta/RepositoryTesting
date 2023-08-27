@@ -1,0 +1,13 @@
+texto 94
+
+Procesos operativos.
+Operar en centro de cómputos comienza con un conjunto de Procesos que guían cada tarea asociada.
+Administración de instalaciones físicas.
+Administración del servidor o de la computadora central.
+Administración del almacenamiento.
+Operaciones de respaldo y recuperación.
+Planificación de trabajos.
+Administración de crisis o contingencias.
+
+
+

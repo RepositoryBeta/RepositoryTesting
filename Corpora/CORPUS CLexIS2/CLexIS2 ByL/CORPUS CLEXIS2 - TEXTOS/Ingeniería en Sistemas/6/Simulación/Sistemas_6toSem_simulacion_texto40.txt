@@ -1,0 +1,5 @@
+﻿texto 40
+
+La desviación estándar: Es un índice numérico de la dispersión de un conjunto de datos  (o población). Mientras mayor es la desviación estándar, mayor es la dispersión de la población.
+Para determinar el tamaño de la muestra vamos a necesitar de ciertas variables
+N = tamaño de la población, Z = nivel de confianza, P = probabilidad de éxito, o proporción esperada, Q = probabilidad de fracaso, D = precisión o error máximo admisible en términos de proporción.

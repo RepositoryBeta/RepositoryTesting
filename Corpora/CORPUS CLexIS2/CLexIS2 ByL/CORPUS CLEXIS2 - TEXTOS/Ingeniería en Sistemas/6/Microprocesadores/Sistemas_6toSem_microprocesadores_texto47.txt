@@ -1,0 +1,8 @@
+texto 47
+
+Registros de segmentos
+ES (Extra): Este registro también tiene la dirección lógica de uno de los segmentos en que se encuentran los datos estáticos de un programa. Este registro se utiliza en ciertas operaciones del microprocesador para el manejo de cadenas.
+SS (Pila): Tiene la dirección lógica del segmento en que se encuentran la pila del sistema. La pila no puede ser mayor a un segmento.
+
+
+

@@ -1,0 +1,3 @@
+texto 59
+
+El tercer paso del ciclo de ejecución es diferente para cada instrucción, para LOAD se copia el contenido del MBR al acumulador, para ADD se realiza la operación del acumulador más el MBR y se deposita el resultado en el acumulador, y para STORE se transfiere el contenido del MBR a memoria este ciclo básico de instrucción se le puede incorporar una nueva etapa que seria el ciclo de interrupción.

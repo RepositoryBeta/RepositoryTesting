@@ -1,0 +1,8 @@
+texto 54
+
+Tras la integración, los datos extraídos entran en la base de datos central (Core Data Warehouse) mediante programas que:
+1) Prueban las condiciones de integridad
+2) Clasifican los datos.
+3) Calculan las agregaciones.
+4) Calculan las estructuras de acceso.
+5) Fragmentan los datos para que el acceso sea más eficiente.

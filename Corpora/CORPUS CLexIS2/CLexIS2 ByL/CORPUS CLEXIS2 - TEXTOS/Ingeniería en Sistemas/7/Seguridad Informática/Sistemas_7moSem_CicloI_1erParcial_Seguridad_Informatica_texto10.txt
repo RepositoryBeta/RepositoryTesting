@@ -1,0 +1,5 @@
+texto 10
+
+Hablamos en este caso de que en la seguridad pasiva somos reactivos ya actuamos cuando ya se ha producido el daño.
+Seguridad de Hardware, Seguridad de Software y Seguridad de red.
+Existe una última forma de clasificar la seguridad y que es totalmente complementaria a las ya mencionadas. Esta tipología de clasificación se centra más en el tipo de elemento que se protege.

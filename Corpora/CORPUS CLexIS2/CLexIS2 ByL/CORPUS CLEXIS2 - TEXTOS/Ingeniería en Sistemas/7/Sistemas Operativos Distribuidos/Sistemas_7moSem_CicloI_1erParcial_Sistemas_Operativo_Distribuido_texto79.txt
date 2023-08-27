@@ -1,0 +1,3 @@
+﻿Texto 79
+
+Entonces, el sistema operativo ya no coordina las tareas sino las coordina un procesador maestro, éste procesador maestro es el que se le asigna la tarea y él le reparte al procesador esclavos, entonces no puede ser homogéneo porque los procesadores no están diseñados para trabajar explícitamente en tareas generales sino que hay procesadores diseñadas para trabajar con tareas específicas.

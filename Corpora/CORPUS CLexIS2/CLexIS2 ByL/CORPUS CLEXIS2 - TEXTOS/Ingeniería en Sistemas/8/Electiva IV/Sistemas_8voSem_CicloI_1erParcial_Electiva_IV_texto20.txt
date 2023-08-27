@@ -1,0 +1,3 @@
+texto 20
+
+Cuando hablamos de contexto hablamos que es la información que caracteriza al entorno en el cual se ejecuta una aplicación o servicio. Otro rasgo destacados del contexto es su validez temporal. Evoluciona deprisa. El contexto debe ser procesado en tiempo real. ¿Par qué sirve?,  para enriquecer servicios, ayuda a adaptarse mucho mejor y de forma automática a las condiciones del entorno, proporciona un mejor servicio y extrae la información necesaria para la aplicación y lo usa para personalizarla.

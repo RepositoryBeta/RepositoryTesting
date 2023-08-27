@@ -1,0 +1,3 @@
+texto 62
+WHILE-LOOP: La sentencia de control WHILE-LOOP, al igual que FOR-LOOP, permite la ejecución de una o varias instrucciones. A diferencia de la sentencia FOR-LOOP, en WHILE-LOOP la ejecución se define a partir de una condición
+LOOP: La sentencia LOOP permite ejecutar un bloque de código de manera infinita, a diferencia de las otras sentencias iterativas, en la sentencia LOOP se debe utilizar la cláusula EXIT WHEN para colocar una condición para terminar el bucle.

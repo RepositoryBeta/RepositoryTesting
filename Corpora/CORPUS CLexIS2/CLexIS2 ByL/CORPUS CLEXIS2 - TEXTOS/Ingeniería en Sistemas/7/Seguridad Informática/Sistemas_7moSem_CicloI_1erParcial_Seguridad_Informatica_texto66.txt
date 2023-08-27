@@ -1,0 +1,6 @@
+texto 66
+
+Hardening contra las amenazas
+Hemos visto como pueden ser las amenazas en función de cómo son, ahora vamos a ver ejemplos de cómo reducir las amenazas, endureciendo nuestro sistema.
+Usuarios: Mediante cursos de concienciación en la seguridad informática.
+Programas malintencionados: No descargando ningún programa de fuentes desconocidas o no oficiales.

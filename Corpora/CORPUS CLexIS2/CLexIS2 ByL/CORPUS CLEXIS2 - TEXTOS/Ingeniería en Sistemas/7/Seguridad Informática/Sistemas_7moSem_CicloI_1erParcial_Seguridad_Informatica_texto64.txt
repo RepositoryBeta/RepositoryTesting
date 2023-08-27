@@ -1,0 +1,6 @@
+texto 64
+
+¿Cómo endurecer la seguridad de mis Sistemas Informáticos?
+Para poder endurecer nuestros sistemas informáticos, lo primero que debemos hacer, es conocer y analizar, cuáles son las posibles amenazas a las que nos enfrentamos, y una vez vistas, establecer algún tipo de endurecimiento hacia ellas, consiguiendo de esta forma un sistema seguro.
+Las amenazas
+Las amenazas, son los activos de vulnerabilidad que podemos encontrar en nuestro sistema informático, pueden ser a nivel software o hardware.

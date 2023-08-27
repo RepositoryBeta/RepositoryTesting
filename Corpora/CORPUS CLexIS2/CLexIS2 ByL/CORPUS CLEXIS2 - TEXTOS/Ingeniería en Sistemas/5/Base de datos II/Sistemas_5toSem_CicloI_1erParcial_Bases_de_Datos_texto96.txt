@@ -1,0 +1,2 @@
+texto 96
+Bigtable: Almacena información en tablas multidimensionales cuyas celdas están, en su mayoría, sin utilizar. Además, estas celdas disponen de versiones temporales de sus valores, con lo que se puede hacer un seguimiento de los valores que se han tomado históricamente. Fue creado por Google con las características de ser distribuido, de alta eficiencia y propietario.

@@ -1,0 +1,4 @@
+texto 19
+
+¿Cómo se suministra las señales de control?
+En la lámina anterior dice que el programador simplemente necesita proporcionar un nuevo conjunto de señales de control, el programa es realmente una secuencia de pasos, en cada paso se realiza una operación aritmética lógica con ciertos datos, para cada paso se necesita un nuevo conjunto de señales de control.

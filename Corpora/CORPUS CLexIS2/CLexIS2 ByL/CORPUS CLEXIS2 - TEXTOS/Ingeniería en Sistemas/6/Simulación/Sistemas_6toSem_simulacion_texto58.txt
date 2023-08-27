@@ -1,0 +1,3 @@
+﻿texto 58
+
+Los estratos más comunes utilizados en el muestreo aleatorio estratificado son la edad, el género, el nivel socioeconómico, la religión, la nacionalidad y el nivel de estudios alcanzado. Se utiliza el muestreo aleatorio estratificado, cuando el investigador desea resaltar un subgrupo específico dentro de la población, esta técnica es útil en tales investigaciones porque garantiza la presencia del subgrupo clave dentro de la muestra.

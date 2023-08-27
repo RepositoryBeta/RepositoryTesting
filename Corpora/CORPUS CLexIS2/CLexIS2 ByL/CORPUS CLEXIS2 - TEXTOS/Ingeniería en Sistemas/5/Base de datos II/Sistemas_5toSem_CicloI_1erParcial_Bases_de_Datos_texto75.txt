@@ -1,0 +1,4 @@
+texto 75
+FAST_FORWARD: Este es el tipo de cursor predeterminado. Es idéntico al estático, excepto que solo puede desplazarse hacia adelante.
+DINAMIC: En un cursor dinámico, las adiciones y eliminaciones son visibles para otros en la fuente de datos mientras el cursor está abierto.
+KEYSET: Esto es similar a un cursor dinámico, excepto que no podemos ver registros que otros agreguen. Si otro usuario elimina un registro, es inaccesible desde nuestro conjunto de registros.

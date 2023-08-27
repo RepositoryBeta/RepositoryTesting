@@ -1,0 +1,3 @@
+TEXTO 27
+
+Es lo único que se está agregando nada más porque por la operación que está arriba. La semántica del corregir errores de sintaxis el compilador va a ver si esa sintaxis está correcta. Si por ejemplo, yo al número 23 Acuérdese que era más 23 si a  ese número 23 le hubiese puesto 23.00  entonces prácticamente a los dos lo convierte como real pero como no tiene nada lo convierte en entero si hubiese sido real it sino f it lo representa la compilación como entero. 

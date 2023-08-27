@@ -1,0 +1,5 @@
+﻿texto 54
+
+En el caso de poblaciones con pocos miembros, es aconsejable utilizar el primer método, pero si la población tiene muchos miembros, es preferible una selección aleatoria por computadora.
+Una de las mejores cosas del muestreo aleatorio simple es la facilidad para armar la muestra.
+También se considera una forma justa de seleccionar una muestra a partir de una población, ya que cada miembro tiene igualdad de oportunidades de ser seleccionado.

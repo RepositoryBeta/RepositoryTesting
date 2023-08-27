@@ -1,0 +1,4 @@
+texto 10
+
+En cuanto a estas diferentes áreas que tenemos en la inteligencia artificial, nos encontramos con varias, que son: la metaheurística, el procesamiento del lenguaje natural, bioinformática médica, minería de datos, minería de texto, ontología, lógica difusa, visión artificial o visión por computadora, aprendizaje de máquina o aprendizaje automático, Deep learning, robótica y así hay un montón más.
+

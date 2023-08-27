@@ -1,0 +1,3 @@
+﻿texto 2
+
+También podríamos decir que ese microchip dentro de si, tiene otra clasificación, ya lo vamos a ver internamente, nosotros ya vimos en el ejemplo eso, eran los microprocesadores de un solo núcleo ahora ya hay procesadores de varios nucleos, los nucleos vendrían a ser los diferente microchips, también tenemos dentro de los componentes de una máquina, el reloj interno mantiene un control en el tiempo de ejecución de los diferentes procesos de la computadora.

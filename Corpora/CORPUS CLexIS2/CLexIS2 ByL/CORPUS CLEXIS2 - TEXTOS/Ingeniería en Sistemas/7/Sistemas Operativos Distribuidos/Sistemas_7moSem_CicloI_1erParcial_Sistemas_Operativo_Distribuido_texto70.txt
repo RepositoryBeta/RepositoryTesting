@@ -1,0 +1,5 @@
+﻿Texto 70
+
+¿Para qué sirve Amazon Web Services?
+
+Amazon Web Services nos provee una gigante cantidad de servicios para poder dar solución a distintas variables que tenemos en una infraestructura de TI, estas variables pueden ser desde almacenamiento en la nube, gestión de instancias, hosting web hasta desarrollo de aplicaciones móviles y esto solo nombrando algunas de ellas.

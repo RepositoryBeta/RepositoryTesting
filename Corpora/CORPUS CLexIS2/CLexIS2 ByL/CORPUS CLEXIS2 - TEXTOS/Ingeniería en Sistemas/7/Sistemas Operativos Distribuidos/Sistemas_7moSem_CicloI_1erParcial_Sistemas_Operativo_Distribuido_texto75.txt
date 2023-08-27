@@ -1,0 +1,5 @@
+﻿Texto 75
+
+Multiprocesamiento simétrico (SMP)
+
+También llamada UMA, del inglés Uniform Memory Access, en español (acceso uniforme a memoria),  cada procesador corre una copia idéntica del sistema operativo, varias unidades de procesamiento comparten el acceso a la memoria, compitiendo en igualdad de condiciones por dicho acceso, de ahí la denominación (simétrico).

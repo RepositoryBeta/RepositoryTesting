@@ -1,0 +1,2 @@
+TEXTO 91
+Panorama general del diseño del sistema: El primer paso es el análisis que es un conjunto de requerimientos no funcionales y restricciones como tiempo de ejecución máxima, producción mínima, confiabilidad, plataforma de sistema operativo, etc. Un modelo de caso de uso que describe la funcionalidad del sistema, desde el punto de vista de los actores. Un modelo de objetos que describa las entidades manipuladas por el sistema, un diagrama de secuencia para cada caso de uso que muestra la secuencia de interacción entre los objetos que participan en el caso de uso.

@@ -1,0 +1,6 @@
+texto 14
+
+La seguridad informática es la disciplina que se encarga de diseñar las normas, procedimientos, métodos y técnicas destinados a conseguir un sistema de información seguro y confiable.
+Vulnerabilidades.
+Una vulnerabilidad es una debilidad del sistema informático que puede ser utilizada para causar un daño. 
+Las debilidades pueden aparecer en cualquiera de los elementos de una computadora, tanto en el hardware, el sistema operativo, cómo en el software. 

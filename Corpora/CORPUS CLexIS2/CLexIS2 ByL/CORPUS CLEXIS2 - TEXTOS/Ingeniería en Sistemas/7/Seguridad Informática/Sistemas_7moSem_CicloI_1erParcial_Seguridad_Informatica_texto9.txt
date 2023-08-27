@@ -1,0 +1,5 @@
+texto 9
+
+La seguridad pasiva, no es lo contrario a la seguridad activa, es un complemento que entra en marcha cuando las medidas de seguridad activa no han sido suficientes para frenar una amenaza. 
+Un ejemplo claro es el tema de las copias de seguridad. Realizar copias de seguridad es poner en marcha una seguridad activa, ya que nos anticipamos al riesgo de perder información.
+Sin embargo, el recuperar un fichero de una copia de seguridad, pasa a ser seguridad pasiva. Esto es, así pues, una vez producido el daño, ponemos los medios para subsanarlo. 

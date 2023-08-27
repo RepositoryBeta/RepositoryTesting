@@ -1,0 +1,4 @@
+texto 59
+
+El inventario de materia prima comprende toca clase de materiales comprados por el fabricante y que serán sometidos a operaciones de transformación o manufactura para un cambio físico o químico antes de que puedan hacer venderse como productos terminados.
+El inventario en producción, de producción en proceso son todos los materiales en los cuales se han ejecutado operaciones de transformación en un periodo de costo pero que todavía requieren de otras operaciones para quedar terminado.

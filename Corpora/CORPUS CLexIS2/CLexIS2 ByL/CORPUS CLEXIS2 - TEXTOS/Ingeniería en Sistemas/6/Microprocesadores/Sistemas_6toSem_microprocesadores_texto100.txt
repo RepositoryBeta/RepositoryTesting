@@ -1,0 +1,4 @@
+texto 100
+
+Arquitectura Unhosted:
+Por el contrario, la arquitectura basada en hipervisor, instala la capa de virtualización directamente en un sistema operativo limpio. Debido a que cuenta con acceso directo a los recursos de hardware sin tener que pasar a través del sistema operativo, esta arquitectura resulta más eficiente que la primera y ofrece una mayor escalabilidad, robustez y rendimiento. Algunos de los hipervisores más conocidos son VMWARE ESX, Xen Hypervisor, Citrix Xenserver, Microsoft Hyper-V Server.

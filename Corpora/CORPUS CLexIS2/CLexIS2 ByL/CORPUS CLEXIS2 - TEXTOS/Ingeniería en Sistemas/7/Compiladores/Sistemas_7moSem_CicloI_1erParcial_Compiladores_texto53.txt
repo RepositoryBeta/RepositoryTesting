@@ -1,0 +1,3 @@
+TEXTO 53
+
+Porque con símbolos especiales da error y si tú declaras una variable utilizando símbolos especiales, eso no está correcto. Si tú me declaras una variable 2a efectivamente me va a botar el compilador error porque no está correctamente declarada sería a2 eso está correcto. Una vez que tú ya sepas identificar los operadores, ya sepas identificar los identificadores, las palabras reservadas, las asignaciones etc. Tú tienes la oportunidad de hacer toda esa línea de compiladores en una herramienta. 

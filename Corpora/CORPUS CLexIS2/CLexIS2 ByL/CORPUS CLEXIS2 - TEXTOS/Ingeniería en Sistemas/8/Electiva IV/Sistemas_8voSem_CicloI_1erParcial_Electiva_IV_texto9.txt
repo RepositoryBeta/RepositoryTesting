@@ -1,0 +1,3 @@
+texto 9
+
+Vemos que estos equipos o estos dispositivos, que son móviles, en este caso con android y que permiten en este caso poder transferir información, utilizan comunicación de datos para plataformas móviles, hablando de celulares hablamos que se utiliza la red celular de datos, tal como GSM, CDMA o GPRS, cuando hablamos de esto, tranquilamente estamos hablando que podemos navegar por un APN, y más recientemente redes 3G tales como WCDMA, EDGE o CDMA2000.

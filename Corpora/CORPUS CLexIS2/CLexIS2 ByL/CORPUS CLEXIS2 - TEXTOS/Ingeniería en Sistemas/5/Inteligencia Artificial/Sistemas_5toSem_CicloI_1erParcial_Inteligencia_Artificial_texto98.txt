@@ -1,0 +1,4 @@
+texto 98
+
+La LS es esencial en el desarrollo del MA, en su forma básica explorará la vecindad de las soluciones sobre las que se aplica. Tenemos algoritmos LS aplicados al MA: Según naturaleza lógica de la búsqueda tenemos estocástico y determinístico, según la cantidad de soluciones involucradas tenemos simple solución y múltiples solución, según regla de pivote tenemos la pendiente más empinada (Steepest Descent) y la voraz (Greedy).
+

@@ -1,0 +1,4 @@
+﻿Texto 6
+
+¿Qué entiende usted por heterogéneo?
+Cuando yo hablo de heterogéneos, yo digo o me refiero que son distintos. Si se dan cuenta, en el gráfico yo tengo sistemas que tienen diferentes funcionalidades, tienen o usan diferentes protocolos, utilizan diferentes ambientes. Entonces, yo necesito una capa, las implementaciones tecnológicas ya se las voy a decir, existe el concepto de middleware.

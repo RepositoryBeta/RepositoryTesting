@@ -1,0 +1,4 @@
+texto 84
+
+Ciclo de vida de una actividad.
+El ciclo de vida de una aplicación Android es diferente al ciclo de vida de una aplicación en otros SO, como Windows. La mayor diferencia es que, en Android el ciclo de vida es controlado principalmente por el sistema, en lugar de ser controlado directamente por el usuario. Una aplicación en Android está formada por un conjunto de elementos básicos de interacción con el usuario, conocidos como actividades. Además de varias actividades, una aplicación también puede contener servicios.

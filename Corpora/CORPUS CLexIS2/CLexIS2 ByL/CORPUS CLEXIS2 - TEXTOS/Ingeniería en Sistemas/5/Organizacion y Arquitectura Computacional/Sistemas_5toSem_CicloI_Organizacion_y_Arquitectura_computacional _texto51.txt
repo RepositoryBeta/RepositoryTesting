@@ -1,0 +1,3 @@
+texto 51
+
+Recordemos que el ciclo de ejecución comienza cuando la unidad de control decodifica la instrucción que se encuentra el registro de instrucciones separando el código de operación ADD y el operando que es el valor que se encuentra la posición 101, la instrucción ADD significa que realiza la operación aritmética suma del registro acumulador mas el valor de la posición 101, para eso debe copiar el valor 101 que figura en la instrucción en el MAR.

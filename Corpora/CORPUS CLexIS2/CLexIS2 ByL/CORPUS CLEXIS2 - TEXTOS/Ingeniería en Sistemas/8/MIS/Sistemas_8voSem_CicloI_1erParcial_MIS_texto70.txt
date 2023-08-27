@@ -1,0 +1,5 @@
+texto 70
+
+Esto se debe a que, cuando la operación no es la búsqueda de una clave, la sobrecarga puede llegar a ser muy costosa. Las soluciones más directas consisten en desnormalizar los datos, o bien realizar el JOIN mediante software, en la capa de aplicación.
+4) Arquitectura distribuida. Las bases de datos relacionales suelen estar centralizadas en una única máquina o bien en una estructura máster esclavo. Sin embargo en los casos NOSQL la información puede estar compartida en varias máquinas mediante mecanismo de tablas Hash distribuidas.
+

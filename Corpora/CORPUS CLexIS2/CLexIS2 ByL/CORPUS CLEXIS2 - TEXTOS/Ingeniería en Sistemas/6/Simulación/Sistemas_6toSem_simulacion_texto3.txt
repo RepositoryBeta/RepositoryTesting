@@ -1,0 +1,7 @@
+﻿texto 3
+
+Lo que vamos a trabajar nosotros, es la parte de los errores por muestreo, trabajar porque vamos a ver la parte de las proporciones y cuando trabajamos el error por inferencia y es lo que estamos determinando en este caso, la media, la varianza, todos esos elementos todo se puede terminar dentro de una muestra el error por muestreo, el muestreo está atado a la estadística porque dentro de la estadística nosotros vamos a poder hacer estadística, necesitamos determinar dentro de la población que vamos a trabajar justamente esta muestra significativa nos va a ayudar a poder obtener resultados.
+
+
+
+

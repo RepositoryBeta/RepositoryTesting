@@ -1,0 +1,5 @@
+texto 90
+
+Evaluar qué tan bien el empleado o LOB está progresando hacia los objetivos estratégicos de la organización. Reevalúe qué tan bien los KPI están apoyando los objetivos de negocios actuales.
+Realice los ajustes, según sea necesario.
+La visualización de datos es la representación gráfica de información y datos. Al utilizar elementos visuales como cuadros, gráficos y mapas, las herramientas de visualización de datos proporcionan una manera accesible de ver y comprender tendencias, valores atípicos y patrones en los datos.

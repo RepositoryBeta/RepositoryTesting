@@ -1,0 +1,9 @@
+﻿texto 28
+La fórmula para calcular el valor presente de una inversión es la siguiente:
+ VA = VF / (1 + i)^n
+¿Cómo puedo calcular el valor futuro de una determinada cantidad?
+Para poder calcular y conocer el valor futuro o monto final que tendrá una inversión en una fecha determinada, debemos conocer la siguiente información para poder realizar los cálculos.
+M = monto que pensamos invertir para lograr nuestros objetivos.
+i = interés que obtendremos por cada periodo que vamos a invertir nuestro dinero.
+N = Número de periodos que estará invertido nuestro dinero (mensual, anual).
+VF = Valor Futuro.

@@ -1,0 +1,8 @@
+texto 59
+
+Lenguaje de programación Ensamblador
+Lenguajes de bajo nivel: Son lenguajes de programación que se acercan al funcionamiento de una computadora. 
+El lenguaje de más bajo nivel es, por excelencia, el código máquina. A éste le sigue el lenguaje ensamblador, ya que al programar en ensamblador se trabajan con los registros y memoria de la computadora de forma directa. 
+
+
+

@@ -1,0 +1,10 @@
+texto 92
+
+Auditoria de Bases de Datos
+Es el proceso que permite medir, asegurar, demostrar, monitorear y registrar los accesos a la información almacenada en las bases de datos incluyendo la capacidad de determinar: 
+- Quién accede a los datos.
+- Cuándo se accedió a los datos.
+- Desde qué tipo de dispositivo y aplicación.
+- Desde que ubicación en la Red.
+- Cuál fue la sentencia SQL ejecutada.
+- Cuál fue el efecto del acceso a la base de datos. 

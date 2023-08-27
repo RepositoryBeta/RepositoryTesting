@@ -1,0 +1,7 @@
+texto 86
+
+El ciclo de instrucción.
+Un ciclo de instrucción incluye los siguientes subciclos:
+1) Búsqueda: que lleva la siguiente instrucción en la memoria al procesador.
+2) Ejecución: que la interpreta el código de operación y llevar a cabo la operación indicada.
+3) Interrupción: si las interrupciones están habilitadas y ha ocurrido una interrupción, guardar el estado del proceso actual y atender la interrupción.

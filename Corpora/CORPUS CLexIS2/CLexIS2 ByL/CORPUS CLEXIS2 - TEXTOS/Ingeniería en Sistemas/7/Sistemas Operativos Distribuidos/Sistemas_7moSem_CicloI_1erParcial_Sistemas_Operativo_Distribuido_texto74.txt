@@ -1,0 +1,8 @@
+﻿Texto 74
+
+Sistemas fuertemente acoplados
+
+Los procesadores comparten la memoria y el reloj; la comunicación por lo general se realiza a través de la memoria compartida.
+Existen dos arquitecturas que resuelven estos problemas:
+La arquitectura UMA (SMP), donde todos los procesadores comparten toda la memoria.
+La arquitectura NUMA (asimétrico), donde cada procesador tiene acceso y control exclusivo a una parte de la memoria.

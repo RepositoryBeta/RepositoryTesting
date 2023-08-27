@@ -1,0 +1,7 @@
+texto 98
+
+Las políticas deberían señalar lo que es o no es admitido y su resultado.
+Por ejemplo, si una persona trata de ingresar al centro de cómputo y no reúne ciertos criterios, la política deben manifestar que son negados los accesos, y debe de ir a la par con los procesos.
+Cada empresa va a determinar los procedimientos importantes. Los procesos establecidos dentro centro de un centro de cómputo para guiar las operaciones son las más efectivas llave para administrar eficientemente el centro de cómputo.
+
+

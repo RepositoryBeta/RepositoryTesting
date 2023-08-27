@@ -1,0 +1,10 @@
+texto 14
+
+Intel Pentium III
+
+Fue diseñado para reforzar el área del rendimiento en el Internet, le permite a los usuarios hacer cosas, tales como, navegar a través de páginas pesadas (con muchos gráficos), tiendas virtuales y transmitir archivos vídeo de alta calidad. El procesador se integra con 9,5 millones de transistores, y se introdujo usando en él tecnología 250 nanómetros.
+Intel Pentium IV
+Creado en el año 2000, este microprocesador de séptima generación basado en la arquitectura x86 y fabricado por Intel, es el primero con un diseño completamente nuevo desde el Pentium Pro. 
+
+
+

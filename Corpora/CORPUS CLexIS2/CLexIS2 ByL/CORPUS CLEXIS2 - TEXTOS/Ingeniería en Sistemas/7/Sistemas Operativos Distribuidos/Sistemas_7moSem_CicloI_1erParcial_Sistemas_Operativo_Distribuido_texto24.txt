@@ -1,0 +1,5 @@
+﻿Texto 24
+
+¿Qué significa eso?
+
+Cuando hablamos de servicio, éste debe ser estándar y utilizable. Cuando es servicio a nivel de software, nosotros ya nos vamos a algo conceptual, donde nos regimos por las arquitecturas SOA (orientada a servicios donde me dicen las buenas prácticas para diseñar servicios).

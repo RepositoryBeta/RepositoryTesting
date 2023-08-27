@@ -1,0 +1,5 @@
+texto 23  
+Configuración de permisos 
+GRANT concede un permiso. 
+DENY impide la concesión de un permiso (SQL Server). 
+REVOKE elimina la concesión/prohibición de un permiso establecida mediante GRANT/DENY.

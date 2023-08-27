@@ -1,0 +1,4 @@
+texto 61
+
+La base de datos NOSQL de Oracle es un ejemplo, al igual que simpledb de Amazon, uno de los servicios web que se ejecutan en la nube. Simpledb provee una interfaz de servicios web y sencilla para crear y almacenar varios conjuntos de datos, consultar datos con facilidad y devolver. No hay necesidad de definir una estructura de base de datos formal o de cambiar esa definición si después se agregan nuevos datos.
+

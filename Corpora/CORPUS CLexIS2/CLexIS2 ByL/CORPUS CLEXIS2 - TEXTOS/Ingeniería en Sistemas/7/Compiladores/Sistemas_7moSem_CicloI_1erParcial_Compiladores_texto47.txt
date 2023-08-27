@@ -1,0 +1,3 @@
+TEXTO 47
+
+Cuántos operadores tenemos aquí tenemos 1, 2, 3. Y tenemos nuestras palabras reservadas. Tenemos aquí condicional donde el predicado es la relación, el then es la asignación y else es la otra asignación, dicho esto entonces tendríamos este código como un ejemplo 2 mire que aquí usamos ya paréntesis qué hacemos aquí también lo hacemos de izquierda derecha, una notación importante es que también podemos identificar los identificadores por medio de los slash. 

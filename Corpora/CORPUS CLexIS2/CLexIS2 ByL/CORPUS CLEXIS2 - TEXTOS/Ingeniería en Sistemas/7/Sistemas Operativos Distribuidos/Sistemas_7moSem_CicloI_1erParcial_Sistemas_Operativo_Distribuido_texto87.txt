@@ -1,0 +1,6 @@
+﻿Texto 87
+
+Sistemas operativos en redes
+
+Los sistemas operativos en red son aquellos sistemas que mantienen a dos o más equipos unidos por un medio de comunicación con el objetivo de compartir recursos Hardware y Software.
+Un sistema operativo de red, también llamado NOS (del Inglés, Network Operating System), es un software que permite la interconexión de ordenadores para poder acceder a los servicios y recursos, hardware y software, creando redes de computadores.

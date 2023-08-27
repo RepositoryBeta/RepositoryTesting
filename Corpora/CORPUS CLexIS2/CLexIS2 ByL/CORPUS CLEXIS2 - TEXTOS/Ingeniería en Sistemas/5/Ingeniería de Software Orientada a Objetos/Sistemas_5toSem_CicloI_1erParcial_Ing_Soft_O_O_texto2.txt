@@ -1,0 +1,2 @@
+TEXTO 2
+El término ingeniería de software fue expuesto en 1968 como una respuesta al nivel de progreso desolador del objetivo de desarrollar software de calidad, tiempo y dentro del presupuesto, antes no se era capaz de definir objetivos concretos, predecir los recursos necesarios, para lograr esos objetivos, con mucha frecuencia se prometía la luna y la construcción de un vehículo lunar y se entregaba un par de ruedas cuadradas.

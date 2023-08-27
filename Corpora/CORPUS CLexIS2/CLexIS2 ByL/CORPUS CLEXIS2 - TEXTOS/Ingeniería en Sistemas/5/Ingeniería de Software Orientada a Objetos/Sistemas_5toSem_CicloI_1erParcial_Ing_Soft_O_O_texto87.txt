@@ -1,0 +1,2 @@
+TEXTO 87
+Todo sistema debería dividirse en un pequeño número de subsistema cada subsistema su vez debe descomponerse en subsistemas propios, aún más pequeños los subsistemas de bajo nivel se denominan módulos, hay que tener en cuenta los efectos que puede producir la introducción del nuevo sistema, sobre el entorno en el que debe funcionar, adecuando los criterios de diseño a las características del mismo.

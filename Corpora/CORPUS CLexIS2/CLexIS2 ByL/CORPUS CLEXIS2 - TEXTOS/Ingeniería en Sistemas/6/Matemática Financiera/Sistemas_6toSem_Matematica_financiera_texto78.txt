@@ -1,0 +1,4 @@
+﻿texto 78
+Amortización parcial en forma de cuota: En un caso similar al anterior, en el que se cancela el 50% del préstamo esta vez seguimos con los 10 años de préstamo, pero a cambio la cuota mensual se rebaja al 50%.
+Por tanto, dependiendo de los recursos que posea la empresa, esta deberá determinar si le interesa amortizar y si es así, en qué cuantía, forma y manera ejecutar esa cancelación anticipada.
+

@@ -1,0 +1,7 @@
+texto 63
+
+Métodos de un activity.
+Continuando con los métodos de un activity, tenemos.
+2) Onstart: Nos indica que la actividad está a punto de ser mostrada al usuario.
+3) Onresume: Se llama cuando la actividad va a comenzar a interactuar con el usuario. Es un buen lugar para lanzar las animaciones y la música.
+4) Onpause: Indica que la actividad está a punto de ser lanzada a segundo plano, normalmente porque otra actividad es lanzada. Es el lugar adecuado para detener animaciones, música o almacenar los datos que estaban en edición.

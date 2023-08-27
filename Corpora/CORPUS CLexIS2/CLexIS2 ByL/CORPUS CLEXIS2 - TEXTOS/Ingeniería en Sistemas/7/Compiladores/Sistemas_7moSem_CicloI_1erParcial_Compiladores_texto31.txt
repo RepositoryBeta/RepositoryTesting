@@ -1,0 +1,4 @@
+TEXTO 31
+
+¿Recuerdan los que eran los operandos?, ¿No? Son los dos datos a operar y la dirección donde almacenar el resultado ¿Para qué me van a servir esos operandos? Porque van a generar las instrucciones, el traductor debe decidir el orden en que se deben realizar las operaciones, en el programa anterior primero, se realiza la multiplicación y luego la suma. ¿Se acuerdan el orden jerárquico? cuánto dolor de cabeza no nos dio respetar el orden jerárquico. ¿Si se acuerda? En una expresión numérica, el orden jerárquico donde le decía que el primero tenía que ser sqrt luego ponerle atención a los corchetes o paréntesis.  
+

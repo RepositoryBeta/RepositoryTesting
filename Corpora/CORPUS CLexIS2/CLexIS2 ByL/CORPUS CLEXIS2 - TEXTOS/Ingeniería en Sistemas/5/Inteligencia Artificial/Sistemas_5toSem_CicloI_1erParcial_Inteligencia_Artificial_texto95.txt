@@ -1,0 +1,4 @@
+texto 95
+
+Algoritmos meméticos, orígenes de los MA se remontan a finales de los años 80, su origen se encuentra bastante ligado a los más conocidos algoritmos genéticos, puesto que los MA toman como base la anatomía de los GA e incorporan en muchos de los casos procedimientos heurísticos de búsqueda local que incrementan el desempeño del algoritmo general. Hacen evolucionar una población de individuos sometiéndola acciones aleatoria semejantes con la evolución biológica.
+

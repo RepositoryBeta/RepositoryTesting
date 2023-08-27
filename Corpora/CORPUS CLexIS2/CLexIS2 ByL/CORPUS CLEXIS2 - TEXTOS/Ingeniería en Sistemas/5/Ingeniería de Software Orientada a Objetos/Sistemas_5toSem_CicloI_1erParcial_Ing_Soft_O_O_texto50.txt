@@ -1,0 +1,2 @@
+TEXTO 50
+Tenemos el área física, que es la vista de despliegue, la gestión del modelo, que es la vista de gestión del proyecto y el perfil. Asimismo cada uno tiene su diagrama en la vista de despliegue está el diagrama de despliegue, que tiene como conceptos principales el artefacto dependencia, manifestación y nodo, para el diagrama de paquetes que está en la vista gestión del proyecto, tiene los conceptos principales de importar modelo y paquete. También existe un diagrama de paquetes pero en la vista de perfil éste tiene estereotipo perfil restricción y valor etiquetado.

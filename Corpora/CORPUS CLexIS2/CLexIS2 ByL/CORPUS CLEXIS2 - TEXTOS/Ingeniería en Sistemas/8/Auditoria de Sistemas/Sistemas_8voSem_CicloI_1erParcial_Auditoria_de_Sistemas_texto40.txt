@@ -1,0 +1,6 @@
+texto 40
+
+PRINCIPIO DE CAUTELA 
+Sus recomendaciones deben estar basadas en la experiencia. 
+Debe estar al corriente del desarrollo de las tecnologías de la información e informar al auditado de su evolución. 
+Debe actuar con cierto grado de humildad evitando dar la impresión de estar al corriente de una información privilegiada.

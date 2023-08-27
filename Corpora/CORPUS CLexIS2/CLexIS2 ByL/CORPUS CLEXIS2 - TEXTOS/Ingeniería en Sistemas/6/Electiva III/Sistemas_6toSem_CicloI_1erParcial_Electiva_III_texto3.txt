@@ -1,0 +1,5 @@
+texto 3
+
+Aunque existen sistemas de información tradicionales nos limitan mucho el manejo de la información y su estructura es muy inflexible para su gestión. Ahora sabemos del enorme potencial contenido en las bases de datos y esto nos impulsa a explotarlas completamente.
+Algunas limitaciones son:
+La rigidez cuando extraemos los datos, dado que los formatos están preestablecido desde el momento de su implantación.

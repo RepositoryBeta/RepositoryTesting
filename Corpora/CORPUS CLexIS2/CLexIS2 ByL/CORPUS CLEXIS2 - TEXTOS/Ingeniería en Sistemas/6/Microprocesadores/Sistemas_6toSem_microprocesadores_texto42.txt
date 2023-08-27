@@ -1,0 +1,9 @@
+texto 42
+
+Registros constantes
+Su cometido es guardar valores de sólo lectura como son el zero, one o p.
+Registros GPR:
+Registros de propósito general (en inglés GPRS o General Purpose Registers), en arquitectura de ordenadores, un registro es una memoria de alta velocidad y poca capacidad, integrada en el microprocesador.
+
+
+

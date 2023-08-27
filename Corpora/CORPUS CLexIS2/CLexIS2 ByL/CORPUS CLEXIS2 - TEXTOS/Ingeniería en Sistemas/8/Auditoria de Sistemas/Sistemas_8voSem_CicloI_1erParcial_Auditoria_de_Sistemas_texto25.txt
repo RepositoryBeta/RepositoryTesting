@@ -1,0 +1,6 @@
+texto 25
+
+IMPLANTACIÓN DE UN SISTEMA DE CONTROLES INTERNOS INFORMÁTICOS
+Criterio Básico:
+Los controles pueden implantarse a varios niveles.
+La evaluación de controles de tecnología de la Información exige analizar diversos elementos interdependientes. Por ello es importante conocer bien la configuración del sistema, para poder identificar los elementos, productos y herramientas que existen para saber donde pueden implantarse los controles, así como para identificar los posibles riesgos.

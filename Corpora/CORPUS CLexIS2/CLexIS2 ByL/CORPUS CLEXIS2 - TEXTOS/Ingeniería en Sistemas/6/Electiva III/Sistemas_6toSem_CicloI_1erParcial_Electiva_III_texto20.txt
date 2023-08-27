@@ -1,0 +1,5 @@
+texto 20
+
+Las aplicaciones para descubrir nuevos datos (del inglés, data discovery applications). Permiten recopilar y evaluar nueva información (data mining o minería de datos), y aplicar sobre esa información nueva o sobre la ya disponible técnicas de análisis predictivo para realizar proyecciones de futuro.
+Herramientas de reporting.
+Una vez recopilada y tratada toda esa información preexistente o nueva, ayudan a las empresas a visualizarla de manera gráfica e intuitiva. 

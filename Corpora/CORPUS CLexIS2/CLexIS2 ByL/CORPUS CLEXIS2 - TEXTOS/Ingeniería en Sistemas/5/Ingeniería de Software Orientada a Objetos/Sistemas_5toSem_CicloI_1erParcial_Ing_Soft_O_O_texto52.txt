@@ -1,0 +1,2 @@
+TEXTO 52
+Para la relación de dependencia hace referencia a una relación entre dos elementos del modelo, para la generalización existe una relación entre una descripción más específica y una más general utilizada, para la herencia y para declaraciones de tipo polimórfico, para la realización existe una relación entre una especificación y su implementación y para la relación de uso existe una situación en la cual un elemento necesita de otro para su correcto funcionamiento.

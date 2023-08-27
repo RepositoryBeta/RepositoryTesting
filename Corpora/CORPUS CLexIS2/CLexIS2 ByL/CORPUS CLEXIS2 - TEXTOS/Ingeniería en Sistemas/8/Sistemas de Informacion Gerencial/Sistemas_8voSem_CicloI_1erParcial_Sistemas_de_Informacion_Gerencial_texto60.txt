@@ -1,0 +1,4 @@
+texto 60
+
+Tecnología de la información (TI): Software de computadora.
+Consiste en las instrucciones detalladas y preprogramadas que controlan y coordinan los componentes de hardware de computadora en un sistema de información. En el capítulo 5 se describen con más detalle las plataformas contemporáneas de software y hardware que utilizan las empresas en la actualidad.

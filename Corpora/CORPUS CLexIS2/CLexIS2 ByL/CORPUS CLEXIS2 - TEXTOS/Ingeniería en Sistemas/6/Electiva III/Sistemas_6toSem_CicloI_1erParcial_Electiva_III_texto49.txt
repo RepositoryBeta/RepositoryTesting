@@ -1,0 +1,3 @@
+texto 49
+
+Cuando, al no ser posible acceder a las bases de datos, los sistemas no soportan ninguno de estos tres métodos, han de ser ellos mismos los que protocolicen los posibles cambios y envíen cualquier modificación relevante al data warehouse. En cuanto a la integración de los datos, la mayor parte de almacenes de datos contienen funciones de procesamiento analítico en línea (OLAP) que permiten trasladar los datos a estructuras multidimensionales. 

@@ -1,0 +1,3 @@
+texto 93
+
+La ejecución de una instrucción de la máquina solo puede dividirse en una secuencia de operaciones individuales, llamado el ciclo de ejecución de la instrucción, antes de ejecutar un programa se carga en memoria el puntero de la instrucción, contiene la dirección de la siguiente instrucción, la cola de la instrucción contiene un grupo de instrucciones a punto de ser ejecutado, la ejecución de las instrucciones se puede realizar en varias fases: fetch, decodificar y ejecutar.

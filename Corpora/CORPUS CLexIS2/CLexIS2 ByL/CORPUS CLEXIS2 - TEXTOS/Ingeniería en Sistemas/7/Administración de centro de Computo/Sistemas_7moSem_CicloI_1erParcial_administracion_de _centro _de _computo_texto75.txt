@@ -1,0 +1,9 @@
+texto 75
+
+Los estándares y procedimientos dan respuesta a preguntas tales como las siguientes:
+¿Cómo podrá ser juzgada la obtención de los  objetivos del centro de cómputo?
+¿Cómo será estructurado el centro de cómputo para cumplir estos objetivos?
+¿Cómo será juzgada la exactitud de las trayectorias de carrera del personal?
+¿Cómo serán establecidas las trayectorias de carrera adecuadas?
+¿Cómo será juzgado el presupuesto efectivo?
+¿Cómo se realizará el presupuesto?.

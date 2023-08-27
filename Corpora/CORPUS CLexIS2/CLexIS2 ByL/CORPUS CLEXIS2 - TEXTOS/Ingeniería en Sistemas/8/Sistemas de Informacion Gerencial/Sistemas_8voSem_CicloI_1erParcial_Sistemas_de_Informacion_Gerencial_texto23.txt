@@ -1,0 +1,4 @@
+texto 23
+
+Definición de un SI:
+Un SI puede ser cualquier combinación organizada de personas, hardware, software, redes de comunicación y recursos de información que almacene, recupere, transforme y disemine información en una organización. También pueden ayudar a los gerentes y trabajadores del conocimiento a analizar problemas, visualizar temas complejos y crear nuevos productos.

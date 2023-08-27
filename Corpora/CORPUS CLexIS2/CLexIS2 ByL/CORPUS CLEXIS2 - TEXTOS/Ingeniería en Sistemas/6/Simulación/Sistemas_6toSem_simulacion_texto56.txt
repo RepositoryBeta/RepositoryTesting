@@ -1,0 +1,3 @@
+﻿texto 56
+
+Recuerda que uno de los objetivos de la investigación es sacar conclusiones con relación a la población a partir de los resultados de una muestra debido a la representatividad de una muestra obtenida mediante un muestreo aleatorio simple, es razonable hacer generalizaciones a partir de los resultados de la muestra con respecto a la población. El muestreo estratificado es una técnica de muestreo probabilístico en donde el investigador divide a toda la población en diferentes subgrupos o estratos luego, selecciona aleatoriamente a los sujetos finales de los diferentes estratos en forma proporcional.

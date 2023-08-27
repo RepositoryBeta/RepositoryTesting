@@ -1,0 +1,4 @@
+texto 97
+
+Logran con rapidez soluciones precisas en las inmediaciones del punto inicial, poseyendo una gran tendencia a quedar atrapados en últimos locales y no el óptimo global, el cual constituye la mejor solución dentro del espacio de búsqueda. Su objetivo es hacer que ambos componentes: la búsqueda local y el algoritmo genético trabajen de forma cooperativa para conseguir una sinergia entre ambos que permita mejorar el proceso de búsqueda.
+

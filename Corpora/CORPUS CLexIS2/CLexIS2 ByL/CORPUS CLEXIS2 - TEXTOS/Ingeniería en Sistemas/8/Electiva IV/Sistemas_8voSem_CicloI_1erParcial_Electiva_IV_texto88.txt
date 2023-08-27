@@ -1,0 +1,5 @@
+texto 88
+
+Layouts: Tenemos las interface de usuario (Layouts) que son 4 : Framelayout, Linearlayout, Tablelayout y Relativelayout. 
+1) Framelayout: Consiste en un marco que ocupa toda la pantalla, y donde los controles se dispondrán a partir de la esquina superior izquierda.
+2) Linearlayout: Los elementos se irán colocando uno detrás de otro.(Horizontal y Vertical).

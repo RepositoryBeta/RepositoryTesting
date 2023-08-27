@@ -1,0 +1,3 @@
+texto 48
+
+Tenemos otras carpetas que poseen contenidos principales del módulo, por ejemplo tenemos la carpeta, Carpeta / app / src / main / res / mipmap, contiene los iconos de lanzamiento de la aplicación (el ícono que aparecerá en el menú de aplicaciones del dispositivo) la distintas densidades de pantalla existentes. Al igual que en el caso de las carpetas drawable, se dividirá en varias subcarpetas dependiendo la densidad de pantalla: / mipmap - mdpi, / mipmap-hdpi, / mipmap-xhdpi, etc.

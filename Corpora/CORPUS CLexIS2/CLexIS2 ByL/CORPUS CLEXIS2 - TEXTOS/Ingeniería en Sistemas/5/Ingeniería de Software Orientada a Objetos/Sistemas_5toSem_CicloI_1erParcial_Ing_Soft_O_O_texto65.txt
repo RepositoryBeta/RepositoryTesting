@@ -1,0 +1,2 @@
+TEXTO 65
+Conceptos-secuenciación: Para los tipos de flujo de control en una secuenciación estos deben ser procedimental o anidado, plano, es decir, sin anidamiento. Diagrama de interacción: Son un grupo especial de diagramas de comportamiento que muestran una interacción, es decir, un conjunto de objetos o roles y mensajes que pueden ser enviados. El UML 2 incluye los siguientes: secuencias comunicación tiempos y revisión de las interacciones.

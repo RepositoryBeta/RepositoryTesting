@@ -1,0 +1,7 @@
+﻿texto 17
+¿Qué es la tasa de interés compuesto? 
+En el interés compuesto, los intereses que conseguimos en cada período se van sumando al capital inicial, con lo que generan nuevos intereses. Aquí a diferencia del interés simple, los intereses no se pagan a su vencimiento, porque s evana cumulando al capital. 
+Por eso, el capital crece al final de cada uno de los periodos y el interés calculado sobre un capital mayor, también crece.
+
+
+

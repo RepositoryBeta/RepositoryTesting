@@ -1,0 +1,7 @@
+texto 44
+
+Registros Apuntadores Y De Índices:
+SP (Apuntador de pila): Contiene el desplazamiento con respecto al segmento de pila del tope de la pila del programa. El registro SP se emplea para direccionar datos en la pila cuando se ejecutan las instrucciones push y pop y cuando se llama o se regresa de un procedimiento mediante las instrucciones: call y ret, respectivamente.
+BP (Apuntador de base): Contiene el desplazamiento con respecto al segmento de pila de datos almacenados en la pila de un programa.
+ 
+

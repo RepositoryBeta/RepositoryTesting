@@ -1,0 +1,8 @@
+texto 92
+
+Sistemas de información para distintos grupos gerenciales.
+Una empresa de negocios tiene sistemas para dar soporte a los distintos grupos de niveles de administración. Estos sistemas incluyen:
+1) Sistemas de procesamiento de transacciones (TPS).
+2) Sistemas de información gerencial (MIS).
+3) Sistemas de soporte de decisiones (DSS).
+4) Sistemas de apoyo a ejecutivos (ESS).

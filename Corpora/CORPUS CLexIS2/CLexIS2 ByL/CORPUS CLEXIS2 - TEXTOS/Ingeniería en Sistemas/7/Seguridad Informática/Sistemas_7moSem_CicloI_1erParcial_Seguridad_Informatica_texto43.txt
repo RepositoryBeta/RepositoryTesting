@@ -1,0 +1,5 @@
+texto 43
+
+Sistemas de prevención de intrusiones
+Un sistema de prevención de intrusiones (IPS) analiza el tráfico de red para bloquear ataques activamente. 
+Los dispositivos del IPS de próxima generación (NGIPS) de Cisco logran esto al correlacionar enormes cantidades de inteligencia de amenazas globales para bloquear las actividades maliciosas y hacer un seguimiento del progreso de los archivos sospechosos y el malware por la red a fin de evitar la propagación de brotes y la reinfección.

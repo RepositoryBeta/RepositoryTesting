@@ -1,0 +1,3 @@
+texto 16
+
+En resumidas cuentas, big data es un conjunto de gran volumen de datos, recogidos a diario por la velocidad a la que se genera la información, una información de índole muy variada y con un valor potencial alto (aunque en muchos casos se necesite un tratamiento del dato para asegurar su calidad). Cuando una empresa dispone de su propio big data, trabajado, de calidad, es cuando puede empezar a desarrollar un BI efectivo, y de esa manera implantar la cultura del dato entre sus trabajadores. 

@@ -1,0 +1,8 @@
+texto 31
+
+Como protegerse de este ataque Fuerza Bruta:
+
+ No revele datos confidenciales por ningún medio (llamadas telefónicas, personal desconocido o correos electrónicos no confiables).
+ Nunca ingrese a links de páginas web que lleguen por medio de email desconocidos donde le soliciten información confidencial y siempre digite la url de los sitios web al que desea ingresar.
+ Clasifique su información confidencial y destruya información que usted no utilice.
+ Sea reservado con su información , recuerde que es un activo propio que solo le pertenece al responsable.

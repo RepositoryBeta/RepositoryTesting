@@ -1,0 +1,5 @@
+texto 4
+
+El Big Data está relacionado con todo el tráfico en la web, con todos los correos electrónicos, con los social media, con todo lo que es los sensores de las máquinas. 
+¿Por qué están relacionados con todo esto?
+Por el IOT (internet de las cosas), ¿Qué es el internet de las cosas?, es que todos los productos van a tener sensores, hasta nosotros mismos. Alguien puede tener un sensor en su corazón que está transmitiendo, cómo está el estado del corazón de ese paciente.

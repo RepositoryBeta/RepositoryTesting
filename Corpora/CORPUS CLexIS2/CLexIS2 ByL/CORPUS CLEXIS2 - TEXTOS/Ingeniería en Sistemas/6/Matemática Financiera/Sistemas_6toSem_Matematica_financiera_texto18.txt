@@ -1,0 +1,8 @@
+﻿texto 18
+Fórmula Interés Compuesto
+A continuación vamos a ver la fórmula del interés compuesto y sus componentes:
+VA = VF (1 + i)^n.
+VF = Valor Futuro.
+VA = Valor Actual.
+i = Tasa de interés.
+n = Período de tiempo.

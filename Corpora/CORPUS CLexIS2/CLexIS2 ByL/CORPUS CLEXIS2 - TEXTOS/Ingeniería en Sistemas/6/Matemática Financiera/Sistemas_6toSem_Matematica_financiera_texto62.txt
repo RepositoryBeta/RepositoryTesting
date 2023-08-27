@@ -1,0 +1,5 @@
+﻿texto 62
+Cómo se puede aplicar el VAN
+Para saber cómo se usa el VAN contamos con una fórmula que es VAN = BNA – Inversión. El Van ya sabemos lo que es y el BNA es el beneficio neto actualizado o dicho con otras palabras, el flujo de caja que tiene la empresa.
+Este método se debe utilizar siempre con el beneficio neto actualizado y no con el beneficio neto proyectado de una empresa para que nuestras cuentas no fallen. Para saber cuál es el BNA debes hacer un descuento de TD o tasa de descuento. 
+

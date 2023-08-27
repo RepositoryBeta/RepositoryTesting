@@ -1,0 +1,2 @@
+TEXTO 53
+La relación de asociación describe conexiones discretas entre objetos u otras instancias en un sistema, las asociaciones llevan la información sobre las relaciones entre los objetos de un sistema, en la ejecución de un sistema, los enlaces entre objetos se crean y destruyen las asociaciones, son el pegamento que mantiene unido el sistema sin sucesiones no hay más que clases aisladas que no trabajan juntas.

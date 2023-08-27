@@ -1,0 +1,6 @@
+texto 38
+SQL CREATE DATABASE: CREATE DATABASE se utiliza para crear bases de datos.
+SQL RESTRICCIONES: RESTRICCIONES se utilizan para limitar el tipo de dato de una columna.
+SQL NOT NULL: NOT NULL se utiliza para especificar que una columna no acepta el valor NULL.
+SQL UNIQUE: UNIQUE sirve para identificar de manera única a cada fila de una tabla
+SQL UNIQUE ALTER TABLE: UNIQUE ALTER TABLE permite añadir UNIQUE a una columna de una tabla, después de ser creada.

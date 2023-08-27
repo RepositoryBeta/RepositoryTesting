@@ -1,0 +1,5 @@
+﻿Texto 27
+
+¿Cuál es la diferencia entre SOA y microservicio?
+
+Un servicio o la arquitectura SOA me indican las buenas prácticas para definir o para crear un servicio, me definen siete principios y los microservicios no son otra cosa más que basados en los principios que me define SOA. Me dice, este servicio está muy demandado, cuando hablamos de microservicios a veces lo comparamos con la tecnología docker. Sin embargo, esos son tecnologías de implementación de microservicios, más no es el concepto de microservicios.

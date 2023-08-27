@@ -1,0 +1,4 @@
+texto 84
+Bases de datos en orientadas a grafos
+Las bases de datos orientadas a grafos son excelentes herramientas para trabajar datos complejos. Estas BBDD nos permite darle representar los datos en estructuras de grafos. Esto es de gran utilidad cuando los datos que vamos a procesar tienen altos niveles de interrelación. 
+Estas versátiles bases de datos, nos permite ejecutar consultas y almacenamiento de datos de cualquier característica sin siquiera preocuparnos por el volumen de los datos.

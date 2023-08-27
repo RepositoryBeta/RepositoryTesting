@@ -1,0 +1,3 @@
+﻿Texto 8
+
+Una implementación de Middleware podría ser un bus de servicio, un servidor de aplicaciones, una implementación Corba (ya que ellos son los más cercano a un bus de servicio) y todas estas herramientas que me permitan integrar muchas aplicaciones heterogéneas las podríamos denominar una capa Middleware.

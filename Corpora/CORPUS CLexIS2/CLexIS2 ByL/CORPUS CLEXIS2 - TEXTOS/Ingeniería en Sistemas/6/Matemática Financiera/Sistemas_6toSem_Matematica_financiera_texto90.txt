@@ -1,0 +1,5 @@
+﻿texto 90
+
+Hemos hecha un reflexión sobre qué es mejor para el hipotecado, si reducir cuota o plazo mediante la amortización anticipada, ¿Te interesa?
+A continuación podemos ver la fórmula para calcular la cuota total y los tipos de intereses en función del capital pendiente de amortizar.
+

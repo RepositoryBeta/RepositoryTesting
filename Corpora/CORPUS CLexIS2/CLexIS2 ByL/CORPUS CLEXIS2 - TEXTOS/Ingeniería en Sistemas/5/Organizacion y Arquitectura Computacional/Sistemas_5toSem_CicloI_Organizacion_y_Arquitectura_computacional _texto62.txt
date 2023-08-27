@@ -1,0 +1,6 @@
+texto 62
+
+Dentro de la unidad de control está el reloj que funciona a un ritmo y ese ritmo se mide en hercios, el decodificador que se encarga de interpretar cada vez que lea una instrucción y el secuenciador que es el que se encarga de dar las órdenes a los otros segmentos para que las órdenes se ejecuten, los tipos de órdenes que le pueden llegar son: 
+1) LOAD: que sirve para llevar datos o instrucciones de la memoria principal a la unidad de procesamiento.
+2) SUMA: sirve para sumar dos registros.
+3) SAVE: que es para llevar un dato o una instrucción de la unidad de procesamiento a la memoria principal.

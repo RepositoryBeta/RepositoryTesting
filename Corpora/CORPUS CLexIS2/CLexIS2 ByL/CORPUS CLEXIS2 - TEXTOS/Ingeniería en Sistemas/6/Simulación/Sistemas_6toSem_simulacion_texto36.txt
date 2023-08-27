@@ -1,0 +1,3 @@
+﻿texto 36
+
+Y se comienza y se supone de que los valores, es decir al obtener la media, la varianza de los valores estadísticos y yo puedo obtener muestras, deben de ser o parecer o acercarse en su mayor caso a los valores estadísticos que yo voy a obtener de mi población, yo por ejemplo subo todas las personas, saco la media de todos los fumadores de mi población y de todos los fumadores de mis muestras se supone que los valores y la media cuando yo tomé de la muestra va a parecerse o por lo menos se va a acercar al mismo valor que yo tomé de la población.

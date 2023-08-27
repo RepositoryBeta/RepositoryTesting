@@ -1,0 +1,3 @@
+TEXTO 36
+
+A continuación, se traducen las instrucciones intermedias, instrucciones máquina. Es decir, una vez que ya está optimizado el generador de código es el que le va a decir sabes que tú te vas a guardar en tal memoria y te vas a guardar en tales registros. El es el que me indica, es que recuerden que las anteriores fue así, solamente hacen una especie de verificación de código nada más. Entonces, aquí hay un ejemplo, aquí dice un programa de lenguaje ensamblador de resultado línea por línea.

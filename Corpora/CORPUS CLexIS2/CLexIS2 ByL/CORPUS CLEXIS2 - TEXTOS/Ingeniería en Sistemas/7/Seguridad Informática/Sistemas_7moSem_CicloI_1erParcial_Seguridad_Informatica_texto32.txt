@@ -1,0 +1,8 @@
+texto 32
+
+¿Que es seguridad de red?
+La seguridad de red es cualquier actividad diseñada para proteger el acceso, el uso y la integridad de la red y los datos corporativos.
+Incluye tecnologías de hardware y software.
+Está orientada a diversas amenazas.
+Evita que ingresen o se propaguen por la red.
+La seguridad de red eficaz administra el acceso a la red.

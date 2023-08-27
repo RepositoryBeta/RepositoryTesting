@@ -1,0 +1,6 @@
+texto 78
+Empresas como Google, Facebook, Amazon, Twitter han incorporado las múltiples propiedades y beneficios de estas bases de datos.
+Ventajas y desventajas de las Bases de Datos NOSQL
+Ventajas:
+Aplicaciones de big data: grandes volúmenes son manejados fácilmente por las bases de datos NOSQL.
+Administración de la base de datos: Requieren menos administración práctica, cuenta con capacidades de distribución de datos y reparación automática, modelos de datos simplificados y menos requisitos de ajuste y administración.

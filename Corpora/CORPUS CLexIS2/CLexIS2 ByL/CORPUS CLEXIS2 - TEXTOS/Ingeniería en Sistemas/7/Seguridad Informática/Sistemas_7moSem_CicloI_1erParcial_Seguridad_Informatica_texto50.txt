@@ -1,0 +1,6 @@
+texto 50
+
+Capacidades generales de la solucion de NAC
+Elaboración de perfiles y visibilidad: reconoce y elabora los perfiles de los usuarios y sus dispositivos antes de que el código malicioso pueda causar daños.
+Acceso a la red de usuarios temporales: administra los usuarios temporales mediante un portal de autoservicio personalizable que incluye el registro, la autenticación, el patrocinio y un portal de administración de los usuarios temporales.
+Comprobación del estado de seguridad: evalúa el cumplimiento de la política de seguridad por tipo de usuario, tipo de dispositivo y sistema operativo.

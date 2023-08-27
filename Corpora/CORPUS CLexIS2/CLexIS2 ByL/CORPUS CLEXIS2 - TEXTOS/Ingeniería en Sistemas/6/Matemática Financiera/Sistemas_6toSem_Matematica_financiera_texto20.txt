@@ -1,0 +1,8 @@
+﻿texto 20
+Tasa de interés compuesta: Características
+Las principales características del Interés Compuesto son:
+El capital inicial va aumentando en cada periodo ya que los intereses van acumulándose.
+La tasa de interés es aplicada sobre el capital que irá variando.
+Los intereses irán incrementándose.
+
+

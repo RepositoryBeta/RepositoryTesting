@@ -1,0 +1,10 @@
+texto 69
+
+Direccionamiento inmediato 
+Transfiere un byte o palabra de datos inmediatos hacia el operando destino. 
+Este modo es usado para inicializar registros o localidades de memoria y para operar sobre ellos con valores constantes de datos. MOV AX, 0 ABCDH; carga en AX el valor 0ABCDH.
+Direccionamiento directo 
+Cuando el operando es una dirección de memoria. 
+
+
+

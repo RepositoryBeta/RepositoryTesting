@@ -1,0 +1,3 @@
+texto 72
+
+En la figura 3.5 ilustra la ejecución de una parte de un programa, mostrando las partes relevantes de la memoria y los registros de la CPU,  el fragmento de programa, suma el contenido de la palabra de memoria en la dirección 940 con el contenido de la palabra de memoria en la dirección 941 y almacena el resultado en esta última posición. 

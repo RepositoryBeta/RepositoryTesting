@@ -1,0 +1,3 @@
+texto 32
+
+Cuando el ingeniero de datos se dedica a diseñar, implementar y mantener infraestructura relacionada con sistemas de Big Data, se llama arquitecto o ingeniero de Big Data. En este caso, su trabajo se centra en el diseño, creación y mantenimiento de clusters de procesamiento distribuido, como por ejemplo Apache Hadoop, Apache Spark o Apache Flink, y sistemas de almacenamiento distribuido de datos, como por ejemplo el sistema de ficheros distribuido HDFS o las bases de datos NOSQL.

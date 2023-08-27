@@ -1,0 +1,6 @@
+﻿texto 36
+Ecuaciones de valor, cuando una persona tiene un conjunto de obligaciones (deudas o pagos), hay ocasiones en las que el deudor acuerda liquidarlas de una forma diferente a la pactada inicialmente, es decir renegocia o reestructura sus deudas. 
+Para lograr lo anterior se utilizan las ecuaciones de valor. Una ecuación de valor es una igualdad entre la suma de las deudas acordadas inicialmente y la suma de los pagos con la respectiva reestructuración, donde se desconocen uno o más de ellos. 
+Deudas = pagos.
+
+

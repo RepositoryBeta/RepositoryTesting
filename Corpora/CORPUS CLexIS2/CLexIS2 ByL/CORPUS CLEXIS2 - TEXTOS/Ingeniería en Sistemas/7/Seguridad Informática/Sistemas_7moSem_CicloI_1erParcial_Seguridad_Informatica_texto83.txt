@@ -1,0 +1,5 @@
+texto 83
+
+SQL Injection 
+Una de las vulnerabilidades más antiguas que afecta directamente las bases de datos de la aplicación web, a través de una inyección de código SQL dentro de un sitio web es posible alterar el funcionamiento normal generando la ejecución del código malicioso y extracción de información desde la base de datos. 
+LDAP injection: Significa Lightweight Directory Access Protocol, traducido al español como Protocolo Ligero de Acceso a Directorio, es un protocolo encargado de las listas de control de acceso a un dominio o una red, no es un ataque muy común pero requiere la protección respectiva para no recibir la inyección de código malicioso.

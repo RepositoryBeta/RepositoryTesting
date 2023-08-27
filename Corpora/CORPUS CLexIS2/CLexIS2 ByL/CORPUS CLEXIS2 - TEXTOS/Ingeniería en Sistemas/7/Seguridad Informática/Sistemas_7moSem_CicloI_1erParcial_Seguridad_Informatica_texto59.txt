@@ -1,0 +1,8 @@
+texto 59
+
+Ejemplos que se deben seguir, para poder aumentar nuestra confidencialidad e integridad de nuestros sistemas informáticos:
+Cambiar todas las claves que tengamos por defecto.
+Desinstalación todo el software que sea innecesario.
+Dar de baja a los usuarios que son innecesarios.
+Deshabilitar todos los servicios que no se están utilizado.
+Aumentar todo lo posible, la seguridad de los servicios o procesos que si tendrán que ser utilizados.

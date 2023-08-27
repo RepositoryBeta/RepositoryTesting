@@ -1,0 +1,6 @@
+﻿Texto 35
+
+Service Abstraction (Abstracción)
+
+El principio de abstracción permite encapsular el servicio y reducir el acoplamiento, debe ser una caja negra, únicamente definido por su contrato, que a su vez es el mínimo acoplamiento posible con el consumidor del mismo.
+El uso de estándares permite definir interfaces uniformes que esconden la lógica del servicio respecto del entorno que le rodea (sistemas proveedores y consumidores).

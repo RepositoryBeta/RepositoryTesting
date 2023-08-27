@@ -1,0 +1,4 @@
+texto 3
+
+Esta integridad se pierde cuando la información se modifica o cuando parte de ella se elimina, y una gran garantía para mantenerla intacta es, como hemos mencionado en anteriores ocasiones, la firma digital.
+Un aspecto relacionado con la integridad es la autentificación, cualidad que permite identificar al generador de la información y que se logra con los correctos accesos de usuario y con otros sistemas como la recientemente mencionada firma electrónica. Para algunos, incluso, la autentificación sería el cuarto pilar de la seguridad de la Información.

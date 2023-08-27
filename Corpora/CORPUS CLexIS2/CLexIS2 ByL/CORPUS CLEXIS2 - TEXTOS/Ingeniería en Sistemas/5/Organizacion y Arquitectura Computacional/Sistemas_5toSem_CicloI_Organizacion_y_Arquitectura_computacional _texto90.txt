@@ -1,0 +1,3 @@
+texto 90
+
+Lo primero que realiza el microprocesador en un ciclo de instrucción, es buscar la instrucción en la memoria principal (RAM), el registro apuntador de instrucciones, tienen almacenada de la dirección la próxima instrucción a ejecutar, cuando la instrucción fue hallada, el microprocesador pasa la instrucción y memoria principal a través del bus de datos al registro de datos de memoria (MDR). A continuación, lo registrado es colocado en el registro de instrucción actual (IR),  un circuito que guarda la instrucción temporalmente de manera que puede ser decodificar y ejecutado. 

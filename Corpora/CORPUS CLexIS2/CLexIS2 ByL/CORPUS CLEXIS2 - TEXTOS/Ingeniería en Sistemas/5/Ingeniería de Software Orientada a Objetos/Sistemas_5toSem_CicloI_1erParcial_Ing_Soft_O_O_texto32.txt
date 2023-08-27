@@ -1,0 +1,2 @@
+TEXTO 32
+La sección 1 describe el dominio del problema, la sección 2 proporciona escenarios de ejemplo, la sección 3 es un resumen de los requerimientos funcionales del sistema, la sección 4 es un resumen de lo requerimientos no funcionales del sistema, la sección 5 es una descripción del ambiente de la organización, incluyendo la plataforma, el ambiente físico, los usuarios etc. La sección 6 es una lista de productos a entregar al cliente y su fecha de entrega asociada.

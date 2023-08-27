@@ -1,0 +1,3 @@
+﻿Texto 4
+
+En Sistemas Operativos Distribuidos hablamos de procesos y el proceso usted no solo lo analiza de manera local, sino lo administra en un cluster de equipos, cuando usted estudia la parte de seguridad como lo vieron en Sistemas Operativos que estudia hardening y en el hardening usted blinda un solo equipo, aquí prácticamente tienen que garantizar la comunicación del medio, tienen que garantizar el equipo como tal, vamos viendo un poco comunicación basadas en proxys comunicaciones síncronas y asíncronas entre componentes de un componente o servicios.

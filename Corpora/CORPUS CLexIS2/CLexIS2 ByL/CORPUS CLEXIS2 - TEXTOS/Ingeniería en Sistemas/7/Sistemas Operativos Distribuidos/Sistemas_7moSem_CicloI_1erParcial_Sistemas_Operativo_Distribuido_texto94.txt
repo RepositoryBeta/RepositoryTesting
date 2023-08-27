@@ -1,0 +1,5 @@
+﻿Texto 94
+
+Definición de sistema operativo distribuido
+
+Un sistema operativo distribuido es reunión lógica de un grupo de sistemas operativos sobre una colección de nodos computacionales independientes, conectados en red, comunicándose  y físicamente separados, cada nodo contiene de forma individual un subconjunto específico de los programas que componen el sistema operativo distribuido, cada subconjunto es una combinación de dos proveedores de servicios distintos.

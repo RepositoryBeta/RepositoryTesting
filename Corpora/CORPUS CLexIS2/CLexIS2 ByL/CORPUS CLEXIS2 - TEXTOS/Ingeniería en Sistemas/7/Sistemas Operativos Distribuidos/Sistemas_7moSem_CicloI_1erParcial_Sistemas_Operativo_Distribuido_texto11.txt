@@ -1,0 +1,3 @@
+﻿Texto 11
+
+Las aplicaciones y softwares están construidas mediante un conjunto de API, y esta API nos ayuda a interactuar entre componentes. Cuando usted trabaja de forma empresarial, por lo general están acostumbrados a comprar tecnología, productos monolíticos. Ejemplo, yo compro un ARP y el ARP no puede ser modificado por la persona que lo compró si no que tiene que pedírselo al proveedor y que él haga los cambios y eso nos cuesta un dineral de plata porque ningún desarrollador común podrá modificarlo ya que, el código fuente de ese aplicativo es complejo.

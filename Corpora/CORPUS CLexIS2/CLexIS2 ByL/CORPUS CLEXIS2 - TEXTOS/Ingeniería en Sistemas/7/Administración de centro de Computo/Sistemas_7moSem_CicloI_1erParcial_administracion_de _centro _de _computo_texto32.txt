@@ -1,0 +1,6 @@
+ texto 32
+
+La autoridad 
+Es quién tiene el poder avalado por un cargo, tiene que responder por los resultados de su gestión y está relacionada con que en la empresa hay un jefe, ese jefe tiene sus subordinados y el subordinado sabe exactamente a quien tiene que reportarle esa es la estructura clásica, en un caso real en una empresa yo entro como programador pero mi jefe es el líder de proyecto, esa es una estructura clásica, aunque vamos a ver otros otros tipos de estructuras en donde no necesariamente es lo mismo.
+
+

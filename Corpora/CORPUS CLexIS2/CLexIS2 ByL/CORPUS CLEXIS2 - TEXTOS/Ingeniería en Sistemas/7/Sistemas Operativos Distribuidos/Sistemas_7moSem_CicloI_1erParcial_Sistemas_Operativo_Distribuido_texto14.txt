@@ -1,0 +1,3 @@
+﻿Texto 14
+
+En los Sistemas Operativos Distribuidos obviamente, una de las características es la seguridad porque yo no debo guardar una sola máquina como en Sistemas Operativos normal, ya que aquí como nos comunicamos en red a través de un paso de mensajes, entonces nosotros tenemos que también salvaguardar el medio, porque los mensajes viajan por un cable red, viajan por el Wifi, viajan por diferentes medios entonces la seguridad se vuelve algo importante.

@@ -1,0 +1,6 @@
+texto 20
+
+Phishing
+Su objetivo es intentar obtener datos como usuarios , contraseñas, información de cuentas bancarias, e identidad del usuario mediante correos electrónicos y llamadas telefónicas usando la técnica de suplantación de portales bancarios haciendo creer al usuario ,que se está conectando al sitio oficial del banco, sin saber que está siendo víctima de un portal falso donde luego utilizan la información con el fin de generar transacciones no autorizadas donde se genera hurto.
+Como protegerse de este ataque Phishing:
+No responda ningún correo electrónico o llamadas donde le soliciten información personal. Teclee la dirección o URL para realizar visitas en sitios web y más si consulta entidades bancarias por la red.

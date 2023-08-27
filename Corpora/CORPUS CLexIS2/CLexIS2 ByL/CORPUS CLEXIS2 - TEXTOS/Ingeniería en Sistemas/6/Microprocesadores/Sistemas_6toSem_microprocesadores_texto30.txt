@@ -1,0 +1,11 @@
+texto 30
+
+Los mas utilizados: 
+Contador de programa 
+Registro de instrucciones 
+Banco de registros de propósito general
+Buses 
+Los buses son dispositivos electrónicos capaces de transferir información binaria entre módulos de un CPU, componentes de una placa electrónica, o entre la placa base de una computadora y placas adicionales video, red, etc.
+
+
+

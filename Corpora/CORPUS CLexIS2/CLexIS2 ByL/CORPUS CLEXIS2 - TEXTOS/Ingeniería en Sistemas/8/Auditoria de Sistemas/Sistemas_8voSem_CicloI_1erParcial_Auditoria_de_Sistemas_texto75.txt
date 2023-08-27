@@ -1,0 +1,6 @@
+texto 75
+
+ESTRUCTURA
+Primera estructura de dos columnas.
+Segunda estructura formada por mas de dos columnas.
+Un analista por medio de diagramas puede representar los flujos de información, actividades, operaciones, procesos el programador visualiza un panorama específico del sistema para elaborar con mayor precisión la codificación de instrucciones para el programa. 

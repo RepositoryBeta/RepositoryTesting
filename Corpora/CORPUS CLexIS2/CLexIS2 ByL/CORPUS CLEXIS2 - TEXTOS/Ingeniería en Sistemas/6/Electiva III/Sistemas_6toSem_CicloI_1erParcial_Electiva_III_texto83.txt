@@ -1,0 +1,4 @@
+texto 83
+
+4) Transformación de datos: consisten principalmente en modificaciones sintácticas llevadas a cabo sobre datos sin que supongan un cambio para la técnica de minería aplicada. Las transformaciones discretas de los datos tienen la ventaja de que mejoran la comprensión de las reglas descubiertas al transformar los datos de bajo nivel en datos de alto nivel y también reduce Significativamente el tiempo de ejecución del algoritmo de búsqueda. 
+Su principal desventaja es que se puede reducir la exactitud del conocimiento descubierto, debido a que puede causar la perdida de alguna información. 

@@ -1,0 +1,4 @@
+texto 43
+
+En Ciencia y Tecnologías de la Información, las ontologías son clasificaciones. Se utilizan como un medio para categorizar o agrupar la información en clases. Las ontologías se aplican también en web semántica y en inteligencia artificial para asimilar y codificar el conocimiento, definiendo las relaciones existentes entre los conceptos de un determinado dominio (un área del conocimiento).
+

@@ -1,0 +1,3 @@
+texto 24
+
+Este módulo contiene los componentes básicos para   captar datos e instrucciones en cierto formato y traducirlos el formato de señales que utiliza el sistema. Se necesita un medio para proporcionar los resultados, el módulo de salida, a estos módulos se los conocen con el nombre de componentes de entrada y salida.

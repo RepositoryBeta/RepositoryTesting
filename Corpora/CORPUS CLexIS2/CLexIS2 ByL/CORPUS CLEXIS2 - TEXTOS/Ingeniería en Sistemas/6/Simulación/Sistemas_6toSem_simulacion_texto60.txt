@@ -1,0 +1,3 @@
+﻿texto 60
+
+Con esta técnica, tienes una precisión estadística más elevada en comparación con el muestreo aleatorio simple esto se debe a que la variabilidad dentro de los subgrupos es menor en comparación con las variaciones cuando se trata de toda la población debido a que esta técnica tiene una alta precisión estadística, exige un tamaño de la muestra menor que puede ahorrar mucho tiempo, dinero y esfuerzo de los investigadores.

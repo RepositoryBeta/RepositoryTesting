@@ -1,0 +1,3 @@
+﻿Texto 21
+
+Cuando hablamos de servicios de manera técnica, no es otra cosa más que un software, un programa de software y hace que su funcionalidad está disponible a través de una API publicada como parte de un contrato de servicio. Primero, hagamos la analogía con el mundo real, el servicio conjunto de actividades que me permite cubrir una necesidad de manera técnica que cubre una funcionalidad a través del uso de una API.

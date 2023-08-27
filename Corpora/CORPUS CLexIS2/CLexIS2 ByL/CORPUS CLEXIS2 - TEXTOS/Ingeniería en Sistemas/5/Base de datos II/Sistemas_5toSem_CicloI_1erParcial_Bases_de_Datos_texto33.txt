@@ -1,0 +1,5 @@
+texto 33
+WHERE: especifica las condiciones, si es que hacen falta, para seleccionar tuplas de esas relaciones, incluyendo las condiciones de reunión.
+WHERE < condición >
+GROUP BY: especifica atributos de agrupación.
+GROUP BY < atributo(s) de agrupación >.

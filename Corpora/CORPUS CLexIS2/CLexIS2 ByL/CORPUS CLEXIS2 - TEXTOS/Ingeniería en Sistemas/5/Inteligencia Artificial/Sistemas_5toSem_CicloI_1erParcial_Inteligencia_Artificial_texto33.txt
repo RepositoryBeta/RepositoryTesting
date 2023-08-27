@@ -1,0 +1,7 @@
+texto 33
+
+Dentro de estos aspectos que nos permiten la minería de datos tenemos:
+1) Filtrar todo el ruido caótico y repetitivo en sus datos.
+2) Entender qué es relevante y luego hacer un buen uso de esa información para evaluar resultados probables.
+3) Acelerar el ritmo de la toma de decisiones informadas.
+

@@ -1,0 +1,3 @@
+﻿Texto 12
+
+Entonces, le recomiendo cuando un proveedor vaya a instalar una herramienta, ustedes tienen que decirle. Mira, sabes que por dentro esa herramienta se compone de múltiples API que me permiten hacer o interactuar con diferentes módulos. Es decir, yo compré un ARP y como yo le pedí al ARP, que me facilite la interfaz que me permita interactuar con él y con todos los módulos de mi área local.

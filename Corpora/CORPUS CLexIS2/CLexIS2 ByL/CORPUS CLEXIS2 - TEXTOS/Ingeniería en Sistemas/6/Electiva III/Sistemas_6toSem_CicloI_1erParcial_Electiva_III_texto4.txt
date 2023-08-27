@@ -1,0 +1,6 @@
+texto 4
+
+Los informes presentan conocimientos técnicos, lo que nos formula consultas al respecto.
+Las consultas complejas invierten tiempos de espera largo, ya que se unen tablas de gran tamaño.
+Consultar las bases de datos altera el rendimiento del sistema e inclusive puede afectar a usuarios conectados.
+Provocan islas de datos ya que las bases de datos normalmente no están integradas en los sistemas de información pasados.

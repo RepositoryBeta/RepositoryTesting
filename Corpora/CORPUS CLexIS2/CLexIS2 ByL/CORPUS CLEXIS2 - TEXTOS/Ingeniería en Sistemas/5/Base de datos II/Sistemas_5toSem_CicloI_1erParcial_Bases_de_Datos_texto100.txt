@@ -1,0 +1,6 @@
+﻿texto 100 
+¿Cuándo es recomendable utilizar una BBDD NOSQL?
+1) Cuando se necesita una BBDD para una aplicación que hace una consulta/lectura intensiva de grandes cantidades de datos.
+2) Cuando no hay la necesidad de que los datos sean consistentes.
+3) Si los datos a almacenar no tienen una estructura fija.
+Una misma aplicación puede usar una BBDD relacional y una BBDD NOSQL y guardar cosas diferentes en cada una de ellas. 

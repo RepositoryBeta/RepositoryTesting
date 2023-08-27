@@ -1,0 +1,10 @@
+texto 78
+
+Seguridad de los datos
+Las amenazas a la seguridad de los datos pueden tener como resultado el  acceso no autorizado a un conjunto de datos, su corrupción e incluso su pérdida total. 
+Es por esto que es importante considerar algunos riesgos comunes en el manejo de los datos y saber cómo enfrentarlos.
+¿Qué situaciones pueden ocurrir?
+Corrupción o alteración de datos, ya sea de forma accidental o maliciosa.
+Pérdida o robo de una parte o la totalidad de los datos.
+Faltas a acuerdos de confidencialidad y leyes de protección de datos
+Liberación prematura de datos.

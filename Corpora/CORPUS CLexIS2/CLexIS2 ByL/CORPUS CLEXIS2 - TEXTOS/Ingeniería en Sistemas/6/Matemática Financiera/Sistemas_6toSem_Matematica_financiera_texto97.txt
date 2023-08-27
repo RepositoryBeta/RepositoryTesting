@@ -1,0 +1,10 @@
+﻿texto 97
+
+Cuota final: intereses del préstamo + devolución del principal
+Cf = V + (V * i).
+Cf = cuota final.
+V = capital prestado.
+i = tipo de interés del período.
+
+
+

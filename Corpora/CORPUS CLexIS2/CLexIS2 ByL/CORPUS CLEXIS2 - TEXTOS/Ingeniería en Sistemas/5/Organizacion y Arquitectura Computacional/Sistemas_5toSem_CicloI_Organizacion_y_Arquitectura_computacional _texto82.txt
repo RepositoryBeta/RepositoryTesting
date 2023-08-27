@@ -1,0 +1,3 @@
+texto 82
+
+Instrucciones de transferencia del control del programa son aquellos que permiten romper la secuencia lineal del programa y saltar a otro punto del mismo, pueden equivaler a la instrucción GOTO que trae muchos lenguaje de programación,  luego tenemos las instrucciones de control que son instrucciones especiales o de control que actúan sobre el propio microprocesador.

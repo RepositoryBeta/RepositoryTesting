@@ -1,0 +1,6 @@
+texto 80
+
+Algunas de las recomendaciones que se deben tener en cuenta al realizar respaldos son:
+Establecer una política formal que especifique la periodicidad y las características de los procedimientos de respaldo de datos e información.
+Mantener al menos 3 copias de los sets de datos y toda la información relevante. 
+Las copias deben almacenarse en al menos 2 soportes distintos, y al menos una de las copias debe estar en una locación diferente al recinto donde se almacenan las demás.

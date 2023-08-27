@@ -1,0 +1,2 @@
+TEXTO 56
+La generalización tiene dos propósitos: uno es definir las condiciones bajo las cuales una instancia de una clase puede ser utilizado cuando se declara una variable, conteniendo, valores de una clase dada. A su vez, permitir la descripción incremental de un elemento que comparte las descripciones con sus antecesores esto se denomina herencia. La herencia, es un mecanismo mediante el cual una descripción de un objeto de una clase se construye a partir de fragmento de relaciones de la clase y de sus antecesores.

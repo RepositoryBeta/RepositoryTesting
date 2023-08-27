@@ -1,0 +1,8 @@
+texto 44
+SIGN: Devuelve el signo positivo (+1), cero (0) o negativo (-1) de la expresión especificada.
+Dice el valor negativo, positivo o neutro (0) del valor especificado
+SELECT SIGN (-3)
+SQUARE: Devuelve el cuadrado de la expresión especificada.
+SELECT SQUARE (4) AS ' CUADRADO '
+SQRT: Devuelve la raíz cuadrada de la expresión especificada.
+SELECT SQRT (4) AS [RAIZ CUADRADA].

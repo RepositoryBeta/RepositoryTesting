@@ -1,0 +1,4 @@
+texto 90
+Estas BBDD son altamente flexibles y admiten lenguajes de programación como JAVA, Visual Basic o C++. Entre las más Bases de Datos orientadas a objetos más conocidas tenemos a Objectdb, Zope Object Database, Zoodb, Gemstone, Objectivity y Realm
+Bases de datos tabulares
+Una BBDD tabular no es más que la estructuración de una BBDD en forma de tabla. Incorpora elementos en columnas y líneas. Cada una de las celdas genera intersecciones entre las columnas y las líneas. 

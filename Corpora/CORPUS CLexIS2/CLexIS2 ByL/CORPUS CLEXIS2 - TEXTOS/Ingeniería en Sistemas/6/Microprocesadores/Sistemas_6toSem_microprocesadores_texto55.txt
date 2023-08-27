@@ -1,0 +1,11 @@
+texto 55
+
+3) Carga el PC con la dirección de comienzo de una rutina de gestión de interrupción.
+4) Proceso interrumpido.
+5) Volver a almacenar el contexto y continuar con el programa interrumpido.
+Interrupciones múltiples.
+Interrupciones inhabilitadas.
+El procesador puede y debe ignorar la señal de petición de interrupción si se produce una interrupción en ese momento. 
+
+
+

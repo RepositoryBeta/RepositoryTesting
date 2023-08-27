@@ -1,0 +1,4 @@
+texto 65
+
+Continuando con la teoría de las bases de datos nos dice que, los servicio de administración de base de datos en la nube, tienen un atractivo especial para las empresas jóvenes enfocadas en web o los negocios de tamaño pequeño a mediano, que buscan capacidades de base de datos a un precio más bajo que el de los productos de base de datos de uso interno.
+

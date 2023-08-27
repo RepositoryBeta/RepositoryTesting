@@ -1,0 +1,3 @@
+texto 27
+Se puede usar una copia de seguridad lógica para restaurar la base de datos a la última copia de seguridad. Sin embargo, a diferencia de la copia de seguridad física, esta no se debe usar para crear una copia de seguridad del sistema operativo porque la restauración con este enfoque permitiría corregir los archivos de datos dañados. Por lo tanto, en estas situaciones, se deben preferir las copias de seguridad físicas.
+Las copias de seguridad lógicas son un complemento útil para las copias de seguridad físicas en muchas circunstancias, pero no son una protección suficiente contra la pérdida de datos sin copias de seguridad físicas.

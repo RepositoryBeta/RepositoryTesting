@@ -1,0 +1,10 @@
+texto 93
+
+Objetivos Generales de la Auditoría de BD
+Disponer de mecanismos que permitan tener trazas de auditoría completas y automáticas relacionadas con el acceso a las bases de datos incluyendo la capacidad de generar alertas con el objetivo de:
+- Mitigar los riesgos asociados con el manejo inadecuado de los datos.
+- Apoyar el cumplimiento regulatorio.
+- Satisfacer los requerimientos de los auditores.
+- Evitar acciones criminales.
+- Evitar multas por incumplimiento.
+

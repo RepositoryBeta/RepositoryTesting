@@ -1,0 +1,8 @@
+texto 98
+
+Moviendo el sistema operativo a un anillo de nivel de usuario con privilegio mayor que las aplicaciones en el anillo 3, pero de menos privilegio para el monitoreo de la máquina virtual desde el anillo. 
+Toda empresa que desarrolle soluciones de virtualización es libre de interpretar los desafíos técnicos y el desarrollo de soluciones con diferentes fortalezas y debilidades. 
+En este artículo mencionaremos tres técnicas alternativas para el manejo de las instrucciones confidenciales y privilegiadas para virtualizar el CPU de una arquitectura x86.
+
+
+

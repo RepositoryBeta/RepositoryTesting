@@ -1,0 +1,2 @@
+TEXTO 85
+Tenemos el 4.2 ¿Qué son las consideraciones sobre la tabla de símbolos? la tabla de símbolos contiene la información necesaria o útil lo que vamos a utilizar iba a ser almacenado en forma de estructura. Eso quiere decir que va a ir de manera estructurada que va a ir por partes, o de forma ordenada para que esto pueda seguir con su proceso normal se dividen las constantes y las funciones de librería en el caso de las constantes son los valores que no cambian. Por ejemplo pi que vale 3.1416. 

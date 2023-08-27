@@ -1,0 +1,2 @@
+TEXTO 78
+Por su parte, en el otro tipo de mensaje que son los mensajes síncrono, estos mensajes sólo se dan cuando el cliente envía un mensaje al suministrador y este acepta el mensaje, la clase emisora, ejecuta el código hasta que envía el mensaje y después se espera recibir el resultado de la operación asociada al mensaje, este tipo de mensajes se representa mediante una flecha con la punta coloreada que indica el sentido.

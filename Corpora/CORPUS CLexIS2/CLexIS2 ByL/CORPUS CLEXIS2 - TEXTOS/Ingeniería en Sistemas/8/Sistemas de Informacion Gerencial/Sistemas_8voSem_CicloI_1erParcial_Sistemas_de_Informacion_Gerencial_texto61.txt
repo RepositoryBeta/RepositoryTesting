@@ -1,0 +1,6 @@
+texto 61
+
+Tecnología de la información (TI): Tecnología de administración de datos.
+La tecnología de administración de datos consiste en el software que gobierna la organización de los datos en medios de almacenamiento físico.
+Tecnología de redes y telecomunicaciones.
+La tecnología de redes y telecomunicaciones, que consiste tanto en los dispositivos físicos como en el software, conecta las diversas piezas de hardware y transfiere datos de una ubicación física a otra.

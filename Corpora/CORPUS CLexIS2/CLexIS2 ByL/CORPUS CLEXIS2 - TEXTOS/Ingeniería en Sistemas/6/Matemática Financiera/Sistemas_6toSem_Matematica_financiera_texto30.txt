@@ -1,0 +1,11 @@
+﻿texto 30
+Al despejar se obtiene la fórmula del valor presente:
+VP = VF / ( 1 + i * n ).
+Fórmula de Valor Presente y Futuro con Interés Compuesto
+En el caso del interés compuesto existe capitalización de intereses, quiere decir que los intereses aplican a los intereses que se vayan generando:
+VF = VP * [( 1 + i )^n].
+Al despejar se puede obtener la fórmula del valor presente:
+VP = VF / [( 1 + i )^n].
+
+
+

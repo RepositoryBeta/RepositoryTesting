@@ -1,0 +1,4 @@
+texto 50
+
+En el fútbol por ejemplo, ¿Cómo se hace la ingeniería artificial? Ustedes han de haber visto que cuando está una persona ahí, cuando un futbolista va a hacer un gol, congelan la pantalla, le ponen pause y le ponen una rueda alrededor de la persona y hacen una flecha hasta donde está el arco, dicen la velocidad al patear es tanto o hacen la jugada de que él le va a dar paso a otro compañero y hacen el gol, eso se llama visión por computadora, superponemos ciertas cosas en el vídeo para poder explicar cosas que nosotros queramos.
+

@@ -1,0 +1,2 @@
+TEXTO 68
+Diagrama de interacción - Diagrama de secuencia: La segunda característica que diferencia el diagrama interacción del diagrama de secuencia es el foco de control o barra de activación este representa el periodo, de tiempo durante el cual los objetos ejecuta una acción, se muestra como un rectángulo en la línea de vida, son opcionales con el foco de control se puede mostrar el anidamiento de llamadas, donde se puede colocar otro foco de control y generalmente, la derecha del foco padre medio superpuesto y la llamada puede ser recursiva.

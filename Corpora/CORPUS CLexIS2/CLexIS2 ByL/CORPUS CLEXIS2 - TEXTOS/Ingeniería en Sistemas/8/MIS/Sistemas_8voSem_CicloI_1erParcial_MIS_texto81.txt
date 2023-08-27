@@ -1,0 +1,4 @@
+texto 81
+
+Por ejemplo, una compañía podría desarrollar mercados de datos sobre marketing y ventas para lidiar con la información de los clientes. El vendedor de libros Barnes & Noble solía mantener una serie de mercados de datos: uno para los datos sobre los puntos de venta en las tiendas minoristas, otro para las ventas de las librerías universitarias y un tercero para las ventas en línea.
+

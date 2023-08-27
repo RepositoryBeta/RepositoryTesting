@@ -1,0 +1,3 @@
+﻿texto 23
+
+El primer concierto que va a tener que revisar o recordar va a hacer el concepto de variable, recordemos que nosotros tenemos dos tipos de variables, variables cuantitativas y variables cualitativas y cuando hablamos de variables cuantitativas cuando son valores numéricos cuando son números y cuando es variable cualitativas cuando se refleja la pregunta o la respuesta de esa pregunta que vamos a hacer en un lenguaje común, en un lenguaje de palabras o de cualidades que a veces asi lo llaman.

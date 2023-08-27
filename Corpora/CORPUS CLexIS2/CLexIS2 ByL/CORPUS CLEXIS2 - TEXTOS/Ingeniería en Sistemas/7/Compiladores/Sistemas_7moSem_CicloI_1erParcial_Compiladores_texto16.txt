@@ -1,0 +1,3 @@
+TEXTO 16
+
+Por eso no hemos agrupado total igual la cantidad más 23 ya que va seguido del signo de suma, voy a hacer el árbol, pero para hacer el árbol tú ya tenías que haber identificado tu léxico qué fue lo que tú identificaste: energía, total y cantidad. Esa era mi tabla anterior, una vez que ustedes lo identifican, una vez que ya identifican la lexema en el analizador léxico también es considerado el espacio pero estamos en el sintáctico, el sintáctico se llena por árbol por eso es que no se considera el espacio. 

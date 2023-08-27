@@ -1,0 +1,10 @@
+texto 41
+
+Registros de coma flotante
+Primero, convendría explicar qué es una coma flotante. La coma flotante es una representación, en forma de fórmula, de números reales de distintos tamaños que sirve para realizar operaciones aritméticas. Nos encontraremos con ella en sistemas que requieren sistemas de procesados muy rápidos.
+Por tanto, estos registros guardan estas representaciones en muchísimas arquitecturas.
+
+
+
+
+

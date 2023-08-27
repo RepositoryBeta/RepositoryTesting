@@ -1,0 +1,4 @@
+texto 35
+
+¿Cómo se diseña la arquitectura de los almacenamientos de datos?
+La arquitectura de un almacenamiento de datos está compuesta por capas. El nivel superior es el cliente frontend que presenta los resultados mediante informes, análisis y herramientas de minería de datos. El nivel intermedio contiene el motor de análisis que se utiliza para obtener acceso a los datos y para analizarlos.

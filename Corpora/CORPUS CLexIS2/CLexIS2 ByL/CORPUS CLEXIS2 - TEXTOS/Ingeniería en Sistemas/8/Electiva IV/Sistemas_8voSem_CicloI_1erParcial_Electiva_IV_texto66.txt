@@ -1,0 +1,3 @@
+texto 66
+
+Ahora, tenemos controles de entrada de tipo Text, android ofrece algunas entradas para el manejo de textos tales como: texto normal, contraseñas, correos electrónicos, teléfonos, etc. Nosotros podemos manejar todo estos tipos de información de entrada. Otros elementos que se encuentran en el Text tenemos, códigos postales, multilineas, time, date, number, ect. Todos estos elementos que hemos visto pertenecen a controles de entrada.

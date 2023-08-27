@@ -1,0 +1,5 @@
+texto 7
+
+La idea es ubicar nuestros servidores en salas o Centro de Datos con medidas de seguridad adecuadas que impidan o minimicen los daños que puedan causar las amenazas mencionadas. 
+En el caso del puesto de trabajo, protegeremos los equipos para evitar sobre todo robos y descargas eléctricas.
+La seguridad lógica, sin embargo, se encarga de proteger todo lo relacionado con el software o la información contenida en los equipos. Complementa perfectamente a la seguridad física mediante el uso de antivirus, encriptación de la información, ataques de hackers externos y otros mecanismos para la protección y privacidad de la información de cada usuario de la red.

@@ -1,0 +1,5 @@
+﻿texto 86
+- La sexta expresa el saldo insoluto de la deuda, que se obtiene al hacer alguno de estos procedimientos: Restar al capital inicial (C) la amortización acumulada (AA) hasta ese periodo. Restar el saldo insoluto del periodo anterior (SI) la amortización del periodo (A).
+Sistema de amortización francés, sistema de cuotas fijas.
+El sistema de amortización francés, como ya hemos dicho, es un sistema de amortización con el que siempre pagaremos una cuota fija, a excepción de si tenemos una hipoteca a tipo variable o mixta, que cambiará con la revisión del Euribor de cada periodo, generalmente de un año. 
+

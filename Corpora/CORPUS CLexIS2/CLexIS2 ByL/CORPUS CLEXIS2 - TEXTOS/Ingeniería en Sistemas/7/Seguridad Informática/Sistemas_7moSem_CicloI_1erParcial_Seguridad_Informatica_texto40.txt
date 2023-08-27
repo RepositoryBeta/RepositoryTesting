@@ -1,0 +1,6 @@
+texto 40
+
+Seguridad de las aplicaciones
+Cualquier software que utilice para operar su negocio debe estar protegido, ya sea que su personal de TI lo construya o lo compre. 
+Lamentablemente, todas las aplicaciones pueden tener vulnerabilidades que los atacantes pueden usar para infiltrarse a la red. 
+La seguridad de las aplicaciones abarca el hardware, el software y los procesos que se usan para corregir estas vulnerabilidades.

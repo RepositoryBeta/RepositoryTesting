@@ -1,0 +1,4 @@
+texto 72
+
+Los Big Data se producen en cantidades mucho mayores y con mucha más rapidez que los datos tradicionales. Por ejemplo, un solo motor de Jet es capaz de generar 10 terabytes de datos en sólo 30 minutos, y hay más de 25,000 vuelos de aerolíneas a diario. Aún cuando los tweets se limitan a 140 caracteres cada uno, Twitter genera más de 8 terabytes de datos por día.
+

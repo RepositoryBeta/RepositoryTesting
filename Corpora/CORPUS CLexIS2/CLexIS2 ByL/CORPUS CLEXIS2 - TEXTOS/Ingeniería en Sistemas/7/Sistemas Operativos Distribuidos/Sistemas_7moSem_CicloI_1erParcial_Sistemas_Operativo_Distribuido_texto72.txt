@@ -1,0 +1,5 @@
+﻿Texto 72
+
+Lucidchart 
+
+Es una plataforma de diagramación que permite trabajar en un documento con otros usuarios al mismo tiempo, en pocas palabras, un espacio digital para crear en equipo sin importar el lugar donde se encuentren, a diferencia de los tableros virtuales, esta plataforma cuenta con elementos especiales para la creación de organigramas, mapas mentales, diagramas de flujo, entre otros formatos para ver cómo se relacionan y conectan los conceptos.

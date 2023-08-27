@@ -1,0 +1,4 @@
+texto 86
+
+Debe quedar documentado todo lo que usted hace paso a paso, esto es captura del conocimiento, si nosotros no lo capturamos por medio de procedimientos, dónde queda lo que aprendió o lo que sabe un programador, tal vez si no tenemos procedimientos las mejores prácticas de ese programador debe estar en el procedimiento y si no logramos, ese objetivo como administradores no estamos haciendo un gran trabajo. Pero, ¿Qué pasa si no se deja nada de documentación? Ahí tenemos un problema tremendo y no solamente lo tiene el área de tecnología sino lo tiene toda la empresa, entonces es súper importante en el área de tecnología documentar absolutamente todo bueno. 
+

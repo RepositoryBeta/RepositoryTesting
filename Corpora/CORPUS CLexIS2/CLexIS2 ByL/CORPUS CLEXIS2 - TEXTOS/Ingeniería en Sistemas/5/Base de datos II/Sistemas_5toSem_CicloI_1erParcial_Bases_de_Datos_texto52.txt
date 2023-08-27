@@ -1,0 +1,5 @@
+texto 52  
+BINARY; 1 byte por carácter: Se puede almacenar cualquier tipo de datos en un campo de este tipo. Los datos no se traducen (por ejemplo, a texto). La forma en que se introducen los datos en un campo binario indica cómo aparecerán al mostrarlos.
+BIT; 1 byte: Valores Sí y No, y campos que contienen solamente uno de dos valores.
+TINYINT; 1 byte: Un número entero entre 0 y 255.
+COUNTER: Se utiliza para campos contadores cuyo valor se incrementa automáticamente al crear un nuevo registro.

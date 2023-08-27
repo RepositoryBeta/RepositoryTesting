@@ -1,0 +1,3 @@
+texto 91
+
+Una organización de negocios típica tiene sistemas que dan soporte a los procesos de cada una de las principales funciones de negocios: sistemas para ventas y marketing, manufactura y producción, finanzas y contabilidad, y recursos humanos. Una empresa común también tiene distintos sistemas que dan soporte a las necesidades de toma de decisiones de cada uno de los principales grupos administrativos, la gerencia operacional, la gerencia de nivel medio y la gerencia de nivel superior utilizan sistemas para dar soporte a las decisiones que deben tomar para operar la compañía.

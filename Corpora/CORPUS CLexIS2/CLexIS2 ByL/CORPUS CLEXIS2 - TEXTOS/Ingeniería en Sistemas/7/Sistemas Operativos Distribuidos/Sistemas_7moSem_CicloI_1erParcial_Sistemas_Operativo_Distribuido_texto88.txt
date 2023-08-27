@@ -1,0 +1,4 @@
+﻿Texto 88
+
+Al igual que un equipo no puede trabajar si un sistema operativo, una red de equipos no puede funcionar sin un sistema operativo de red.
+Consiste en un software que posibilita la comunicación de un sistema informático con otros equipos en el ámbito de una red.

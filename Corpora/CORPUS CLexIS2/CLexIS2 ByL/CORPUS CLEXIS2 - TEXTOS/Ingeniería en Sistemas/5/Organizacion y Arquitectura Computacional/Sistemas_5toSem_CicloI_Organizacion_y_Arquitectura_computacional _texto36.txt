@@ -1,0 +1,4 @@
+texto 36
+
+La instrucción captada se almacena en un registro de la CPU conocido como registro de instrucción. (IR, Instruction Register), la instrucción se escribe utilizando en código binario que específica  la acción qué se debe realizar la CPU. La CPU interpreta la inclusión y lleva a cabo la acción requerida. Entonces en general las instrucciones captadas pueden ser de 4 tipos:
+1) Procesador de memoria: deben transferirse datos de la CPU a la memoria, o desde la memoria a la CPU.

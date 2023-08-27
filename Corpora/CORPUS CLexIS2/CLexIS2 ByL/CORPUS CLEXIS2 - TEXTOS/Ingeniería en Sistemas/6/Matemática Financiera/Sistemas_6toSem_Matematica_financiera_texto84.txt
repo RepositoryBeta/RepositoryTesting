@@ -1,0 +1,7 @@
+texto 84
+Si el tipo de interés es variable: El cuadro de amortización es una simulación. Es decir, es una previsión de los pagos, pero no es el cuadro de pagos definitivo, ya que los tipos de interés cambiarán a lo largo del tiempo
+Tabla de amortización 
+Para su mayor comprensión, las amortizaciones pueden representarse en una matriz donde:     
+Las columnas representan lo siguiente:
+- La primera muestra los periodos (n).
+

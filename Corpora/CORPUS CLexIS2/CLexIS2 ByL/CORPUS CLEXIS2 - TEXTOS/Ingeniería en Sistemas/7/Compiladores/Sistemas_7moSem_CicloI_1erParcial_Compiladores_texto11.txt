@@ -1,0 +1,4 @@
+TEXTO 11
+
+Ustedes saben que significa incremento, entonces el analizador léxico lo agruparía de esta siguiente forma. Poner atención miren, el identificador energía, el operador de asignación, no crean que no es tomado en consideración claro que sí, es un carácter y el signo igual también es un carácter. Eso lo va a asignar en lo sucesivo sea va a lo siguiente,  tenemos la identificador total,  aquí está, ustedes van viendo que se lo va a llamar identificador a los que nosotros le llamamos variables, sí y el signo igual sabemos que es un operador, cuánto operador más, hasta tengo otro operador por lo tanto tengo que tener el operador suma, otro identificador tenemos cantidad, aquí está. Si se dan cuenta de izquierda a derecha  así lo lee. 
+

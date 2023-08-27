@@ -1,0 +1,8 @@
+﻿texto 13
+Podemos obtener el interés que produce un capital con la siguiente fórmula: 
+I = C * i * n
+Por ejemplo, si queremos calcular el interés simple producido por un capital de 30.000 pesos invertido durante 5 años a una tasa del 8% anual. El interés simple se calculará de la siguiente forma:
+I = 30.000 * 0,08 * 5 = 12.000
+Si queremos calcular el mismo interés durante un periodo menor a un año (60 días), se calculará de la siguiente forma:
+Período: 60 días = 60/360 = 0,16    I = 30.000 * 0,08 * 60/360 = 384.
+

@@ -1,0 +1,8 @@
+texto 44
+
+Veamos un ejemplo, si estamos trabajando en una imagen de 48×48 pixeles sería:
+MDPI: 48 X 48 (multiplicar 1 x el píxel).
+HDPI: 72 X 72 (multiplicar 1,5  x el píxel).
+XHDPI: 96 X 96 (multiplicar 2 x el píxel).
+XXHDPI: 144 X 144 (multiplicar 3 x el píxel).
+XXXHDPI: 192 X 192 (multiplicar 4 x el píxel).

@@ -1,0 +1,6 @@
+texto 70
+Sinónimos
+En Oracle, un sinónimo es un nombre alternativo que se asigna a un objeto cualquiera. Normalmente es un nombre menos descriptivo que el original a fin de facilitar la escritura del nombre del objeto en expresiones dentro del lenguaje SQL.
+Sintaxis:
+CREATE [PUBLIC] SYNONYM nombre FOR objeto;
+objeto es el objeto al que se referirá el sinónimo. La cláusula PUBLIC hace que el sinónimo esté disponible para cualquier usuario (sólo se permite utilizar si disponemos de privilegios administrativos).

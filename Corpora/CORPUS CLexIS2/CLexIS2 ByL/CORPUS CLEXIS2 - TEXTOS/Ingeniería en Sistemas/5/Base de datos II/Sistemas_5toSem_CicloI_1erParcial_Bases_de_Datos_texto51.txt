@@ -1,0 +1,5 @@
+texto 51
+INTEGRIDAD: El LDD de SQL incluye comandos para especificar las restricciones de integridad que deben cumplir los datos almacenados en la base de datos. 
+DEFINICIÓN DE VISTAS: El LDD incluye comandos para definir las vistas.
+CONTROL DE TRANSACCIONES: SQL tiene comandos para especificar el comienzo y el final de una transacción.
+AUTORIZACIÓN: El LDD incluye comandos para especificar los derechos de acceso a las relaciones y a las vistas.

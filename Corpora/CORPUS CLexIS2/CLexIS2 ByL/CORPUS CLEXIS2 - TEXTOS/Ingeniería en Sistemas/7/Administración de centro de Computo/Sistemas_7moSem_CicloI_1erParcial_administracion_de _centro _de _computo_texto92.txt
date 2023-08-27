@@ -1,0 +1,6 @@
+texto 92
+
+Llevar registro de fallas, problemas, soluciones, acciones desarrolladas, respaldo, recuperaciones y trabajos realizados, ese también es el objetivo un departamento de sistemas debe llevar los registros de todo lo que en algún momento deja de funcionar, porque esos registros le van a ayudar a usted a solicitar a la gerencia una solución. 
+
+
+

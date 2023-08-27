@@ -1,0 +1,6 @@
+texto 29
+
+Ingenieria social es una técnica de hackeo utilizada para extraer información a otras personas, teniendo como base la interacción social, donde la persona que está siendo atacada no se da cuenta cuando suministra información personal que puede terminar en manos de un atacante.
+En la ingeniería social se encuentra 3 formas de actuar:
+- La primera consiste en una técnica pasiva que se basa en la observación y el análisis de donde se logra conseguir un perfil psicológico de la víctima.
+- La segunda técnica utilizada es la no presencial donde se recurre a los medios de comunicación como el teléfono, los correos electrónicos con el fin de obtener información personal y útil para el atacante.

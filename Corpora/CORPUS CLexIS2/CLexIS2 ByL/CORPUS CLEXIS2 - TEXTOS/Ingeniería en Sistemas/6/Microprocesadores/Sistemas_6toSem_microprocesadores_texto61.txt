@@ -1,0 +1,12 @@
+texto 61
+
+Desventajas 
+Tiempo de programación: Mas dificil de Aprender, entender y depurar. 
+Programas fuente grandes. 
+Peligro de afectar recursos inesperadamente. 
+Falta de portabilidad.
+Estructuras de un programa en ensamblador.
+[etiqueta] [instrucción | directiva [operandos]] [comentario].
+
+
+

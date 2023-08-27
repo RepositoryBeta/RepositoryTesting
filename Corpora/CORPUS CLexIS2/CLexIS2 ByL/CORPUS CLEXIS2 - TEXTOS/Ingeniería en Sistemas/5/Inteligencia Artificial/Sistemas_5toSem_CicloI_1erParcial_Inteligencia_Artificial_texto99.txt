@@ -1,0 +1,4 @@
+texto 99
+
+Dentro de la ventajas, tenemos: Combina conceptos y estrategias de diferentes metaheurísticas para intentar aunar las ventajas de las mismas, mejoras individuales de las soluciones en cada uno de los agentes junto con procesos de cooperación y competiciones de tipo poblacional, mantiene en todo momento una población de diversas soluciones al problema considerado, MA puede alcanzar precisiones rápidamente ya que realiza exploraciones durante todo el proceso.
+

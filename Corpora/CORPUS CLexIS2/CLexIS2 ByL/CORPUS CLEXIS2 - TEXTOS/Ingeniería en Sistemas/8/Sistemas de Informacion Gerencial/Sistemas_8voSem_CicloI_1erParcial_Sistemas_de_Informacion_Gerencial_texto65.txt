@@ -1,0 +1,4 @@
+texto 65
+
+No es sólo tecnología: Una perspectiva de negocios sobre los SI.
+Podemos ver que, desde una perspectiva de negocios, un sistema de información es una importante herramienta que puede generar valor para la empresa. Los sistemas de información permiten a la empresa incrementar sus ingresos o disminuir sus costos al proveer información que ayuda a los gerentes a tomar mejores decisiones, o que mejora la ejecución de los procesos de negocios.

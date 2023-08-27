@@ -1,0 +1,4 @@
+texto 73
+
+Entonces, seguimos con la metaheurística, hiciste muchas partes o mejor dicho existe una clasificación dentro de la metaheurística, donde tenemos: métodos constructivos, que se caracterizan por construir una solución definiendo diferentes partes de ella en sucesivos pasos. Antes de la metaheurística existía lo que se llamaba heurística, pero heurística se basaba en algo muy sencillo, se basaba en la búsqueda local.
+

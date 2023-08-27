@@ -1,0 +1,5 @@
+texto 56
+
+Capacidad: la capacidad solicitante para reembolsar el crédito solicitado, determinada por medio de un análisis de estados financieros entreno flujo de efectivo disponible para enfrentar las obligaciones de deuda.
+Capital: la deuda del solicitante en relación con su capital patrimonial.
+Colateral: el monto de activos que el solicitante tiene disponible para garantizar el crédito. cuanto mayor sea el monto de activos disponibles, mayor será la probabilidad de que una compañía recupere su fondo si el solicitante no cumple con el pago.

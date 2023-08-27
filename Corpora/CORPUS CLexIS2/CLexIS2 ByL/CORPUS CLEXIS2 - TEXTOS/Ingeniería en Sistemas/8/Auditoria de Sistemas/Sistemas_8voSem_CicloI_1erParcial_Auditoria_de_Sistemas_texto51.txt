@@ -1,0 +1,8 @@
+texto 51
+
+PRINCIPIO DE VERACIDAD 
+Debe siempre asegurar la veracidad de sus manifestaciones con los limites impuestos por los deberes de respeto, corrección y secreto profesional.
+CÓDIGO DE ÉTICA PROFESIONAL DE ISACA
+Rige la conducta de los auditores informáticos certificados y miembros de dicha asociación. Los Miembros y los tenedores de certificación de ISACA deberán: 
+Soportar la implementación de, y fomentar el cumplimiento de, las normas, los procedimientos y los controles apropiados para los sistemas de información. 
+Ejecutar sus deberes con objetividad, debida diligencia y atención profesional, en conformidad con las normas y mejores prácticas profesionales.

@@ -1,0 +1,2 @@
+TEXTO 88
+Esta estructura permanece en memoria sólo en tiempo de compilación, no de ejecución, excepto en aquellos casos en que se compila con opciones de depuración. Los intérpretes también suelen mantener la tabla de símbolos en memoria durante la ejecución, ya que ésta se produce simultáneamente con la traducción. La tabla de símbolos almacena la información que en cada momento se necesita sobre las variables del programa; información tal como: nombre, tipo, dirección de localización en memoria, tamaño, etc.

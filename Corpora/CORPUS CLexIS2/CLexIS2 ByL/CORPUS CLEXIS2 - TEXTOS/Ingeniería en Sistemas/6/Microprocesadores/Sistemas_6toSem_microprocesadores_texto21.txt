@@ -1,0 +1,8 @@
+texto 21
+
+Los CPU de Intel han variado muy bruscamente en consumo de energía de acuerdo a velocidad de procesador, arquitectura y procesos de semiconductor, mostrado en las tablas de disipación de energía del CPU. Esta gama de procesadores fueron fabricados de 65 a 45 nanómetros.
+Amd Phenom II
+Phenom fue el nombre dado por Advanced Micro Devices (AMD) a la primera generación de procesadores de tres y cuatro núcleos basados en la microarquitectura K10. 
+
+
+

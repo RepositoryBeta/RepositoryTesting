@@ -1,0 +1,3 @@
+texto 96
+
+El segundo paso, digamos es analizar el caso bueno de la empresa, qué áreas vamos a introducir en el análisis, bajo qué situaciones de empresa, y a qué queremos llegar con esa predicción, bueno, de eso pues ya nos vamos un poco a los números, y se va a elaborar un estado de resultados, luego de eso vamos a hacer un cálculo del histórico de ventas acumulada de lo que te ha metido en el año bueno del período que se esta analizando. Tenemos que tener ese valor ya definido cuáles han sido las ventas de la empresa.

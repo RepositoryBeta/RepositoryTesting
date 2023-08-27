@@ -1,0 +1,7 @@
+texto 91
+
+Es decir el proceso de tecnología debe estar también monitoreado así como cuando ustedes están siendo monitoreados por qué dan lecciones, dan exámenes y automáticamente el profesor dice: bueno esa persona está mal, ¿Qué acción tomamos para que mejore?.
+Realizar copias de respaldo (backup) de información y procesos de computo.
+Una de las labores más importantes de un centro de cómputo es garantizar la información así ocurre el incendio terremoto lo que ocurra  debemos garantizar  que los datos queden sanos y salvos en algún lugar.
+
+

@@ -1,0 +1,2 @@
+TEXTO 100
+Caja negra: Gran cantidad de fallos de programa suceden en las condiciones de frontera. Por ejemplo, cuando estamos trabajando con arreglos en es decir con cadenas tuplas y listas hay que probar el comportamiento de la función del programa, ante un arreglo vacío, cuando tenemos sólo un elemento en ese arreglo, cuando tenemos arreglo jerárquicos, cuando hablamos de valores escalares o números se deben considerar números positivos, negativos, el caso del cero, valores muy grandes y valores muy pequeños.

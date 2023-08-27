@@ -1,0 +1,9 @@
+texto 68
+Sintaxis de Secuencias:
+CREATE SEQUENCE secuencia
+[INCREMENT BY n]
+[START WITH n]
+[{MAXVALUE n | NOMAXVALUE}]
+[{MINVALUE n | NOMINVALUE}]
+[{CYCLE | NOCYCLE}]
+[{CACHE n| NOCACHE}].

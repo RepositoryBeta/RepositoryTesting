@@ -1,0 +1,4 @@
+TEXTO 22
+
+Ahora, el análisis semántico o restricciones contextuales, en esta fase se chequea el programa fuente buscando errores semánticos, que era la semántica. Esto sí era la forma correcta de escribir, primero léxico como conjunto de palabras. En este caso, conjunto de código y luego va a la segunda fase y la tercera fase voy a verificar si esa es línea que yo escribí está de manera correcta, que no es lo mismo que mi mamá me ama que mi mamá me mi ama. No es lo mismo. 
+

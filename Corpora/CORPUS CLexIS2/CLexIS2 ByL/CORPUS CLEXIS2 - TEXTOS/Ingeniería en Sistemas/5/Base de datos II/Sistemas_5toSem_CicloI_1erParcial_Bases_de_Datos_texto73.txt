@@ -1,0 +1,5 @@
+texto 73
+Alcance del cursor
+Microsoft SQL Server admite las palabras clave GLOBAL y LOCAL en la instrucción DECLARE CURSOR para definir el alcance del nombre del cursor.
+GLOBAL: especifica que el cursor es global para la conexión, es decir se puede usar en cualquier momento y por cualquier procedimiento, trigger, función o consulta en la sesión .
+LOCAL: especifica que el cursor es local para el Procedimiento almacenado, el desencadenador o la consulta que contiene el cursor.

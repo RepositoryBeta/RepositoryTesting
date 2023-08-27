@@ -1,0 +1,4 @@
+TEXTO 93
+Objetivos de la tabla de símbolos: La complejidad de los algoritmos se puede estudiar estimando la dependencia entre el tiempo que necesitan para procesar su entrada y el tamaño de ésta. Las TS son estructuras de datos que almacenan toda la información de los identificadores del lenguaje fuente. Las misiones principales de la TS en el proceso de traducción son:
+1) Colaborar con las comprobaciones semánticas.
+2) Facilitar ayuda a la generación de código. 

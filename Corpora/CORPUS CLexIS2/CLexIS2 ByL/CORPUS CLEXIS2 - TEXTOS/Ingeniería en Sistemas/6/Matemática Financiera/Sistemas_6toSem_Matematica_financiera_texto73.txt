@@ -1,0 +1,5 @@
+﻿texto 73
+¿Por qué amortizar una deuda?
+Amortizar una deuda supone el menor pago de intereses de una deuda, ya que al adelantar el pago se ahorra el abono de intereses proporcionalmente a lo que se amortice.
+Este recurso suele ser parte de una estrategia determinada de la empresa, ya que el director o controller financiero deberán determinar si la amortización de deuda es la opción más rentable para la empresa.
+

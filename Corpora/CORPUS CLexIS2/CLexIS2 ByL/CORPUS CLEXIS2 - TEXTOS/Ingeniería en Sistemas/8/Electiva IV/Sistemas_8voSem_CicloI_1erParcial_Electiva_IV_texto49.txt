@@ -1,0 +1,3 @@
+texto 49
+
+Continuando con los contenidos principales del módulo, también tenemos a carpeta con la siguiente dirección, Carpeta / app / src / main / res / layout, esta carpeta contiene los ficheros de definición xml de las diferentes pantallas de la interfaz gráfica. Para definir distintos layouts dependiendo de la orientación del dispositivo se puede dividir también en su carpeta: layout (vertical), layout (horizontal).

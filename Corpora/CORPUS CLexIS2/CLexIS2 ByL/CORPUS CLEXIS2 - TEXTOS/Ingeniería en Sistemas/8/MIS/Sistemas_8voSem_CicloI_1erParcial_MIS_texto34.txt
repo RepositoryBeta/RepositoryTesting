@@ -1,0 +1,6 @@
+texto 34
+
+Veamos ahora las diferencias básicas que hay entre el DSS con el MIS
+1) Los DSS ayudan a los gerentes a tomar decisiones combinando datos, modelos analíticos, herramientas sofisticadas y software amigable con el usuario.
+2) Se diferencian del MIS porque esto proporciona principalmente información sobre el desempeño de la empresa para ayudar a los gerentes a supervisar y controlar el negocio.
+

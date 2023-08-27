@@ -1,0 +1,9 @@
+texto 13
+
+Intel Pentium II
+Gracias al nuevo diseño de este procesador, los usuarios de PC pueden capturar, revisar y compartir fotografías digitales con amigos y familia vía Internet; revisar y agregar texto, música y otros; con una línea telefónica; el enviar vídeo a través de las líneas normales del teléfono mediante Internet se convierte en algo cotidiano.
+Intel Pentium III
+El procesador Pentium III ofrece 70 nuevas instrucciones Internet Streaming, las extensiones de SIMD que refuerzan dramáticamente el rendimiento con imágenes avanzadas, 3D, añadiendo una mejor calidad de audio, vídeo y rendimiento en aplicaciones de reconocimiento de voz. 
+
+
+

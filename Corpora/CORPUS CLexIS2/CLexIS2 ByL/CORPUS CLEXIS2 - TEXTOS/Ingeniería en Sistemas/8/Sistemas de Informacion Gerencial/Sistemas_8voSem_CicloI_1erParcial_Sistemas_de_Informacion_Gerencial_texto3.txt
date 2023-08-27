@@ -1,0 +1,5 @@
+texto 3
+
+Entre las novedades los sistemas información tenemos, que en la tecnología encontramos: el Big Data, la computación en la nube y las plataformas móvil. 
+Big Data:
+Las empresas buscan perspectiva de los enormes volúmenes de datos del tráfico web, los mensajes de correo electrónico, el contenido de los social media y las máquinas que requieren nuevas herramientas administrativas para capturar, almacenar y analizar.

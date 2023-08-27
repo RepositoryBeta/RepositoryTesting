@@ -1,0 +1,6 @@
+texto 25
+
+Intel lanzó sus procesadores que se conocen con el nombre en clave Sandy Bridge. Es la segunda generación de los Intel Core con nuevas instrucciones de 256 bits, duplicando el rendimiento, mejorando el rendimiento en 3D y todo lo que se relacione con operación en multimedia. Llegaron la primera semana de enero del 2011. Incluye nuevo conjunto de instrucciones denominado AVX y una GPU integrada de hasta 12 unidades de ejecución.
+
+
+

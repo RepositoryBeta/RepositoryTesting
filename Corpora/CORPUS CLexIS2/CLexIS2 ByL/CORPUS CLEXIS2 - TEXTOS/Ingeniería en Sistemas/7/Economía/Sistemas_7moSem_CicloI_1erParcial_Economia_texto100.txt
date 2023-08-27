@@ -1,0 +1,4 @@
+texto 100
+
+Ahora, ¿Qué pasa si existen excesos de demanda y oferta cuando el precio de mercado es superior al de equilibrio? Hay un excedente del bien lo cual provoca un descenso el precio de mercado. Cuando el precio de mercado es inferior al de equilibrio, hay una escasez, lo cual provoca una subida del precio del mercado, para ver como influye un acontecimiento, en un mercado se utiliza el gráfico de oferta y demanda y para observar cómo afecta este acontecimiento al precio y la cantidad de equilibrio, para esto se utilizan tres pasos: se averigua si el acontecimiento desplaza la curva de oferta o la de demanda o va a desplazarme ambas, se averigua en que sentido se desplaza la curva, se compara el nuevo equilibrio con el antiguo.
+

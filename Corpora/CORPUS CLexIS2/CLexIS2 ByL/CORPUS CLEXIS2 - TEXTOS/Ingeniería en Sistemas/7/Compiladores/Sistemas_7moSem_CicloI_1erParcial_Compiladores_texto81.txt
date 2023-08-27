@@ -1,0 +1,2 @@
+TEXTO 81
+Sabemos que para hacer el primer proceso identificamos, mejor determinamos los identificadores. Pero hay un poco más con respecto a los identificadores. Por ejemplo, ya como para códigos un poco más complejos. ¿Cuáles son esos códigos más complejos? Son nexos que utilizan funciones, utilizan palabras reservadas. Por eso una de las primeras características son el nombre del elemento que se da para identificar el almacenamiento de longitud de ese elemento. 

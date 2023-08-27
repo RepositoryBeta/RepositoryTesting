@@ -1,0 +1,5 @@
+﻿Texto 50
+
+Consistencia: Mantener una fuerte consistencia es extremadamente difícil para un sistema distribuido, lo que significa que tiene que lidiar con consistencia eventual.
+
+Complejidad operacional: Requiere un equipo de operaciones maduro y entornos con una gran capacidad de automatización y monitorización para gestionar muchos servicios que son redesplegados regularmente.

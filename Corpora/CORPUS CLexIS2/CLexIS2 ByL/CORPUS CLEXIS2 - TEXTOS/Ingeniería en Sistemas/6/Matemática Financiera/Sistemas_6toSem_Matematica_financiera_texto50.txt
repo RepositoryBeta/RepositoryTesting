@@ -1,0 +1,5 @@
+﻿texto 50
+Las anualidades son una serie de pagos iguales, realizados a una misma tasa de interés en periodos de tiempo iguales.
+El estudio de las anualidades permite introducir a las personas interesadas en el área de las matematicas financieras en el análisis de la estructura financiera de la empresa, se explica la parte teórica y se complementa con algunos ejercicios prácticos.
+Los pagos que realiza la empresa y los ingresos que recibe son de vital importancia para la consolidación de la organización. 
+

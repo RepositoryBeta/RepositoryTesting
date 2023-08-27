@@ -1,0 +1,11 @@
+texto 60
+
+Lenguaje ensamblador: El lenguaje ensamblador es un tipo de lenguaje de bajo nivel utilizado para escribir programas informáticos, y constituye la representación más directa del código máquina específico para cada arquitectura de computadoras legible por un programador.
+Ventajas y Desventajas del Lenguaje Ensamblador 
+Ventajas 
+Velocidad: De 5 a 10 veces mas rapidos.
+Eficiencia de tamaño: Ocupa la mitad de tamaño.
+Flexibilidad: Se pueden crear segmentos de codigo imposibles en otros lenguajes. 
+
+
+

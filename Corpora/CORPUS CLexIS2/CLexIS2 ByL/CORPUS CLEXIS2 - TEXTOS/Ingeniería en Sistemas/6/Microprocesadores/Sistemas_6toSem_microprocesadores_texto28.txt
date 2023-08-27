@@ -1,0 +1,7 @@
+texto 28
+
+Memoria 
+Es todo dispositivo electrónico, electromecánico, magnético u óptico capaz de almacenar datos (memoria primaria) compuesta por semiconductores (DRAM / SRAM, XROM, etc) (memoria secundaria), generalmente conformada por discos y cintas magnéticas, ópticos y, recientemente, dispositivos de estado sólido basados en tecnologías flash. El modelo lógico es el de un conjunto ordenado de bytes o palabras de 16, 32 o 64 bits.
+
+
+

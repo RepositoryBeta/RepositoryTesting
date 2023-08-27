@@ -1,0 +1,3 @@
+TEXTO 8
+
+¿Qué creen qué es una tabla símbolo?, ¿Qué se les viene a la mente a ustedes? Un círculo, cuadrado, rectángulo, todos esos son símbolos.  en la compilación también utiliza símbolos ya les vamos a dar un ejemplo también para que ustedes sepan. Luego se maneja el error, genera el código intermedio, optimiza el código y por último hace el último paso que el generador de código objeto. Para recién obtener un programa objeto dado esquema general ahora vamos a desmenuzar un poquito más.  

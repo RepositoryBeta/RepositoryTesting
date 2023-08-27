@@ -1,0 +1,5 @@
+﻿Texto 98
+
+Caracterización de un sistema distribuido
+Tratamiento fallos: Cualquier proceso, computador o red puede fallar independientemente de los otros, en consecuencia cada componente necesita estar al tanto de las formas posibles en que puede fallar los componentes de los que depende y estar diseñado para tratar apropiadamente con cada uno de estos fallos.
+Concurrencia: La presencia de múltiples usuarios en un sistema distribuido es una fuente de peticiones concurrentes a sus recursos, cada recurso debe estar diseñado para ser seguro en un entorno concurrente.

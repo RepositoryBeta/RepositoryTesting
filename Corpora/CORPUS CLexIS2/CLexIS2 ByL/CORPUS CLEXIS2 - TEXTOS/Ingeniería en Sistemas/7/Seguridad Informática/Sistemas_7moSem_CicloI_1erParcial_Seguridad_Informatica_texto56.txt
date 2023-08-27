@@ -1,0 +1,4 @@
+texto 56
+
+NAC para dispositivos médicos
+Debido a que hay cada vez más dispositivos en línea, es fundamental identificar qué dispositivos ingresan en una red convergente. Las soluciones de NAC ayudan a proteger los dispositivos y registros médicos de amenazas, a mejorar la seguridad de los servicios de salud y a fortalecer la protección contra el ransomware.

@@ -1,0 +1,6 @@
+texto 13
+
+Estos datos de salida pueden ejecutarse como un programa posteriormente ya que se usa la misma memoria para datos y para el código del programa o sea esa memoria es súper eficaz porque hace dos funciones a la vez.
+¿Cuáles son las ventajas que tiene  la arquitectura?
+1) Aparece por primera vez el concepto de programa almacenado.
+2) Se asigna un código numérico a cada instrucción.

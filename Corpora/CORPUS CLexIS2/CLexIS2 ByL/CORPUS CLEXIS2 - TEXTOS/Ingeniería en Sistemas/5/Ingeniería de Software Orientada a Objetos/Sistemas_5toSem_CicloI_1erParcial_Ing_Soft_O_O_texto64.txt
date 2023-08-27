@@ -1,0 +1,2 @@
+TEXTO 64
+Conceptos - secuenciación: Una secuenciación es una secuencia de mensajes entre objetos cada proceso e hilo de un sistema, define un flujo de control separado, y dentro de cada flujo los mensajes se ordenan en secuencia temporal, para mejorar la visualización se debe expresar la posición de un mensaje, con relación al inicio de la secuencia, cuando hay varios flujos de control es indispensable identificar el proceso o hilo que envía cada mensaje.

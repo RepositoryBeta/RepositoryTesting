@@ -1,0 +1,5 @@
+texto 57
+IS NULL: Determina si un valor es nulo. 
+Por ejemplo: " PRODUCTS "." PROD_NAME " IS NULL
+LIKE: Determina si un valor coincide con toda una cadena o con parte de ésta. Se suele utilizar con caracteres comodín para indicar cualquier coincidencia de cadenas de caracteres de cero o varios caracteres (%) o cualquier coincidencia de carácter único (_). 
+Por ejemplo: " PRODUCTS "." PROD_NAME " LIKE ' prod% '.

@@ -1,0 +1,3 @@
+﻿texto 50
+
+Estas técnicas de muestreo lo que nos ayudan es a facilitarnos de tal manera de que nos ayudan a poder determinar, qué elemento o qué personas serán elegidas o serán las personas idóneas que formarán parte de la muestra que son por tanto, los más recomendables dentro de los métodos de muestreo probabilísticos, encontramos los siguientes tipos, para eso nosotros como le dije anteriormente que vamos a estudiar cuatro tipos de muestreo probabilísticos aleatorio simple, estratificado, sistemático y por conglomerados.

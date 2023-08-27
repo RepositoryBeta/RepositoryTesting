@@ -1,0 +1,11 @@
+texto 70
+
+Ésta puede ser especificada con su valor entre [ ], o bien mediante una variable definida previamente (Se verá más adelante). 
+ Ejemplo: MOV AL, [1234H]; almacena en AL el contenido de la dirección de memoria DS: 1234.
+
+Direccionamiento indirecto 
+
+Cuando el operando esta en memoria en una posición contenida en un registro (BX, BP, SI o DI). MOV AX, [BX] ; almacena en AX el contenido de la dirección de memoria DS:[BX].
+
+
+

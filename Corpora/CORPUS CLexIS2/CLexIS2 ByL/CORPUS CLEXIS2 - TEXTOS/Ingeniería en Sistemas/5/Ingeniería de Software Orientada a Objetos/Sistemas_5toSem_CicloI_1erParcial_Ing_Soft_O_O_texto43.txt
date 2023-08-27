@@ -1,0 +1,2 @@
+TEXTO 43
+En las reuniones, existen reuniones de estado periódicas, indicadores de avances precisos, revisiones del proyecto, inspecciones del código y demostraciones de prototipo, regla, mediciones. El gerente del proyecto mide los defectos a resolver y la medición del código fuente. El acuerdo del proyecto es un documento que define de manera formal el alcance, la duración, el costo y los productos a entregar del proyecto. Por lo general, se termina poco después de que se estabiliza el modelo de análisis.

@@ -1,0 +1,8 @@
+texto 66
+
+No es sólo tecnología: Una perspectiva de negocios sobre los SI.
+En  la cadena de valor de la información de negocios, tenemos:
+1) Actividades de procesamiento de información.
+2) Actividades gerenciales.
+3) Procesos de negocios.
+En la unidad de procesamiento de información tenemos la recolección y almacenamiento de datos, la formación en sistemas de negocios y diseminación. 

@@ -1,0 +1,5 @@
+texto 52
+
+Casos de uso del control de acceso a la red
+NAC para usuarios temporales y contratistas: 
+Ya sea que incluyan contratistas, visitantes o partners, las organizaciones usan las soluciones de NAC para garantizar que los no empleados tengan privilegios de acceso a la red separados de los de los empleados.

@@ -1,0 +1,6 @@
+texto 6  
+
+Arquitectura de una base de datos relacional
+Hay tres características importantes inherentes a los sistemas de bases de datos: la separación entre los programas de aplicación y los datos, el manejo de múltiples vistas por parte de los usuarios y el uso de un catálogo para almacenar el esquema de la base de datos. 
+En 1975, el comité ANSI-SPARC (American National Standard Institute-Standards Planning and Requirements Committee) propuso una arquitectura de tres niveles para los sistemas de bases de datos, que resulta muy útil a la hora de conseguir estas tres características. 
+

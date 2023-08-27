@@ -1,0 +1,5 @@
+texto 50
+
+El denominado Online Analytical Processing es un método analítico basado en el proceso ETL con el que se comprimen los datos de gestión relevantes para la empresa:
+1) E = Extraction (extracción): en la fase de extracción de los datos se selecciona la información relevante desde diferentes fuentes siguiendo una estrategia de push o de pull. Si los datos se extraen por la estrategia de push, las fuentes de datos son impelidas a generar extractos regularmente y enviarlos al almacén de datos. Si se extraen por la estrategia de pull, es el almacén de datos el que impulsa la extracción.
+2) T = Transformation (transformación): en esta fase los datos que se han extraído se depuran y se traducen al formato de la base de datos donde se deben guardar.

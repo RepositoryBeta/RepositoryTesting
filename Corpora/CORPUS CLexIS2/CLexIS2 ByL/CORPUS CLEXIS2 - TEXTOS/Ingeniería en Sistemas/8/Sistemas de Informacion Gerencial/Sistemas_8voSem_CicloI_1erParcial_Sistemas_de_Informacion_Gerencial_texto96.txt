@@ -1,0 +1,4 @@
+texto 96
+
+Sistemas de soporte de decisión.
+Aunque los DSS usan información interna de los TPS y MIS, a menudo obtienen datos de fuentes externas, como los precios actuales de las acciones o los de productos de los competidores. Estos sistemas usan una variedad de modelos para analizar los datos y están diseñados de modo que los usuarios puedan trabajar con ellos de manera directa.

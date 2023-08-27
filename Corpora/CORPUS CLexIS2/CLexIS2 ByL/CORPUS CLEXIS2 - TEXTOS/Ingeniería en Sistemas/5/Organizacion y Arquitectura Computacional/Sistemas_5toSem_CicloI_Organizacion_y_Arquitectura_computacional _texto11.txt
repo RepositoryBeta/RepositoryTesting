@@ -1,0 +1,3 @@
+ texto 11 
+
+Ustedes recuerdan que cuando hacen sus programitas, principalmente cuando compilan un programa ¿Qué pasa? Va pasando secuencialmente las instrucciones, también cuando ustedes les piden hacer un salto a la instrucción es porque ustedes programan para que se cumpla esa condición y de ahí que corra la instrucción, ejemplo si están en la instrucción 50 se vaya a la 100  igual aún sigue habiendo esos tipos de saltos.

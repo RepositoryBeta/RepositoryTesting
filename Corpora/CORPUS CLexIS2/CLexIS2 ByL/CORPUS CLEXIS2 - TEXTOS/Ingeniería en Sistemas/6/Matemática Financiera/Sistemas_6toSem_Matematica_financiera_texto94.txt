@@ -1,0 +1,7 @@
+﻿ texto 94
+Método Americano, bullet o balloon.
+El método americano es un tipo de amortización con una sola cuota de capital al vencimiento del préstamo, que liquida sólo intereses en los periodos de liquidación establecidos (mensual, trimestral).
+Desde el punto de vista financiero es el que menor coste efectivo tiene y puede darse el caso de que el préstamo sea bullet o balloon sólo parcialmente, lo que técnicamente implica tener dos préstamos en uno, uno bullet de una parte del capital, y otro sobre el capital restante con otro método de amortización, sumados en un solo cuadro de amortización.
+
+
+

@@ -1,0 +1,5 @@
+texto 47
+Atomicidad: aseguran que todas las operaciones dentro de la secuencia de trabajo se completen satisfactoriamente. Si no es así, la transacción se abandona en el punto del error y las operaciones previas retroceden a su estado inicial.
+Consistencia: aseguran que la base de datos cambie estados en una transacción exitosa.
+Aislamiento: permiten que las operaciones sean aisladas y transparentes unas de otras.
+Durabilidad: aseguran que el resultado o efecto de una transacción completada permanezca en caso de error del sistema.

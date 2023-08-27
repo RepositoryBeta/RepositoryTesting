@@ -1,0 +1,6 @@
+texto 73
+
+PASO 2: Aplicación de pruebas y herramientas de auditoría para recopilar la información y se asigna un puntaje.
+PASO 3: El valor obtenido en el paso anterior se compara con el valor esperado el que supuestamente deberá cumplir la actividad que estamos evaluando. 
+PASO 4: Después de hacer la comparación se sacan conclusiones para valorar el grado de cumplimiento del sistema que está siendo auditado. 
+

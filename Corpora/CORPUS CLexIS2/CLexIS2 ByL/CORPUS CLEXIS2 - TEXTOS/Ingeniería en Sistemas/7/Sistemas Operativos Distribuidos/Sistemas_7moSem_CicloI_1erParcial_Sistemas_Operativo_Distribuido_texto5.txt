@@ -1,0 +1,3 @@
+﻿Texto 5
+
+Se dan cuenta, yo hice la analogía con Sistemas Operativos, yo creo que es una buena analogía porque prácticamente vemos casi lo mismo, obviamente en otros niveles. Claro está, que cuando trabajamos con computadoras distribuidas en diferentes redes, la comunicación con esa infraestructura puede proveer algún servicio de manera transparente para el usuario y eso se puede sentir un poco complejo, entonces existen muchos sistemas que deben integrarse para dar una solución, conceptualmente nos damos cuenta que necesitamos algo más para unir todas sus sistemas heterogéneos.

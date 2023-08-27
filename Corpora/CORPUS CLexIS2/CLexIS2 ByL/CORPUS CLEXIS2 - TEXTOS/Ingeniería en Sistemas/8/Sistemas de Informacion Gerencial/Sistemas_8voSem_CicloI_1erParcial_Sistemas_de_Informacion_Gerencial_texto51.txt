@@ -1,0 +1,5 @@
+texto 51
+
+Funciones fundamentales de los SI en los negocios:
+Apoyo procesos de negocio.
+Para ayudarse a registrar las compras de los clientes, tener al día el inventario, pagar a los empleados, comprar nuevas mercancías y evaluar las tendencias de las ventas. Las operaciones de las tiendas se detendrían sin el apoyo de dichos sistemas de información.

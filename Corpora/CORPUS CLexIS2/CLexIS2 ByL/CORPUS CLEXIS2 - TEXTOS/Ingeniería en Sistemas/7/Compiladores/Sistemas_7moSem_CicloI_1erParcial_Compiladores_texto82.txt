@@ -1,0 +1,2 @@
+TEXTO 82
+Esto se puede hacer cuando es el lenguaje C, nosotros utilizamos Chart, si lo hacemos en Java se utiliza más el tipo String, cuándo utilizamos ese tipo de elementos de ellos, hacen la búsqueda en la tabla de símbolos, era el tipo del elemento son todos los datos que pertenecen en ella y si es primitivo o no el objeto le puede controlar su uso. Es decir, esto más hace referencia a las declaraciones de variables. Ahora vamos a la direcciones de memoria. 

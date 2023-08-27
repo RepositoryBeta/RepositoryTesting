@@ -1,0 +1,7 @@
+texto 66
+Índices
+No se aconseja en campos que:
+Pertenezcan a tablas pequeñas.
+No se usen a menudo en las consultas.
+Pertenecen a tablas que se actualizan frecuentemente.
+Se utilizan en expresiones.

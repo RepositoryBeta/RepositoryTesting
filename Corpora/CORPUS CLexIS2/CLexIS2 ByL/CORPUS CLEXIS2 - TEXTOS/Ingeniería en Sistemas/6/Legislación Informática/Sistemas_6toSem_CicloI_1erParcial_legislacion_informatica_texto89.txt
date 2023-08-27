@@ -1,0 +1,12 @@
+texto 89
+Pasos para solicitar el certificado de cumplimiento de obligaciones de la superintendencia de compañías, valores y seguros: 
+1) Ingresar a la página a http://www.supercias.gob.ec/portal/.
+2) Escoger la opción (portal de información).
+3) Escoger la opción (sector societario).
+4) Escoger la opción (búsqueda de compañía).
+5) Escoger una de las opciones de parámetros de la compañía e ingresar la información, en este caso su (RUC).
+6) Escoger la opción (CCO).
+7) Imprimir certificado.
+Aquí se le va a entregar el certificado de cumplimiento de obligaciones de la superintendencia de compañías, valores y seguros, si le piden este documento hay que seguir estos pasos.
+
+

@@ -1,0 +1,3 @@
+﻿texto 48
+
+Tipos de muestreo, como le había dicho nosotros teníamos lo siguiente. Los criterios diferentes, clasificación de los diferentes tipos de muestreo. Aunque general pueden dividirse en dos grandes grupos los muestreos probabilísticos y muestreos no probabilísticos, en este curso vamos a analizar los muestreos probabilísticos son aquellos que se basan en principios de equiprobabilidad es decir la probabilidad de que salga un elemento tal como muestreo aleatorio simple.

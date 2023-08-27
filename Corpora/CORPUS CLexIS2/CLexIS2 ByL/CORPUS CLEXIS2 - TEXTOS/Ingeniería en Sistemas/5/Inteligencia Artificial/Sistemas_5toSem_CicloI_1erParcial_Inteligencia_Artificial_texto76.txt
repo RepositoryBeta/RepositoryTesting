@@ -1,0 +1,4 @@
+texto 76
+
+Continuando con la clasificación, ahora tenemos, métodos de búsqueda por entorno, realmente este método se basa en las que se parte de una solución inicial a la que se realizan modificaciones en sucesivas iteraciones para obtener una solución final. En cada iteración existe un conjunto de soluciones vecinas candidatas a ser nueva solución en el proceso. En este grupo se encuadran las técnicas metaheurísticas.
+

@@ -1,0 +1,4 @@
+texto 53
+
+NAC para BYOD
+El crecimiento exponencial en los dispositivos móviles ha liberado a la fuerza laboral de los escritorios y les ha dado a los empleados la libertad de trabajar de forma remota desde sus dispositivos móviles. NAC para BYOD garantiza la adecuación de todos los dispositivos propiedad de los empleados antes de que accedan a la red.

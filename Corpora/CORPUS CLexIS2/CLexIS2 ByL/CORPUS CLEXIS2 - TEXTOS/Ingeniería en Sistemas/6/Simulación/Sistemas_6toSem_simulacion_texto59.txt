@@ -1,0 +1,3 @@
+﻿texto 59
+
+Los investigadores también emplean un muestreo aleatorio estratificado cuando quieren observar relaciones entre dos o más subgrupos con la técnica de muestreo aleatorio simple, el investigador no está seguro de si los subgrupos que quiere observar, son representados equitativa y proporcionalmente dentro de la muestra. Con el muestreo estratificado, el investigador puede probar de forma representativa hasta a los subgrupos más pequeños y más inaccesibles de la población esto permite que los investigadores prueben a los extremos de la población.

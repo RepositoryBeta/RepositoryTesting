@@ -1,0 +1,6 @@
+﻿Texto 81
+
+Todo el procesador en multiprocesamiento simétrico tiene la misma arquitectura.
+Todos los procesadores se comunican con otro procesador mediante una memoria compartida.
+Si un procesador falla, la capacidad de conmutación del sistema se reduce.
+El multiprocesador simétrico es complejo ya que todos los procesadores deben sincronizarse para mantener el equilibrio de carga.

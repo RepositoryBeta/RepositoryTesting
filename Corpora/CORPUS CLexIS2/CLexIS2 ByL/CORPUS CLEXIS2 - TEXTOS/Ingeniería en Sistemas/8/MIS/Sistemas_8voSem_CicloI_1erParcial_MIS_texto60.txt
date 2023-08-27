@@ -1,0 +1,4 @@
+texto 60
+
+Son útiles para acelerar las consultas simples contra grandes volúmenes de datos estructurados y no estructurados, ya sea en web, social media, gráficos y demás formas de datos difíciles de analizar con herramientas tradicionales basadas en SQL. Existen varios tipos distintos de base de datos NOSQL, cada una con sus propias características técnicas y comportamiento.
+

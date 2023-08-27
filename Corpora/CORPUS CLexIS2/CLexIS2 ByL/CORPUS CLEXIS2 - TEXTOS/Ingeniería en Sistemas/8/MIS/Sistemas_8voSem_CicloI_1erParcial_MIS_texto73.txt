@@ -1,0 +1,4 @@
+texto 73
+
+De acuerdo con la empresa de investigación de tecnología international Data Center (IDC), se duplican con creces cada dos años, por lo que la cantidad de datos disponibles para las organizaciones está aumentando en forma indiscriminada. A las empresas les interesan los Big Data debido a que pueden revelar más patrones y anomalías interesantes que los conjuntos de datos más pequeños, con el potencial de proveer nuevas perspectivas en cuanto al comportamiento de los clientes.
+

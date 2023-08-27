@@ -1,0 +1,7 @@
+texto 68
+
+Estándares y procedimientos.
+Son documentos que viendo las acciones  y clarifican expectativas, evitando la mayoría si no es que todos los errores.
+Su aparente inexpresividad y la dificultad de mantenerla actualizada es una característica muy propia de los estándares y procedimientos.
+
+

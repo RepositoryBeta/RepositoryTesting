@@ -1,0 +1,3 @@
+TEXTO 19
+
+Yo tengo que saber identificar si tenemos que compilar a nivel de persona. Ósea, en este caso el usuario pero yo la máquina esto lo hace en un dos por tres, ahora, la estructura jerárquica en teoría suele describirse mediantes reglas recursivas. Por ejemplo, si  tuviésemos las siguientes reglas como parte de la definición de lo que es una expresión donde dice primera regla cualquier identificador constituye una expresión. Ya esa es la primera regla, segunda regla cualquier constante entera constituye una expresión. Si la expresión uno y la expresión dos son dos expresiones también lo serán, esa es la tercera regla. 

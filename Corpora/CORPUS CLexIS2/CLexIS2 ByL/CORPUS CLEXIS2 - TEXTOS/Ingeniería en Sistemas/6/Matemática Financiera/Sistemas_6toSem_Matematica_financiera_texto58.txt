@@ -1,0 +1,5 @@
+﻿texto 58
+Que es el VAN
+El VAN o Valor Actual Neto, se conoce a esta herramienta financiera como la diferencia entre el dinero que entra a la empresa y la cantidad que se invierte en un mismo producto para ver si realmente es un producto (o proyecto) que puede dar beneficios a la empresa.
+El VAN cuenta con una tasa de interés que se llama tasa de corte y es la que se usa para actualizarse constantemente. Dicha tasa de corte, la da la persona que va a evaluar dicho proyecto y que se hace en conjunto con las personas que van a invertir.
+

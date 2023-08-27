@@ -1,0 +1,5 @@
+﻿Texto 23
+
+¿Cuál es la diferencia entre una API y un servicio?
+
+La API es como la parte externa para brindar el servicio, la vía que se usa para la comunicación, para atender la petición para dar el servicio. Cuando nosotros hablamos de servicio, hablamos de que un software cura la necesidad de negocio y en realidad debe tener un contrato de servicio bien definido. 

@@ -1,0 +1,4 @@
+﻿texto 55
+
+Otra característica clave del muestreo aleatorio simple es la representatividad de la población. En teoría, lo único que puede poner en peligro su representatividad es la suerte si la muestra no es representativa de la población, la variación aleatoria es denominada error de muestreo.
+Para sacar conclusiones de los resultados de un estudio son importantes una selección aleatoria imparcial y una muestra representativa.

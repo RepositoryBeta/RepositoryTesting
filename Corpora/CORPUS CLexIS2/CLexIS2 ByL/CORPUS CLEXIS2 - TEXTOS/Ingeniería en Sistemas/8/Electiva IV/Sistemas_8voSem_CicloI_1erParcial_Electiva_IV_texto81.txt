@@ -1,0 +1,6 @@
+texto 81
+
+Propiedades de los elementos de un activity. Dentro de estas propiedades tenemos: 
+1) CSS padding: Establece el espacio de relleno requerido por todos los lados de un elemento. El área de padding es el espacio entre el contenido del elemento y su borde (border) no se permiten valores negativos.
+2) Text: Cambiar texto para mostrar.
+3) Id: Cambiar el id del elemento.

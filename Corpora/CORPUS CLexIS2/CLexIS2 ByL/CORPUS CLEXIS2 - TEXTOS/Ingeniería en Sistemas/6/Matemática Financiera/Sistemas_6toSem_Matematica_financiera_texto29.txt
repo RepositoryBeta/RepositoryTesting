@@ -1,0 +1,13 @@
+﻿texto 29
+La fórmula para calcular el valor futuro de una inversión es la siguiente: 
+VF = VA (1 + i)^n
+Fórmula de Valor Presente y Futuro con Interés Simple
+La fórmula del interés simple es utilizada cuando el interés total pagado al final es igual al interés multiplicado por el número de periodos:
+VF: Valor futuro (valor final, capital final).
+VP: Valor Presente (valor actual, valor inicial, capital inicial).
+n: tiempo (número de periodos).
+i: tasa de interés.
+VF = VP *( 1 + i * n) .
+
+
+

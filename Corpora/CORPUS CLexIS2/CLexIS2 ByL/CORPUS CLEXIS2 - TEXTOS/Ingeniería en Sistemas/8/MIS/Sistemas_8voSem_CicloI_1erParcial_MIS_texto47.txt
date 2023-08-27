@@ -1,0 +1,4 @@
+texto 47
+
+El uso de una metodología tradicional para el procesamiento de archivos impulsada a cada área funcional en una corporación a desarrollar aplicaciones especializadas. Cada aplicación requiere un archivo de datos único que probablemente sea un subconjunto del archivo maestro. Estos subconjuntos producen redundancia e inconsistencia en los datos, inflexibilidad en el procesamiento y desperdicio de los recursos de almacenamiento.
+

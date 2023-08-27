@@ -1,0 +1,7 @@
+texto 33
+
+Consideraciones:
+1) Durante la instalación se tiene que indicar también las rutas donde se quiere instalar tanto Android estudio como el sdk de Android.
+2) (I do not have a previous version) para una instalación nueva y sigue las indicaciones.
+3) Tiene que decidir el tema visual que utilizará la aplicación.
+4) Seleccione los componentes a instalar.

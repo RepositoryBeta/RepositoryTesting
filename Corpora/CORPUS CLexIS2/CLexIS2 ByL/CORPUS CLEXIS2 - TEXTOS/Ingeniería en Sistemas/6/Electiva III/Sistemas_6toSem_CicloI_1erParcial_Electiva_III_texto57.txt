@@ -1,0 +1,5 @@
+texto 57
+
+Los esquemas en estrella están compuestos por una tabla de hechos y varias tablas de dimensiones alrededor de ella, adquiriendo la característica forma de estrella que da nombre al esquema:
+La tabla de hechos contiene los índices y las métricas sobre los eventos de una empresa que se deben registrar de forma continua (el volumen de ventas, por ejemplo).
+Las tablas de dimensiones contienen atributos que describen los datos de la tabla de hechos. Se trata así de un conjunto de datos de referencia para los eventos registrados en la tabla de hechos.

@@ -1,0 +1,3 @@
+texto 89
+
+Entonces, cuando hablamos en el ciclo de búsqueda de la instrucción y de la decodificación, vemos que ahí tenemos que dentro del ciclo de búsqueda está la búsqueda de instrucción y esta la decodificación de la instrucción, en el ciclo de búsqueda tenemos ciertos pasos que nos guían tenemos: búsqueda de instrucción, decodificación de instrucción, búsqueda de operandos, ejecución de operación,  almacenamiento de resultados, siguiente instrucción.

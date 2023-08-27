@@ -1,0 +1,3 @@
+TEXTO 37 
+
+Pone la sección, estas son palabras que usan en ese momento el compilador pero es propio del lenguaje, utiliza una variable lc1 y le han dicho que va a ser .long  y le da de una vez el valor de .long y aquí está almacenando la constante 23. Esto que está aquí es parte de la programación es decir ¿Cómo es que internamente la memoria le va a almacenando? No sé si en algún momento en la programación le dijeron vamos a ver el valor de la memoria interna y usted obtenía o tenía el valor de la memoria, para los que se acuerdan todo equipo tiene una memoria y dentro de la memoria tiene valores. 

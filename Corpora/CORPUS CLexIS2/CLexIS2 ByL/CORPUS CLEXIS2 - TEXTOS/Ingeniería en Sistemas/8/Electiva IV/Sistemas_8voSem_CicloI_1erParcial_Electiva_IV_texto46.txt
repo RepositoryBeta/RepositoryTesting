@@ -1,0 +1,4 @@
+texto 46
+
+Android: Contenidos principales del módulo.
+Tenemos la dirección de la siguiente carpeta: Carpeta / app / src / main / res / drawable, esta carpeta contiene las imágenes y otros elementos gráficos usados por la aplicación. Para poder definir diferentes recursos, dependiendo de la resolución y densidad de la pantalla del dispositivo, se suele dividir en varias subcarpetas.

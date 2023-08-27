@@ -1,0 +1,4 @@
+texto 63
+
+Como las imágenes de los registros de salud y certificados de defunción. La base de datos NOSQL es capaz de ingerir información estructurada, semiestructurada y no estructurada sin requerir una asignación de base de datos tediosa, costosa y que consuma mucho tiempo. Amazon y otro distribuidores de computación en la nube también proporciona el servicio de base de datos relacionales.
+

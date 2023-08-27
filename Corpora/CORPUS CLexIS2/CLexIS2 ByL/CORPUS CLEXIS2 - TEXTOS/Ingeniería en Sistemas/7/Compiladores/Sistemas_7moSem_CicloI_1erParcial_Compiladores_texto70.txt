@@ -1,0 +1,3 @@
+TEXTO 70
+
+Tenemos el 3.4 ¿Qué es el generador de analizador sintáctico?: Es un generador de analizadores, no estaba utilizando el analizador léxico en la herramienta Flex. Por medio de ese analizador Flex también tenemos el componente del yacc ,hacer el analizador sintáctico, ese programa lo toma como entrada la especificación de la sintaxis del lenguaje de una forma que produce su salida del procedimiento de análisis sintáctico producido por la herramienta. 

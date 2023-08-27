@@ -1,0 +1,6 @@
+texto 45
+
+Administración de eventos e información de seguridad
+Los productos SIEM reúnen la información que el personal de seguridad necesita para identificar y responder a las amenazas. 
+Estos productos tienen diferentes formas que incluyen dispositivos virtuales y físicos y software de servidor.
+

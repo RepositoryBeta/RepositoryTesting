@@ -1,0 +1,4 @@
+texto 14
+
+Miren en muchos problemas específicos han surgido procedimientos heurísticos exitosos, de los que se ha tratado de extraer lo que es esencial en su éxito para aplicarlo a otros problemas o en contextos más extensos. Como ha ocurrido claramente en diversos campos de la IA, en especial con los sistemas expertos, esta línea de investigación ha contribuido al desarrollo científico del campo de las heurísticas y a extender la aplicación de sus resultados.
+

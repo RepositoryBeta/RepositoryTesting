@@ -1,0 +1,5 @@
+texto 72 
+
+Mantenimiento de los datos: en el nivel de mantenimiento de datos, el DWH manager supervisa la carga de la memoria, construye tablas de agregación y ejecuta operaciones de archivado y de copia de seguridad.
+Entrega de los datos: las funciones de administración en este nivel incluyen la gestión de los usuarios y la supervisión de la duración de ejecución de las consultas.
+Gestión de los metadatos: el repositorio de metadatos es un componente central de todo almacén de datos porque contiene toda la información necesaria para su construcción y funcionamiento, así como todo tipo de información sobre el volumen de datos que guarda. 

@@ -1,0 +1,3 @@
+texto 30
+
+Que les permiten conocer los detalles de implementación de los métodos y algoritmos de minería de datos y machine learning. Los científicos de datos se dedican a resolver problemas con casuísticas complejas, muchas veces de problemas ad hoc que requieren un análisis y dedicación profundo. Deben de ser capaces de hacer investigación y conocer el estado del arte en los temas de minería de datos y machine learning, ya que la optimización de los algoritmos mediante la parametrización (fine-tunning) es una de sus responsabilidades.

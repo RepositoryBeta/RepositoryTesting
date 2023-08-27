@@ -1,0 +1,5 @@
+texto 80
+
+¿Python es orientada a objetos?
+Es una forma especial de programar, más cercana cómo expresaríamos las cosas en la vida real que la llamada programación estructurada. Con la POO tenemos que aprender a pensar las cosas de una manera distinta, para escribir nuestros programas en términos de objetos, propiedades y métodos. Antes se utilizaba programación estructurada que se basaba en algo que era lineal.
+

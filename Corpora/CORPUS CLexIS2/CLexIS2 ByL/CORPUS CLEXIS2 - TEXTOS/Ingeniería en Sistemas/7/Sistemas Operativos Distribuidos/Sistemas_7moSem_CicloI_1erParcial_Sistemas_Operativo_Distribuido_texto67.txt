@@ -1,0 +1,3 @@
+﻿Texto 67
+
+La idea de Hadoop es poder distribuir los datos, teniendo la capacidad de paralelizar el tratamiento de los datos de forma que cada nodo de nuestro clúster de máquina procese una parte de los datos porque de esta forma ganamos velocidad, también es un proceso eficiente porque consigue procesar los datos en poco tiempo, es un framework económico porque es fácilmente escalable de manera horizontal por si se nos queda pequeño podamos añadir un nuevo nodo que lo agregaremos a nuestro clúster de máquina y no tengamos problema.

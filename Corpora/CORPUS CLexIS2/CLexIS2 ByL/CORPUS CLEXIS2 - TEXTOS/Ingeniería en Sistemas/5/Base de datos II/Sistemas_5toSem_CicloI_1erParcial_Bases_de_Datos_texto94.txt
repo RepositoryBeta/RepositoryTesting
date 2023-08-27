@@ -1,0 +1,3 @@
+texto 94
+MONGODB: Guarda estructuras de datos BSON con un esquema dinámico,haciendo la que la integración de los datos en ciertas aplicaciones sea más fácil y rápida. Es utilizada EA, Verizon, Ebay, Sega, Google y Adobe, entre otros.
+COUCHDB: Esta base se enfoca en la facilidad de su uso. Emplea JSON para almacenar datos, Javascript como lenguaje de consulta por medio de Mapreduce y HTTP como API. Una de sus características más peculiares es la facilidad con la que permite hacer replicaciones.

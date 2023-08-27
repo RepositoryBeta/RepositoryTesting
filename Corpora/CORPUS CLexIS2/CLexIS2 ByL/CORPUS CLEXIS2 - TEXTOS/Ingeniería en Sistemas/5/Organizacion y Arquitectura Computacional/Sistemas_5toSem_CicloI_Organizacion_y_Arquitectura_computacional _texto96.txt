@@ -1,0 +1,5 @@
+texto 96
+
+Operando de salida: Si el operando de salida está en la memoria, la unidad de control utiliza una operación de escritura para almacenar los datos. 
+Ciclo de Búsqueda - Decodificación - Ejecución
+Período que tarda la unidad central de proceso (CPU) en ejecutar una instrucción de lenguaje máquina, comprende una secuencia de acciones determinada que debe llevar a cabo la CPU para ejecutar cada instrucción en un programa.

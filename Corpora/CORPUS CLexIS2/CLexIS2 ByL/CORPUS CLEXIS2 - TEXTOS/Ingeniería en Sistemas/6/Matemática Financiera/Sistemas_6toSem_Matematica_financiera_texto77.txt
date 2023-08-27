@@ -1,0 +1,4 @@
+﻿texto 77
+Esto sólo se aplica a la amortización parcial, ya que en la amortización total se da de baja definitiva a la deuda en cuestión.
+Amortización parcial en forma de tiempo: Se trata de cancelar una parte del préstamo en forma de adelanto temporal. Es decir, de un préstamo que tiene fecha de vencimiento en diez años, se pasa por ejemplo a los 5 años, ya que se ha amortizado el 50% del total de la deuda. En cambio, la cuota sigue siendo la misma.
+

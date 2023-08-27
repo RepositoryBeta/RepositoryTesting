@@ -1,0 +1,4 @@
+texto 16
+
+Las metaheurísticas pueden integrarse como un sistema experto para facilitar su uso genérico a la vez que mejorar su rendimiento. Se describirán los fundamentos que permiten establecer, partiendo de la noción de heurística, el concepto de metaheurística y se establece una primera clasificación de las metaheurísticas a partir de los diferentes tipos de procedimientos heurísticos para los que establecen pautas de diseño. La idea más genérica del término heurístico está relacionada con la tarea de resolver inteligentemente problemas reales usando el conocimiento disponible. 
+

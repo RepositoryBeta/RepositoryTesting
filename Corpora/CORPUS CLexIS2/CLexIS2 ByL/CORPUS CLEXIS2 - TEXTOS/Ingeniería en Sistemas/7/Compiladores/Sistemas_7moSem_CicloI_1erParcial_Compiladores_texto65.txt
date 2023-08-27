@@ -1,0 +1,3 @@
+TEXTO 65
+
+El día de hoy vamos a conocer un poco más sobre las expresiones regulares, los tokens, patrón, lexema, el generador de analizador léxico Flex. Las expresiones regulares son patrones de coincidencia de textos escritos con una sintaxis formal. Esos patrones que interpretan como un conjunto de instrucciones los ejecuta en una cadena de entrada para producir un subconjunto de coincidencias en base a la versión notificada. 

@@ -1,0 +1,9 @@
+texto 47
+
+Android: Contenidos principales del módulo. Dentro de la carpeta drawable existen varias subcarpetas.
+1) / drawable (recursos independientes de la densidad).
+2) / drawable-ldpi (densidad baja).
+3) / drawable-mdpi (densidad media). 
+4) / drawable-hdpi (densidad alta). 
+5) / drawable-xxhdpi (densidad muy alta). 
+6) / drawable-xxxhdpi (densidad muy muy alta). 

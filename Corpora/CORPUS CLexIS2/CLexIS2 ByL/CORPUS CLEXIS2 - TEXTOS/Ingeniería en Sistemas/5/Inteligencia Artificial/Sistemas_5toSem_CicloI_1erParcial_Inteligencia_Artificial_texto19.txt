@@ -1,0 +1,4 @@
+texto 19
+
+Pero en inglés es sumamente sencillo hacer esto, justamente porque a diferencia del idioma español donde hay acentos, el yo, tú, él, hay bastantes reglas gramaticales, demasiadas jergas, por ejemplo conjugar el verbo jugar en español no es lo mismo que conjugarlo en inglés, donde no existe tanta diversidad en la conjugación, hacer un chatbot es sumamente sencillo, pero en español tengo que tener en cuenta las conjugaciones, si queremos hacer un chatbot muy inteligente.
+

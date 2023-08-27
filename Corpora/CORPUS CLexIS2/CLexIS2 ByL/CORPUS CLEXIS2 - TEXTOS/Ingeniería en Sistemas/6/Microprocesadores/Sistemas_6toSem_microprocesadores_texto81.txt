@@ -1,0 +1,7 @@
+texto 81
+
+Un tipo especial de variables de este tipo son las variables estáticas que son variables permanentes cuyo nombre es local a uno o varios procedimientos. 
+Las variables estáticas conservan su valor aunque el procedimiento retorne ya que también se almacenan en el área global.
+Automáticas: son variables cuya vida es, como máximo, el tiempo de ejecución del procedimiento donde se han definido. Los nombres de estas variables son locales a ese procedimiento. 
+
+

@@ -1,0 +1,4 @@
+﻿texto 41
+
+Determinación del tamaño de muestra investigación cuantitativa 
+Los factores que determinan el tamaño de la muestra son: Distribución de la población, está el nivel de confianza, y el margen de error permitido la distribución de la población es de es N grande el nivel de confianza es Z de Alfa medios y el margen de error permitido es ahí dónde están los tres elementos pero por supuesto aquí falta algo en este caso la varianza.

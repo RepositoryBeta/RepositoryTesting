@@ -1,0 +1,6 @@
+﻿Texto 80
+
+Diferencia entre procesamiento simétrico vs asimétrico
+En el Multiprocesamiento simétrico tenemos:
+Cada procesador ejecuta las tareas en el sistema operativo.
+El procesador toma los procesos de una cola preparada común o puede haber una cola preparada privada para cada procesador.

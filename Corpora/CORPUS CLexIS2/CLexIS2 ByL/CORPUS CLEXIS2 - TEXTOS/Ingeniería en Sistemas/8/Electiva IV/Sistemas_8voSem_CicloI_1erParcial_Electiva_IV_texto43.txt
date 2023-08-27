@@ -1,0 +1,3 @@
+texto 43
+
+Cada una de estas imágenes, LDPI, MDPI, HDPI, XXHDPI, XXXHDPI, son categorías de DPI en Android, tienen que ver con el resultado, en este caso con el tamaño de píxeles, nosotros podemos visualizar que el HDPI es donde van las imágenes más pequeñas, esto es para proporcionar los recursos gráficos necesarios para las diferentes densidades de pantalla, así tenemos que el DPI pueda asegurar su adaptabilidad a la pantalla de cualquier terminal.

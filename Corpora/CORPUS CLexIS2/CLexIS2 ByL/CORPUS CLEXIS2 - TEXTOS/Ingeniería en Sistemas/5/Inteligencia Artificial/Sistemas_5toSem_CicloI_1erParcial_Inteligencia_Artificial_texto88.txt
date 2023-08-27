@@ -1,0 +1,8 @@
+texto 88
+
+La GLS es una alternativa a búsqueda local para hacerlo de forma más efectiva, de los cuales constan los siguientes elementos: 
+1) Solución inicial.
+2) Parámetros de penalizaciones.
+3) Parámetros de regularización.
+4) Una función indicatriz.
+

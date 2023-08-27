@@ -1,0 +1,4 @@
+texto 54
+
+Android: Contenidos principales del módulo.
+Así mismo tenemos otra carpeta donde está las libs, esta se encuentra en la siguiente dirección, Carpeta / app / libs, esta carpeta puede contener las librerías externas que utilice nuestra aplicación. Normalmente no incluiremos directamente aquí ninguna librería, sino que haremos referencia a ellas en el fichero build, de forma que entren en el proceso de compilación de nuestra aplicación.

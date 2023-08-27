@@ -1,0 +1,6 @@
+texto 81
+
+Etapas del KDD.
+Las interacciones entre las Decisiones tomadas en diferentes pasos, así como los parámetros de los métodos utilizados Y la forma de representar el problema suelen ser extremadamente complejos.
+Generalmente se consideran las siguientes etapas en el proceso:
+1) Selección de datos. Consiste en buscar el objetivo y las herramientas del proceso de minería, identificando los datos que han ser extraídos, buscando los atributos apropiados de entrada y la información de salida para representar la tarea. Esto quiere decir, primero se debe tener en cuenta lo que se saber lo que se quiere obtener y cuáles son los datos que nos facilitarán esa información para poder llegar a nuestra meta, antes de comenzar el proceso en tal.

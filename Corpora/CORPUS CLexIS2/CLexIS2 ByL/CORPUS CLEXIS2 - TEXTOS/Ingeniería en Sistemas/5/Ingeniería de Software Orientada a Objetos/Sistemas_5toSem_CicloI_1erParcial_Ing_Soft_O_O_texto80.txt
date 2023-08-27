@@ -1,0 +1,2 @@
+TEXTO 80
+Documento de análisis de requerimientos: ¿Para qué sirve?: El documento de requerimientos de software es el lugar donde se da descripción a las características y requisitos de un software, producto, programa o conjunto de programas. Los requisitos se expresan en lenguaje natural, sin consideraciones, ni términos técnicos. Se utiliza para plasmar todos los tipos de requerimientos o necesidades que debe cumplir el software.

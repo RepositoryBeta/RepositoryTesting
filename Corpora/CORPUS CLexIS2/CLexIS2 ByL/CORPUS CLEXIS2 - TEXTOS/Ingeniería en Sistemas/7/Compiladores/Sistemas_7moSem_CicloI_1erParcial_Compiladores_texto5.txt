@@ -1,0 +1,3 @@
+TEXTO 5
+
+Sí, ese sería la diferencia ya dado eso el análisis del programa fuente se puede describir en tres tipos:  tenemos el análisis lineal, el jerárquico y el semántico  o también dicho de restricciones contextual.  el lineal Y como decía su compañero que se leer izquierda derecha y hay algo que le llaman tokens. ¿Qué era los tokens? A ver ¿Quién recuerda? eso también lo vimos la semana pasada. Un conjunto de caracteres, ummm más o menos ahí, vamos a ver más adelante y un ejemplo más real.

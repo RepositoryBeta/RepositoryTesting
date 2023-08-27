@@ -1,0 +1,6 @@
+texto 31
+
+Existen ciertas características de los DSS, entre ellas tenemos:
+1) Suelen introducirse después de haber implantado sistemas transaccionales más relevantes de la empresa, ya que los transaccionales constituyen su plataforma de información.
+2) La información que generan sirve de apoyo a los mandos intermedios y a la alta administración en el proceso de toma de decisiones.
+

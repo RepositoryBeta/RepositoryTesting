@@ -1,0 +1,9 @@
+texto 95
+
+Los procesos anteriormente señalados son conjunto detallado y bien diseñado de proceso que corresponden a un primer paso en la administración de un centro de cómputo luego se deben desarrollar políticas para que los procesos sean seguidos.
+Por ejemplo, un proceso de administración interacciones puede tener las siguientes políticas.
+- Administración de activos.
+- Limpieza física del centro de procesamiento de datos.
+
+
+

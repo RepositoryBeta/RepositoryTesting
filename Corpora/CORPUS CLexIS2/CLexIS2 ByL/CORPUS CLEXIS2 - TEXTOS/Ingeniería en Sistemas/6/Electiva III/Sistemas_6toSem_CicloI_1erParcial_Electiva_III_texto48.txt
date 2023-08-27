@@ -1,0 +1,3 @@
+texto 48
+
+Archivos de protocolo: si un sistema operacional no soporta la tecnología de disparadores, el nivel de recolección de datos puede contener programas capaces de examinar los archivos de protocolo o logs del sistema de origen y extraer las operaciones que han registrado. Programas de monitorización: si no se cuenta con disparador ni con archivos de protocolo, suelen utilizarse programas de supervisión que extraen los cambios en los datos de un sistema operacional, a partir de algoritmos que generan snapshots de los datos periódicamente y los comparan con los anteriores.

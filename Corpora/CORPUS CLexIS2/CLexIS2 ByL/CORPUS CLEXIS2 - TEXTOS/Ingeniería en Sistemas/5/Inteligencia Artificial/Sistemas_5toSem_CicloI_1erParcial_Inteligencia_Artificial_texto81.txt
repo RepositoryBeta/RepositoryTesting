@@ -1,0 +1,4 @@
+texto 81
+
+Popmusic, el término Popmusic proviene del término Partial Optimization Metaheuristic Under Special Intensification Conditions (Optimización parcial metaheurística en condiciones especiales de intensificación). ¿Cuando fue creado y por quién (es)? Esta metaheurística Popmusic fue desarrollada en el 2001 por: Éric Taillard y Stefan Voss. El concepto se basa en la división de un problema en partes, de tal forma que cada parte que se utiliza localmente por separado, mejorando (en general) la solución global.
+

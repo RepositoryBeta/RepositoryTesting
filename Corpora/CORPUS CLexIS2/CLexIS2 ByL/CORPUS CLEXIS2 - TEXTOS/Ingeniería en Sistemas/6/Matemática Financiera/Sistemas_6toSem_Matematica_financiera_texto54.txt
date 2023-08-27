@@ -1,0 +1,7 @@
+﻿texto 54
+Una anualidad tiene dos valores:
+1. El valor final: Todos los pagos son traslados al final de la anualidad. El valor final se representa por el símbolo S, n, i, en el cual la:
+S = Valor final.
+n = Número de pagos.
+i = Tasa de interés.
+

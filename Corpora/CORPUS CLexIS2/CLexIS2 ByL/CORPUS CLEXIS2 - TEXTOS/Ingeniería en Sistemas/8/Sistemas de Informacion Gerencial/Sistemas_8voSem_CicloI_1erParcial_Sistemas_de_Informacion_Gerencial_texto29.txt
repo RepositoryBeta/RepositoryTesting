@@ -1,0 +1,8 @@
+texto 29
+
+Actividades de un sistema de información:
+Hay tres actividades en un sistema de información que producen los datos necesarios para que las organizaciones tomen decisiones, controlen las operaciones, analicen problemas y creen nuevos productos o servicios.
+1) Entrada.
+2) Procesamiento, Clasificar, Ordenar y Calcular.
+3) Salida.
+4) Retroalimentación.

@@ -1,0 +1,4 @@
+texto 27
+
+¿Quién cree que hace los software de computación de los médicos?, los encargados de realizar sistemas, los informáticos, ¿Los informáticos sabemos de medicina?, no, la mayoría no lo sabe, pero hacer un software para medicina y que obviamente me ayude con soluciones, obviamente ya estamos hablando de informática médica, se pueden realizar programas o software para medir las temperaturas, detectar células cancerígenas.
+

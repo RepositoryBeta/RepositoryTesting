@@ -1,0 +1,4 @@
+texto 43
+
+Tomamos en cuenta las razones financieras, estudian en los semestres anteriores en donde tomamos en cuenta la rotación de inventarios, saldo promedio de inventarios en días, rotación de clientes y plazas de promedio de clientes y rotación de proveedores Plazo de promedio de proveedores.
+También tenemos lo que es el ciclo operativo que se define simplemente como el tiempo de promedio que transcurre entre la compra inicial de la empresa de inventarios y la recolección de fondos en efectivos de las ventas inventarios, comprender la duración del ciclo de operación es esencial ya que afecta a la cantidad de dinero que la empresa tienen su disposición para cumplir las obligaciones a corto plazo.

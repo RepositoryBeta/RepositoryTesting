@@ -1,0 +1,4 @@
+texto 100
+
+Sistemas de apoyo a ejecutivos.
+Dichos sistemas incluyen cada vez en mayor grado los análisis de inteligencia de negocios para examinar tendencias, realizar pronósticos y desglosar los datos para obtener mayores niveles de detalle. La información se presenta en forma de un tablero de control digital, el cual muestra en una sola pantalla gráficos y diagramas de los indicadores clave del desempeño para administrar una compañía. Los tableros de control digitales se están convirtiendo en una herramienta cada vez más popular para los encargados de tomar decisiones gerenciales.

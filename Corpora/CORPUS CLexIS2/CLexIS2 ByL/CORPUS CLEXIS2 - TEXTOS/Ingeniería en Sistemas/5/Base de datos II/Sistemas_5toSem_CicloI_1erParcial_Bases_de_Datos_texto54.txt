@@ -1,0 +1,3 @@
+texto 54
+REAL; 4 bytes: Un valor de coma flotante de precisión simple con un intervalo comprendido entre – 3,402823E38 y – 1,401298E-45 para valores negativos, y desde 1,401298E-45 a 3,402823E38 para valores positivos, y 0.
+FLOAT; 8 bytes: Un valor de coma flotante de precisión doble con un intervalo comprendido entre – 1,79769313486232E308 y – 4,94065645841247E-324 para valores negativos, y desde 4,94065645841247E-324 a 1,79769313486232E308 para valores positivos, y 0.

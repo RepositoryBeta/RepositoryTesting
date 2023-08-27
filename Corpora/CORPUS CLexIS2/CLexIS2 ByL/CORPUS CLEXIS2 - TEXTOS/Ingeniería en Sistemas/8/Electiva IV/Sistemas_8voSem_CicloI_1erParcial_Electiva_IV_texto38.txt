@@ -1,0 +1,3 @@
+texto 38
+
+Entonces, entenderemos por ahora que una actividad es una ventana o pantalla de la aplicación. Nos vamos a manejar con este término que es activity. Seleccionaremos Empty activity, que es el tipo más sencillo. Es el que no tiene nada, también hay uno con barra de navegación, tenemos uno con un botoncito, se indicará los datos asociados a esta actividad principal que se acaba de elegir, indicando el nombre de su clase ya va asociada (Activity Name) el nombre de su layout xml. Puede optar por dejar los valores por defecto.

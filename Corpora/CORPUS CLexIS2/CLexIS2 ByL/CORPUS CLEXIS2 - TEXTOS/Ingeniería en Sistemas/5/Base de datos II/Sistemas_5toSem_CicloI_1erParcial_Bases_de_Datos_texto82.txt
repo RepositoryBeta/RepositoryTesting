@@ -1,0 +1,6 @@
+texto 82  
+Tipos de Bases de Datos NOSQL
+Ya conocimos algunos nombres famosos de las Bases de Datos NOSQL, pero es importante destacar que existe una clasificación que debemos conocer para entender cómo estas BBDD están construidas y nos pueden ser de utilidad. Veamos cuales son las principales clasificaciones:
+Bases de datos documentales
+Una base de datos documental u orientada a documentos, es un tipo de BBDD NOSQL que orienta su funcionamiento a datos alojados en documentos o tiendas de documentos. 
+Estas bases de datos se utilizan para almacenar, recuperar y administrar datos semiestructurados.

@@ -1,0 +1,8 @@
+﻿texto 55
+Otra simbología muy utilizada es (F / A, n, i) que significa valor futuro dada una anualidad de n periodos a la tasa i.
+Para plantear la ecuación de valor, se aplica la fórmula:
+S = p ( 1 + i ) n
+A cada pago, pero, en cada caso, p = 1. 
+
+
+

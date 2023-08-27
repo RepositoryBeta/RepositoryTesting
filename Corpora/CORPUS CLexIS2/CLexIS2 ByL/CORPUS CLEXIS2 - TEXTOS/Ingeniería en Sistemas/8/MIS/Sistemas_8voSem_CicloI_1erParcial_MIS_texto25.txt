@@ -1,0 +1,4 @@
+texto 25
+
+En el sentido de tener grandes bases de datos donde pueda almacenarse y también tener un servidor que trabaje totalmente, que tenga cero fallas, para que pueda procesarlo en línea la información, todo lo que ingresa y egresa por los bancos, en cajeros automáticos, en ventanillas, en la línea de banred, en las transacciones interbancarias a nivel mundial, todo eso sólo para saber el ingreso y egreso, definir el canje bancario que es entregado la superintendencia de bancos.
+

@@ -1,0 +1,2 @@
+TEXTO 9
+¿Qué son tipos de datos, clases, objetos, relación entre objetos, eventos y mensajes? Para esto. ¿Qué es un tipo de dato? Es una abstracción en el contexto de un lenguaje de programación, tiene un nombre único que lo distingue con respecto a otros tipos. Este mismo, tiene un propósito y como ejemplo pueden poner: nombre int java, no son datos de entrada, datos de salida como se solía conocer antes, ya son una abstracción de un objeto.

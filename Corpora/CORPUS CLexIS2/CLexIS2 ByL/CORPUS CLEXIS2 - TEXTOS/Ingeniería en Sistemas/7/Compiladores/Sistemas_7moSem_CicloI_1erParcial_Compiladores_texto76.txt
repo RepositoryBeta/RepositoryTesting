@@ -1,0 +1,2 @@
+TEXTO 76
+Tipos de analizadores: Dentro de estos tipos de analizadores, también obtenemos el analizador de abajo hacia arriba. El analizador de abajo hacia arriba: El analizador ascendente comienza con el símbolo de la cadena de entrada e intenta establecer relaciones sintácticas cada vez mayores. Esto se hace hasta que el símbolo de inicio de la gramática se ha alcanzado. A diferencia del otro tipo de analizador su principal característica es su inversa a relación del otro analizador.

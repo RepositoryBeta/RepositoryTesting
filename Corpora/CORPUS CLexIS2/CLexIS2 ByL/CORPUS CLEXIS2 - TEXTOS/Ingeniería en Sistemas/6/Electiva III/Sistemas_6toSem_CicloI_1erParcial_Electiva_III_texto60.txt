@@ -1,0 +1,4 @@
+texto 60
+
+Nota:
+En función de la tecnología que fundamenta el DWH maestro se puede diferenciar entre diversos métodos de OLAP. Si un cubo de datos toma sus datos de una base de datos relacional se habla de un ROLAP u OLAP relacional, mientras que los cubos basados en bases de datos multidimensionales se llaman MOLAP (OLAP multidimensional).

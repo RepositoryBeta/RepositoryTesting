@@ -1,0 +1,4 @@
+texto 24
+
+Caso 1: Aplicaciones móviles basadas en su contexto.
+Tenemos el aprendizaje de idiomas como apoyo a usuarios que viven en países extranjeros, aplicación Android se enfoca en estudiantes interesados en programas de intercambio entre estos dos países, la aplicación sugiere vocabulario, frases oraciones que son útiles para el usuario, considerado atributos tales como el género del usuario, la geolocalización y el lenguaje nativo. De repente usted quiere aprender alemán, entonces usted se adapta a lo que necesita.

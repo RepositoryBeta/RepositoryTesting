@@ -1,0 +1,3 @@
+TEXTO 7
+
+Pero, con la diferencia que ustedes van a estructurar este lenguaje.  entonces ya van conociendo palabras nuevas léxico, tokens palabras si de pronto se les dificulta yo le hago la recomendación anoté en su cuaderno lo anotan la palabra y luego como que ya lo buscan el significado. Para que usted refuerce, entonces decíamos que el análisis fuente tiene los tres tipos de análisis no verdad, entonces aquí hay un ejemplo,  tenemos el programa Fuente,  donde el analizador léxico o línea lo escanea, el jerárquico hace con la metodología  (parser) ,el analizador semántico donde indica el analizador de restricciones de contexto y maneja una tabla de símbolo. 

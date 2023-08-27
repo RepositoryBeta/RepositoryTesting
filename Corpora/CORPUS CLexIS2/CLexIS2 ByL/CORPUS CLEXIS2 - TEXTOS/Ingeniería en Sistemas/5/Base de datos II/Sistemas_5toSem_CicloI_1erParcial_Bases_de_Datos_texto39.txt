@@ -1,0 +1,7 @@
+texto 39
+SQL PRIMARY KEY: PRIMARY KEY se utiliza para identificar de manera única cada fila de una tabla.
+SQL FOREIGN KEY: FOREIGN KEY se utiliza para identificar una columna que es PRIMARY KEY en otra tabla.
+SQL CHECK: CHECK para limitar el rango de valores de una columna.
+SQL DEFAULT: DEFAULT valor por defecto para una columna
+SQL CREATE INDEX: CREATE INDEX para crear un índice en una tabla.
+SQL DROP: DROP sirve para borrar cualquier elemento (índice, tabla o base de datos).

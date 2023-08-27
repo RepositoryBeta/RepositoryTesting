@@ -1,0 +1,6 @@
+texto 41
+
+Análisis del comportamiento
+Para detectar el comportamiento anómalo de la red, primero debe conocer el comportamiento normal. 
+Las herramientas de análisis de comportamiento detectan automáticamente las actividades que se desvían de la norma. 
+El equipo de seguridad entonces puede identificar mejor los indicadores de infiltración que pueden traer problemas y reaccionar rápidamente ante las amenazas.

@@ -1,0 +1,4 @@
+texto 26
+
+Tenemos como siguiente punto la bioinformática médica, bio es vida, médica se basa en medicina, con esta área lo que hacemos es que la máquina pueda aprender a entender o comprender cosas médicas, cosas biológicas, cosas genéticas, cosas químicas y lo ayude a usted a tener soluciones, obviamente la informática médica no trabaja sola, sino que trabaja con algoritmos también, la metaheurística, el aprendizaje automático y otras cosas más como visión por computadora que les ayuda a trabajar.
+

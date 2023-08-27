@@ -1,0 +1,3 @@
+texto 60
+
+Aquí se mostró como se estaba moviendo el dato del dentro del registro de dirección entre el MAR y el MBR, nos permite visualizar como se mueve la instrucción y como el contador de programa acumula la siguiente instrucción esperando la actuación de mover los datos de la memoria RAM al MAR y luego del MAR al MBR pronto veremos donde estos pasos se obvian y hacen más sencilla la explicación, pero lo real que ocurre es que cada vez que ustedes comienzan una programar y a ejecutar los programas dentro del computador, estos son los pasos a tener en cuenta.

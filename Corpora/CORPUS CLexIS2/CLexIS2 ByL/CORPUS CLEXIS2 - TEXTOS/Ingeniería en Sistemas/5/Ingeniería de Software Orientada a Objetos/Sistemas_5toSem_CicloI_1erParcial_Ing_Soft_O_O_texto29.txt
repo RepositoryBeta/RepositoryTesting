@@ -1,0 +1,2 @@
+TEXTO 29
+Productos de trabajo generados durante el inicio del proyecto y su relación con los productos a entregar: típico de un proyecto en los productos el inicio del proyecto, se encuentra el enunciado del problema, diseño de alto nivel, la organización, el plan inicial de tareas y la calendarización, que es muy importante, tenemos la parte de los productos a entregar que en estos se encuentran en el acuerdo del proyecto, documento de análisis de requerimientos, documento de diseño del sistema y el plan de administración del proyecto de software.

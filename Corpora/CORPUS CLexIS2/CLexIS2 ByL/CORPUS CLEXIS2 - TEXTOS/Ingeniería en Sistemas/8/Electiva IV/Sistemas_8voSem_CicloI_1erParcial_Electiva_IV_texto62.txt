@@ -1,0 +1,5 @@
+texto 62
+
+Métodos de un activity.
+Tenemos una descripción de los métodos de un activity.
+1) Oncreate (Bundle): Se llama en la creación de la actividad. Se utiliza para realizar todo tipo de inicializaciones, como la creación de la interfaz de usuario o la inicialización de estructuras de datos. Puede recibir información de estado dela actividad (en una instancia de la clase Bundle), por si se reanuda desde una actividad que ha sido destruida y vuelta a crear.

@@ -1,0 +1,4 @@
+texto 55
+
+Aún los y la organización mantiene algunos datos redundantes, el uso de un dbms elimina la consistencia de los datos debido a que puede ayudar a la organización a asegurar que cada ocurrencia de datos redundantes tenga lo mismo valores. El dbms desacopla los programas y los datos, con lo cual los datos se pueden independizar. La descripción de los datos que usa el programa no tiene que especificarse con detalle cada vez que se escribe un programa diferente.
+

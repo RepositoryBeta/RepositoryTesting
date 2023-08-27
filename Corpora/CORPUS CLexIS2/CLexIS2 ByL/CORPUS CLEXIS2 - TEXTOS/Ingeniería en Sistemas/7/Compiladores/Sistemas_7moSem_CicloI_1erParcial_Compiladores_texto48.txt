@@ -1,0 +1,3 @@
+TEXTO 48
+
+Esta es otra forma de poder trabajar que dice el objetivo, este es String en substring donde los substrings son los tokens. Es decir esto que está aquí ahora dice también en un lenguaje de programación, identificador entero palabra reservada espacio en blanco. Aquí está dando digamos que las reglas que nos está diciendo que el entero es un string vacío de dígitos entonces. Estas son las reglas que se podrían estar encontrando y finalmente palabras reservadas el día de hoy hemos hecho simplemente el análisis léxico.

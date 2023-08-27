@@ -1,0 +1,3 @@
+texto 33
+
+Utilizando la descripción simplificada de dos etapas duró dos pasos se denotan como ciclo de captación y ciclo de ejecución. La ejecución del programa se para solo si la máquina se desconecta, se produce algún tipo de error irrecuperable o ejecuta una instrucción del programa que detiene el computador.

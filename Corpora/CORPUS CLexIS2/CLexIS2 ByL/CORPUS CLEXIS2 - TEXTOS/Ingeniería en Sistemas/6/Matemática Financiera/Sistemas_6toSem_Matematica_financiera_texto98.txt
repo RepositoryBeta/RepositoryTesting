@@ -1,0 +1,7 @@
+﻿texto 98
+
+Método creciente o decreciente.
+El método creciente o decreciente implica que la cuota total sigue una tendencia al alza o a la baja a lo largo de la vida de la operación, a una tasa de variación lineal o geométrica, y que no tiene porque coincidir con la periodicidad de liquidación del préstamo, es decir, el préstamo puede liquidar cuotas con periodicidad mensual, pero la tasa de crecimiento aplicarse semestral o anualmente.
+
+
+

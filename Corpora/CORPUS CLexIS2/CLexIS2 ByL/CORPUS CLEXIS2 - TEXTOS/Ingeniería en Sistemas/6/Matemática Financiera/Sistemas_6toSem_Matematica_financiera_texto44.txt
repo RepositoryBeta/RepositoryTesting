@@ -1,0 +1,4 @@
+﻿texto 44
+Anualidades inmediatas: con una anualidad inmediata, el beneficiario paga una prima única e inmediatamente comienza a recibir pagos al final de cada período de pago, que generalmente es mensual o anual.
+Anualidades diferidas: con una anualidad diferida, se paga una o más primas durante lo que a menudo se llama el período de acumulación. Las primas pagadas y los intereses acreditados a las primas van a un fondo llamado fondo de acumulación.
+

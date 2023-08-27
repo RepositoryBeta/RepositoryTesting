@@ -1,0 +1,5 @@
+texto 31
+
+El procesador es precisamente el que se encarga de ejecutar las instrucciones especificadas en el programa, en esta sección se revisará los aspectos claves en la ejecución de un programa, que en su forma más simple consta de dos etapas:
+1) El procesador lee (capta) la instrucción de memoria y la ejecuta.
+2) La ejecución del programa consiste en la repetición del proceso de captación de instrucción y ejecución de instrucción.

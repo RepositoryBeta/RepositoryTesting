@@ -1,0 +1,3 @@
+﻿texto 72
+
+Entonces como nos manejamos con respecto a esto, vamos a ver el primer método que se llama el metodo congruencial mixto, ¿Qué hace el método congruencial mixto? Lo que hace es generarme números pseudoaleatorios, tambien tenemos el otro método que se llama el multiplicativo, el congruencial multiplicativo es parecido al lineal o mixto que también se lo conoce pero aquí la diferencia es de que, si se da cuenta la fórmula.

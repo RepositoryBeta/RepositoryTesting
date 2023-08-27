@@ -1,0 +1,2 @@
+TEXTO 54
+Agregación y composición, la agregación es una asociación que representa una relación todo-parte, se representa adornando con un diamante hueco el extremo de la trayectoria unida a la clase agregada. Una composición es una forma más fuerte de asociación en la cual el compuesto es el responsable único de gestionar sus partes como en el caso de su asignación y desasignación se representa adornando con un diamante relleno el extremo compuesto. Para una asociación el diamante está vacío y para una composición el diamante está pintado.

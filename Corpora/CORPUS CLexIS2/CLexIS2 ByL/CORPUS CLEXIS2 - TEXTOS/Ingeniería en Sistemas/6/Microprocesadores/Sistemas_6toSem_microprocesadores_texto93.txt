@@ -1,0 +1,10 @@
+texto 93
+
+VMWARE ha utilizado ciertos aspectos de las técnicas de paravirtualización en toda la línea de sus productos desde hace años en la forma de las herramientas VMWARE(VMWARE tools) y los controladores de dispositivos virtuales optimizados.
+
+VMWARE Tools
+
+El servicio de herramientas VMWARE ofrece una puerta trasera a la VMM hypervisor utilizado para servicios tales como la sincronización de tiempo, logueo y apagado de sistemas invitados.
+
+
+

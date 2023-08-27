@@ -1,0 +1,2 @@
+TEXTO 95
+En la prueba de los sistemas también hay una fecha de alcance para poder realizarlas existen parámetros de calidad para  realizar las pruebas, sobretodo los parámetros son los de funcionalidad, si es un tema de confiabilidad, el tema de la interacción y todas estas categorías es en base a la Norma ISO 25.000, esos son los parámetros que me permiten decidir si es correcto o no correcto o si se está cumpliendo con la respectiva validación.

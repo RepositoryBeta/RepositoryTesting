@@ -1,0 +1,7 @@
+texto 69
+
+MODELO DE SIMULACIÓN 
+Propósito de su utilización es efectuar una simulación sin afectar su operación normal, análisis y diseño de sistemas, e indispensable para aquellas personas que desarrollan nuevos sistemas, existen diversos modelos de simulación para evaluar el comportamiento de un sistema.
+Ciclo de vida de los sistemas: 
+Análisis del sistema actual.
+Diseño conceptual del sistema.

@@ -1,0 +1,3 @@
+texto 52
+
+Al proceder de fuentes diferentes, la integración de estos datos en el almacén recurre a diversas herramientas de transformación y limpieza que pueden clasificarse según estas tres categorías. Herramientas de migración de datos: estos programas permiten definir reglas simples de transformación que conviertan los datos de salida heterogéneos en un formato de destino uniforme. Herramientas de limpieza: en este caso, estos programas se apoyan en la llamada lógica difusa (fuzzy logic) y en las redes neuronales para mejorar la calidad de los datos en tanto que corrige errores, datos incompletos y repeticiones. 

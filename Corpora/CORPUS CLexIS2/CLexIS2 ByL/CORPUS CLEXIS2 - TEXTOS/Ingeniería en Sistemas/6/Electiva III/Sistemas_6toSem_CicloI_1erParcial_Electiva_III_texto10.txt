@@ -1,0 +1,4 @@
+texto 10
+
+A diferencia de la Inteligencia de negocios (BI), la Analítica de negocios (BA, Business Analytics) pone su atención sólo en el desarrollo de los modelos de análisis descriptivos. Ello convierte a la Analítica de negocios en un área más técnica y menos estratégica, valiéndose de la simulación de situaciones con las cuales realizar predicciones. También se diferencia de la ciencia de datos, haciendo preguntas más específicas y cerradas que no implican métodos estadísticos avanzados. Aunque puede requerir, en ocasiones de la ciencia de datos.
+

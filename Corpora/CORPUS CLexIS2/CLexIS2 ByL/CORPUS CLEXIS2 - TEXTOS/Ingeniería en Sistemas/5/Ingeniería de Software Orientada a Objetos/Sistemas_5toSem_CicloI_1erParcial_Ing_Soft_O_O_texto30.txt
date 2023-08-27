@@ -1,0 +1,2 @@
+TEXTO 30
+Desarrollo del enunciado del problema: El enunciado del problema lo desarrollan el gerente del proyecto y el cliente como una comprensión mutua del problema resolver con el sistema, el enunciado del problema describe la situación actual: la de funcionalidad que debe soportar y el ambiente en que se implementará el sistema, también define los productos a entregar, que esperar,  junto con la fecha de entrega y un conjunto de criterios de aceptación.

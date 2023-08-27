@@ -1,0 +1,4 @@
+texto 67
+
+Drill out / Split: Esta operación permite a los analistas añadir más dimensiones a un cubo OLAP resultando así datos más exhaustivos pero, a diferencia de una operación drill down, el grado de detalle no depende de la granularidad o especificidad, sino de un aumento de la información, resultado de las nuevas dimensiones añadidas.
+Drill in / Merge: La operación contraria al drill out consiste en reducir el grado de detalle del cubo de OLAP eliminando dimensiones. Al contrario que el roll up, en esta operación la pérdida de información no resulta de un cambio del nivel de observación, sino de la pérdida de información dimensional. La granularidad no cambia.

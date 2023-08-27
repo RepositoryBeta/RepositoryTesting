@@ -1,0 +1,9 @@
+texto 13
+
+Visto así, su acción está orientada hacia lo interno de la organización, mientras que la Inteligencia de negocios utiliza todo esto para plantearse las estrategias hacia lo externo, hacia el mercado. 
+La operativa de la Analítica de negocios se puede esquematizar de la siguiente manera: 
+Se fijan los objetivos de las acciones a realizar. 
+Se recolectan datos predefinidos y de calidad para la toma de decisiones. 
+
+Esto se hace con criterio de frecuencia, es decir, cada cuánto tiempo se deben registrar y levantar.
+

@@ -1,0 +1,4 @@
+texto 81
+
+Metodología técnica.
+La ciencia de la administración enfatiza el desarrollo de modelos para la toma de decisiones y las prácticas gerenciales. La investigación de operaciones se enfoca en las técnicas matemáticas para optimizar parámetros seleccionados de las organizaciones, como el transporte, el control de inventario y los costos de las transacciones.

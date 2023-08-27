@@ -1,0 +1,5 @@
+texto 89
+Estas bases de datos tienen un nivel de complejidad un poco más elevado debido a que incorporan reglas de normalización para su diseño. Entre las BBDD multivalor más conocidas podemos destacar Rocket D3 DBMS, Rocket mvBase DBMS, Rocket U2 Universe, Rocket U2 Unidata, OPENQM, Caché Intersystems, Reality, Jbase, Openinsight, Extensible storage engine.
+Bases de datos orientadas a objetos
+Como bien lo indica su nombre, las BBDD de este tipo están conformadas por objetos. 
+Estos objetos pueden ser de diferentes tipos, sobre los que se definen unas operaciones que determinan sus propiedades de interacción. Las Bases de datos orientadas a objetos han revivido el interés de los usuarios gracias a sus características principales.

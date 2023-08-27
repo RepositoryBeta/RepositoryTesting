@@ -1,0 +1,4 @@
+﻿texto 71
+Cuando se lleva a cabo una comparación de las tasas de rentabilidad interna de dos tipos de proyectos diferentes no se tiene en cuenta la posible diferencia que puede haber en las dimensiones de los mismos.
+Puede que al principio VAN y TIR sean dos términos que te confundan un poco pero para el rendimiento de tu empresa y sobre todo para que tu no pierdas dinero son de suma importancia, ya que gracias a esto puedes saber cuándo un proyecto es realmente rentable para que puedas invertir en él o si tienes la opción entre varios proyectos, puedas saber qué proyecto es más rentable.
+

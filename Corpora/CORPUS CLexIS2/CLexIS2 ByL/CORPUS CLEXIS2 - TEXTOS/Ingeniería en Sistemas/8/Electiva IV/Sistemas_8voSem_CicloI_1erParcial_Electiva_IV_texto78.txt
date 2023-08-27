@@ -1,0 +1,3 @@
+texto 78
+
+Un proveedor de contenido administra el acceso a un repositorio central de datos. Un proveedor forma parte de una aplicación para Android y a menudo proporciona su propia IU para trabajar con los datos. No obstante, los proveedores de contenido están principalmente orientados a que los usen otras aplicaciones que acceden al proveedor usando un objeto de cliente del proveedor. Juntos, los proveedores y clientes de proveedores ofrecen una interfaz estándar y uniforme para los datos que también manipula la comunicación dentro del proceso y el acceso seguro a los datos.

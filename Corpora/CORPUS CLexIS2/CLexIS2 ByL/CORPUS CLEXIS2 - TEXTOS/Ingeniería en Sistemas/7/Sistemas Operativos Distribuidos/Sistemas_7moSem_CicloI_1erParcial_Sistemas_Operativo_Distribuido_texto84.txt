@@ -1,0 +1,5 @@
+﻿Texto 84
+
+Multicomputadoras
+
+Son computadoras con sus propios CPUS, memoria y se pueden ver como un computador paralelo en el cual cada procesador tiene su propia memoria local, la memoria se encuentra distribuida y no compartida como en los sistemas multiprocesador, las computadoras se comunican a través de paso de mensajes (por tener acceso a su memoria local y no a del resto de procesadores).

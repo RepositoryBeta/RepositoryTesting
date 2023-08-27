@@ -1,0 +1,8 @@
+texto 17
+
+Amd Atlon 64
+El AMD Athlon 64 es un microprocesador x86 de 8va generación que implementa el conjunto de instrucciones AMD64, que fueron introducidas con el procesador Opteron. 
+El Athlon 64 presenta un controlador de memoria en el propio circuito integrado del microprocesador y otras mejoras de arquitectura que le dan un mejor rendimiento que los anteriores Athlon y que el Athlon XP funcionando a la misma velocidad, incluso ejecutando código heredado de 32 bits. 
+
+
+

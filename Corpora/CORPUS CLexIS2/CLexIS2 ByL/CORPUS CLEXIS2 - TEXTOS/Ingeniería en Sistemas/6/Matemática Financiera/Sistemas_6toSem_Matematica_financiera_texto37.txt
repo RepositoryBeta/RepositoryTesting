@@ -1,0 +1,4 @@
+﻿texto 37
+Como ya se ha mencionado, el dinero tiene diferente valor a lo largo del tiempo, por lo cual no se pueden sumar diferentes valores, si éstos se encuentran en diferentes momentos del tiempo, lo cual hace necesario trasladarlos a una misma fecha o momento en el tiempo; a dicha fecha se le conoce como fecha focal. 
+La fecha focal es aquella que se toma como referencia al realizar los cálculos para una serie de valores en el tiempo. 
+

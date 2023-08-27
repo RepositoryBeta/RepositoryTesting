@@ -1,0 +1,8 @@
+texto 97
+
+Operaciones y controles medioambientales
+Otro proceso de administración de instalaciones sería con respecto a la seguridad física que indique que si alguien entra en la localidad física del centro de cómputo debe ser pre autorizado por cierto miembro de la unidad.
+Esta identificación podría ser un ID del empleado (seguridad baja)  o exploración de huella digital o retina(seguridad alta).
+
+
+

@@ -1,0 +1,4 @@
+texto 37
+
+Los MIS se enfocan principalmente en los problemas estructurados, los DSS apoyan el énfasis de los problemas semiestructurados y no estructurados ya están proyectados para ayudar a diseñar y evaluar las alternativas y para monitorear el proceso de adopción o implementación de estas alternativas. El MIS se enfoca en resultados que le sean concretos que sirven para una toma diaria de decisiones.
+

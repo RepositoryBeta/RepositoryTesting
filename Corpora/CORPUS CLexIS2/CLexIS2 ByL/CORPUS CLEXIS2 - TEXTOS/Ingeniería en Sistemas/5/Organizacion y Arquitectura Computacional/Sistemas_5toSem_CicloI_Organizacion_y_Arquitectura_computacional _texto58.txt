@@ -1,0 +1,3 @@
+texto 58
+
+Para obtener ese operando se decodifica la intrusión separando el código de operación y la referencia a la posición de memoria del operando se copia en el MAR, podemos observar que el segundo paso del ciclo ejecución varía según el tipo de instrucción, tanto LOAD como ADD tienen el mismo segundo paso, pero STORE ya tiene otro paso, el segundo paso de la instrucción LOAD o ADD es que la memoria devuelve el operando que se solicitó y lo copia en el MBR, en cambio la instrucción STORE copia el valor del acumulador en el MBR. 

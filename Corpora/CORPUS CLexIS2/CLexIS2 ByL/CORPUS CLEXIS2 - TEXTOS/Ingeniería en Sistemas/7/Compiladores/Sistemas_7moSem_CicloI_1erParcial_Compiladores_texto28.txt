@@ -1,0 +1,6 @@
+TEXTO 28
+
+Eso quiere decir ingeniera que si los dos números fueran del mismo tipo, 
+¿Igual hace la conversión?  
+Si, la hace. 
+Por supuesto. Por ejemplo, ¿Qué fuera si el 23 fuera flotante? Estoy aquí, se sube acá y estoy aquí se pondría al lado y sería función if, los dos tendrían que ir a la misma jerarquía.

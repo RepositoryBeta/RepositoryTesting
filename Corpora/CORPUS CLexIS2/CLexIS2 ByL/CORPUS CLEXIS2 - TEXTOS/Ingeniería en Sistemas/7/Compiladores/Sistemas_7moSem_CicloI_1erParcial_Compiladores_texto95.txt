@@ -1,0 +1,2 @@
+TEXTO 95
+Un compilador permite traducir un lenguaje de alto nivel a un lenguaje de máquina básicamente es eso de la unidad 1 tenemos los conceptos generales. ¿Qué es un traductor? ¿Qué es un compilador ? y ¿Qué es un intérprete? El traductor es el programa que toma como entrada un texto escrito llamado fuente y dar como salida otro texto llamado objeto, el compilador en cambio, traductor cuyo fuente es un lenguaje de alto nivel y cuyo objeto es un lenguaje de bajo nivel y el intérprete es un compilador que ejecuta al mismo tiempo que traduce.

@@ -1,0 +1,3 @@
+﻿texto 10
+
+Estadística en la cual usted tiene que trabajar, por ejemplo ya verificar o demostrar la hipótesis que se puede plantear usted a partir de una variable, por ejemplo de un par de variables, porque yo tomo grupos aquí en estadística analítica, cuando yo trabajo analíticas trabajo por grupos, quiero determinar una variable por ejemplo, cliente efectivo pero yo puedo tener varios grupos tengo grupo de moroso, tengo los grupos de clientes activos,etc., porque quizás el grupo de moroso una vez me quedaron mal.

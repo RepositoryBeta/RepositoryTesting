@@ -1,0 +1,5 @@
+texto 9
+Arquitectura de base de datos
+En el nivel externo se describen varios esquemas externos o vistas de usuario.
+Cada esquema externo describe la parte de la base de datos que interesa a un grupo de usuarios determinado y oculta a ese grupo el resto de la base de datos.
+En este nivel se puede utilizar un modelo conceptual o un modelo lógico para especificar los esquemas.

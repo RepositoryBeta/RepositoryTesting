@@ -1,0 +1,4 @@
+texto 85
+
+Búsqueda local guiada, conocida en inglés como Guieded Local Search (GLS) fue propuesta por Voudouris y Tsang en 1995. Además fue reelaborada por Voudoris y Tsang en 1997 como proyecto de tesis de doctorado con el nombre de Local Search for Combinatorial Optiomisation Problems en la universidad de Essex en Reindo Unido. El proyecto fue publicado en una revista especializada en 1999. Es el resultado de un proyecto de investigación que apareció con el objetivo principal de extender el Genet Neural Network.
+

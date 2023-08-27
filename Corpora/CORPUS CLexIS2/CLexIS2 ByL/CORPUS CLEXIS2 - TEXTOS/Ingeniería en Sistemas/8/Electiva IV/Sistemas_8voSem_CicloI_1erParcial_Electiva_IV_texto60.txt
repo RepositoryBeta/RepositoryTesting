@@ -1,0 +1,4 @@
+texto 60
+
+Estados de una actividad.
+Cada vez que una actividad cambia de estado se van a generar eventos que podrán ser capturados por ciertos métodos de la actividad. A continuación se muestra un esquema que ilustra los métodos que capturan estos eventos. Nosotros tenemos cuatro diferentes estados por el cual puede pasar en este caso una actividad e internamente tenemos métodos con lo cual nosotros podemos realizar algún tipo de evento que necesitemos.

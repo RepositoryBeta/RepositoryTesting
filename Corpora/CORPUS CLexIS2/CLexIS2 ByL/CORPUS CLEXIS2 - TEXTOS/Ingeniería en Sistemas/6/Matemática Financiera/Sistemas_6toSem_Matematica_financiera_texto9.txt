@@ -1,0 +1,7 @@
+﻿texto 9
+Tasa de interés (i)
+Es el porcentaje del valor o compensación pagada por el uso del dinero. La tasa de interés siempre está asociada a un determinado período, que puede ser, por ejemplo, el día, el mes o el año.
+Qué es el interés?
+Utilizamos el interés para medir la rentabilidad de los ahorros y las inversiones. También para medir el costo de un crédito bancarios. Este costo se representa como un porcentaje referido con el total de la inversión o el crédito.
+
+

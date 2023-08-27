@@ -1,0 +1,3 @@
+﻿Texto 71
+
+AWS nos garantiza una plataforma más segura y confiable, tanto así que un arquitecto de TI puede encontrar con Amazon todos los recursos necesarios para montar su arquitectura completa, segura y tolerante a fallos, todo lo que necesita una compañía para entrar a competir en el mercado, la plataforma de cloud computing de AWS ofrece la flexibilidad de lanzar aplicaciones independientemente del sector al que pertenezca y del caso de uso particular.

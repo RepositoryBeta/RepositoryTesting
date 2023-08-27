@@ -1,0 +1,5 @@
+﻿texto 47
+Tasa de una anualidad. El tipo de interés que se fija es la tasa de una anualidad y puede ser nominal o efectiva.
+Según su tiempo, las anualidades se agrupan en dos clases:
+- Anualidades ciertas: Son anualidades ciertas aquellas anualidades cuyas fechas, inicial y terminal, se conocen por estar estipuladas en forma concreta.
+- Anualidades eventuales o contigentes: Son aquellas en las que el primer pago o el último, es decir, la fecha inicial y/o la fecha final dependen de algún suceso previsible, pero cuya fecha de realización no puede fijarse.

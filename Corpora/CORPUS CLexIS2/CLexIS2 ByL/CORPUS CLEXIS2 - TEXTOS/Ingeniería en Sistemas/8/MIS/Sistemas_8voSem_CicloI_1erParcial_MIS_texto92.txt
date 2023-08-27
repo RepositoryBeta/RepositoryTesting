@@ -1,0 +1,6 @@
+texto 92
+
+Tenemos las aplicaciones para el diseño y la comprensión de los SI, para ofrecer beneficio genuinos, hay que construir los SI con una clara comprensión de la organización en la que se van a utilizar para experiencia, los factores organizacionales centrales que se deberán considerar al planear un nuevo sistema son:
+1) El entorno en el que debe funcionar la organización.
+2) La estructura de la organización: jerarquía, especialización, rutinas y procesos de negocios.
+

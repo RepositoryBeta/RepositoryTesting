@@ -1,0 +1,5 @@
+texto 37
+
+El almacenamiento de datos se encarga automáticamente de que los datos a los que se obtiene acceso de forma poco frecuente se trasladen al almacenamiento (rápido) a fin de optimizar la velocidad de consulta.
+¿Cómo funciona el almacenamiento de datos?
+El almacenamiento de datos puede contener varias bases de datos. Dentro de cada base de datos, los datos se organizan en tablas y en columnas. Dentro de cada columna, se puede definir una descripción de los datos, como un número entero, un campo de datos o una cadena. Las tablas se pueden organizar dentro de esquemas, que se pueden concebir como carpetas. 

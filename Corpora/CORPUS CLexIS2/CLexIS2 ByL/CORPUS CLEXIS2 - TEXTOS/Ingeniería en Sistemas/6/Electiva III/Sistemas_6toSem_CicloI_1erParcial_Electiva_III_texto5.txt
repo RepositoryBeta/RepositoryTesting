@@ -1,0 +1,7 @@
+texto 5
+
+Es difícil garantizar la fiabilidad de la información.
+No es posible restringir la información a los usuarios para que cada uno la utilice de manera eficiente.
+Carecemos de información histórica que en ocasiones es útil para contrastar diversas situaciones.
+Arquitectura de los BI
+Los BI parten de archivos, bases de datos, administración de las relaciones con los clientes (CRM5) y los sistemas para la administración de recursos empresariales (ERP).

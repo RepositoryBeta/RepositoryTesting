@@ -1,0 +1,4 @@
+texto 68
+
+Tenemos Prolog, esto significa programación lógica, que se basa justamente en programar, el lenguaje se llama prolog, es una programación que se basa en preposiciones y se basa en tablas de verdad, hubo un lenguaje en que usted tenía que programar de esa forma, usted tenía que poner sí y no para hacer algo de inteligencia artificial, este lenguaje ya no es usado, en el masterado nos dijeron que realmente en base a la estadística, simulación y el factor matemático podemos utilizar Inteligencia artificial en muchos lenguajes y el lenguaje que más sobresalía era python.
+

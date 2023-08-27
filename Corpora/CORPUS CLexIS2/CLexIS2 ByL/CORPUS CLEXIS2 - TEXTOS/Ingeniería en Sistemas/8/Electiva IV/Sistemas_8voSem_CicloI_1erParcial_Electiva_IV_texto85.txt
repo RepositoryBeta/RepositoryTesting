@@ -1,0 +1,4 @@
+texto 85
+
+Ciclo de vida de una actividad.
+Son las actividades las que realmente controlan el ciclo de vida de las aplicaciones, dado que el usuario no cambia de aplicación, sino de actividad. El sistema mantiene una pila con las actividades previamente visualizadas, de forma que el usuario puede regresar a la actividad anterior pulsando la tecla retorno.

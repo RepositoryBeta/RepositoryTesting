@@ -1,0 +1,2 @@
+TEXTO 61
+Conceptos enlace: Los enlaces son conexiones entre objetos es decir instancia de una asociación, esto les especifica un camino a lo largo del cual un objeto puede enviar información a otro objeto o a si mismo. Por ejemplo, una clase persona que tenga métodos de calcular y asignar, puede tener una asociación con la clase empresa. Se lo puede hacer con una representación de flecha de un objeto a otro objeto.

@@ -1,0 +1,3 @@
+texto 35
+
+Una vez que usted seleccione la ubicación del proyecto y coloque el nombre del proyecto, en Android se consideran aplicaciones para teléfonos y tablets. Hay que seleccionar la API mínima, es decir, la versión mínima de android que soportará la aplicación. Hay herramientas que preguntan cuál será su utilización. Ejemplo, seleccionamos para teléfonos y tablet, nos aparecerán varios modelos de activity, para el ejemplo usaremos activity vacío. Todos estos pasos varían en las versiones de android studio.

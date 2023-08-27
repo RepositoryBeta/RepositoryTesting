@@ -1,0 +1,4 @@
+texto 53
+
+Android: Contenidos principales del módulo.
+Hay otro fichero que se llama y está en app, Fichero / app / build, esta carpeta contiene información necesaria para la compilación del proyecto, por ejemplo la versión del SDK de Android utilizada para compilar, la mínima versión de Android que soportará la aplicación, referencias a las librerías externas utilizadas, etc. En un proyecto pueden existir varios ficheros build, para definir determinados parámetros a distintos niveles. 

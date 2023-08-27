@@ -1,0 +1,5 @@
+texto 85
+
+Enfoque basado en la evidencia: las conclusiones de la auditoría se deben llegar de manera racional y no solo deben ser confiables sino también reproducibles. La única forma en que esto es posible es que el proceso de auditoría sea sistemático y se base en evidencia.
+AUDITORIA FÍSICA
+La auditoría física no se debe limitar a comprobar la existencia de los medios físicos sino también su funcionalidad racionalidad, y seguridad.

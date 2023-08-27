@@ -1,0 +1,9 @@
+texto 62
+
+Son los campos de la proposición.Los campos se separan por caracteres blancos: caracteres de espacio y/o de tabulación. Todos los campos son opcionales, pero el campo operandos sólo pueden estar presente si existe el campo instrucción|directiva.
+Las etiquetas asignan un nombre a una instrucción. 
+Esto permite hacer referencia a ellas en el resto del programa. 
+Pueden tener una máximo de 31 caracteres y deben terminar en (:). 
+
+
+

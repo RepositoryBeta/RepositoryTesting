@@ -1,0 +1,2 @@
+texto 99
+Libertad de esquema: Al no tener un esquema rígido se permite mayor libertad para modelar los datos; además facilita la integración con los lenguajes de programación orientados a objetos, lo que evita el proceso de mapeado.

@@ -1,0 +1,3 @@
+texto 65
+
+Esta circuitería está especializada en las sumas, restas, multiplicaciones, entre otras y operaciones lógicas Como por ejemplo;  y, o, no, sí, etc. todos estos elementos están comunicados a través de los buses, cada bus está especializado en una cosa diferente, el bus de datos sirve para trasladar una instrucción entera desde la memoria principal al CPU y viceversa,esa transferencias se realiza a través de 64 bits.

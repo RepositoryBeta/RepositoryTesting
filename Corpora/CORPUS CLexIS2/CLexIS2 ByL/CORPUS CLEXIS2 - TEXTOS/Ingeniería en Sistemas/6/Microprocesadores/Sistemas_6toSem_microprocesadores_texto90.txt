@@ -1,0 +1,7 @@
+texto 90
+
+Esta técnica, como se muestra en la imagen, consiste en modificar el núcleo del sistema operativo para reemplazar las instrucciones no virtualizables con hiperllamadas que se comunican directamente con el hipervisor de la capa de virtualización. 
+El hipervisor también proporciona interfaces hypercall para otras operaciones de los núcleos (kernels) críticas tales como la gestión de memoria, manejo de interrupciones y el tiempo de mantenimiento.
+
+
+

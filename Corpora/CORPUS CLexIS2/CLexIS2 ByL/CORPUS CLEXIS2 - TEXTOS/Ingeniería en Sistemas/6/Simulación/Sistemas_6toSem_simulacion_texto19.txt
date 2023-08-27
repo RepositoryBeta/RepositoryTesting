@@ -1,0 +1,3 @@
+﻿texto 19
+
+Los métodos de medición tambien lo vamos a ver más adelante todos esos elementos que estamos viendo ahí, que lo vimos la vez pasada uno a uno y que por supuesto teníamos que revisarlo porque prácticamente aquí va haber un mini proyecto dentro del modelo digital que va a hacer ósea va a hacer un caso de estudio aplicando todos los conceptos y todo lo que a aprendido en su curso de simulacion este caso de estudio es lo que van a hacer al final.

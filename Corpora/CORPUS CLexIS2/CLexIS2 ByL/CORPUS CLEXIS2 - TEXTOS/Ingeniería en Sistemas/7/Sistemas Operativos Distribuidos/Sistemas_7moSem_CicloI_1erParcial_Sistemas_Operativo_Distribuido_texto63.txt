@@ -1,0 +1,3 @@
+﻿Texto 63
+
+Está basado en la idea de que mover el procesamiento es mucho más rápido, fácil y eficiente que mover grandes cantidades de datos, que pueden producir altas latencias y congestión en la red, HDFS proporciona a las aplicaciones la capacidad de acceder a los datos en el lugar en el que se encuentren almacenados.

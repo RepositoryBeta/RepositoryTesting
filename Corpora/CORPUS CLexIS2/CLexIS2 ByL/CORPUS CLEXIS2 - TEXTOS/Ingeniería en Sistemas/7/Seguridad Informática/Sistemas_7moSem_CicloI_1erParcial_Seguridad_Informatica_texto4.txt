@@ -1,0 +1,5 @@
+texto 4
+
+Confidencialidad: Por confidencialidad entendemos la cualidad de la información para no ser divulgada a personas o sistemas no autorizados. 
+Se trata básicamente de la propiedad por la que esa información solo resultará accesible con la debida y comprobada autorización.
+¿Cómo se pierde esa confidencialidad? Generalmente, haciendo caso omiso a las recomendaciones de seguridad o no implantando un sistema adecuado; así, cuando compartimos equipos sin eliminar las contraseñas, olvidamos cerrar nuestro usuario, tiramos un disco duro sin borrar antes sus datos o no ciframos los datos de manera adecuada, la información deja de ser confidencial y entramos, digamos, en una zona de alto riesgo.

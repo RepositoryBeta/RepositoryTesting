@@ -1,0 +1,6 @@
+﻿texto 93
+
+Siguiendo con el ejemplo anterior vemos como con el método alemán el coste en términos de TAE es ligeramente superior, un 3.72%, pero el importe de intereses totales asumidos es ligeramente inferior. La diferencia entre estas dos variables tiene que ver con el emplazamiento temporal al que se liquidan los intereses en uno y otro sistema de amortización.
+
+ 
+

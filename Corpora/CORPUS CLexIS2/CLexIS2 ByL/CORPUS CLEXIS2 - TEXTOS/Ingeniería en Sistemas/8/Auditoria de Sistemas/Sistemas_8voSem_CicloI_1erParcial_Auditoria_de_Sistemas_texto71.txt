@@ -1,0 +1,11 @@
+﻿texto 71
+
+Metodología de Kendall & Kendall.
+
+Identificación de problemas, oportunidades y objetivos.
+Determinación de requerimientos de información. 
+Análisis de las necesidades del sistema.
+Diseño del sistema recomendado.
+Desarrollo del sistema.
+Pruebas y mantenimiento de sistemas.
+Implementación y evaluación del sistema.

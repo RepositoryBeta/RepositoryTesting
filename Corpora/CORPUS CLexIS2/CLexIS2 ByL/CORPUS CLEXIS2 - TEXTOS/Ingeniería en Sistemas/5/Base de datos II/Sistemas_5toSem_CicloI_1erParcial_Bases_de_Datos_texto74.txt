@@ -1,0 +1,7 @@
+texto 74
+Opción de recuperación de datos en cursores
+Microsoft SQL Server admite las siguientes dos opciones de recuperación de datos:
+FORWARD_ONLY: Especifica que el cursor solo se puede desplazar desde la primera hasta la última fila.
+SCROLL: Proporciona 6 opciones para obtener los datos (FIRST, LAST, PRIOR, NEXT, RELATIVE y ABSOLUTE)
+Tipos de cursores
+STATIC: Un cursor estático llena el conjunto de resultados durante la creación del cursor y el resultado de la consulta se almacena en caché durante la vida útil del cursor. Un cursor estático puede moverse hacia adelante y hacia atrás.

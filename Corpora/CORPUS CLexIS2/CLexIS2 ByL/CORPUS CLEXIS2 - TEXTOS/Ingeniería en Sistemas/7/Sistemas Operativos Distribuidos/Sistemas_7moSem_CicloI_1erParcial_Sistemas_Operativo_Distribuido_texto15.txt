@@ -1,0 +1,3 @@
+﻿Texto 15
+
+Una de las características de los Sistemas Operativos Distribuidos parte de la escalabilidad. Ejemplo, cuando un sistema crece de manera homogénea, es decir, si yo necesito para manejar 100 usuarios un equipo y yo para manejar 2000 usuarios necesito el doble de recursos y si necesito manejar 300 usuarios debería tener el triple de recursos. A eso, lo llamamos escalables porque nos permite crecer de manera homogénea los recursos dependiendo de la demanda.

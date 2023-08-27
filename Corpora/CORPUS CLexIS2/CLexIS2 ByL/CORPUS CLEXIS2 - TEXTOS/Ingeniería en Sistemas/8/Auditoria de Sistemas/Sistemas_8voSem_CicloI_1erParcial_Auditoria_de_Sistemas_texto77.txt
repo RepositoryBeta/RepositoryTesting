@@ -1,0 +1,4 @@
+texto 77
+
+PROGRAMAS DE VERIFICACIÓN 
+Es la técnica que permite revisar desde el computador y mediante un programa específico el funcionamiento del sistema, de una base de datos, de un programa en especial o de alguna aplicación de interés; ya sean sus procesamientos, su funcionamiento interno, el aprovechamiento de las aplicaciones informáticas entre otras. (Muñoz, 2002, pág. 89).

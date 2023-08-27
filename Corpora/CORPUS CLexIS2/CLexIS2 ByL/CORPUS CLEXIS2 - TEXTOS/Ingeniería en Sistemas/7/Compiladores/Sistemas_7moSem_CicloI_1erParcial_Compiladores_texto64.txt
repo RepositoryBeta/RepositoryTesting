@@ -1,0 +1,3 @@
+TEXTO 64
+
+Por ejemplo, si quiero declarar una variable en vez de utilizar una letra utilizo la palabra nombre, pero yo sé que la palabra nombre es una variable. Pero, también la puedo utilizar dentro de mí variable entre comillas dobles y decir mi nombre es lady y estoy haciendo un conjunto de palabras formando un significado y para utilizar el conjunto de cadena teníamos que nosotros siempre colocarlos entre comillas dobles. Si no lo hacíamos así la computadora jamás iba a entender que eso es un conjunto de cadena de carácteres. También hay operaciones importantes para el análisis léxico como la unión la concatenación y la cerradura.

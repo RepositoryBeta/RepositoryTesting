@@ -1,0 +1,4 @@
+texto 69
+
+Sistemas de información ejecutiva (EIS)
+Cercanas al OLAP, las herramientas de EIS ponen a disposición de los usuarios distintas opciones a la hora de formular consultas específicas y modelar los datos. Hoy, no obstante, para diferenciarlo de OLAP, el nombre de Executive Information Systems se utiliza sobre todo en relación con sistemas de aplicaciones que facilitan informes predefinidos para ciertos sectores operativos como la venta, el marketing o la planificación financiera.

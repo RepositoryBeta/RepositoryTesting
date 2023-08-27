@@ -1,0 +1,5 @@
+﻿Texto 93
+
+Dominios: Es una agrupación lógica de equipos, que permite realizar una gestión centralizada, es decir, desde una ubicación se controla los servicios administrados del dominio.
+Los recursos los gestiona el servidor principal.
+Uno de los protocolos habituales para la formación de dominios es LDAP.

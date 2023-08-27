@@ -1,0 +1,6 @@
+texto 95
+
+Gestión de la calidad PDCA
+La ISO 27001 se basa en la teoría de gestión de la calidad PDCA (también conocida como ciclo de Deming), como se podrá observar en la estructura de esta.
+Planificar (Plan): etapa inicial de diseño del SGSI en la que se realiza la identificación inicial de los riesgos asociados con la Seguridad de la información. 
+Esta cuestión se complementa con un análisis cualitativo y cuantitativo (si es necesario) de los riesgos identificados y la planificación de la respuesta y los controles necesarios para la mitigación de estos.

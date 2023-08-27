@@ -1,0 +1,9 @@
+﻿texto 11
+
+Arquitectura x86-64 de procesadores
+El K6, AMD no sólo consiguió hacerle seriamente la competencia a los Pentium MMX de Intel, sino que además amargó lo que de otra forma hubiese sido un plácido dominio del mercado, ofreciendo un procesador casi a la altura del Pentium II pero por un precio muy inferior. 
+En cálculos en coma flotante, el K6 también quedó por debajo del Pentium II, pero por encima del Pentium MMX y del Pro. 
+El K6 contó con una gama que va desde los 166 hasta los más de 500 MHZ y con el juego de instrucciones MMX, que ya se han convertido en estándares. 
+
+
+

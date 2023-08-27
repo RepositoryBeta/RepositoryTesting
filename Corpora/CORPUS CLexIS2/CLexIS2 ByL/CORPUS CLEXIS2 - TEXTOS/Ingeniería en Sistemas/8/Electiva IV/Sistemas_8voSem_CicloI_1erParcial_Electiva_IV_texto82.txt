@@ -1,0 +1,8 @@
+texto 82
+
+Continuando con los elementos de un activity, tenemos: 
+4) textstyle: Estilo de texto: cursiva (italic), negrita (bold).
+5) InputType: Tipo de entrada: varias líneas (multiline).
+6) Scrollbars: Scroll: vertical y horizontal.
+7) Textsize: Tamaño del texto.
+8) Textcolor: Color de letra.

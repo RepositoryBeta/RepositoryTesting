@@ -1,0 +1,3 @@
+texto 49
+
+Una vez que se ejecutó la primera intrusión del programa LOAD 100 de manera similar se inicia la ejecución de la segunda instrucción del programa ADD 101 en el próximo ciclo de captación Don comienza con la unidad de control toma la dirección que está en el PC que es 1  y lo copia al MAR, luego solicita a la memoria el contenido de dicha posición a través del bus de direcciones e indica la orden de lectura (READ) a través del bus de control.

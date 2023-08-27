@@ -1,0 +1,3 @@
+TEXTO 10
+
+Ejemplo a qué me refiero, perdón, si la entrada fuese la sentencia de asignación de un lenguaje. Por ejemplo, si tuvieran una línea de código (energía = total = cantidad + 23), el analizador leería dicha secuencia de caracteres y los agruparías formando los tokens. Cada token representa una secuencia de caracteres lógicas de forma coherente. Ejemplo un identificador, constante, operador y una palabra clave llamada WHILE, signos de puntuación, un operador formado por varios caracteres como los signos (++).

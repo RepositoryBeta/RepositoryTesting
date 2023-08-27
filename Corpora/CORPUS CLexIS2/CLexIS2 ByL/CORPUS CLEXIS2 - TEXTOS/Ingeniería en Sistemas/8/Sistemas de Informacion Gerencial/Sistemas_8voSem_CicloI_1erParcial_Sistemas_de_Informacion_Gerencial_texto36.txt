@@ -1,0 +1,5 @@
+texto 36
+
+Continuando con las actividades de un SI, tenemos:
+3) La salida transfiere la información procesada a las personas que harán uso de ella, o a las actividades para las que se utilizará.
+4) Los sistemas de información también requieren retroalimentación, la salida que se devuelve a los miembros apropiados de la organización para ayudarles a evaluar o corregir la etapa de entrada.

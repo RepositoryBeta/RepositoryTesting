@@ -1,0 +1,5 @@
+﻿Texto 28
+
+Entonces, las buenas prácticas de SOA, cuando ustedes ya crean los servicios y se dan cuenta que tienen a veces mucha granularidad. ¿Qué significa eso?
+
+De repente, los servicios tienen diferentes capas bilis es decir, diferentes funcionalidades. Ejemplo, en un servicio a pesar de que esté bien diseñado identifica una capacidad que tiene alta concurrencia, ustedes cogen y sacan esa funcionalidad y crean el famoso microservicio.

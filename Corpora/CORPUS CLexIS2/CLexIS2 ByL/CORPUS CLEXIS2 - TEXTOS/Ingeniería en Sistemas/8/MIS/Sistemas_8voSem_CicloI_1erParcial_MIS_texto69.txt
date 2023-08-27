@@ -1,0 +1,5 @@
+texto 69
+
+2) No utilizan estructuras fijas como tablas para el almacenamiento de los datos. Permiten hacer uso de otros tipos de modelos de almacenamiento de información como sistemas de clave-valor, objetos o grafos.
+3) No suelen permitir operaciones JOIN. Al disponer de un volumen de datos tan extremadamente grandes suele resultar deseable evitar los JOIN.
+

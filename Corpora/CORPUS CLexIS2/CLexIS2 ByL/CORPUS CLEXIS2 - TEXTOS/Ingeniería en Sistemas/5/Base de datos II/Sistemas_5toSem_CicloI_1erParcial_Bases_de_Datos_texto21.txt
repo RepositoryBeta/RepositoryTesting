@@ -1,0 +1,4 @@
+texto 21
+NEXT entero: Es el incremento de espacio en disco expresado en Kilobytes o en Megabytes que se reservara automáticamente para el archivo.
+MAXSIZE: es el máximo espacio en disco reservado para la extensión automática del archivo.
+UNLIMITED: Significa que no hay limite del espacio en el disco reservado. Los tablespaces se miran escribiendo la siguiente select.

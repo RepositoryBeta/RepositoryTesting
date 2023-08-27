@@ -1,0 +1,3 @@
+TEXTO 35
+
+Efectivamente, tengo el temporal dos y tres que están por gusto. Entonces ¿Qué es lo que veo? Que mis variables ósea ¿Para que voy a utilizar tantas variables si yo puedo utilizar una sola nomás? Dónde la puedo guardar. Esto es lógica de programación nada más. Ahora, generador de código el último, el de la última fase. ¿Qué hace esta última fase? Consiste en la generación de código produciendo generalmente código de máquina reubicable o lenguaje ensamblador. Primero, se seleccionan posiciones de memoria concretas para las variables utilizadas en el programa. 

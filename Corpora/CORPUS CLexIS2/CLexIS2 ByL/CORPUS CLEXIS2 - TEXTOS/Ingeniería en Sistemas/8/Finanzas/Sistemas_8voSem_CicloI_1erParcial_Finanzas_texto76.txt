@@ -1,0 +1,5 @@
+texto 76
+
+Crédito e intereses por pagar: registro en el valor a pagar por un crédito tenido por la empresa con vencimiento menor a un año si deben intereses estos deben ser registrados y cancelados en el futuro.
+Proveedores: cuenta que representa el valor de las compras de mercancía de la empresa realiza en credito.
+Acreedores diversos: constituye estudie, el importe de las deudas que tiene la empresa por un concepto distinto a la compra de mercancías o contratación de servicios de su actividad principal.

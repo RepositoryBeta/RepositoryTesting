@@ -1,0 +1,4 @@
+texto 23
+
+SISTEMA DE CONTROL INTERNO INFORMÁTICO 
+Definición: Se puede definir el control interno como cualquier actividad o acción realizada manual y/o automáticamente para prevenir, corregir errores o irregularidades que puedan afectar al funcionamiento de un sistema para conseguir sus objetivos. Los controles cuando se diseñen, desarrollen e implanten han de ser al menos completos, simples, fiable, revisables, adecuados y rentables. Los controles internos que se utilizan en el entorno informático continúan evolucionando hoy en día a medida que los sistemas informáticos se vuelven complejos.

@@ -1,0 +1,4 @@
+texto 3
+Por ejemplo, una base de datos típica de ingreso de solicitudes de negocio incluiría una tabla que describiera a un cliente con columnas para el nombre, dirección, número de teléfono, y así sucesivamente. 
+Otra tabla identificaría el pedido: producto, cliente, fecha, precio de venta, y así sucesivamente. 
+Un usuario de la base de datos podría obtener una vista de la base de datos que se ajuste a sus necesidades. 

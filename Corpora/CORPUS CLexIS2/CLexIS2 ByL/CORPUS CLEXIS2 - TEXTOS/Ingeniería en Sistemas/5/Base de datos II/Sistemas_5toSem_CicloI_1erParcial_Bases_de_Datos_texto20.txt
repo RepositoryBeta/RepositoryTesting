@@ -1,0 +1,5 @@
+texto 20
+AUTOEXTEND cláusulas: Activa o desactiva el crecimiento automático de los archivos de datos del tablespace.
+Cuando un tablespace se llena podemos usar esta opción para que el tamaño del archivo o archivos de datos asociados crezca automáticamente.
+AUTOEXTEND OFF desactiva el crecimiento automático.
+El formato AUTOEXTEND ON es: AUTOEXTEND ON NEXT entero {K|M} MAXSIZE {UNLIMITED| entero {K|M}}.

@@ -1,0 +1,3 @@
+texto 18
+
+Así en lugar de reconfigurar el Hardware para cada nuevo programa, el programador simplemente necesita proporcionar un nuevo conjunto de señales de control. La aritmética lógica son simplemente en la interacción del todos los circuitos integrados que utilizan en la lógica matemática. 

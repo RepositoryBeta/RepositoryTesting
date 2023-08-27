@@ -1,0 +1,3 @@
+texto 5
+
+Ante la visión de alto nivel de lo que estamos en este momento analizando el término de estructura y funcionamiento es importante hacer su análisis de una manera muy equitativa para la comprensión de cómo funciona desde el punto de vista de un programador, Igualmente es importante esa utilidad de entender lo que cada vez es más complejo, los problemas de evaluación de prestación, porque ¿Qué es lo que nos interesa saber? Que nuestro cpu o que nuestro computador tenga todas las prestaciones óptimas para que el equipo, como se dice le saquemos el mayor rendimiento. 

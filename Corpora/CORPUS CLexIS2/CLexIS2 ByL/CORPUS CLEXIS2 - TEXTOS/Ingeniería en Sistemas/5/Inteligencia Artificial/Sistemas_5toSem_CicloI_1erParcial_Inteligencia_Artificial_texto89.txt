@@ -1,0 +1,9 @@
+texto 89
+
+Las ventajas del GLS son:
+1) Ocupa poco espacio de memoria.
+2) Se llega a una solución óptima de manera muy rápida.
+3) Permite realizar búsquedas en valores continuos.
+4) Soluciona el problema de los mínimos locales en la búsqueda local base.
+5) El concepto de vecindad permite moverse de una solución a una mejor solución.
+

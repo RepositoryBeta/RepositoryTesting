@@ -1,0 +1,3 @@
+﻿Texto 65
+
+Para mantener la integridad de los datos, HDFS almacena por defecto 3 copias de cada bloque de datos, esto significa que el espacio necesario en HDFS es el triple, por lo que el coste también aumenta, aunque la replicación de datos no es necesaria para el funcionamiento de HDFS, almacenar solamente una copia podría suponer pérdida de datos frente a fallos o corrupción de ficheros, eliminando la durabilidad del dato.

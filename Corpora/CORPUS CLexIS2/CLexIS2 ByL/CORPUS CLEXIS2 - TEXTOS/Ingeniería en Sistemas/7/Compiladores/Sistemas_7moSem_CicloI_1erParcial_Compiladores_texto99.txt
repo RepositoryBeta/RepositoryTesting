@@ -1,0 +1,2 @@
+TEXTO 99
+El lenguaje C  fue primero, el compilador o el programa van de la mano el fortran, es el primer lenguaje de alto nivel. Por medio de este lenguaje se hizo la compilación si no hay lenguaje no hay compilación, algol es otro lenguaje estructurado de módulos, la separación frontend y backend para compilar lenguajes en distintas máquinas, creación de lenguaje intermedio uncol y definición de las distintas fases de creación de compiladores.

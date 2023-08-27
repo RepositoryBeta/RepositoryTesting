@@ -1,0 +1,6 @@
+texto 8 
+Arquitectura de base de datos
+En el nivel conceptual se describe la estructura de toda la base de datos para una comunidad de usuarios (todos los de una empresa u organización), mediante un esquema conceptual.
+Este esquema oculta los detalles de las estructuras de almacenamiento y se concentra en describir entidades, atributos, relaciones, operaciones de los usuarios y restricciones.
+En este nivel se puede utilizar un modelo conceptual o un modelo lógico para especificar el esquema. 
+

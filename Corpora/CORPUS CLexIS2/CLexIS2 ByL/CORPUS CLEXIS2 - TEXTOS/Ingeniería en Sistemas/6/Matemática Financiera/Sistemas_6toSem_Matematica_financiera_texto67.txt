@@ -1,0 +1,5 @@
+﻿texto 67
+Qué es el TIR y cómo se usa
+El TIR o la tasa interna de retorno, es la tasa de descuento que se tiene en un proyecto y que nos permite que el BNA sea como mínimo igual a la inversión. Cuando se habla del TIR se habla de la máxima TD que cualquier proyecto puede tener para que se pueda ver como apto.
+Para poder hallar el TIR de la forma correcta, los datos que se van a necesitar son el tamaño de la inversión y el flujo de caja neto proyectado. Siempre que se vaya a hallar el TIR, se debe usar la fórmula del VAN que te hemos dado en la parte superior. 
+

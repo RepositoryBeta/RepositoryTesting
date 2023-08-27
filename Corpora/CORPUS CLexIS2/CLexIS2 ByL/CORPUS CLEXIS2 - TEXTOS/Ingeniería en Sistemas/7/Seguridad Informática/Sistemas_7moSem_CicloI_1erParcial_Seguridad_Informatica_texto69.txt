@@ -1,0 +1,6 @@
+texto 69
+
+La arquitectura de seguridad en la nube es efectiva solo si se implementan defensas en los lugares correctos, reconociendo donde pueden aparecer determinados problemas, y estableciendo controles para resguardar cualquier debilidad y reducir el efecto de los ataques.
+A pesar de hay muchos tipos de controles detrás de una arquitectura en la nube, usualmente se pueden encontrar en una de las siguientes categorías: 
+Controles disuasivos: están destinados a reducir los ataques en un sistema en la nube. 
+Cumplen el propósito de alertar a los posibles atacantes que habrá consecuencias adversas hacia ellos si continúan con el ataque.

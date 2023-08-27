@@ -1,0 +1,8 @@
+texto 22
+
+Como característica común todos los Phenom tienen tecnología de 65nm lograda a través de tecnología de fabricación Silicon on insulator (SOI). 
+No obstante, Intel, ya se encontraba fabricando mediante la más avanzada tecnología de proceso de 45nm en 2008. 
+Los procesadores Phenom están diseñados para facilitar el uso inteligente de energía y recursos del sistema, listos para la virtualización, generando un óptimo rendimiento por vatio. 
+
+
+

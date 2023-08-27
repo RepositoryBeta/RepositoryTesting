@@ -1,0 +1,2 @@
+TEXTO 75
+Tenemos lo que es la colaboración, una colaboración es un conjunto de papeles de clasificadores o instancias y de papeles de asociaciones entre aquellos que intervienen en una interacción una colaboración, se puede definir en lo que respecta clasificadores o por lo que respecta a instancias, es decir, este concepto de colaboración va a intervenir en lo que es la interacción, pero un conjunto de papeles clasificados.

@@ -1,0 +1,4 @@
+texto 59
+
+Con frecuencia se hace referencia a estos esquemas como tablas de dimensiones porque se pueden representar como una dimensión del cubo OLAP multidimensional. Esto permite a los científicos de datos establecer relaciones entre los hechos almacenados en el almacén y todo tipo de información de referencia que permite analizar indicadores operativos del negocio (como, por ejemplo, el volumen de ventas) de forma multidimensional a partir de diferentes aspectos y examinarlos en diversos niveles de detalle.
+Este procedimiento no está limitado a las tres dimensiones, pues un cubo de datos es multidimensional y puede comprender tantas dimensiones como sean necesarias.

@@ -1,0 +1,8 @@
+texto 57
+
+Registros de bandera
+T (Trampa): Activa, si se pone a 1, o desactiva, si se pone a 0, el modo de ejecución paso a paso. Este modo es utilizado por los depuradores para ejecutar las instrucciones una a la vez y permitir observar el efecto de la instrucción sobre los registros y la memoria.
+ I (Interrupción): Habilita, si se pone a 1, o deshabilita, si se pone a 0, las interrupciones al microprocesador. El estado de esta bandera se controla con las instrucciones sti (habilitar interrupciones) y cli (desactivar las interrupciones).
+
+
+

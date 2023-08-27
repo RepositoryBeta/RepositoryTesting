@@ -1,0 +1,4 @@
+texto 13
+
+Es esta seguridad quizás la más compleja de gestionar ya que un ataque a un equipo conectado a la red, fácilmente se propagará por la misma a otros equipos si no ponemos los medios necesarios.
+Espero que con el post de hoy hayamos podido aclarar los diferentes tipos de seguridad informática que existen, que como podéis ver no son únicos. Es importante tener en cuenta que las tres clasificaciones que hemos expuesto son complementarias.

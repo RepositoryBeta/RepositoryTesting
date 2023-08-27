@@ -1,0 +1,2 @@
+TEXTO 77
+En los tipos de análisis de analizadores tenemos los analizadores ascendentes y descendentes los analizadores ascendentes son comúnmente utilizados para poder analizar lenguajes como c o c++, los analizadores descendentes se puede utilizar para lenguaje de c sharp o lenguaje de Java. Los analizadores ascendentes hacen referencia al análisis del árbol jerárquico de arriba hacia abajo y de abajo hacia arriba en cambio en la parte descendente utilizamos un poco más de complejidad. 

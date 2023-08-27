@@ -1,0 +1,3 @@
+texto 22
+
+Ahora, tenemos contexto vs perfil, hay una diferencia entre el contexto y el perfil, usted puede decir yo veo que contexto y perfil son lo mismo. Pero, no es lo mismo. Entonces cuando hablamos de contexto vs perfil, son conceptos complementarios y muy relacionados. Un perfil de usuario contiene información sobre rasgos estables de una persona, que en general se supone que varían lentamente con el tiempo. El contexto de un usuario, en cambio, evalúa la situación de la persona en un momento concreto.

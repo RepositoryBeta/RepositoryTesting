@@ -1,0 +1,4 @@
+texto 66
+
+Ahora, tenemos la simulación, en la simulación se explican los algoritmos que se utilizan de forma estadística para poder encontrar una solución, por ejemplo, tengo un control remoto, nosotros vimos en robótica, en un vídeo, como un robot cogía un control, al momento de cogerlo tiene que ejercer una presión para poder sostenerlo, pero si usted lo sujeta muy suave el control se cae, pero si usted lo sujeta muy duro el control se daña, entonces estas estadísticas se hacen en base a una simulación.
+

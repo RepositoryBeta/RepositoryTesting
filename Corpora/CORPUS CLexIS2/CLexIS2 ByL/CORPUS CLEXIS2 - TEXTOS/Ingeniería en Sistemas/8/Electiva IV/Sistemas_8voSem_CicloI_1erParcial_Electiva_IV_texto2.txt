@@ -1,0 +1,4 @@
+texto 2
+
+Plataformas móviles de comunicación y procesamiento.
+Las nuevas plataformas móviles han abierto nuevas líneas para los usos y aplicaciones informáticas. Entonces nos damos cuenta que actualmente en una empresa maneja o crea aplicaciones móviles para ayudar en este caso al flujo de información que ese sistema pueda manejar. Por ejemplo Cocacola siempre anda con una aplicación móvil, genera la compra y automáticamente eso se almacenan las base de datos de la empresa y entra a una gestión de despacho.

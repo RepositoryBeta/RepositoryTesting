@@ -1,0 +1,5 @@
+﻿Texto 2
+
+Sistemas distribuidos se define como aquel en que los componentes localizados en computadores conectados en red, se comunican y coordinan sus acciones únicamente mediante el paso de mensajes.
+Es habitual que los sistemas distribuidos se caracterizen por la concurrencia de los componentes, la ausencia de un reloj común y la independencia en los fallos.
+La concurrencia permite que los recursos disponibles, incluidos los propios componentes, puedan ser utilizados simultáneamente.

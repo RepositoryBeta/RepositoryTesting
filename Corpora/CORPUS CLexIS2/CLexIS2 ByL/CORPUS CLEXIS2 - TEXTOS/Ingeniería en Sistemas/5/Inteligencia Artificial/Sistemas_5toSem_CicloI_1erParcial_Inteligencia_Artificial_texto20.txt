@@ -1,0 +1,4 @@
+texto 20
+
+El procesamiento del lenguaje natural, es el que nos va a enseñar las reglas a poder crear eso, la gramática realmente es sólo una pequeña parte del procesamiento del lenguaje natural, desarrollar una oración, por ejemplo, mi mamá me mima es una de las primeras oraciones que nos enseña, esa oración nos sirve para poder aprender a leer, pasa el tiempo y usted se acuerda de esa oración, pero a una computadora se le tiene que enseñar mediante diversos algoritmos.
+

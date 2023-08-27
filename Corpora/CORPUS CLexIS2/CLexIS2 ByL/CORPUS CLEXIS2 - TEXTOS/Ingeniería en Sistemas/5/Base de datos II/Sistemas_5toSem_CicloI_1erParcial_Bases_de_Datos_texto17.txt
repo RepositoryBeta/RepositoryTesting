@@ -1,0 +1,4 @@
+texto 17
+INITIAL: Extensión inicial. Tamaño en bytes de la primera extensión del objeto. 
+NEXT: Extensión siguiente. Tamaño de la siguiente extensión que va a asignar al objeto. Por defecto, es el tamaño de un bloque de datos (el tamaño del bloque de datos se especifica en el parámetro de inicio de Oracle y debe ser múltiplo del tamaño del bloque del sistema operativo del servidor)
+MINEXTENTS: Reserva extensiones adicionales más allá de la extensión inicial que se da a la tabla por omisión.

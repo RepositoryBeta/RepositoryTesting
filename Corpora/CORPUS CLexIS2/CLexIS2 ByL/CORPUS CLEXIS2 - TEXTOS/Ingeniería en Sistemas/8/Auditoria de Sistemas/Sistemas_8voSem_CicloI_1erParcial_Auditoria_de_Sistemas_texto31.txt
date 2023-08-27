@@ -1,0 +1,11 @@
+texto 31 
+
+Principios de la Función de Auditoría Informática 
+Localización ligada a la de auditoría interna, con independencia de objetivos, de planes de formación y de presupuestos.
+Grupo independiente del de auditoría interna, con total accesibilidad a los sistemas informáticos.
+Dependencia del máximo responsable operativo de la organización.
+Recursos humanos mezcla equilibrada entre personas con formación en auditoría y organización, y personas con perfil informático.
+
+Personal con titulación CISA 
+
+El tamaño sólo se puede precisar en función de los objetivos de la función. 

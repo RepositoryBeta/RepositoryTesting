@@ -1,0 +1,7 @@
+texto 19
+
+La microarquitectura Core regresó a velocidades de CPU bajas y mejoró el uso del procesador de ambos ciclos de velocidad y energía comparados con anteriores NetBurst de los CPU Pentium 4/D2. 
+La microarquitectura Core provee etapas de decodificación, unidades de ejecución, caché y buses más eficientes, reduciendo el consumo de energía de CPU Core 2, mientras se incrementa la capacidad de procesamiento. 
+
+
+

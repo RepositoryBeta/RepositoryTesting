@@ -1,0 +1,4 @@
+texto 71
+
+El desafío del BIG DATA, Big Data para describir estos conjuntos de datos con volumen están grandes que están más allá de la capacidad de un dbms común para capturar, almacenar y analizar. Big Data no se refiere a una cantidad específica, sino por lo general a los datos en el rango de los petabytes y exabytes; es decir, de miles de millones a billones de registros, todos de orígenes distintos.
+

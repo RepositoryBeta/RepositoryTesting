@@ -1,0 +1,4 @@
+texto 22
+
+Continuando con las características de los sistemas transaccionales, tenemos que tienen la prioridad de ser recolectores de información, es decir, a través de ellos se encargan las grandes bases de datos para su posterior utilización. Estos sistemas integran cantidades grandes de la información que se maneja en la organización, la cual será empleada después para apoyar a los mandos intermedios y altos.
+

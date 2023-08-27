@@ -1,0 +1,3 @@
+texto 73
+
+Intent: Voluntad, querer realizar una accion. Utilizado cuando deseamos realizar una actividad. Los Intents son uno de los elementos más característicos en el desarrollo de aplicaciones para Android. Los Intents permiten intercambiar datos entre aplicaciones o componentes de aplicaciones, como por ejemplo las actividades. También pueden ser usados para iniciar actividades o servicios. Otra posible aplicación de los Intents es solicitar al sistema que se realice una determinada acción con ciertos datos; el propio Android se encargará de buscar la aplicación más cualificada para realizar el trabajo.

@@ -1,0 +1,7 @@
+texto 28
+RESPALDOS EN FRIO (Cold backup)
+Es un método de respaldo muy restrictivo, y debe hacerse únicamente cuando la base de datos este cerrada. Es útil en el evento de perdida total de la base de datos.
+Ventajas:
+La consistencia de datos está garantizada: No se da el caso de que los datos a ser respaldados estén siendo usados por algún usuario por que ellos no pueden acceder a la base de datos.
+Todo incluido: Este tipo de respaldo incluye todos los Datafiles, los Controlfiles, y los Logfiles; no hay posibilidad de que alguna tabla o vista no quede en el backup.
+El espacio que ocupa es conocido, además el tiempo de respaldo y recuperación es predecible.

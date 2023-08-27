@@ -1,0 +1,2 @@
+TEXTO 98
+Técnica del camino básico en caja blanca un camino independiente es el que introducen por lo menos una nueva secuencia (arista o paso a seguir que todavía no se había considerado en el grafo de flujo), que no estaba considerada en el conjunto de caminos independientes ya calculados, el número de caminos independientes viene acotado por la complejidad ciclomática del grafo de flujo asociado al código.

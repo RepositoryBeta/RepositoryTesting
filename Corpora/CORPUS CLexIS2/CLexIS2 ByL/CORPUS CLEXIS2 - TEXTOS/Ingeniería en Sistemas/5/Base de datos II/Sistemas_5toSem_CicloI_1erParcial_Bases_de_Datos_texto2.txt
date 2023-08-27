@@ -1,0 +1,4 @@
+texto 2
+Una base de datos relacional es un conjunto de tablas que contienen datos provistos en categorías predefinidas. 
+Cada tabla (que a veces se llaman relación) contiene una o más categorías de datos en columnas.
+Cada fila contiene una instancia única de datos para las categorías definidas por las columnas. 

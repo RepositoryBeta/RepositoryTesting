@@ -1,0 +1,7 @@
+texto 48
+
+PRINCIPIO DE LEGALIDAD 
+El auditor deberá evitar utilizar sus conocimientos para facilitar a los auditados o terceras personas la desobediencia de la legalidad vigente. 
+No consentirá ni colaborará en la eliminación de dispositivos de seguridad ni intentará obtener códigos o claves de acceso a sectores restringidos de información. 
+Debe abstenerse de intervenir líneas de comunicación o controlar actividades que generen vulneración.
+

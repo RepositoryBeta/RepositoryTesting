@@ -1,0 +1,6 @@
+texto 41
+
+Continuando con los contenidos principales del módulo, tenemos otra carpeta, que tiene la siguiente dirección, Carpeta / app / src / main / res /, esta carpeta contiene los ficheros de recursos necesarios para el proyecto, dentro de los cuales tenemos: 
+1) Imágenes.
+2) Layouts.
+3) Cadenas de texto, etc.

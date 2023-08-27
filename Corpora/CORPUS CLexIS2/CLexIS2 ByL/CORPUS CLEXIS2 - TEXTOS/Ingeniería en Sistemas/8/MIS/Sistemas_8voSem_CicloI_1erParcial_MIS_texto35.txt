@@ -1,0 +1,5 @@
+texto 35
+
+Elaboran informes fijos, programados regularmente con bases de datos extraídos y resumidos, y el formato se especifica por adelantado, puede mostrar un resumen de ventas mensuales para cada uno de los principales territorios de ventas de una compañía.
+3) Los DSS proporciona nuevos conjuntos de capacidades para la toma de decisiones no rutinarias y el control de usuarios.
+

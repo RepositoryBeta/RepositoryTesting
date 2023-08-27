@@ -1,0 +1,4 @@
+texto 99
+
+CMI: ¿Cómo implementarlo?
+La primera etapa es la que corresponde al diseño de la estrategia. Este diseño se inicia con un análisis de la situación actual que permite saber dónde se encuentra la empresa y hacia dónde se dirige, lo que se conoce como misión y visión corporativas. Posteriormente, se define la estrategia, la manera cómo la compañía irá avanzando hacia la visión, y se establecen los objetivos, más concretos y cercanos en el tiempo. 

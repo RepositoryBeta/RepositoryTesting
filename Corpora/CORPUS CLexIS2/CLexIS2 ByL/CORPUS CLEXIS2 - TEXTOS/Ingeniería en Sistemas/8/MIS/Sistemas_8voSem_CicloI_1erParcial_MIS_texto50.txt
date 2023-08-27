@@ -1,0 +1,4 @@
+texto 50
+
+Seguimos con la falta de compartición y disponibilidad de los datos, pieza de información en archivos distintos y diferentes partes de la organización no se pueden relacionar entre sí, es imposible compartir o acceder a la información de una manera oportuna. La información no puede fluir con libertad entre distintas áreas funcionales o partes de la organización.
+

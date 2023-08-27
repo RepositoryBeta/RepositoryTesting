@@ -1,0 +1,7 @@
+texto 97
+
+Estructura de la norma ISO 27001
+Objeto y campo de aplicación: La norma comienza aportando unas orientaciones sobre el uso, finalidad y modo de aplicación de este estándar.
+Referencias Normativas: Recomienda la consulta de ciertos documentos indispensables para la aplicación de ISO 27001.
+Términos y Definiciones: Describe la terminología aplicable a este estándar.
+Contexto de la Organización: Este es el primer requisito de la norma, el cual recoge indicaciones sobre el conocimiento de la organización y su contexto, la comprensión de las necesidades y expectativas de las partes interesadas y la determinación del alcance del SGSI.

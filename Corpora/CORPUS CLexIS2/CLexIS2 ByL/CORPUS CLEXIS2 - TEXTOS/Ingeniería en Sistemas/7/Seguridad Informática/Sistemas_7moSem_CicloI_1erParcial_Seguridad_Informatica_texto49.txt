@@ -1,0 +1,6 @@
+texto 49
+
+El sistema de NAC impide el acceso a la red de los dispositivos que no reúnen los requisitos, colocándolos en un área en cuarentena o concediéndoles acceso restringido a los recursos informáticos a fin de evitar que los nodos inseguros infecten la red.
+¿Cuáles son las capacidades generales de la solución de NAC?
+Las soluciones de NAC ayudan a las organizaciones a controlar el acceso a las redes a través de las siguientes capacidades:
+Administración del ciclo de vida de la política: aplica las políticas para todas las situaciones operativas sin requerir productos separados o módulos adicionales.

@@ -1,0 +1,5 @@
+texto 67
+Secuencias.
+Una secuencia sirve para generar automáticamente números distintos.
+Se utilizan para generar valores para campos que se utilizan como clave forzada (claves cuyo valor no interesa, sólo sirven para identificar los registros de una tabla).
+Es decir se utilizan en los identificadores de las tablas (campos que comienzan con la palabra id), siempre y cuando no importe qué número se asigna a cada fila.

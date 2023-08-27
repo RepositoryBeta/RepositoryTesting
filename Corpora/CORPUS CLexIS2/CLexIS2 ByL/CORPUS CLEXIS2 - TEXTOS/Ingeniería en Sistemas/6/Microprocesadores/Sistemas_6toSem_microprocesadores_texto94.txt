@@ -1,0 +1,7 @@
+texto 94
+
+VMXNET es un controlador de dispositivo de E/S paravirtualizado que comparte estructuras de datos con el hipervisor, puede tomar ventaja de las capacidades del dispositivo invitado para ofrecer un mejor rendimiento y la utilización de un CPU reducido.
+Es importante tener en cuenta que el servicio de las herramientas de VMWARE y el controlador de dispositivo vmxnet no son soluciones de paravirtualización de CPU. Son cambios mínimos, no intrusivos instalados en el sistema operativo invitado que no requieren la modificación del kernel del sistema operativo.
+
+
+

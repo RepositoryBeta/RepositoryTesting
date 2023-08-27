@@ -1,0 +1,6 @@
+﻿texto 63
+Esta es la tasa de rentabilidad mínima y se sabe de la siguiente manera.
+Si la tasa resulta mayor que el BNA esto quiere decir que la tasa no se ha satisfecho y tenemos un VAN negativo. Si el BNA es igual a la inversión, esto quiere decir que se ha cumplido con la tasa, el VAN es igual a 0.
+Cuando el BNA es mayor significa que se ha cumplido con la tasa y además, se ha conseguido sacar una ganancia.
+
+

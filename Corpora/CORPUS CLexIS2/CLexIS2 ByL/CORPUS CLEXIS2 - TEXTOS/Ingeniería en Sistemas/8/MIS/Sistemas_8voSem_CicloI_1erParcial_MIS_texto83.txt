@@ -1,0 +1,4 @@
+texto 83
+
+Lo que permite el procesamiento paralelo distribuido de enormes cantidades de datos a través de computadoras económicas. Descompone un problema de Big Data en varios subproblemas, los distribuye entre miles de nodos de procesamiento de computadoras económicas y luego combina el resultado en un conjunto de datos de menor tamaño que es más fácil de analizar. Tal vez usted ya haya usado Hadoop para encontrar la mejor tarifa aérea en internet.
+

@@ -1,0 +1,4 @@
+texto 55
+
+Porque el aprendizaje automático se divide también en dos cosas importantes, en supervisado y aprendizaje no supervisado, el supervisado se basa en que usted le de el empujón que le dije, le enseña primero, oye cada vez que te encuentres esto, eso es un celular. El no supervisado se basa en que bueno, yo te doy este objeto para que tú veas que es y mira tú para que después me digas que es. No le enseñas nada, porque toman sus decisiones propias.
+

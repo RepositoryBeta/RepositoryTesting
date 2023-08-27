@@ -1,0 +1,6 @@
+texto 82
+
+Los parámetros de los procedimientos se consideran variables de este tipo. Las variables automáticas se almacenan en la pila, de esta forma su espacio se reserva cada vez que se llama al procedimiento y es liberado cuando retorna.
+El acceso a estas variables se realiza mediante direccionamiento indexado al apuntador de trama de procedimiento o frame pointer. En el caso de los parámetros pasados por referencia o de las variables automáticas que representen apuntadores, se aplicará el mismo direccionamiento pero en su versión indirecta.
+
+

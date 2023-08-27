@@ -1,0 +1,4 @@
+texto 88
+Bases de datos multivalor
+Las bases de datos multivalor son sistemas interesantes que incorporan diferentes características multidimensionales y NOSQL para la clasificación y manejo de los datos. Estas BBDD comparten significativas similitudes con los modelos relacionales tradicionales. Ambos esquemas contienen tablas. Pero que esto no te engañe, las BBDD multivalor proporcionan un esquema de trabajo menos rígido.
+Además de proporcionar mayor flexibilidad, los datos almacenados acá pueden contener listas de valores. Esto quiere decir que cualquier dato almacenado puede tener diversos valores asignados.

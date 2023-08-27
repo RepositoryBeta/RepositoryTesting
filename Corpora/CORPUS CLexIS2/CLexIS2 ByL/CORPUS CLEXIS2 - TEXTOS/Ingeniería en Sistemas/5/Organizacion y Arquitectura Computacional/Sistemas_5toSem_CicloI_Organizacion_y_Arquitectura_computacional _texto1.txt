@@ -1,0 +1,3 @@
+texto 1
+
+Hoy vamos a ver la unidad central de proceso, entonces los puntos a tratar el día de hoy son los componentes del computador y el funcionamiento del computador, pues aquí vamos a ver cómo es que funciona en el interior del computador cuando se ejecuta un programa, en este capítulo se centra en la estructura básica utilizada para la interconexión de los componentes del computador,  a modo de revisión el capítulo comienza un pequeño análisis de los componentes básicos  y sus necesidades de interconexión. 

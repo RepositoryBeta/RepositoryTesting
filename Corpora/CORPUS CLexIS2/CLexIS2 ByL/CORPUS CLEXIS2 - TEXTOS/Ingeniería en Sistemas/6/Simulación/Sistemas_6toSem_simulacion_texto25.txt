@@ -1,0 +1,3 @@
+﻿texto 25 
+
+Cuando estamos hablando de variables cuantitativas continuas, cuando esos valores de la misma variable en forma de intervalo, por ejemplo quiero saber quien tiene entre 19 y 20 años y estoy manejando la misma variable, variable discreta, quiero saber cuántas personas tienen 19 años, puede ser que en la encuesta que yo hice puede haber 20, 30 personas con 19 años, son valores puntuales pero en cambio continua, yo quiero saber un rango, yo quiero saber un intervalo de persona que está entre 19 y 21.

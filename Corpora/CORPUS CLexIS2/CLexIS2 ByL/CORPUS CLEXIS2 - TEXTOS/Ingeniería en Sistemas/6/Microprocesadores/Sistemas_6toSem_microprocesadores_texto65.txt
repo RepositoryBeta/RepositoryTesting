@@ -1,0 +1,10 @@
+texto 56
+
+La interrupción se mantiene pendiente y se examinará una vez se haya activado la primera interrupción. 
+Las interrupciones se manejan en un orden secuencial estricto. 
+Definir prioridades 
+Una interrupción de prioridad más alta puede interrumpir a un gestor de interrupción de prioridad menor. 
+Cuando se ha generado la interrupción de prioridad más alta, el procesador vuelve a la interrupción previa.
+
+
+

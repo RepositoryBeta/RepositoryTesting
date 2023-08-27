@@ -1,0 +1,5 @@
+texto 80
+Desventajas:
+Menos maduro: la mayoría de las alternativas de bases de datos NOSQL apenas han salido de las etapas de preproducción, y hay muchas características importantes que aún no se han implementado.
+Atomicidad: Algunas de estas bases de datos no incorporan la atomicidad de información. Esto puede derivar en que la información no sea consistente entre nodos.
+Software poco documentado: Al ser tan relativamente nuevo, el NOSQL puede adolecer de que algunas operaciones sean limitadas por la falta de información sobre las herramientas y sus características.

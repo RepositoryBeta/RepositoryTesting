@@ -1,0 +1,7 @@
+texto 90
+
+También tenemos desventajas del GLS, que son:
+1) Función depende de su solución inicial.
+2) El algoritmo tiende a quedarse estancado en óptimo local y se descarta otras particiones.
+3) Exploran pequeños sectores de espacio, y la solución suele no ser tan óptima.
+

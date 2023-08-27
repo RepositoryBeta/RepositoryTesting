@@ -1,0 +1,3 @@
+texto 14
+Creacion de un tablespaces
+Para crear un tablespace se usa la orden CREATE TABLESPACE la cual permite asignar uno o más archivos al espacio de tablas y especificar un espacio por omisión para cualquiera de las tablas creadas sin un espacio de tabla explícitamente mencionado en una sentencia CREATE TABLE.

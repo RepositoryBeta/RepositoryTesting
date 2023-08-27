@@ -1,0 +1,3 @@
+texto 37
+
+En ocasiones se presentan problemas de que la aplicación se ejecuta en un dispositivo pero en otro no, esto se dará acorde a la api y que nosotros decidamos escoger. De esta forma, cuanto menor sea ésta, a más dispositivos podrá llegar nuestra aplicación, pero más complicado será conseguir que se ejecute correctamente en todas las versiones de Android. Por ejemplo, en el momento de escribir este artículo, sí seleccionamos como Api mínima la 15, conseguiremos cubrir un 94,0% de los dispositivos actuales.

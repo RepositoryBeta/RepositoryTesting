@@ -1,0 +1,3 @@
+texto 21
+
+En muchos casos ya no es posible verificar manualmente los procedimientos informáticos que resumen, calculan y clasifican datos, por lo que deberá emplear software de auditoría y otras técnicas asistidas por ordenador. Es responsable de revisar e informar a la Dirección de la Empresa, sobre el diseño y funcionamiento de los controles implantados y sobre la fiabilidad de la información suministrada.

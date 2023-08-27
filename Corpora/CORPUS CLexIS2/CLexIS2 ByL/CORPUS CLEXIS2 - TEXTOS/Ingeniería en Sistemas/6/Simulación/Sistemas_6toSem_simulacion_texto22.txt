@@ -1,0 +1,3 @@
+﻿texto 22 
+
+Entonces tercer capítulo de su proyecto de titulación es fundamental porque usted debe de saber cómo elegir el tamaño, la muestra que ya lo vamos a ver, entonces tenemos diseño de un cuestionario, por ejemplo tenemos la variable edad que es una variable cuantitativa, el sexo es una variable cualitativa y preguntas de si, no, no sabe, no opina, son preguntas de tipo cerradas. También acá tenemos preguntas cerradas y por supuesto las escalas likert las que son de tipo total acuerdo, parcial acuerdo y diferente.

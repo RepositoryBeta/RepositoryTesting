@@ -1,0 +1,4 @@
+texto 75
+
+Ahora tenemos una infraestructura de inteligencia de negocios, información concisa y confiable sobre las operaciones, tendencias y cambios actuales en toda la empresa. Si trabajara en una empresa de gran tamaño, tendría que reunir los datos necesarios de sistemas separados, como ventas, manufactura y contabilidad, incluso desde fuentes externas, como los datos demográficos o de las competencias. Es probable que cada vez fuera más necesario usar Big Data.
+

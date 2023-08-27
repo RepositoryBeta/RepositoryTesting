@@ -1,0 +1,3 @@
+TEXTO 25
+
+Los identificadores energía, total y cantidad han sido declarados reales. Mientras que el número 23 escrito sin puntos decimal se entiende que es un entero. Entonces éste es lo que inicialmente le puse de ejemplo ahora. ¿Qué va hacer el análisis semántico? El análisis semántico revela que el operador suma se va aplicar a un real, de cantidad que lo que le está diciendo, que el sistema a pesar de que no le puso, como no le puso 23, lo está considerando como un número entero. Pero, cantidad por no haberle dicho lo está considerando como un número real. 

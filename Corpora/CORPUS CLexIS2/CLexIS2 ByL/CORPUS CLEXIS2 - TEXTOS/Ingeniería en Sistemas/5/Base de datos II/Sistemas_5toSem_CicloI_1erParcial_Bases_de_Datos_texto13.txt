@@ -1,0 +1,6 @@
+texto 13
+Por ejemplo, con todas estas expresiones: local, un punto, localhost, 127.0.0.1, NombreServidor, 192.168.1.5 la IP del servidor.
+No es obligatorio tenerla, por lo que podemos tener solamente instancias con nombre en el servidor y obviar esta instancia por defecto o sin nombre.
+Tablespaces
+Un tablespace es una unidad lógica de almacenamiento de datos representado físicamente por uno o más archivos de datos.
+Se recomienda crear un tablespace por aplicación o grupos de usuarios. al instalar SYSTEM, USERS, TEMP, UNDOT.

@@ -1,0 +1,4 @@
+texto 26
+
+Conocer la Configuración del Sistema para llegar a conocer la configuración del sistema es necesario documentar los detalles de la red, así como los distintos niveles de control y elementos relacionados:
+Entorno de Red: Debemos tener una descripción de la configuración de hardware de comunicaciones, descripción del software que se utiliza como acceso a las telecomunicaciones, control de red, situación general de los ordenadores de entornos de base que soportan las aplicaciones críticas y consideraciones relativas a la seguridad de la red.

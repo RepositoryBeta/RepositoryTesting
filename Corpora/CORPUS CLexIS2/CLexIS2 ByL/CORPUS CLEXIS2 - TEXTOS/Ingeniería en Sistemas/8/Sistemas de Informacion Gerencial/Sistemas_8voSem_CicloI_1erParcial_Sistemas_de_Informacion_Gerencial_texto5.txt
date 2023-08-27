@@ -1,0 +1,3 @@
+texto 5
+
+Todo es datos que tienen que transmitirse también, no es sólo cuestión de almacenamiento y procesamiento. Sino, ¿Cómo se transmite ahora esa millonada de datos?, se necesitan nuevos canales de comunicación, mayor ancho de banda, mucha más capacidad de almacenamiento y mucha más capacidad de procesamiento. Todo lo relacionado con minería, antes no se escrudiñaba el contenido de los correos, el contenido de las redes sociales, ahora si se escrudiña todo eso. 

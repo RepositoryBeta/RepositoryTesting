@@ -1,0 +1,9 @@
+texto 39
+
+Registros de propósito específico (SPRS)
+En esta ocasión, estamos ante registros que guardan datos del estado del sistema, como puede ser el registro de estado o el instruction pointer. Pueden estar combinados con el PSW (Program Status Word).
+Registros de estado
+Sirven para guardar valores reales cuya función es determinar cuándo una instrucción debe ejecutarse o no. También se le conoce como CCR (Condition Code Register). 
+
+
+

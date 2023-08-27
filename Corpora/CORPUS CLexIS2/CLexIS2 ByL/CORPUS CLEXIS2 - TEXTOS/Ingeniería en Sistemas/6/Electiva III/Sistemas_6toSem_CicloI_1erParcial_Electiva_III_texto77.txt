@@ -1,0 +1,4 @@
+texto 77
+
+Este es un derecho fundamental recogido por el Tribunal Constitucional Europeo en la sentencia 292/2000 como derecho de autodeterminación informativa o de libre disponibilidad de los datos de carácter personal. 
+Entre los principios asociados a la calidad de los datos, la LOPD y la RLOPD recogen que los datos son de calidad cuando son pertinentes y adecuados a la finalidad, se cancelan cuando ya no son necesarios para la finalidad con la que fueron recabados o no se recogen por medios ilícitos, desleales o fraudulentos (infracción grave recogida en el artículo 44.4.a).

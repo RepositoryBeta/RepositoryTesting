@@ -1,0 +1,2 @@
+TEXTO 63
+Conceptos - mensaje: Existen diferentes tipos de mensajes entre ellos se encuentra la llamada que invoca una operación. Esto hace referencia a un mensaje síncrono: el emisor espera hasta recibir el resultado. También tenemos el tipo de mensaje de envío que es el encargado de enviar una señal que hace referencia a un mensaje asíncrono: el emisor no espera a recibir el resultado. Tenemos el mensaje de retorno que devuelve un valor al emisor, la creación que creó un objeto y la destrucción que destruye un objeto.

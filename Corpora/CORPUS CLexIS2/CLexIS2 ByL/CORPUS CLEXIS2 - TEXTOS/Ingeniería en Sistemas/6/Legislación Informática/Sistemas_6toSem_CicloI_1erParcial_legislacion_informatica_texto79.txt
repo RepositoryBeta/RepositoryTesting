@@ -1,0 +1,10 @@
+texto 79
+¿Cuáles son las fuentes de las obligaciones en el Ecuador?
+En nuestro código civil, encontramos en el artículo 1453 C.C, que conforme la doctrina clásica, dispone que son cinco las fuentes de las obligaciones, a saber:
+1) La ley.
+2) El contrato o las convenciones.
+3) Los cuasicontratos.
+4) Los delitos.
+5) Los cuasidelitos.
+
+

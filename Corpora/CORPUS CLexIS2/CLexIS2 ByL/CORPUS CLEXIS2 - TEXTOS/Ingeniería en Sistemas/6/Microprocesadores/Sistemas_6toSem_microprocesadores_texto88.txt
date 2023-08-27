@@ -1,0 +1,8 @@
+texto 88
+
+El estado huésped es almacenado en las estructuras de control de la máquina virtual (VT-X) o en los bloques de control de las máquinas virtuales (AMD-V). 
+Los procesadores con Intel VT-X y AMD-V están disponibles desde el 2006, por lo que sólo los ordenadores que tiene esta tecnología poseen este tipo de virtualización.
+Debido a la alta sobrecarga en la transición entre el hipervisor y el huésped o invitado (guest) y al modelo de programación rígida, la técnica de traducción binaria de VMWARE supera a las implementaciones de hardware asistido en la mayoría de circunstancias.
+
+
+

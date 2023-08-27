@@ -1,0 +1,4 @@
+texto 47
+
+Seguridad inalámbrica
+Las redes inalámbricas no son tan seguras como las redes cableadas. Sin medidas de seguridad estrictas, instalar una LAN inalámbrica es como poner puertos Ethernet por doquier, incluso en el estacionamiento. Para evitar un ataque, necesita productos específicamente diseñados para proteger la red inalámbrica.

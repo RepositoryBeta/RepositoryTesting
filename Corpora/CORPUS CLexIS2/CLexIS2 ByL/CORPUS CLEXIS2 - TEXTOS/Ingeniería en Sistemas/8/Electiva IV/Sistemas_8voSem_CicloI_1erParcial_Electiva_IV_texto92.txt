@@ -1,0 +1,4 @@
+texto 92
+
+¿Qué proceso se elimina?
+Android mantiene en memoria todos los procesos que quedan, aunque estos no se estén ejecutando. Una vez que la memoria está llena y el usuario decide ejecutar una nueva aplicación, el sistema ha de determinar qué proceso de los que están en ejecución ha de ser eliminado. A fin de determinar qué procesos deben eliminarse cuando hay poca memoria, Android coloca cada proceso en una jerarquía de importancia que se basa en los componentes que se ejecutan en ellos y el estado de esos componentes.

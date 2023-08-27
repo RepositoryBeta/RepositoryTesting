@@ -1,0 +1,2 @@
+TEXTO 44
+Existe una lista que se debe tener a consideración, un acuerdo del proyecto debe contener al menos los siguientes: una lista de los documentos a entregar, los criterios para la demostración de los requerimientos funcionales, los criterios para la demostración de los requerimientos no funcionales, incluyendo precisión, confiabilidad, tiempo de respuesta y seguridad. Por último los criterios para la aceptación.

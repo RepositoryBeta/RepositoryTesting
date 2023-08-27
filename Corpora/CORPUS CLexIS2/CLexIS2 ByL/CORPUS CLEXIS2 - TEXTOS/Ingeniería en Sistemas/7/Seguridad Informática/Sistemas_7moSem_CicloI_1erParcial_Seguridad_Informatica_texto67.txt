@@ -1,0 +1,9 @@
+texto 67
+
+Exploits: Manteniendo nuestros sistemas operativos actualizados.
+Intrusos: Estableciendo permisos y niveles de acceso.
+Fuerza mayor: Mediante el uso de backups.
+Tipo de seguridad Informática
+En función de cómo sea el tipo de seguridad informática, podemos distinguir entre:
+Seguridad Activa Informática.
+Seguridad Pasiva Informática.

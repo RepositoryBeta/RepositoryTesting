@@ -1,0 +1,4 @@
+texto 19
+
+Por ejemplo, el gerente financiero, el gerente administrativo, el contador, el gerente inclusive de sistema, entonces esta gerencia intermedia la utilizan los DSS, OLAP, entre otros. Tenemos el EIS que se utiliza para los gerentes generales, para los socios de una empresa o directivos de la empresa, en este caso si estamos hablando de una empresa de gobierno, serían los ministros.
+

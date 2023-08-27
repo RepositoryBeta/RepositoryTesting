@@ -1,0 +1,7 @@
+﻿texto 88
+
+Los intereses de cada cuota se calculan en base a la cantidad del préstamo que nos quede por amortizar, es por ello que los primeros años pagaremos más intereses que de cara a los últimos años de la hipoteca, como vemos en el ejemplo de más abajo.
+Factores a tener en cuenta en el sistema de amortización francés.
+- Capital prestado.
+- Tipo de interés.
+- Duración del préstamo.

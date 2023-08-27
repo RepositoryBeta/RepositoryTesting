@@ -1,0 +1,5 @@
+texto 16
+
+Como ejemplos de amenaza están los ataques por parte de personas, al igual que los desastres naturales que puedan afectar a su computadora. También se pueden considerar amenazas los fallos cometidos por los usuarios al utilizar el sistema, o los fallos internos tanto del hardware o cómo del software.
+Riesgo
+El riesgo es la posibilidad de que una amenaza se produzca, dando lugar a un ataque al equipo. Esto no es otra cosa que la probabilidad de que ocurra el ataque por parte de la amenaza.

@@ -1,0 +1,3 @@
+TEXTO 26
+
+Entonces, en nuestro árbol sintáctico va a crear un nuevo nodo que lo va a llamar operador itof que convierte un entero integer. ¿Qué quiere decir eso?, que si iba a decir si es entero o es real ejemplo ya aquí estoy más adelante que en lo inicial. Ahora, ya le hice la segunda fase, ya vamos a la tercera fase que es el analizador semántico van a haber en este caso si las restricciones de contexto están correctos, lo verifica al final y le dice cantidad y la función itof que era cantidad itof cómo real me va a decir esta variable que esta aquí, le va a decir función itof y al final el CTEENT que va a ser entero. 

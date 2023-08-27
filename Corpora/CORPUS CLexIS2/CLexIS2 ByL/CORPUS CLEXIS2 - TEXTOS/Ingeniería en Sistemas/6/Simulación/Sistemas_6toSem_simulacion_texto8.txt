@@ -1,0 +1,3 @@
+﻿texto 8
+
+Nosotros tenemos 3 grandes tipos: descriptiva, analítica y mixtas, bueno, cuando nosotros hablamos de descriptivos o tenemos el concepto de técnica de muestreo, a niveles descriptivo es cuando por ejemplo, nosotros vamos a obtener cierta información respecto a grandes grupos, en esta parte nosotros podemos hacer inferencias estadísticas, podemos obtener resultados de una media, de una varianza, también tenemos analítica, es decir, se comparan varios grupos de una población.

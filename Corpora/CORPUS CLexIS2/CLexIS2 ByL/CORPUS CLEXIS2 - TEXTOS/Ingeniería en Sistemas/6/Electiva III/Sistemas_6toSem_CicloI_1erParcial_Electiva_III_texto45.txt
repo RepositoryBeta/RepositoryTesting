@@ -1,0 +1,6 @@
+texto 45
+
+Los diversos componentes que integran un almacén de datos no tienen que proceder del mismo fabricante, sino que pueden tener origen en productos de software diferentes o en soluciones individuales.
+
+Nivel de obtención de los datos
+Antes de cargar los datos en el almacén, esta información, a menudo muy diversa, se ha de convertir a un formato homogéneo. Un almacén de datos se nutre tanto de fuentes internas de la empresa como de fuentes externas especialmente relevantes.

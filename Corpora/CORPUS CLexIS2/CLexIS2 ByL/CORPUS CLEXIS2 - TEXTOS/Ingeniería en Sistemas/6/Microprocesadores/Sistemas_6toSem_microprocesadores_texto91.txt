@@ -1,0 +1,7 @@
+texto 91
+
+La paravirtualización es diferente de la virtualización completa, donde el sistema operativo sin modificar no sabe que se virtualiza y las llamadas sensibles están atrapadas y procesadas usando traducción binaria. 
+La paravirtualización requiere de modificaciones del kernel del sistema operativo para virtualizar el procesador y la memoria. El proyecto de código abierto XEN es un ejemplo de paravirtualización porque virtualiza el procesador y la memoria utilizando un kernel Linux modificado y virtualiza las entradas y salidas usando los controladores de dispositivos del sistema operativo invitado personalizado.
+
+
+

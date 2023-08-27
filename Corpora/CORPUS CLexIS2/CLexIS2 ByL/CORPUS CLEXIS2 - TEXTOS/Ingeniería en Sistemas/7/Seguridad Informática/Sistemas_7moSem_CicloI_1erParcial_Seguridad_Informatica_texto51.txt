@@ -1,0 +1,4 @@
+texto 51
+
+Respuesta ante incidentes: mitiga las amenazas a la red mediante la aplicación de políticas de seguridad que bloquean, aíslan y reparan las máquinas no conformes sin la atención del administrador.
+Integración bidireccional: se integra a otras soluciones de red y seguridad a través de una API de RESTFULL abierta.

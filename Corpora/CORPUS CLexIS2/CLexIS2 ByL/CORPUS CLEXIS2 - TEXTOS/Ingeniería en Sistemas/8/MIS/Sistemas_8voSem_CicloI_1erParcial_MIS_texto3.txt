@@ -1,0 +1,4 @@
+texto 3
+
+Cuando hablamos de investigación de operaciones y mencionamos call center, que son empresas que se dedican a las llamadas telefónicas, están basadas en conocimientos de investigación de operaciones, usan fórmulas de investigación de operaciones, por ejemplo, en el caso de ver el tiempo de espera de los que están en las líneas telefónicas, para ser atendidos, entonces calcula el IBR hasta indicar el número que le toca para ser atendido.
+

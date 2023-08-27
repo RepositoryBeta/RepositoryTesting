@@ -1,0 +1,4 @@
+texto 61
+Iterativo
+Las sentencias iterativas permiten ejecutar varias instrucciones múltiples veces. A éstas sentencias también se les conoce por el nombre de bucles repetitivos.
+FOR-LOOP: La sentencia FOR-LOOP permite especificar un rango de números enteros, finalmente ejecuta una secuencia de instrucciones para cada número entero dentro de la lista de números.

@@ -1,0 +1,3 @@
+texto 91
+
+En cambio la decodificación de una instrucción, es donde la segunda y la última acción comprendida en el ciclo de búsqueda es decodificar la instrucción. El dato enviado, una unidad de decodificación que decodifica la instrucción y éste va a ejecutar, es decir,  el decodificador traduce la instrucción para saber, justamente que instrucción es.

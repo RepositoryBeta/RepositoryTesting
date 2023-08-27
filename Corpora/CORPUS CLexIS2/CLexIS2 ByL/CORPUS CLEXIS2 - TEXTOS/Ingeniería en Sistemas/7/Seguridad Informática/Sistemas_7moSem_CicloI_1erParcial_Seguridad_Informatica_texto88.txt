@@ -1,0 +1,6 @@
+texto 88
+
+Deserialización insegura
+Es una de las vulnerabilidad más recientes, incluidas en el OWASP top 10, permitiendo aplicar código de manera remota en aplicaciones web. 
+Uso de componentes con vulnerabilidades conocidas
+La ejecución de código libre requiere que se hagan diferentes actualizaciones, mantener elementos estáticos es otorgar vulnerabilidades ya conocidos a los atacantes, de esta forma es necesario informar al equipo de desarrollo que actualice cualquier elemento que involucre código open source.

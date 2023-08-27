@@ -1,0 +1,12 @@
+texto 54
+
+Ciclo de interrupción 
+Añadido al ciclo de instrucción. 
+El procesador comprueba si se ha generado alguna interrupción, indicada por la presencia de una señal de interrupción. 
+Si no hay señales de interrupción, capta la siguiente instrucción. 
+Si hay alguna interrupción pendiente: 
+1) Se suspende la ejecución del programa en curso.
+2) Guarda su contexto.
+
+
+

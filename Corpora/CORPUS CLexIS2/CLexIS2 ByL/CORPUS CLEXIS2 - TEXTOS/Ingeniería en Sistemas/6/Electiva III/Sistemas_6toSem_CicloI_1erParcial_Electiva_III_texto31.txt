@@ -1,0 +1,3 @@
+texto 31
+
+Por otro lado, tenemos el arquitecto o ingeniero de datos (data architect o data engineer), que se encarga del diseño de la estructura de los datos y de los procesos de extracción, transformación y carga de los datos (procesos ETL). Trabajan, tradicionalmente, con bases de datos analíticas o data warehouses, aunque recientemente se ha ampliado el catálogo con las nuevas bases de datos derivadas de los almacenes de datos, como por ejemplo data lakes, data marts, etc.

@@ -1,0 +1,6 @@
+texto 35  
+SQL TOP: TOP se utiliza para especificar el número de filas a mostrar en el resultado.
+SQL LITE: LIKE se utiliza en la cláusula WHERE para buscar por un patrón.
+SQL WILDCARDS: Wildcards (comodines) son caracteres especiales que se utilizan para realizar búsquedas especiales.
+SQL IN: IN permite seleccionar múltiples valores en una cláusula WHERE.
+SQL BETWEEN: BETWEEN se utiliza en la cláusula WHERE para seleccionar valores entre un rango de datos.

@@ -1,0 +1,2 @@
+TEXTO 24
+Inicio del proyecto, el inicio del proyecto da como resultado los siguientes productos de trabajo, es un documento corto que describe el problema que debe resolver el sistema el ambiente destino, los productos a entregar al cliente y los criterios de aceptación la definición del problema es una descripción inicial y es la semilla para el acuerdo del proyecto que formaliza la comprensión común del proyecto por parte del cliente y la administración y se puede utilizar el rad que es una aplicación de desarrollo rápido.

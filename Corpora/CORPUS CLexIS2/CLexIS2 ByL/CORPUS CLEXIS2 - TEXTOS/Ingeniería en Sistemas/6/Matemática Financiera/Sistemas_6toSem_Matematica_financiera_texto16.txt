@@ -1,0 +1,3 @@
+﻿texto 16
+Dicha calculadora de interés simple, les permite conocer cuánto dinero tendrán que pagar de intereses al mes o cada año a partir del TIN que proporciona cada entidad. Por lo general el interés simple se aplica sobre los productos de financiamiento y algunas veces en productos de ahorro como las cuentas de ahorro.
+A partir de la calculadora del interés simple, pueden saber el monto a pagar al solicitar un préstamo o al aplazar una compra con la tarjeta de crédito.

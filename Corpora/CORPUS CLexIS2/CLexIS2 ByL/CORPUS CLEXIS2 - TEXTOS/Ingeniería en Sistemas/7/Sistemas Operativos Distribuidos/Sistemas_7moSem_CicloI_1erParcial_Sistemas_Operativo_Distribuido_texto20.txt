@@ -1,0 +1,5 @@
+﻿Texto 20
+
+¿El tratamiento a fallos significa que el sistema nunca va a fallar?
+
+Osea, si puedes fallar el sistema, pero hay que tener respaldos para poder ayudar en alguna ocasión. Existe un término que es el 99.99999% en los sistemas reales usamos técnicas para evitar que los sistemas se caigan, en la vida real cuando se desarrolla su sistema ustedes quieren es garantizar que el sistema nunca se caiga entonces, no usan a veces la redundancia si no, que usan otros sistemas de tolerancia a fallos como los reintentos.

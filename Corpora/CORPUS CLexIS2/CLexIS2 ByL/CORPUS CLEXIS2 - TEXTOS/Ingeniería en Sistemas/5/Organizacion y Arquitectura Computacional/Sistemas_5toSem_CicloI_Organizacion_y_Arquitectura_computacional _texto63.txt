@@ -1,0 +1,3 @@
+texto 63
+
+Hemos hablado de registros, los registros están en la unidad de procesamiento tenemos dos registros que tienen un propósito muy concreto. El primero se llama contador de programa y el segundo se llama registro instrucción. El contador de programa lo que hace es decir qué orden se está ejecutando en cada momento y así saber cuál será la próxima orden que se va a ejecutar después el registro de instrucción sirve para tener una instrucción del programa guardada dentro de CPU.

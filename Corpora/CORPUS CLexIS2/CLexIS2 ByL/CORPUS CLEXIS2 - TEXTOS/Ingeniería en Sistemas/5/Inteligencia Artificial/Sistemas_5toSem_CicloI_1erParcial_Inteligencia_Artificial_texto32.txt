@@ -1,0 +1,4 @@
+texto 32
+
+¿Entonces por qué es importante la minería de datos? Se ha podido apreciar los números asombrosos, el volumen de datos producidos, se duplica cada dos años. Los datos no estructurados por sí solos conforman el 90% del universo digital. Pero más información no significa necesariamente más conocimientos. Hay muchos aspectos que las minería de datos nos permiten a nosotros para poder desarrollar un buen software.
+

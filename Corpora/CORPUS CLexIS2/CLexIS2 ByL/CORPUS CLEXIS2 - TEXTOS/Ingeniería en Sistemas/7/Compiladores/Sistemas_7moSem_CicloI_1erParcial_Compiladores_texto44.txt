@@ -1,0 +1,3 @@
+TEXTO 44
+
+Y tenemos el carácter especial que es el punto que termina la oración, así sería el sacar los pasos del análisis léxico. En esta oración, pero qué pasa si tengo una línea de código o un bloque de código como el if, lo coloco de manera horizontal y lo comienza a leer de izquierda a derecha y decimos, sacamos los tokens if que es una palabra reservada then, que es una palabra reservada tenemos el punto y coma, que es un carácter especial y estamos aquí separando si x es igual a y entonces Z = 1.

@@ -1,0 +1,3 @@
+texto 54
+
+Simultáneamente se incrementa el valor del PC en una unidad para obtener la referencia a la siguiente instrucción, el ultimo paso del ciclo de captación es copiar el contenido del MBR a registro de instrucciones el ciclo de ejecución comienza contra unidad de control decodifica la instrucción que se encuentran registros instrucciones separando el código de operación Store del operando que es el valor que se encuentra la posición 102.

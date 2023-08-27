@@ -1,0 +1,6 @@
+texto 48
+
+¿Qué es el control de acceso a la red?
+Las soluciones de control de acceso a la red (NAC) admiten la visibilidad de red y la administración de acceso mediante la aplicación de políticas en dispositivos y usuarios de la red corporativa.
+¿Por qué es importante tener la solución de NAC?
+Dado que hoy en día las organizaciones deben justificar el crecimiento exponencial del acceso de los dispositivos móviles a las redes y el riesgo de seguridad que conllevan, es fundamental que cuenten con las herramientas que proporcionan la visibilidad, el control de acceso y las capacidades de cumplimiento que se requieren para fortalecer la infraestructura de seguridad de la red.

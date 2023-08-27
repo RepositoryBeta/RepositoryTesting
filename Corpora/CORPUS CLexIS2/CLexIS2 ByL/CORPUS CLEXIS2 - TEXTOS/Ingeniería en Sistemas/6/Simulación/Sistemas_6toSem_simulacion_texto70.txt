@@ -1,0 +1,3 @@
+﻿texto 70
+
+Cuando yo tengo valga la redundancia un valor inicial para poder comenzar la secuencia de mis números pseudoaleatorios, y otra caracteristicas es cuando mis numeros pseudoaleatorios me dan un rango, es decir siempre cuando yo genero número pseudoaleatorios normalmente hay un período, cuando ya se pasa ese período normal que me debe de generar mi número pseudoaleatorio a partir del período, si ya se pasa se me comienzan a repetir los valores numéricos.

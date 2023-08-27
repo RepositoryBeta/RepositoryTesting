@@ -1,0 +1,7 @@
+texto 76
+
+El auditor evalúa el correcto desarrollo de los proyectos, ayuda a valorar el desempeño correcto de las actividades de los líderes de proyectos.
+DIAGRAMA DE ESTADO - TRANSICIÓN 
+Permite visualizar el proceso que se sigue para el desarrollo de las actividades de un programa. 
+DIAGRAMA DE CONTEXTO 
+Muestra de manera global los procesos que alimentan el objeto principal del sistema.

@@ -1,0 +1,2 @@
+TEXTO 35
+También, tenemos la identificación de las dependencias de tareas, una vez que se han identificado las tareas necesitamos encontrar las dependencias entre ellas, la identificación de dependencia nos permite asignar con más eficiencia los recursos a las tareas. Es decir, por ejemplo los gerentes del proyecto no logran entregar tareas a tiempo debido a que parte del grupo no responde por diversas situaciones que se presentan en algunos de los casos.

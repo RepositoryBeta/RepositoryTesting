@@ -1,0 +1,3 @@
+﻿Texto 44
+
+Cada tecnología obviamente te da facilidades para cubrir ciertas cosas o te ayudan a mejorar, a desarrollar los servicios de manera más ágil, ya viene con ciertas librerías que te permite trabajar así, entonces los microservicios son los métodos dependientes unos de los otros y yo saqué una capacidad un servicio grande a un servicio más pequeño con una sola con una funcionalidad super liviana desacoplada que no tenga dependencia.

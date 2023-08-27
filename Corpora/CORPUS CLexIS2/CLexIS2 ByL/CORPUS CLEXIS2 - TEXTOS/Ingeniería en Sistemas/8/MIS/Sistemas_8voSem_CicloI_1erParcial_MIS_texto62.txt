@@ -1,0 +1,4 @@
+texto 62
+
+Por ejemplo, Metlife decidió emplear la base de datos NOSQL Mongodb de código abierto para integrar con rapidez los datos dispares y ofrecer una vista consolidada del cliente. La base de datos de Metlife reúne los datos de más de 70 sistemas administrativos separados, sistemas de reclamo y demás fuentes de datos, incluyendo los datos semiestructurados y no estructurados.
+

@@ -1,0 +1,3 @@
+﻿texto 12
+
+Analizo estas dos variables, cada uno tiene su información, analizo la variable y por supuesto, hago un análisis estadístico pero empíricamente yo digo, yo creo que no le van a dar porque realmente son personas morosas, no tienen buen credito, pero no puede quedar ahí yo tengo que demostrarlo estadísticamente o matemáticamente tengo que demostrar, si es verdad que si una persona es morosa automáticamente esta fuera de que le den crédito, vamos a analizarlo.

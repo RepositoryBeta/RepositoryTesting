@@ -1,0 +1,4 @@
+texto 59
+
+Tecnología de la información (TI): Hardware de computadora.
+Es el equipo físico que se utiliza para las actividades de entrada, procesamiento y salida en un sistema de información y consiste en lo siguiente: computadoras de diversos tamaños y formas (incluyendo los dispositivos móviles de bolsillo), varios dispositivos de entrada, salida y almacenamiento, y dispositivos de telecomunicaciones que conectan a las computadoras entre sí.

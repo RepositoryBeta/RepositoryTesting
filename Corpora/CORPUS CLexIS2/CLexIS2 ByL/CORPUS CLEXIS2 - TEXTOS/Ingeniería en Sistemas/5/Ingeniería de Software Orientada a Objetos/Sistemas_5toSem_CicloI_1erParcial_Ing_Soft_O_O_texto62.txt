@@ -1,0 +1,2 @@
+TEXTO 62
+Conceptos - mensaje: Un mensaje es una especificación de una comunicación entre objetos para transmitir una información con la expectativa de que se desencadene una actividad. El envío y la recepción de una instancia. Un mensaje realiza la generación de un evento (event ocurrence en UML). Cuando se pasa un mensaje su recepción suele producir una acción, la acción puede producir cambios en el estado del objeto destinatario y en los objetos accesibles desde el.

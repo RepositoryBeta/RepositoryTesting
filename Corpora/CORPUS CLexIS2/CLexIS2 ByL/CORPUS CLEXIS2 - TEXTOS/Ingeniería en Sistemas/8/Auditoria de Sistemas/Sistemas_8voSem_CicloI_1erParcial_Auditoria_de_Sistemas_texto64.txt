@@ -1,0 +1,10 @@
+texto 64
+
+El informe debe contener lo siguiente: 
+Motivos de la auditoria.
+Objetivos.
+Alcance.
+Estructura Orgánico Funcional del área Informática.
+Configuración del Hardware y Software instalado.
+Control Interno.
+Resultados de la Auditoria.

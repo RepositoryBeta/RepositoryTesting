@@ -1,0 +1,7 @@
+texto  97
+
+Considerando que algunas instrucciones sensibles no pueden ser virtualizadas ya que tienen semánticas diferentes cuando no se ejecutan en el anillo 0. La dificultad en la colocación de trampas y la traducción de estos pedidos de instrucciones confidenciales y privilegiadas en tiempo de ejecución, hizo que la virtualización fuera todo un reto imposible sobre una arquitectura x86.
+En 1998 VMWARE resolvió el reto, desarrollando técnicas de traducción binaria que permiten que las máquinas virtuales se ejecuten en el anillo 0 para el aislamiento y el rendimiento.
+
+
+

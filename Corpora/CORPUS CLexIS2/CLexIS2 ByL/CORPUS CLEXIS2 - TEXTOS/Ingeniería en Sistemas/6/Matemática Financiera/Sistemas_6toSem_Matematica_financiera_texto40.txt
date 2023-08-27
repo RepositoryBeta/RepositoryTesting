@@ -1,0 +1,6 @@
+﻿texto 40
+En matemáticas financieras, la expresión anualidad se emplea para indicar el sistema de pago de sumas fijas, a intervalos iguales de tiempo. Se usa la palabra anualidad por costumbre que tiene su origen en las anualidades contingentes, en las que interviene la probabilidad anual de vida de las personas.
+En finanzas, anualidad no significa pagos anuales sino pagos a intervalos iguales de tiempo. 
+Así son anualidades los dividendos sobre acciones, los fondos de amortización, los pagos a plazos, los pagos periódicos de las compañías de seguro y, en forma más general, los sueldos y todo tipo de rentas son anualidades.
+
+

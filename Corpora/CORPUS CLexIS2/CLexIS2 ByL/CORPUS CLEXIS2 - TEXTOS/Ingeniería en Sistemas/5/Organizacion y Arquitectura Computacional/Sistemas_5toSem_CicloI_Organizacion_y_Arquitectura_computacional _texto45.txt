@@ -1,0 +1,3 @@
+texto 45
+
+Cuando se carga un programa en memoria, el contador de programa se inicializa con la dirección de la primera instrucción del programa, el ciclo de captación comienza con el unidad de control toma la dirección que está en el PC y la copia en el MAR, luego solicita la memoria, el contenido de esta dirección a través del bus de direcciones e indica la orden de lectura (READ) a través del bus de control.

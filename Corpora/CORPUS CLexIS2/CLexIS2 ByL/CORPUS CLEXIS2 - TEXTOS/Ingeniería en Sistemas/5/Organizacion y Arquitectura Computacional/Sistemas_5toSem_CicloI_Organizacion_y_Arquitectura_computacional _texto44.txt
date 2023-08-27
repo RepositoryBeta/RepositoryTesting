@@ -1,0 +1,3 @@
+texto 44
+
+MBR (registro buffer de datos de memoria) almacena temporalmente las instrucciones y datos, el registro instrucción (IR) contiene la próxima instrucción a ejecutar por la unidad control y el acumulador (AC) almacenan operando antes realizar una operación aritmética y también almacena el resultado de una operación aritmética.

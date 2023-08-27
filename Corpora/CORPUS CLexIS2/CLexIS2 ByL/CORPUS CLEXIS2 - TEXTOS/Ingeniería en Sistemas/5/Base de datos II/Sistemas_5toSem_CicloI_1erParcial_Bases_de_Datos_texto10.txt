@@ -1,0 +1,5 @@
+texto 10  
+A la mayoría de personas les gusta la información estructurada, y si vas a almacenar datos, quieres tenerlos organizados para acceder a estos y a la parte de estos que desees.
+Los archivos de bases de datos te proporcionan la organización que necesitas. Pueden ordenar tus datos en tablas y campos.
+Cada entrada en una base de datos es conocida como un registro, y estas bases de datos generalmente almacenan información referenciada por sitios web dinámicos. 
+Algunas extensiones populares de archivos de base de datos son: DB, MDB, ITDB, y DBF.

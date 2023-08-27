@@ -1,0 +1,7 @@
+texto 32
+
+En la tecnología, tenemos:
+1) Implementar la HDTV.
+2) Implementar la tecnología de pantallas sensibles al tacto.
+3) Implementar un sitio web interactivo.
+Con todos estos puntos que se han tomado en consideración tanto a nivel administrativo, organizativo y tecnológico podemos crear un sistema de información. 

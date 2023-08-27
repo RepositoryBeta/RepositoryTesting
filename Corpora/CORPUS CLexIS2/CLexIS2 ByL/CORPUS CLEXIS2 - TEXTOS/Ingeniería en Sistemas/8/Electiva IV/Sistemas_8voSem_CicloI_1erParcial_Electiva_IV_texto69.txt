@@ -1,0 +1,6 @@
+texto 69
+
+View: Son elementos que componen la interfaz de usuario, descendentes de la clase view. Las clases que heredan de View son:
+1) Viewgroup.
+2) Textview (EditText y Button).
+3) Imageview.

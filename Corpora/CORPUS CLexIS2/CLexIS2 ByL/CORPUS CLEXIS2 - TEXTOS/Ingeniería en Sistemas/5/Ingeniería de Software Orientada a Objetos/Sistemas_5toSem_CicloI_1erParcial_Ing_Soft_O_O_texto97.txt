@@ -1,0 +1,2 @@
+TEXTO 97
+Caja blanca: No es posible probar todos los caminos de ejecución distintos, ya que esto depende mucho de los componentes que se estén tomando en consideración, pero sí, lo es verificar al menos los caminos independientes y confeccionar casos de prueba, que garanticen que se verifican dichos caminos de ejecución, la técnica del camino básico consiste, en derivar casos de prueba a partir de un conjunto dado de caminos independientes, por los que circula el flujo del programa.

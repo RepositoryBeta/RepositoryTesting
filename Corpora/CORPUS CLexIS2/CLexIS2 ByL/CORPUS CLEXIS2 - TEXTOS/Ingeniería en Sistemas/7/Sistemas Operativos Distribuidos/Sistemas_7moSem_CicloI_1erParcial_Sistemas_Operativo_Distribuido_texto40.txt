@@ -1,0 +1,7 @@
+﻿Texto 40
+
+Service Statelessness (No estado)
+
+Un servicio no debe guardar ningún tipo de información. El tratamiento de una gran información de estado afectaría gravemente a la escalabilidad del servicio, poniendo en riesgo su disponibilidad. 
+
+Idealmente, todos los datos que necesita el servicio para trabajar deben provenir directamente de los parámetros de entrada.

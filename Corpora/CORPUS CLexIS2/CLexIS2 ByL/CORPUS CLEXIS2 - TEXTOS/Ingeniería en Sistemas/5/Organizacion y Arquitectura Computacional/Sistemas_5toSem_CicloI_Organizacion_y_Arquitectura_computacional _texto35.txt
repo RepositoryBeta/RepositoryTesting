@@ -1,0 +1,3 @@
+texto 35
+
+Es decir, la instrucción situada en las siguiente dirección de memoria, mire por ejemplo considérese un computador en el que cada instrucción ocupó una palabra de memoria de 16 bits se supone  que el contador del programa almacena el valor 300, la CPU captará las instrucciones almacenadas en las posiciones 301, 302 y 303 forma secuencial y así sucesivamente, esta secuencia se puede alterar.

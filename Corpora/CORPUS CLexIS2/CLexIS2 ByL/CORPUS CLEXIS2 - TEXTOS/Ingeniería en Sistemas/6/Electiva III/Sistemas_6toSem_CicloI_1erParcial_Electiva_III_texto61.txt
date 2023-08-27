@@ -1,0 +1,5 @@
+texto 61
+
+Nivel de entrega de los datos.
+Este nivel funciona como interfaz para las aplicaciones finales y las herramientas de presentación, que facilitan métodos de análisis y evaluación de datos que permiten extraer la información de los almacenes de datos y prepararlos de distintas formas para el usuario final. 
+Entre estas se incluyen herramientas de elaboración de informes y de consultas, de colaboración, de minería de datos, de OLAP, sistemas de información ejecutiva (EIS) y herramientas de proyección y simulación.

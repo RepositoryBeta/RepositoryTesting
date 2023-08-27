@@ -1,0 +1,4 @@
+texto 55
+
+NAC para respuestas ante incidentes
+Los proveedores de NAC pueden compartir información contextual (por ejemplo, ID de usuario o tipo de dispositivo) con los componentes de seguridad de terceros. Pueden responder a alertas de ciberseguridad aplicando automáticamente políticas de seguridad que aíslan los terminales comprometidos.

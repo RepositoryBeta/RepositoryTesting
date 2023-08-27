@@ -1,0 +1,5 @@
+texto 27
+
+Configuración del Ordenador Base: Configuración del soporte físico, entorno del sistema operativo, software con particiones, entornos (pruebas y real), bibliotecas de programas y conjunto datos.
+Entorno de Aplicaciones: Procesos de transacciones, sistemas de gestión de base de datos y entornos de procesos distribuidos.
+Productos y Herramientas: Software para desarrollo de programas, software de gestión de bibliotecas y para operaciones automáticas.

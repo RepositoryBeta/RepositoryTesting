@@ -1,0 +1,4 @@
+texto 29
+
+También se dice que es la ciencia que trata del uso de computadoras, bases de datos, matemáticas y estadísticas para reunir, almacenar, organizar y analizar grandes cantidades de información biológica, médica y de salud. La información se obtiene de muchas fuentes, incluso estudios de investigación genética y molecular, estadísticas sobre pacientes, muestras de tejido, ensayos clínicos y revistas científicas. También se llama biología computacional.
+

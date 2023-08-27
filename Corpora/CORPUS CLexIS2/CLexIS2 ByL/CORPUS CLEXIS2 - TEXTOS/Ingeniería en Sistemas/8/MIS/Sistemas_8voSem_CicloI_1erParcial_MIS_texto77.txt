@@ -1,0 +1,4 @@
+texto 77
+
+Seguimos con los almacenes de datos y mercado de datos, la herramienta tradicional para analizar datos corporativos durante las últimas dos décadas ha sido el almacén de datos. Un almacén de datos es una base de datos que almacena la información actual e histórica de interés potencial para los encargados de tomar decisiones en la compañía. Los datos se originan en muchos sistemas básicos de transacciones operacionales.
+

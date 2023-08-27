@@ -1,0 +1,4 @@
+texto 62
+
+Tecnología de redes y telecomunicaciones.
+Las computadoras y el equipo de comunicaciones se pueden conectar en redes para compartir voz, datos, imágenes, sonido y video. Una red enlaza a dos o más computadoras para compartir datos o recursos, como una impresora. La red más grande y utilizada del mundo es Internet: una red de redes global que utiliza estándares universales para conectar millones de redes distintas con más de 1.4 mil millones de usuarios, en más de 230 países de todo el mundo.

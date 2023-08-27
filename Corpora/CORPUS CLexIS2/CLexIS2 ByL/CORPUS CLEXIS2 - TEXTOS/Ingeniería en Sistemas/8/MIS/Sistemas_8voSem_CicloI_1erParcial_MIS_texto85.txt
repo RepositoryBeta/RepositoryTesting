@@ -1,0 +1,4 @@
+texto 85
+
+Hbase, la base de datos no relacional de hadoop, ofrece un acceso rápido a los datos almacenados en HDFS y una plataforma transaccional para ejecutar aplicaciones en tiempo real de alta escala. Hadoop puede procesar grandes cantidades de cualquier tipo de datos, incluyendo datos transaccionales estructurados, datos poco estructurados como las fuentes de facebook y Twitter, datos complejos como los archivos de registro de servidores web y datos de audio y vídeo no estructurados.
+

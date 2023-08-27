@@ -1,0 +1,3 @@
+texto 46
+
+La memoria devuelve la instrucción (LOAD 100) que está almacenada en la posición 0 a través del bus de datos  y lo deposita en el MBR, simultáneamente se incrementa el valor del PC en una unidad para obtener la referencia a la siguiente instrucción, como estas dos acciones no interfieran entre sí podemos hacerlo simultáneamente para ahorrar tiempo, el último paso del ciclo de captación es copiar el contenido del MBR al registro de instrucciones.

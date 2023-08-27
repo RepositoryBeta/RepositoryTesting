@@ -1,0 +1,5 @@
+texto 89
+
+Debido a que tener demasiados KPI puede diluir la atención del empleado al punto en el cual los indicadores clave no obtienen la atención que merecen, puede ser eficaz:
+Identificar cuáles tres o cinco indicadores clave de desempeño (KPI) deben ser rastreados para cada rol de empleado o línea de negocio (LOB).
+Implementar herramientas automatizadas para recolectar datos y presentar KPI a la administración de la empresa en un cuadro de mando integral (balanced scorecard), cuadro de desempeño (performance scorecard) o tablero ejecutivo.

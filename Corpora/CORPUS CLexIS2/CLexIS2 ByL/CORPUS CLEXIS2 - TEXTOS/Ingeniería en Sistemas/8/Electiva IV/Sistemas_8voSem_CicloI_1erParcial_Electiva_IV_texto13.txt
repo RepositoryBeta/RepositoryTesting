@@ -1,0 +1,8 @@
+texto 13
+
+Retos de las plataformas móviles.
+Tenemos las interferencias y los posibles daños a la salud. Esto es lo que tiene que ver en este caso con los retos de las plataformas móviles. 
+Las plataformas móviles pueden requerir tres cosas:
+1) Tamaño (factor de forma), peso y consumo de energía muy reducidos.
+2) Tolerancia las vibraciones y golpes; así como a temperaturas extremas.
+3) Pantalla de gran luminosidad (para trabajar en exteriores).

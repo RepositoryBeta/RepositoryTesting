@@ -1,0 +1,4 @@
+texto 28
+
+La bioinformática es un área emergente interdisciplinaria que se ocupa de la aplicación de la informática a la recopilación, almacenamiento, organización, análisis, manipulación, presentación y distribución de información relativa a los datos biológicos o médicos, tales como macromoléculas (por ejemplo DNA o proteínas). Ha evolucionado para servir de puente entre las observaciones (datos) y el conocimiento que se deriva (información) sobre, por ejemplo, la función de los procesos y, posteriormente, la aplicación (conocimiento).
+

@@ -1,0 +1,8 @@
+texto 42
+
+Para las imágenes tenemos: 
+1) MDPI: 1 X (Densidad por Pulgada Media 160 DPI).
+2) HDPI: 1,5 X  Densidad por Pulgada Alta 240 DPI).
+3) XHDPI: 2 X (Densidad por Pulgada Extra Alta 320 DPI).
+4) XXHDPI: 3 X (XX High Density per Inch 480 DPI).
+5) XXXHDPI: 4 X (XXX High Density per Inch 640 DPI).

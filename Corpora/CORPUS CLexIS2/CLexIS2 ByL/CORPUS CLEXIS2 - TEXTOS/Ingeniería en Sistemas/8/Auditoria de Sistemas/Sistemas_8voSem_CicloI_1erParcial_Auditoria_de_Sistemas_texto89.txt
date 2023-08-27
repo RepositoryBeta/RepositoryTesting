@@ -1,0 +1,5 @@
+texto 89
+
+AUDITORIA DE LA OFIMÁTICA
+Sistema automatizado que genera, procesa, almacena, recupera, comunica y presenta datos relacionados con el funcionamiento de la oficina. Escritorio virtual, trabajo en equipo (Lotus, Nous, grp, etc.), estaciones de trabajo, aplicaciones, medidas de seguridad que tienen los usuarios, controles de la ofimática que se deben ocupar (economía, eficacia y eficiencia).
+

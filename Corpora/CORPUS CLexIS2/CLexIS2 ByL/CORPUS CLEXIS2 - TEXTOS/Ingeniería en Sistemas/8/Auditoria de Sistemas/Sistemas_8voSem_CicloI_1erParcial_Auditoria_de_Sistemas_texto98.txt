@@ -1,0 +1,9 @@
+texto 98
+
+Proveer valor a la operación del negocio
+Información para auditoría y seguridad.
+Información para apoyar la toma de decisiones de la organización.
+Información para mejorar el desempeño de la organización. 
+Auditoría completa y extensiva
+Cubrir gran cantidad de manejadores de bases de datos.
+Estandarizar los reportes y reglas de auditoría.

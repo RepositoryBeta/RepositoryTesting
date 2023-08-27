@@ -1,0 +1,12 @@
+texto 70
+
+Ciclo de vida de los sitemas:
+Diseño detallado del sistema.
+Programación. 
+Pruebas y correcciones.
+Implantación del sistema. 
+Programación. 
+Pruebas y correcciones. 
+Implantación del sistema. 
+Liberación del sistema.
+Mantenimiento del sistema.

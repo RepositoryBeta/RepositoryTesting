@@ -1,0 +1,3 @@
+texto 56
+
+Hasta aquí hemos visto que el ciclo básico de instrucción se divide en dos etapas: El ciclo de captación que contiene siempre los mismos pasos, la dirección del PC se copia en el MAR,  la unidad de control ordena a la memoria que tiene que leer la posición que contiene el MAR, la memoria devuelve la instrucción que se solicitó y lo copia en el MBR, simultáneamente se incrementan uno el contador de programa para que su valor sea una referencia a la próxima instrucción a ejecutar por último se copia la instrucción que están en MBR al registro instrucciones.

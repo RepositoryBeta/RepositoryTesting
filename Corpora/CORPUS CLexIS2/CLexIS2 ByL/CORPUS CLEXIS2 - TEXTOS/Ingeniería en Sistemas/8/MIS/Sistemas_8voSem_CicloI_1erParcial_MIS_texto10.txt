@@ -1,0 +1,4 @@
+texto 10
+
+Ahora, tenemos unos conceptos sobre la metodología técnica, nos dice que la metodología técnica para los sistemas de información enfatiza los modelos basados en las matemáticas para estudiar los sistemas de información, así como en la tecnología física y las capacidades formales de éstos. Las disciplinas que contribuyen a la metodología técnicas son: informática, ciencia de la administración, e investigación de operaciones.
+

@@ -1,0 +1,3 @@
+texto 77
+
+Las instrucciones se clasifican según su función en: Instrucciones de transferencia de datos, en instrucciones de cálculo, instrucciones de transferencias control del programa, y las instrucciones de control. Las instrucciones de transferencia de datos son instrucciones que se encargan de mover datos desde la memoria hacia los registros internos, desde el microprocesador y viceversa.

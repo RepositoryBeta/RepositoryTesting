@@ -1,0 +1,4 @@
+texto 68
+
+La seguridad en la nube se refiere a una amplia gama de políticas, tecnologías y formas de control, destinadas a proteger los datos, las aplicaciones y la infraestructura asociada a la computación en la nube.
+Existen varios problemas de seguridad asociados con la computación en la nube, sin embargo, es posible agruparlos en dos grandes categorías: aquellos a los que se enfrentan los proveedores (organizaciones que proveen software, plataformas o infraestructura como servicio a través de la nube) y problemas de seguridad enfrentados por los clientes (entidades y usuarios que utilizan la aplicación o almacenan información en la nube).

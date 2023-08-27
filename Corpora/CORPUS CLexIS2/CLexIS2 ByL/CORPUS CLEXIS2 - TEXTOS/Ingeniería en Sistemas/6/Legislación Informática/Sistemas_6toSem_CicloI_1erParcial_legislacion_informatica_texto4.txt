@@ -1,0 +1,6 @@
+﻿texto 4
+
+Por ejemplo, las antenas son un potente emisor electromagnético, el que genera ondas de la misma índole con diferente frecuencia, todo dependiendo de la función que lleve a cabo; puede ser de alta frecuencia, ultra frecuencia, baja frecuencia, microondas, etcétera.
+Por ejemplo, una antena está emitiendo y receptando señales que lo recibe el satélite y en ese satélite esa señal se lo puede enviar a otra antena que puede estar en otro país entonces así funcionan las telecomunicaciones.
+
+

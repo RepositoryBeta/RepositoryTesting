@@ -1,0 +1,8 @@
+texto 56  
+Operaciones SQL
+Los operadores SQL se utilizan para especificar comparaciones entre expresiones.
+BETWEEN: Determina si un valor está entre dos límites no inclusivos.
+Por ejemplo: " COSTS "." UNIT_COST " BETWEEN 100.0 AND 5000.0
+BETWEEN puede precedido por NOT para negar la condición.
+IN: Determina si un valor está presente en un juego de valores. 
+Por ejemplo: " COSTS "." UNIT_COST " IN (200, 600, ' A ').

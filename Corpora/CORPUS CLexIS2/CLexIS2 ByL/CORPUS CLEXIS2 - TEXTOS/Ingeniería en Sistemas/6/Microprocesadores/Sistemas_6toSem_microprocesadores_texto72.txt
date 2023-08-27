@@ -1,0 +1,9 @@
+texto 72
+
+E/S por Interrupción 
+La E/S por Interrupción se lleva a cabo mediante una señal hardware que ejecuta un código de forma asíncrona.
+Un dispositivo necesita atención, por ejemplo, el teclado, ratón, disco, tarjeta de red y produce una petición de interrupción (IRQ). 
+El dispositivo activa un bit hardware que llega hasta el controlador de interrupciones (CI) (dentro de la CPU). 
+
+
+

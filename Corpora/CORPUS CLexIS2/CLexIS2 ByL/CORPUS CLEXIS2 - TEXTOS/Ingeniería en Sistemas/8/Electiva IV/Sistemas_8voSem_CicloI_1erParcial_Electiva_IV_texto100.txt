@@ -1,0 +1,6 @@
+texto 100
+
+Proceso de fondo: (Background process).
+Hospeda una actividad que no es actualmente visible al usuario (su método onstop ha sido llamado). Si estos procesos son eliminados no tendrán un directo impacto en la experiencia del usuario. Como, hay muchos de estos procesos, el sistema asegura que el último proceso visto por el usuario sea el último en ser eliminado.
+Proceso vacío: (Empty process).
+No hospeda a ningún componente de aplicación activo. La única razón para mantener ese proceso es tener un caché que permita mejorar el tiempo de activación en la próxima vez que un componente de su aplicación sea ejecutado.

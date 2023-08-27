@@ -1,0 +1,8 @@
+texto 45
+
+Registros apuntadores y de indices:
+DI (Índice destino): Contiene el desplazamiento con respecto al segmento extra de un elemento de una cadena o arreglo.
+SI (Índice fuente): Contiene el desplazamiento con respecto al segmento de datos de un elemento de un arreglo o cadena.
+IP (Apuntador de instrucciones): Contiene siempre el desplazamiento con respecto al segmento de código de la localidad de memoria que contiene la siguiente instrucción que va a ejecutar el microprocesador.
+ 
+

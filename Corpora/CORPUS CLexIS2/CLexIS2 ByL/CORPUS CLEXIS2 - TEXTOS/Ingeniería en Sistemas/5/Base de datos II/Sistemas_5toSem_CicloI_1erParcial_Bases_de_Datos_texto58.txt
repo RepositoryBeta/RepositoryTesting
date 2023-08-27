@@ -1,0 +1,4 @@
+texto 58  
+Estructuras de Control
+Ahora complicaremos un poco más las cosas. Hasta el momento sólo hemos visto manejo de variables, operaciones matemáticas y la declaración de un script PL/SQL básico.
+Las sentencias de control permiten cambiar el flujo de ejecución las instrucciones de nuestro código PL/SQL, de ésta manera se puede indicar la ejecución de un bloque de instrucciones cuando se cumpla una condición o simplemente hacer que se repita en tiempo de ejecución.

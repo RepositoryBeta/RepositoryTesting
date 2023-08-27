@@ -1,0 +1,4 @@
+texto 62
+
+Revisión y evaluación de controles y seguridades: Consiste de la revisión de los diagramas de flujo de procesos, realización de pruebas de cumplimiento de las seguridades, revisión de aplicaciones de las áreas críticas, revisión de procesos históricos (backups), revisión de documentación y archivos, entre otras actividades.
+Examen detallado de áreas críticas: Con las fases anteriores el auditor descubre las áreas críticas y sobre ellas hace un estudio y análisis profundo en los que definirá concretamente su grupo de trabajo.

@@ -1,0 +1,3 @@
+ texto 100
+
+Un ciclo de reloj es el tiempo que le lleva un transistor en apagarse y encenderse, las velocidades de reloj de 400 Mhz y superiores son comunes. Hoy en día las velocidades de procesador están incrementándose con rapidez que han alcanzado el orden de los Gigahertz.

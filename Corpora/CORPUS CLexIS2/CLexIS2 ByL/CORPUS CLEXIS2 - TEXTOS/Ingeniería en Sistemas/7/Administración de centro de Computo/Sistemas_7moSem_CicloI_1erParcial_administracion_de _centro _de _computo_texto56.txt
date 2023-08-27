@@ -1,0 +1,6 @@
+texto 56
+
+Entonces cada responsable debe tener a la mano aquellos procedimientos con los cuales él trabaja, cuál es su guía para trabajar, como yo levanto un requerimiento, como yo documento el requerimiento, como hago los diagramas de flujo, como hago los diagramas de proceso, como hago las pruebas del Software, como documento el código, todo debe estar especificado en procedimientos y las políticas vienen a ser las reglas o normas que debemos cumplir todas las personas de la empresa o todas las personas del departamento sin importar el rango.
+
+
+

@@ -1,0 +1,6 @@
+texto 90
+
+Dentro de la interface de usuario, existen controles básicos, donde su accionar se produce mediante un método en común denominado setOnclicklistener. Estos elementos que forman parte de los controles básicos son los siguientes:
+1) Button.
+2) Togglebutton.
+3) Imagebutton.

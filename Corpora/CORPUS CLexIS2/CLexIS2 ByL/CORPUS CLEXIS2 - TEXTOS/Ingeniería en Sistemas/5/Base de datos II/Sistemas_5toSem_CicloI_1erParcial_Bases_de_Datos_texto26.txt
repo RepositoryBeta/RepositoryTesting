@@ -1,0 +1,4 @@
+texto 26  
+Copias de seguridad lógicas:
+Las copias de seguridad lógicas contienen datos lógicos (por ejemplo, tablas o procedimientos almacenados) exportados desde una base de datos y almacenados en un archivo binario, para luego volver a importarlos a una base de datos utilizando la utilidad de importación correspondiente.
+En la técnica de respaldo lógico, las utilidades importar/exportar se utilizan para crear el respaldo de la base de datos. Una copia de seguridad lógica realiza una copia de seguridad del contenido. 

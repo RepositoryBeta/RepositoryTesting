@@ -1,0 +1,2 @@
+TEXTO 31
+Esquema del documento del enunciado de problema: Existen seis puntos para realizar el esquema del documento del enunciado del problema: El primero es el dominio del problema que se puedan reconocer, los escenarios. Así mismo, poder identificar los requerimientos funcionales y los requerimientos no funcionales. Tener el ambiente de destino y los productos a entregar junto con la fecha de entrega siempre es importante los requerimientos.

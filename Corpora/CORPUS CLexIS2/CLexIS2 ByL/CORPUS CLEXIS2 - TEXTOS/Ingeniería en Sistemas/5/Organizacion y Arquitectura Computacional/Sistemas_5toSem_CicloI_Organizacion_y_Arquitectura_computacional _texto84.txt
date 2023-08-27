@@ -1,0 +1,5 @@
+texto 84
+
+Como vemos ahí, la instrucción tiene su ciclo Igual dentro del programa hay instruccion y cada instruccion tiene su propio ciclo y en eso tenemos la más conocida es un búsqueda y ejecución o también llamada en inglés fetch-and-execute o ciclo de fetch-decode-execute.
+¿Qué es un ciclo de instrucción?
+Es el período que tarda la unidad central de proceso CPU en ejecutar una instrucción de lenguaje de máquina.

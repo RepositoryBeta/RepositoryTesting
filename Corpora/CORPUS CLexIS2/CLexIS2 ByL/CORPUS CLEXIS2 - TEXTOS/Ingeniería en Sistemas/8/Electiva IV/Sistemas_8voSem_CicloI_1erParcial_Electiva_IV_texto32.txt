@@ -1,0 +1,6 @@
+texto 32
+
+Pasos a seguir:
+1) Descarga e instalación de Java.
+2) Descarga e instalación de Android Studio y el sdk de Android. Se descarga la versión más reciente de Android Studio de su sitio oficial, se tiene que indicar también las rutas donde se quiere instalar tanto Android estudio como el sdk de Android. Para evitar posibles problemas futuros las recomendación es seleccionar rutas que no contengan espacios en blanco.
+Para las Api References, yo les proporcionaré un link para que la puedan descargar desde ahí.

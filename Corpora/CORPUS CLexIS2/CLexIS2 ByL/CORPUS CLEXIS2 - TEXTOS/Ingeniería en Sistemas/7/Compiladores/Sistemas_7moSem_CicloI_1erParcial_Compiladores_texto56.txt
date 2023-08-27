@@ -1,0 +1,3 @@
+TEXTO 56
+
+La unidad 2 con referente al análisis léxico de un solamente como para reforzar un poquito más de contenido al análisis léxico que ya anteriormente en la clase anteriores hemos visto, ciertas pequeñas ejercicios de una sola línea de código a lo mucho hayan sido 2, muy básico para que vayan calentando porque cada vez ya vamos a ir aumentando un poco más de un poco más complicado, hablemos un poquito del concepto de nociones del análisis léxico.

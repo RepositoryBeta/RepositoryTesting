@@ -1,0 +1,4 @@
+texto 39
+
+La minería de textos busca extraer información útil e importante de formatos de documentos similares, comunes o que guarden relación, tales como páginas web, correos electrónicos, medios sociales, artículos de revistas, etc. Esto se hace mediante la identificación de patrones dentro de los textos, tales como tendencias en el uso de palabras, estructura sintáctica, etc. La gente a menudo habla de minería de texto y datos (TDM) al mismo tiempo, pero estrictamente hablando la minería de texto es una forma específica de minería de datos que se relaciona con el texto.
+

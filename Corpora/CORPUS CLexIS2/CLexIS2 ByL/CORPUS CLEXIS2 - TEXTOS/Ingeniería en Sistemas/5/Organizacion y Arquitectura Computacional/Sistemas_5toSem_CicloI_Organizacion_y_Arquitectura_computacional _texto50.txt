@@ -1,0 +1,3 @@
+texto 50
+
+Se define como el ciclo de ejecución de un procesador a los pasos internos que sigue para ejecutar una instrucción. El número de pasos y duración de este ciclo varían de procesador a procesador y depende totalmente de su arquitectura. La mayor parte de las técnicas utilizadas para obtener un mayor rendimiento en la ejecución de instrucciones están orientadas a modificar la arquitectura para obtener un ciclo de ejecución más rápido.

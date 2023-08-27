@@ -1,0 +1,4 @@
+texto 68
+
+Drill across: Mientras que las operaciones precedentes siempre se refieren a un único cubo de OLAP, este método se aplica en varios cubos condicionados para permitir análisis globales. En este proceso se analizan varias tablas de datos con al menos una dimensión en común en el mismo nivel jerárquico y con la misma granularidad, es decir, preservando el nivel de observación.
+Drill through: En este caso el analista selecciona una única celda del cubo de datos y la observa en su mayor grado de detalle, pero, a diferencia del drill down, el drill through recurre a los datos originales de la celda seleccionada. De este modo, el resultado de esta operación deriva de las celdas de la tabla que han servido para calcular la celda seleccionada del cubo.

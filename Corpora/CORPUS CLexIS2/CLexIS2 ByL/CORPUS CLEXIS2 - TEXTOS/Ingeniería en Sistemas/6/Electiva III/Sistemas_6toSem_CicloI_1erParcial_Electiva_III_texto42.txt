@@ -1,0 +1,3 @@
+texto 42
+
+Un DWH les ofrece a los analistas un amplio campo de visión sobre datos de origen muy heterogéneos y permite agregar indicadores operativos en el contexto del procesamiento analítico en línea (Online Analytical Processings, OLAP). Como depósito central de todos los datos empresariales relevantes, a los que suele accederse exclusivamente con permiso de lectura, el almacén de datos contribuye a la gestión del conocimiento interno del negocio. 

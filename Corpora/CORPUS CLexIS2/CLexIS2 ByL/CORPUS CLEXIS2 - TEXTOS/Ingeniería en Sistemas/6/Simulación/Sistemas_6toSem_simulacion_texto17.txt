@@ -1,0 +1,3 @@
+﻿texto 17
+
+Vamos a recoger los datos, para esto vamos a utilizar los datos dependiendo de las variables que yo tenga, de ahí vemos el grado de precisión deseado de ahí vamos a ver el método de medición, el marco regulatorio vamos a seleccionar la muestra, vamos a determinar la encuesta piloto, de ahí vamos a organizar el trabajo de campo, finalmente vamos a pedir un resumen y análisis de los datos. Y por último la información conseguida para futuras encuestas o ya de aquí directamente un resumen o un análisis.

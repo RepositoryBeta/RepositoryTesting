@@ -1,0 +1,4 @@
+texto 75
+
+Obsérvese que este proceso implicaría el uso de registro de dirección de memoria (MAR) y el registro de memoria (MBR), por simplicidad sea ignorado estos registros intermedios.
+2) Los primeros 4 bits de IR (primer dígito hexadecimal) indican que el acumulador (AC) se va a cargar, los restantes 12 bits (tres dígitos hexadecimales) especifican la dirección (940) que se va a cargar.

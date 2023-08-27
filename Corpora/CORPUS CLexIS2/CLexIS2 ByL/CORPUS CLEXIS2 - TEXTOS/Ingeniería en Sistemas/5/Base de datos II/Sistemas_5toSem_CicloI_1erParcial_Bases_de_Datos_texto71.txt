@@ -1,0 +1,8 @@
+texto 71  
+Un cursor es una estructura de datos creada en memoria RAM producto de una sentencia SELECT y que nos permite navegar dentro de las filas para obtener la información.
+Cada cursor contiene las siguientes 5 partes:
+Declarar cursor: en esta parte declaramos variables y devolvemos un conjunto de valores.
+Abrir el cursor: Esta es la parte inicial del cursor.
+Recuperar los datos: se utiliza para recuperar los datos fila por fila desde un cursor.
+Cerrar el cursor: Esta es una parte de salida del cursor y se usa para cerrar un cursor.
+Desalojar: en esta parte eliminamos la definición del cursor y liberamos todos los recursos del sistema (memoria) asociados con el cursor.

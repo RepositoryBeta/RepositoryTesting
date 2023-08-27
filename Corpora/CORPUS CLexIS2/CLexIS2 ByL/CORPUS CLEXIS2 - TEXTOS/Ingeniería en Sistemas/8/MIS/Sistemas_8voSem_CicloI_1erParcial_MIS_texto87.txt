@@ -1,0 +1,4 @@
+texto 87
+
+Ahora tenemos como tema la computación en memoria, otra forma de facilitar el análisis de Big Data en utilizar la computación en memoria, qué depende principalmente de la memoria principal RAM de la computadora para el almacenamiento de datos (los dbms convencionales usan sistemas de almacenamiento de datos). Los usuarios acceden a los datos almacenados en la memoria principal del sistema.
+

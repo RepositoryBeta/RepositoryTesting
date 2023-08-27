@@ -1,0 +1,5 @@
+﻿Texto 48
+
+Los modelos de software distribuido se han visto respaldados por la proliferación de proveedores en la nube o cloud, que allanan el camino a la puesta en marcha de este tipo de arquitecturas.
+
+Con todo, es importante recordar que la elección del modelo de arquitectura está supeditada a las necesidades específicas de la aplicación y del negocio, los microservicios tienen muchos beneficios, pero implican también importantes retos.

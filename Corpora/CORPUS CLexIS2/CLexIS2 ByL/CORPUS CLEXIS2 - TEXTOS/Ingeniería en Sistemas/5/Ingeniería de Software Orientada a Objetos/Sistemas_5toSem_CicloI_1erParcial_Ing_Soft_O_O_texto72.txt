@@ -1,0 +1,2 @@
+TEXTO 72
+Diagrama de interacción - Control estructurado: Los diagramas de secuencia demasiado grandes pueden simplificarse dividiéndolos mediante el empleo del operador Ref . Se pueden crear tantos niveles de anidamiento como interesen. En el control estructurado de los diagramas de interacción los fragmentos de interacción, permiten reutilizar interacciones en otros diagramas de interacción incluyendo diagramas completos.

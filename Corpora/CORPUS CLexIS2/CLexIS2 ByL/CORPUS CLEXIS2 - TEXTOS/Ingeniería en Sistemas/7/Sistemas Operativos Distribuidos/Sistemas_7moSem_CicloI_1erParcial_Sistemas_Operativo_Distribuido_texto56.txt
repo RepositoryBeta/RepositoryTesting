@@ -1,0 +1,5 @@
+﻿Texto 56
+
+No es raro por ejemplo, un servicio que te dice como llegar cuando el usuario pasa cerca de una tienda para ofrecerle un descuento, combinado un servicio de CRM más uno de Google Maps más otro de marketing y otro que envía una notificación push. ¿Cómo lograr esto sin un bajo acoplamiento?
+
+Como conclusión, podríamos decir que los microservicios nos demandan un menor acoplamiento incluso así pues este principio goza de muy buena salud.

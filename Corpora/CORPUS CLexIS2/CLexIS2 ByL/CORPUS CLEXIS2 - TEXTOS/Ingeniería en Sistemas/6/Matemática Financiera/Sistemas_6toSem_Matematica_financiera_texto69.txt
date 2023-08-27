@@ -1,0 +1,4 @@
+﻿texto 69
+Sin embargo, hoy en día ya se ha podido programar en hojas de cálculo y las calculas científicas más modernas también vienen con esa opción incorporada. Han conseguido que se puedan hacer en segundos.
+Este método cuenta con una forma de cálculo muy sencilla cuando ya la sabes usar y que da resultados más eficaces que es el método de interpolación lineal.
+

@@ -1,0 +1,2 @@
+TEXTO 85
+El proceso de diseño de un sistema complejo se suele realizar de forma descendente donde hay un diseño de alto nivel (o descomposición del sistema o diseñar en subsistemas menos complejos), diseño implementación de cada uno de los subsistemas, hace referencia a la especificación consistente y completa del subsistema, desarrollo según la especificación, prueba, integración de todos los subsistemas y validación del diseño.

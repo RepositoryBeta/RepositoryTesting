@@ -1,0 +1,6 @@
+﻿texto 34
+Corresponde a aquellas tasas que se capitalizan más de una vez al año.
+Tasa de Interés Nominal: 
+Tasa de Interés Efectiva: Esta expresa de forma anual el interés nominal dependiendo de la periodicidad con la cual se pague esta. Y trae consigo reinversión o capitalización de intereses.
+Tasa de Interés Real: Esta tasa es muy importante porque nos permite determinar cuál es el interés real que vamos a ganar por las inversiones, ya que la inflación disminuye la capacidad de compra, lo cual implica que el dinero pierda su valor.
+

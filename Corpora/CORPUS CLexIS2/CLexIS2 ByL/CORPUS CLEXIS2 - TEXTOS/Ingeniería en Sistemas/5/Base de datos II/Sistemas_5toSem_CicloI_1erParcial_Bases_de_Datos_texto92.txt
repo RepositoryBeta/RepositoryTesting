@@ -1,0 +1,4 @@
+texto 92
+Bases de datos de Arrays
+Las Bases de datos arrays sirven para trabar colecciones de datos conocidas como raster data. Sitúan los datos en una cuadricula regular con más de dos dimensiones. Estas bases de datos se utilizan para representar simulaciones, sensores y datos estadísticos. Son capaces de manejar volúmenes de datos importantes ofreciendo una flexibilidad y escalabilidad.
+Estas bases de datos son consideradas una generación tecnológica emergente. De las bases de datos más destacadas que trabajan este modelo podemos mencionar a Oracle que ha profundizado sus trabajos en ella y Scidb, de Paradigma.

@@ -1,0 +1,4 @@
+texto 33
+
+¿Qué es un almacenamiento de datos?
+Un almacenamiento de datos es un repositorio central de información que se puede analizar para tomar decisiones mejor informadas. Los datos fluyen hacia un almacenamiento de datos desde sistemas transaccionales, bases de datos relacionales y otros orígenes, normalmente a una cadencia regular. Los analistas empresariales, los ingenieros de datos, los científicos de datos y los responsables de la toma de decisiones obtienen acceso a los datos mediante herramientas de inteligencia empresarial (BI), clientes SQL y otras aplicaciones de análisis.

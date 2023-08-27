@@ -1,0 +1,10 @@
+texto 81
+
+Al planificar los respaldos, considerar aspectos tales como:      
+Métodos y herramientas que se utilizarán para el respaldo.
+Qué datos serán respaldados (todos los datos, solo los procesados, etc.)
+Espacio de almacenamiento que será necesario.
+Tiempo durante el cual se mantendrán los respaldos, condiciones de seguridad y destrucción cuando sea necesario.
+Periodicidad de chequeos o verificación de acceso e integridad de los datos.
+Software o métodos que se utilizarán para mantener control sobre las copias.
+

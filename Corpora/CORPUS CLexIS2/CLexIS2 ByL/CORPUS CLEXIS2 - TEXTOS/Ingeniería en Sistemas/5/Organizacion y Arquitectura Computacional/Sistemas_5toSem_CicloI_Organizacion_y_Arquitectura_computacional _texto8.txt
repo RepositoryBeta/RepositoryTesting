@@ -1,0 +1,3 @@
+texto 8
+
+Todas ellas igual tiene sus fallas obviamente cada vez si aparecen nuevas arquitecturas pronto ya viene la arquitectura cuántica, entonces los caminos alternativos, la importancia de los fallos de sistema si hay un componente defectuosos, y la facilidad en que se puede mejorar esta prestaciones, en muchos casos los requisitos de mayor potencia y capacidad de funcionamiento tolerantes a fallos se satisfacen mediante cambios en el diseño más que en su incremento de la velocidad y la fiabilidad de los componentes individuales.

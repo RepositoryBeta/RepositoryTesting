@@ -1,0 +1,2 @@
+TEXTO 70
+Diagrama de interacción - Control estructurado: También operadores de interacción principales que proporcionan un flujo de control como lo es el Loop: Que es para repetir o iterar un fragmento de interacción, el Opt: Opcional se ejecuta si se cumple una condición, Alt: selecciona entre varias alternativas, Par: concurrencia paralelismo entre las regiones definidas, Break: fragmento de ruptura elegido como alternativa al resto de la interacción.

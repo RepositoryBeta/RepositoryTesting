@@ -1,0 +1,8 @@
+texto 25
+
+Como protegerse del ataque Fuerza Bruta:
+- Bloquee el número de intentos fallidos al introducir el usuario y la contraseña.
+- Utilice una contraseña segura de más de 8 caracteres realizando combinación de mayúsculas, minúsculas, letras y números.
+- Evite un nombre de usuario como admin, administrador.
+Cross site Scripting
+Los atacantes utilizan (XXS) con el fin de inyectar scripts maliciosos en sitios web inofensivos, es utilizado para obtener acceso a una cuenta de usuario.

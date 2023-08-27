@@ -1,0 +1,13 @@
+texto 67
+
+Modos de Direccionamientos 
+Los modos de direccionamiento indican la manera de obtener los operandos y son:
+Direccionamiento de Registro. 
+Direccionamiento Inmediato. 
+Direccionamiento Directo.
+Direccionamiento Indirecto. 
+Direccionamiento Indirecto con Indice o Indexado.
+Direccionamiento con base e indice o Indexado a base.
+
+
+

@@ -1,0 +1,5 @@
+﻿Texto 34
+
+Service Loose Coupling (Bajo Acoplamiento)
+
+Este principio hace referencia a que los servicios tienen que ser independientes los unos de los otros para lograr ese bajo acoplamiento, lo que se hará es que cada vez que se vaya a ejecutar un servicio, se accederá a él a través del contrato, logrando así la independencia entre el servicio que se va a ejecutar y el que lo llama, si conseguimos este bajo acoplamiento, entonces los servicios podrán ser totalmente reutilizables.

@@ -1,0 +1,3 @@
+texto 60
+La condición se especifica en la cláusula IF, en caso de que la condición sea verdadera se ejecuta el bloque de código especificado bajo la cláusula THEN, en caso contrario se ejecuta el bloque de código especificado en la cláusula ELSE. La claúsula ELSE es opcional
+CASE(CASO): La sentencia CASE permite evaluar diferentes opciones, por cada opción se realiza una instrucción específica.

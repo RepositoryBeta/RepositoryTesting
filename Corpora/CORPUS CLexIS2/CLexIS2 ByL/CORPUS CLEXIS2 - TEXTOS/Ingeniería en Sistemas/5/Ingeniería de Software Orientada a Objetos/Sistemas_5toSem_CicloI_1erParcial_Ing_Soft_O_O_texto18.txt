@@ -1,0 +1,2 @@
+TEXTO 18
+Las metodologías de desarrollo de software, descomponen al proceso en actividades la OMT que son las técnicas del modelado de objetos, proporciona métodos para tres actividades :el análisis, donde se enfoca en la formalización de los requerimientos del sistema, en un modelo de objeto, el diseño del sistema, donde se enfoca en decisiones estratégicas y el diseño del objeto donde se transforma el modelo de análisis en un modelo de objeto que puede ser puesto en práctica.

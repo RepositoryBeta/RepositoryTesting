@@ -1,0 +1,4 @@
+texto 18
+
+Tenemos el segundo que es el procesamiento de lenguaje natural, se puede crear un chatbot, aquí entra un poco lo que tiene que ver la gramática, tal vez no nos pueda gustar, pero es aquí donde nos sirve la gramática para poder crear un software que hable conmigo, pero tenemos que procesar primero lo que está hablando, en primer lugar necesitamos hacer que el programa hable, que me diga o que yo haga que hable de alguna forma.
+

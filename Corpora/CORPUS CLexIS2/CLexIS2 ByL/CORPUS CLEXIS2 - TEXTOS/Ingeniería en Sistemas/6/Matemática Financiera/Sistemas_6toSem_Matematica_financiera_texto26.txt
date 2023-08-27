@@ -1,0 +1,11 @@
+﻿texto 26
+¿Qué es el valor presente y el valor futuro?
+El valor presente de una inversión es cuando calculamos el valor actual que tendrá una determinada cantidad que recibiremos o pagaremos en un futuro, en el periodo acordado. El valor futuro es el valor alcanzado por un determinado capital al final del período determinado.
+Valor presente y valor futuro: Formulas.
+
+En este apartado vamos aprender cómo podemos calcular y conocer las fórmulas del valor presente y valor futuro de una cantidad o inversión.
+
+
+
+ 
+

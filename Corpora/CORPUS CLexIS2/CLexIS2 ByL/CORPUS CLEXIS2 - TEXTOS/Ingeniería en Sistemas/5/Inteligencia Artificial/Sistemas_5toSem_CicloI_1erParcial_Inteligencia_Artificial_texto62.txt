@@ -1,0 +1,4 @@
+texto 62
+
+Entonces, una neurona que a usted se le pierda, usted ya la idea no sabe si es verdad o es mentira y su cerebro inteligentemente hace que cree otra neurona imaginando algo que concuerde con esa parte y eso se basa en lo que es deep learning, el Deep Learning lleva a cabo el proceso de Machine Learning usando una red neuronal artificial que se compone de un número de niveles jerárquicos. En el nivel inicial de la jerarquía la red aprende algo simple y luego envía esta información al siguiente nivel.
+

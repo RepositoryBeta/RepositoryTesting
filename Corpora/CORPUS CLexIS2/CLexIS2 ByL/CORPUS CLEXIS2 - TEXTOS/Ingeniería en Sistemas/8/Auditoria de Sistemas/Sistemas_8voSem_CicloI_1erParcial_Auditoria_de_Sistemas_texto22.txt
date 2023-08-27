@@ -1,0 +1,6 @@
+texto 22
+
+FUNCIONES PRINCIPALES DEL AI
+- Participar en las revisiones durante y después del diseño, realización, implantación y explotación de aplicaciones informáticas, así como en las fases análogas de realización de cambios importantes.
+- Revisar y juzgar controles implantados en los sistemas informáticos para verificar su adecuación a las órdenes e instrucciones de la Dirección, requisitos legales, protección de confidencialidad y cobertura ante errores y fraudes.
+- Revisar y juzgar el nivel de eficacia, utilidad, fiabilidad y seguridad de los equipos e información.

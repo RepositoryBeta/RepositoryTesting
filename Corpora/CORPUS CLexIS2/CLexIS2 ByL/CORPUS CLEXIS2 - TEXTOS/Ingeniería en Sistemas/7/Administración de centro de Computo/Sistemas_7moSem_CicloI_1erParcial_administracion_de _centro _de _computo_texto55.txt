@@ -1,0 +1,5 @@
+texto 55
+
+¿Cuál es el objetivo de las organizaciones que invierten miles de dólares en la documentación?
+Pues lo hacen exclusivamente con el objetivo de mejorar el conocimiento de las personas. Entonces si tenemos un departamento de desarrollo de software todo lo que nosotros esos temas los conocemos como metodología, en base a esas metodologías se van a desarrollar procedimientos dentro de las organizaciones.
+

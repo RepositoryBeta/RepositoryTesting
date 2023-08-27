@@ -1,0 +1,4 @@
+texto 52
+
+Android: Contenidos principales del módulo.
+Tenemos 2 etiquetas, que son Design y Text, podemos alternar entre el editor gráfico y el editor xml. Tenemos Fichero / app / src / main / Androidmanifest, esta capeta contiene la definición en XML de muchos de los aspectos principales de la aplicación, como por ejemplo su identificación (nombre, icono, etc), sus componentes (pantallas, servicios, etc), o los permisos necesarios para su ejecución.

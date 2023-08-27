@@ -1,0 +1,4 @@
+texto 66
+
+Costo de mantenimiento: 
+Son aquellas que se incurre desde el momento en que el producto entra la empresa, hasta que sale de ella; éstas aumentan en proporción al monto promedio del inventario que se maneja y en promedio equivale el 25% de la inversión en inventarios;  la fórmula para poder calcular es: CM = costo de mantenimiento = C * P * A = C * P * Q / 2.

@@ -1,0 +1,7 @@
+texto 86
+
+En los procesos de negocios tenemos ejemplos de procesos de negocios funcionales. En la diapositiva podemos apreciar que se nombran 4 áreas funcionales: Manufactura y producción, ventas y marketing, finanzas y contabilidad y recursos humanos.
+Los procesos de negocios de manufactura y producción son:
+1) Ensamblar el producto.  
+2) Verificar la calidad.
+3) Producir listas de materiales.

@@ -1,0 +1,3 @@
+texto 67
+
+Ahora, la unidad de control va a decodificar este registro, entonces ve que su LOAD e indica al secuenciador que ordene por el bus de control hacer una escritura, por el bus de direcciones dirá qué es la dirección 0 una vez aquí el registro se va a enviar a la unidad de procesamiento y se va a guardar en el registro 1 esto lo  hace mediante el bus de datos ya hemos hecho el primer paso.

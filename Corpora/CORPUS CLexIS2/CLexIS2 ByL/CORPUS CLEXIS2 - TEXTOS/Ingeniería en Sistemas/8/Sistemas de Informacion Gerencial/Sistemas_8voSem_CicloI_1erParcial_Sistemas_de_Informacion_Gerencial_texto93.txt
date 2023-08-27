@@ -1,0 +1,4 @@
+texto 93
+
+Sistemas de procesamiento de transacciones.
+Los gerentes operacionales necesitan sistemas que lleven el registro de las actividades y transacciones elementales de la organización, como ventas, recibos, depósitos en efectivo, nóminas, decisiones de créditos y el flujo de materiales en una fábrica. Los TPS proveen este tipo de información. Un TPS consiste en un sistema computarizado que ejecuta y registra las transacciones ordinarias cotidianas que se requieren para la conducción de la empresa, como captura de órdenes de venta, reservaciones hoteleras, nómina, mantenimiento de los registros de empleado, embarque de pedidos, etc.

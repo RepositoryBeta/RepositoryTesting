@@ -1,0 +1,5 @@
+texto 77  
+Bases de datos no relacionales (NOSQL)
+Este modelo de base de datos NOSQL trabaja con un lenguaje diferente a las relacionales. No tienen un identificador que sirva de relación entre los conjuntos de datos. Trabajan con formato NOSQL (Not only SQL) en el que los datos no necesariamente se registran en una tabla.
+Existen diversas modalidades de trabajo como son las bases de datos orientadas a grafos, documentales, clave-valor, multivalor, orientadas a objetos entre otras.
+Entre las NOSQL podemos mencionar a MONGODB,COUCHDB,Cassandra y Neo4j.

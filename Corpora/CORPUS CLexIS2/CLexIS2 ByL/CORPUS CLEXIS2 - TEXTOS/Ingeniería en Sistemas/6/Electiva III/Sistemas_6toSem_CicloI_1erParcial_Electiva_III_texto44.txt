@@ -1,0 +1,7 @@
+texto 44
+
+Estas tres fases se reflejan en una arquitectura ideal básica, un modelo de referencia de los sistemas de almacén de datos que, si bien puede constatar diferencias en función del producto y el fabricante, en principio se orienta por una estructura modular a tres niveles:
+1) Recolección.
+2) Almacenamiento y conservación.
+3) Entrega (para su consulta).
+A estos tres niveles se añade un componente central de control, el gestor del almacén de datos (Data Warehouse Manager), que asigna a cada nivel funciones especiales de administración.

@@ -1,0 +1,3 @@
+﻿texto 42
+
+En simulacion vamos a aprender a poder calcular ese tamaño. Aquí vamos a ver como sale el tamaño de la muestra y por supuesto vamos a aprender sobre los diferentes parámetros que están conformando ese tamaño de la muestra, si yo quiero determinar aqui N como el tamaño de la muestra, N mayúscula es el tamaño de la poblacion, estos valores que están aquí, son valores que lo tienes que deducir, pero para deducirlo siempre hay pistas o siempre hay valores que me ayúdan a poderlo determinar.

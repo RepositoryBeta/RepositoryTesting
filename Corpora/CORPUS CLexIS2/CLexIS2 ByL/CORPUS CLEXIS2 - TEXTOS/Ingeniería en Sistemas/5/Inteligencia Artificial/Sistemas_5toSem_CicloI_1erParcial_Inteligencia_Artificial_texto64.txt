@@ -1,0 +1,4 @@
+texto 64
+
+Vamos al siguiente, bueno, robótica es algo que ustedes ya saben, se basa inteligencia artificial cuando ya el robot aprende a razonar, aprende a utilizar ciertas cosas él solo, aprende a desenvolverse él solo, aprende a tener una forma de pensar, de razonar, de hacer lo que él quiere. Esa es la parte de la robótica, también tiene que ver mucho la visión por computadora.
+

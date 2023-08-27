@@ -1,0 +1,5 @@
+texto 51
+
+Continuando con las carpetas en Carpeta / app / src / main /res, tenemos:
+5) / res / raw /: Contiene recursos adicionales, normalmente en formato distinto a XML, que no se incluyan en el resto de carpetas de recursos.
+6) / res / values /: Contiene otros ficheros XML de recursos de la aplicación, como por ejemplo cadenas de texto (strings), estilos (styles), colores (colors), arrays de valores (arrays), tamaños (dimens), etc.

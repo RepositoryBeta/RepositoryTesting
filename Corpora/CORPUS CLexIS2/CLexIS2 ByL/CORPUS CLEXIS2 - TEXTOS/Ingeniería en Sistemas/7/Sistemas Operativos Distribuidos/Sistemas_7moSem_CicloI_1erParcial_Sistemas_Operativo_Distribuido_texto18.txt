@@ -1,0 +1,3 @@
+﻿Texto 18
+
+La replicación, no es otra cosa más que la redundancia en la información. Redundancia de procesos (para lo que tiene que ver músculo de procesamiento) o de datos (para lo que tiene que ver con el manejo de acceso de archivos o sistemas de base de datos distribuidas). Esa replicación se vuelve algo importante, la idea de manejar este tipo de características de los procesos es que los servicios no se vuelvan cuello de botella.

@@ -1,0 +1,5 @@
+texto 18
+Este parámetro permite asignar una gran cantidad de espacio cuando se crea un objeto, incluso si el espacio disponible no esta contiguo.
+El valor por omisión es 1, que significa que Oracle solo asigna la extensión inicial.
+Si el valor es mayor que 1, Oracle calcula el tamaño de las extensiones subsiguientes basándose en los valores de los parámetros INITIAL, NEXT Y PCTINCREASE. 
+MAXEXTENTS: Número total de extensiones incluida la primera que Oracle puede asignar al objeto. El valor depende del tamaño del bloque de datos. 

@@ -1,0 +1,9 @@
+texto 73
+
+El CI asocia esa activación con un numero n de interrupción, que servirá para indexar el Vector de Interrupciones (VI). 
+El VI es la tabla de rutinas de código (funciones en C o en ensamblador) que sirve para gestionar las IRQ de todos los controladores hardware.
+El CI interrumpe la ejecución del programa en curso que ocupa la CPU (guardando los registros de la CPU y el contador de programa o PC) y ejecuta el código de VI [n].
+La rutina atiende al dispositivo, reparte la información y al terminar restaura el programa que se estaba ejecutando.
+
+
+

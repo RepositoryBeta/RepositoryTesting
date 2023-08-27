@@ -1,0 +1,2 @@
+TEXTO 80
+En lo que respecta de la implementación del analizador léxico sintáctico hay una parte que habla sobre la información de los identificadores. La información de los identificadores, sobre los usuarios habla referente al desarrollador ósea ustedes donde almacena en una tabla dependiendo las características del traductor y dependiendo del lenguaje. Ahora yo le he puesto algunas características que se deben considerar cuando son identificadores de usuario. 

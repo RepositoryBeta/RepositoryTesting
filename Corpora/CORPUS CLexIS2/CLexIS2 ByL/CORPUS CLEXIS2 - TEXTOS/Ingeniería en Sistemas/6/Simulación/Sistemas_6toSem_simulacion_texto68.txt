@@ -1,0 +1,3 @@
+﻿texto 68
+
+Métodos congruenciales, tenemos tres técnicas o tres algoritmos básicos que son el aditivo, el multiplicativo y el mixto son los 3 algoritmos de los métodos congruenciales que tenemos. Aquí está correcto, cuando nosotros hablamos de metodos congruenciales automáticamente se nos viene a la cabeza números aleatorio o pseudoaleatorios. ¿Cuál es la diferencia entre números aleatorios y pseudoaleatorios? En realidad yo le diría que ninguna, porque tanto la una como la otra se maneja a nivel de programa en este caso en Excel.

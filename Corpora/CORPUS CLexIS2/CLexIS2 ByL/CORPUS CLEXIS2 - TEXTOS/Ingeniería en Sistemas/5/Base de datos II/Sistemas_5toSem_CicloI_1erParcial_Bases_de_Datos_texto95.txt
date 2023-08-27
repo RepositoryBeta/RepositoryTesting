@@ -1,0 +1,2 @@
+texto 95
+SIMPLEDB: Los desarrolladores pueden guardar y consultar elementos de datos a través de solicitudes simples de servicios web. Tiene alta disponibilidad y flexibilidad, debido a que administra automáticamente múltiples copias de los datos. Es desarrollada por Amazon. Esta empresa tiene otro NOSQL llamada DYNAMODB, que es de clave-valor y documentos, que ofrece un rendimiento en milisegundo de un solo dígito a cualquier escala.

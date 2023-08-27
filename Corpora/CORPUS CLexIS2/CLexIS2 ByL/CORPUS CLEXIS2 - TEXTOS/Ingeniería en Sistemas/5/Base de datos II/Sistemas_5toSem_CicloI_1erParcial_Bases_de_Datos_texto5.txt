@@ -1,0 +1,3 @@
+texto 5
+Por ejemplo, un dominio de posibles clientes podría permitir un máximo de diez posibles nombres de clientes pero estar compilado en una tabla que permita que sólo tres de estos nombres de clientes puedan ser especificados.
+La definición de una base de datos relacional resulta en una tabla de metadatos o descripciones formales de las tablas, columnas, dominios y restricciones.

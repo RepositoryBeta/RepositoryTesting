@@ -1,0 +1,4 @@
+﻿Texto 99
+
+Transparencia: El objetivo es que ciertos aspectos de la distribución sean invisibles al programador de aplicaciones de modo que solo necesito su parte del diseño y su aplicación particular.
+Por ejemplo, no debe ocuparse de su ubicación o de los detalles sobre como se accede a sus operaciones por otros componentes, o si será replicado o migrado, incluso los fallos de las redes y los procesos pueden presentarse a los programadores de aplicaciones en forma de excepciones, aunque deban ser tratados.

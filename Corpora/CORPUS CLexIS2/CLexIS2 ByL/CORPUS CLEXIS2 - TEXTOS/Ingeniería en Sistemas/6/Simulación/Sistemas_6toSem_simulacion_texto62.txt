@@ -1,0 +1,4 @@
+﻿texto 62
+
+Los resultados son representativos de la población a menos que se repitan ciertas características de la población por cada enésimo individuo, lo que es muy poco probable el proceso de obtención de la muestra sistemática es muy similar a una progresión aritmética.
+Número de inicio el investigador selecciona un número entero que debe ser menor al número total de individuos en la población este número entero corresponderá al primer sujeto.

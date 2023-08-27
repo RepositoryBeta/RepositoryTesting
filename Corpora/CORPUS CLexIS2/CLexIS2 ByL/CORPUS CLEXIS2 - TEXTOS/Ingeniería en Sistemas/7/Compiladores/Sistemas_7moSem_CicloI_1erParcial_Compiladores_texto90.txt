@@ -1,0 +1,2 @@
+TEXTO 90
+En estos casos, el desarrollador puede optar por mezclar las distintas clases de identificadores en una sola tabla, o bien disponer de varias tablas, donde cada una de ellas albergará una clase distinta de identificadores: tabla de variables, tabla de tipos de datos, tabla de funciones de usuario, otros tipos de tablas, etc. La interfaz de la tabla de símbolos debe quedar clara desde el principio de manera que cualquier modificación en la implementación de la tabla de símbolos no tenga repercusión en las fases del compilador ya desarrolladas.

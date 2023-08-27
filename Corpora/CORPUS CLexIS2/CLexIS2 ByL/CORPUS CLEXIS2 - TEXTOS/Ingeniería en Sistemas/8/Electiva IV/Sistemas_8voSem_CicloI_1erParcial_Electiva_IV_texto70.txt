@@ -1,0 +1,8 @@
+texto 70
+
+Layouts: Son un conjunto de vistas agrupadas de una determinada forma. Dentro de este elemento tenemos algunos otros, como los siguientes: 
+1) Relativelayout.
+2) Linearlayout (Horizontal).
+3) Linearlayout (Vertical).
+4) Gridlayout.
+5) Tablelayout.

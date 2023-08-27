@@ -1,0 +1,9 @@
+texto 62
+
+Entonces tenemos diferentes tipos de manuales:
+- Los manuales de funciones.
+- Los manuales de Procedimientos.
+- Los manuales de sistemas: como los manuales de usuario y los manuales técnicos.
+
+
+

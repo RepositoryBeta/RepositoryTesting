@@ -1,0 +1,2 @@
+TEXTO 96
+Tenemos la ventaja de los compiladores que son sólo se compila una vez tiene una ejecución más rápida una optimización de código información del error más detallada. Ventajas de los intérpretes el compilador y un intérprete no es lo mismo, el compilador sigue el intérprete es el que va a interpretar y traducir al mismo tiempo. El uno ejecuta y el otro interpreta, aparte en los intérpretes tenemos mayor coste espacial, mayor interactividad en desarrollo y añadir código en caliente, que quiere decir esto, en vivo, al momento.

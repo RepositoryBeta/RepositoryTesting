@@ -1,0 +1,2 @@
+TEXTO 89
+Una adecuada y eficaz gestión de la tabla de símbolos, tabla de nombres o tabla de identificadores, es muy importante, ya que su manipulación consume gran parte del tiempo de compilación. De ahí que su eficiencia sea crítica. La tabla de símbolos también sirve para guardar información referente a los tipos de datos creados por el usuario, los tipos enumerados y, en general, cualquier identificador creado por el usuario se almacena en la tabla.

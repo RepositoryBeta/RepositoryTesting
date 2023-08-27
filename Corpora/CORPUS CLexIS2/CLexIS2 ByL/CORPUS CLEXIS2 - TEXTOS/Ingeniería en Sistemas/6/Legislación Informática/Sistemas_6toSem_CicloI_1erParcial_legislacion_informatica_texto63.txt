@@ -1,0 +1,14 @@
+texto 63
+¿Cuáles son las clases de derecho informático?
+en el derecho público: 
+1) Derecho de acceso universal a internet.
+2) Flujo internacional de datos automatizados.
+3) Protección de datos.
+4) Libertad informática (defensa frente a eventuales agresiones).
+5) Delitos informáticos (tiende a crear un ámbito propio del derecho penal).
+En derecho privado:
+1) Contratos informáticos (Hardware, software).
+2) Protección jurídica de los programas de ordenador.
+
+
+

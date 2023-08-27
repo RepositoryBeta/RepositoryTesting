@@ -1,0 +1,5 @@
+texto 39
+
+Control de acceso
+No todos los usuarios deben tener acceso a la red. Para evitar posibles ataques, debe reconocer a todos los usuarios y dispositivos.
+Entonces podrá aplicar las políticas de seguridad. Puede bloquear dispositivos de Endpoint que no cumplen las políticas o proporcionarles acceso limitado. Este proceso se denomina control de acceso a la red (NAC).

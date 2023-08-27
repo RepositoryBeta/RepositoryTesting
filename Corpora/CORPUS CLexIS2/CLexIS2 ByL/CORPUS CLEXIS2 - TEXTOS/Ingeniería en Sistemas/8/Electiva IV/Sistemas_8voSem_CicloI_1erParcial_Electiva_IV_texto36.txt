@@ -1,0 +1,3 @@
+texto 36
+
+Hay versiones que te preguntan si vas a trabajar con kotlin o con Java. Una vez que ya tengamos todos estos pasos realizados, daremos en finalizar y automáticamente se creará nuestro proyecto, puede demorar un poquito, entonces tenemos que la versión mínima que seleccionemos en esta pantalla implicará que nuestra aplicación se puede ejecutar en más o menos dispositivos.

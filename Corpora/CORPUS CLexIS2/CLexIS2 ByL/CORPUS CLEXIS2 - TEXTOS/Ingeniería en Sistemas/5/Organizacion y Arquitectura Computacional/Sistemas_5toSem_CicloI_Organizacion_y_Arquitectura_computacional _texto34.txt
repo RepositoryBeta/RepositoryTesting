@@ -1,0 +1,3 @@
+texto 34
+
+Ahora veamos el ciclo de captación y de ejecución en mas detalle. Al comienzo dice de cada ciclo de instrucción la CPU capta una instrucción de memoria  en una CPU típica, se utiliza un registro llamado contador de programa(PC, Program Counter)  para seguir la pista de la instrucción que debe darse a continuación, a no ser que indique otra cosa, la CPU siempre incrementa el contador de programa después de captar cada instrucción de forma que captará la siguiente instrucción de la secuencia.

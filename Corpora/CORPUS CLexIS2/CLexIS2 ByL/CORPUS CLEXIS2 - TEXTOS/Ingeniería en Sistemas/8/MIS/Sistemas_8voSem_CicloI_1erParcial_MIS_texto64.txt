@@ -1,0 +1,4 @@
+texto 64
+
+Amazon Relational Database Service (Amazon RDS) ofrece, MYSQL, SQL Server, Oracle Database como motores de base de datos. Los precios se basan en el uso. Oracle tiene su propio servicio en la nube de base de datos, al usar su base de datos Oracle relacional, y Microsoft AQL Azure es un servicio de base de datos relacionales basado en la nube que utiliza el dbms SQL Server de Microsoft.
+

@@ -1,0 +1,5 @@
+texto 79
+
+¿Qué es Python?
+Es un lenguaje de programación orientado a objetos de propósito general (programar casi cualquier cosa). Es un lenguaje interpretado, lo que significa que no se necesita compilar el código fuente para poder ejecutarlo, lo que ofrece ventajas como la rapidez de desarrollo e inconvenientes como una menor velocidad. Un por su simplicidad, versatilidad y rapidez de desarrollo.
+

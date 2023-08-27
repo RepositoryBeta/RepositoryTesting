@@ -1,0 +1,2 @@
+TEXTO 45 
+El acuerdo del proyecto representa la línea base de la prueba para la aceptación del cliente cualquier cambio en la funcionalidad a entregar, los requerimientos no funcionales, los tiempos de entrega o el presupuesto del proyecto, requiere la renegociación del acuerdo del proyecto. Por eso, es importante llegar a un acuerdo con el cliente todos estos tipos de cambios generan retraso inconformidad problemas por eso es mejor llegar a un arreglo en la renegociación del acuerdo.

@@ -1,0 +1,4 @@
+texto 63
+
+El Deep Learning ha llamado mucho la atención por su potencial utilidad en distintos tipos de aplicaciones en el mundo real (pueden aplicarse con éxito a grandes volúmenes de datos para el descubrimiento y aplicación de conocimiento, así como a la realización de predicciones a partir de él), principalmente debido a que obtiene tasas de éxito elevadas con entrenamiento no supervisado.
+

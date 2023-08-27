@@ -1,0 +1,4 @@
+texto 40
+
+Sin embargo, este tipo de sistemas pueden llevar a cabo esa función. Su desarrollo es in house, es decir, dentro de la organización, por tanto no se adaptan fácilmente a paquetes disponibles en el mercado. Su desarrollo típico es incremento. Su evolución dentro de la organización Inicia con un proceso en particular Y a partir de ahí se agregan nuevas funciones o procesos.
+

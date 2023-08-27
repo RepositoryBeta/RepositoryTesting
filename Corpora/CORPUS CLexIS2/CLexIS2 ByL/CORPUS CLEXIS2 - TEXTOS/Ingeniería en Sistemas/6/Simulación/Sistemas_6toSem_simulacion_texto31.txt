@@ -1,0 +1,3 @@
+﻿texto 31
+
+En el caso del sexo, por ejemplo no es que si yo le pongo uno a hombre y dos mujeres, eso no significa que el de mayor prioridad va a ser el hombre no, es diferente porque yo le puedo poner uno mujeres y dos hombres y no significa de que es una prioridad de que hicieron la prioridad más alta las mujeres o a los hombres la más baja no, por eso se le llama nominales porque el valor numérico o por el cual voy a evaluar esa variable no tiene un orden de prioridad yo le puedo poner cualquier número.

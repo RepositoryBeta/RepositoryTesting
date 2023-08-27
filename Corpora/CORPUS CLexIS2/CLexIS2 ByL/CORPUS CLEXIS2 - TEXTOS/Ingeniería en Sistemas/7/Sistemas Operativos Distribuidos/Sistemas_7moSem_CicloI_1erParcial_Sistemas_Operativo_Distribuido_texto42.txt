@@ -1,0 +1,5 @@
+﻿Texto 42
+
+Service Composability (Composición)
+
+Este principio nos dice que todo servicio debe estar construido de tal manera que pueda ser utilizado para construir servicios genéricos de mayor complejidad, el cual estará compuesto de servicios de menor nivel. En el caso de los Servicios Web, esto se logrará mediante el uso de los protocolos para orquestación (WS BPEL) y coreografía (WS CDL).

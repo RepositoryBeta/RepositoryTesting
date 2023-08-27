@@ -1,0 +1,8 @@
+texto 62
+
+Herramientas de consulta e informes.
+Este tipo de programas ponen a disposición del usuario diferentes funciones para elaborar informes estándar (predefined reportings) de forma automatizada cada cierto tiempo o bajo petición. 
+Los programas de consulta simplifican la realización de consultas al almacén de datos predefiniéndolas.
+
+Herramientas de colaboración
+Los programas de colaboración apoyan la comunicación y el trabajo conjunto de los usuarios en el análisis de los datos. La gama de funciones de estas herramientas comprende, por ejemplo, el almacenamiento de comentarios y el intercambio de resultados de análisis.

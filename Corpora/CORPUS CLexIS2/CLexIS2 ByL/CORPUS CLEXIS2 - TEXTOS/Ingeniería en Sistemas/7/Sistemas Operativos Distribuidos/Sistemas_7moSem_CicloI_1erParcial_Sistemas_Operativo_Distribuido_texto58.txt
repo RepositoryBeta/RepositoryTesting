@@ -1,0 +1,3 @@
+﻿Texto 58
+
+Ejemplo, si yo quiero minimizar la dependencia, entonces te dicen buenas prácticas o patrones que ya están usados por la industria para que tú puedas minimizar las dependencias, los patrones, no es otra cosa más una buena práctica. Estas son implementaciones altamente probadas y estandarizadas para que sean altamente reusables, si se enfrentan un problema ustedes van a saber cual es la mejor manera de resolverlo. Esos son los patrones o buenas prácticas para para resolver problemas.

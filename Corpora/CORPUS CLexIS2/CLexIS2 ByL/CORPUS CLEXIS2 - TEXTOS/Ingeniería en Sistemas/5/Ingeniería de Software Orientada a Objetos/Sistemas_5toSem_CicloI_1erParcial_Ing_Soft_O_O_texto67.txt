@@ -1,0 +1,2 @@
+TEXTO 67
+Diagrama de interacción - Diagrama de secuencia: Los diagramas de interacción tienen dos principales características que lo distinguen de los diagramas de comunicación o también llamado diagrama de secuencia: El primero es la línea de vida, que representa la existencia de un objeto a lo largo de un periodo de tiempo, con la línea de vida se puede indicar la creación o destrucción de objetos durante la interacción.

@@ -1,0 +1,4 @@
+texto 80
+
+A menudo las empresas crean almacenes de datos a nivel empresarial, donde un almacén de datos central da servicio a toda la organización, o crean almacenes de datos más pequeños y descentralizados conocidos como mercados de datos. Un mercado de datos es un subconjunto de un almacén de datos, en el cual se coloca una porción sintetizada o con alto grado de enfoque en los datos de la organización por una base de datos separada para una población específica de usuarios.
+

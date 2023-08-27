@@ -1,0 +1,9 @@
+texto 65
+
+Podemos distinguir en función de:
+Usuarios: Las acciones realizadas por usuarios en la mayoría de los casos y sin intención, causan los problemas de la seguridad.
+Programas malintencionados: Son programas que están destinados al sabotaje de nuestro sistema.
+Exploits: Son fallos de errores de programación aprovechados por crackers para aprovecharse de las
+vulnerabilidades.
+Intrusos: Personas no autorizadas que consiguen acceder a nuestro sistema.
+Fuerza mayor: Cuando se produce un terremoto, inundación que afecta al sistema.

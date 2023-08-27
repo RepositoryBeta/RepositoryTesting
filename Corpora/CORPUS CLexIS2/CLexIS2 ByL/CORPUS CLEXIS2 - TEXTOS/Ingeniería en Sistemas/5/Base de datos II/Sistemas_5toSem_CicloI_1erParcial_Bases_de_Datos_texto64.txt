@@ -1,0 +1,5 @@
+texto 64  
+Índices
+Los índices son objetos asociados a columnas de tablas que sirven para acelerar las operaciones de consulta y ordenación.
+Se almacenan aparte de la tabla a la que hace referencia, lo que permite crearles y borrarles de forma independiente respecto a la Tabla.
+Lo que realizan es una estructura que permite mantener un determinado orden sobre los datos de una o más tablas. Esa estructura actúa, en la práctica, como una lista ordenada por la que el Sistema de Bases de Datos puede acceder para facilitar las tareas de búsqueda y ordenación de los datos.

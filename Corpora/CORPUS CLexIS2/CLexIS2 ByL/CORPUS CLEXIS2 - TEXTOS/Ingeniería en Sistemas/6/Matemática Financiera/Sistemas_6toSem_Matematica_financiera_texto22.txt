@@ -1,0 +1,4 @@
+﻿texto 22
+En definitiva, la principal diferencia son si se reinvierten o no los intereses causados periódicamente. Con el interés compuesto se reinvierten los intereses y por tanto, cada vez vamos consiguiendo mayores beneficios. 
+Mientras que con el interés simple, no se reinvierten los intereses y siempre conseguimos las misma cantidad.
+

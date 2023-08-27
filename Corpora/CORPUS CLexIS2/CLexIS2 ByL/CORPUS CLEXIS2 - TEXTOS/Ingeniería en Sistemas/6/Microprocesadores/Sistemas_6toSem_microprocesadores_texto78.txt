@@ -1,0 +1,10 @@
+texto 78
+
+Clases de variables 
+En un programa de alto nivel, e incluso también en lenguaje ensamblador, existe un concepto denominado visibilidad. 
+Este concepto se refiere al ámbito de validez del nombre de las variables. Atendiendo a la visibilidad, los nombres de las variables pueden ser de dos tipos: 
+Globales: son nombres de variable reconocidos en todo el programa. 
+Locales: son nombres de variable que sólo se reconocen en una parte del programa, normalmente uno o más procedimientos. 
+
+
+

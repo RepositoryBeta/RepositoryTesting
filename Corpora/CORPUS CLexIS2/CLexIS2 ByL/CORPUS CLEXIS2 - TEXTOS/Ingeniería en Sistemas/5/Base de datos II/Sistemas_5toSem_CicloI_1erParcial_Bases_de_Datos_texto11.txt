@@ -1,0 +1,6 @@
+texto 11
+Instancia.
+Una instancia es una copia del ejecutable de sqlservr que se ejecuta como un servicio de sistema operativo.
+Cada instancia administra varias bases de datos del sistema y una o varias bases de datos de usuario.
+Cada equipo puede ejecutar varias instancias de Motor de base de datos. 
+Las aplicaciones se conectan a la instancia para realizar el trabajo en una base de datos administrada por la instancia.

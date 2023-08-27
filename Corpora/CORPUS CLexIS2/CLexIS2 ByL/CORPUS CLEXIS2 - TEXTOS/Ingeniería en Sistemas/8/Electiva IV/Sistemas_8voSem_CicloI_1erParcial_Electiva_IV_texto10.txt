@@ -1,0 +1,3 @@
+texto 10
+
+En la comunicación de datos para plataformas móviles, también tenemos las conexiones wifi, que ofrecen prestaciones mayores, pueden ser de redes privadas o redes wifi públicas. También tenemos acceso internet por satélite, cuando no están disponibles las dos anteriores las conexiones se realizan a través del satélite geoestacionario. En nuestro proyectito, voy a colocar para que ustedes puedan trabajar y capturar puntos georeferenciales, para este caso son dadas por medio de un satélite, donde van a capturar la posición, tanto de latitud como de longitud.

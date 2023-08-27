@@ -1,0 +1,6 @@
+texto 87
+
+Control de acceso
+Los controles de acceso son los encargados de lograr la conexión de un usuario con su cuenta específica, una mala configuración genera una vulnerabilidad preocupante, una mala configuración en estos controles podrían generar que un atacante acceda a una cuenta solo modificando parámetros de la URL. 
+Secuencia de comandos en sitios cruzados (XSS)
+Un ataque de secuencia de comandos, se realiza cuando la aplicación funciona desde el navegador web, a través de estos comandos se busca infectar con código malicioso el computador desde el cual el usuario busca conectarse, la mayoría de ataques XSS se centran en enviar al usuario a sitios maliciosos y el robo de información. 

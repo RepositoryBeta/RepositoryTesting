@@ -1,0 +1,8 @@
+texto 86
+
+4) El número de palabras que componen el bloque Transmitida esta información, la CPU pasa a realizar otra tarea, delegando totalmente la operación de E/S al DMA. El DMA transfiere directamente, palabra a palabra, el bloque de datos entre el periférico y la memoria, sin pasar por la CPU. Cuando la transferencia finaliza el DMA envía una señal de interrupción a la CPU.
+Virtualización asistida por hardware
+Los fabricantes de hardware adoptaron rápidamente la virtualización y desarrollaron nuevas características para simplificar las técnicas de virtualización. 
+
+
+

@@ -1,0 +1,3 @@
+﻿Texto 26
+
+Sin embargo, un servicio es un componente de software que cubre la necesidad, no importa la implementación y que está diseñado para las buenas prácticas, una api es una interfaz de programación que me permite interactuar, como su nombre mismo lo indica me permite interactuar con los sistemas.

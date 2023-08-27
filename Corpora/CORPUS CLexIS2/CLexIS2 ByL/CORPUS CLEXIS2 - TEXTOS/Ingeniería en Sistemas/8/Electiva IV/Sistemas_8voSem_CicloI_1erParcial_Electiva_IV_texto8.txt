@@ -1,0 +1,4 @@
+texto 8
+
+Vamos con la parte de dispositivos móviles. ¿Qué es un dispositivo móvil?
+Un dispositivo móvil es un sistema de reducido tamaño (de bolsillo), que típicamente dispone de una pantalla de visualización con una entrada táctil, y/o un teclado miniatura. Luego, en este caso vemos, que en las PDA usualmente las entradas y salidas se encuentran combinadas en una misma pantalla táctil.

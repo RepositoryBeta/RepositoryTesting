@@ -1,0 +1,2 @@
+TEXTO 100
+La estructura del compilador es la base básica como internamente va a funcionar el proceso de la compilación y está hecho por etapas, mediante el proceso de gestión de errores y la tabla de símbolos, tanto como gestión de errores, como tabla de símbolos están dentro sus etapas del proceso de compilación tenemos, como etapas análisis léxico, análisis sintáctico, análisis semántico, generación de código intermedio, optimización de código intermedio y generación y optimización de código final.

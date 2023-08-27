@@ -1,0 +1,3 @@
+﻿Texto 85
+
+El diagrama de bloques de un sistema multicomputadora coincide con el de los sistema UMA (sin permitir el acceso directo entre varias memorias), la memoria es privada es decir, cada procesador tiene un mapa de direcciones propio que no es accesible directamente a los demás, la comunicación entre procesadores es por paso de mensajes a través de una red de interconexión.

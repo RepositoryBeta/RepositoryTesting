@@ -1,0 +1,3 @@
+﻿texto 18
+
+Ahora nosotros ya habiamos visto también cómo se realiza una encuesta y cuáles son las etapas para una encuesta, por muestreo habíamos visto que primero determinamos el objetivo de la encuesta, la población bajo muestreo la cual vamos a trabajar, recogemos los datos, pero recuerde que nosotros determinamos los datos a partir de una muestra y terminamos con el grado de precisión deseado es el porcentaje de nivel de significancia también llamado mas a delante lo vamos a ver.

@@ -1,0 +1,7 @@
+texto 43
+
+Organizaciones:
+Tenemos 3 tipos de gerencia, que son: 
+1) Gerencia de nivel superior.
+2) Gerencia de nivel intermedio:  Científicos y trabajadores del conocimiento.
+3) Gerencia operacional: Trabajadores de producción y de servicio, trabajadores de datos.

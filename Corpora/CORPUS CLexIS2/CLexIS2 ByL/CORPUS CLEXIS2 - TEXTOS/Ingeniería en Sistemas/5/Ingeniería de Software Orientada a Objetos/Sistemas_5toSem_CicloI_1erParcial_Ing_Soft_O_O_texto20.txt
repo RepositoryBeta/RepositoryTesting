@@ -1,0 +1,2 @@
+TEXTO 20
+Catalysis, aunque usa la misma notación del proceso unificado se enfoca más en la reutilización del diseño y el código usando patrones y marcos. Esa es la diferencia entre el catalisis y el proceso unificado que a pesar de tener la misma notación, presentan ciertas variantes, todas estas metodologías se enfocan en el manejo de sistemas complejos. Es decir, esto es importante para poder detectar el problema del entorno de tu empresa y conocer qué metodología se puede aplicar.

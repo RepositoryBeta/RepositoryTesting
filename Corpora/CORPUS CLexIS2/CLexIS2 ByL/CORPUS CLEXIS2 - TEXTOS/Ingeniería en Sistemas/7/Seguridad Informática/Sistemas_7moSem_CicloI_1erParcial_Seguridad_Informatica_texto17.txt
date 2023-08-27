@@ -1,0 +1,3 @@
+texto 17
+
+El riesgo se utiliza sobre todo el análisis de riesgos de un sistema informático. Este riesgo permite tomar decisiones para proteger mejor al sistema. Se puede comparar con el riesgo límite que acepte para su equipo, de tal forma que si el riesgo calculado es inferior al de referencia, éste se convierte en un riesgo residual que podemos considerar cómo riesgo aceptable.

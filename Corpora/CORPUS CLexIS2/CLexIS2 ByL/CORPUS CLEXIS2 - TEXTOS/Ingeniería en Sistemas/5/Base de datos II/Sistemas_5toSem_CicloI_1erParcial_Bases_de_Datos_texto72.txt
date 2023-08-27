@@ -1,0 +1,9 @@
+texto 72
+Sintaxis:
+DECLARE < Nombre Cursor > CURSOR [ LOCAL | GLOBAL ]
+[ FORWARD_ONLY | SCROLL ]
+[ STATIC | KEYSET | DYNAMIC | FAST FORWARD ]
+[ READ ONLY | SCROLL_LOCKS | OPTIMISTIC ]
+[ TYPE WARNING ]
+FOR < Declaración Select >
+[ FOR UPDATE [ OF < Nombre Columna >[ ,n ] ] ] [;].

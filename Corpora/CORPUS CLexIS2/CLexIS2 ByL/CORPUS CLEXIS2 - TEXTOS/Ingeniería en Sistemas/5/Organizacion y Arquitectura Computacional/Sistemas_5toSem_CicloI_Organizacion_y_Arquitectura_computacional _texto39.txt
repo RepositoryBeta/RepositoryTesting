@@ -1,0 +1,3 @@
+texto 39
+
+Tanto las instrucciones como los datos son de 16 bits, así, es conveniente  organizar la memoria  utilizando posiciones de 16 bits o palabras, el formato de instrucción indica que puede haber 24 = 16 código de operación (codop) diferentes, y se pueden direccionar directamente hasta 217 = 4096 (4k) palabras de memoria.

@@ -1,0 +1,5 @@
+﻿Texto 39
+
+Service Autonomy (Autonomía)
+
+Este principio nos dice que todo Servicio debe tener su propio entorno de ejecución, de esta manera el servicio es totalmente independiente y nos podemos asegurar que así podrá ser reutilizable desde el punto de vista de la plataforma de ejecución.

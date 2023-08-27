@@ -1,0 +1,6 @@
+texto 27
+
+Intel Core Haswell
+Intel Core Haswell es el nombre clave de los procesadores de cuarta generación de Intel Core. Son la corrección de errores de la tercera generación e implementan nuevas tecnologías gráficas para el gamming y el diseño gráfico, funcionando con un menor consumo y teniendo un mejor rendimiento a un buen precio. Continua como su predecesor en 22 nanómetros pero funciona con un nuevo Socket con clave 1150. Tienen un costo elevado a comparación con los APU y FX de AMD pero tienen un mayor rendimiento.
+
+

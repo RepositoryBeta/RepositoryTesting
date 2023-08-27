@@ -1,0 +1,3 @@
+TEXTO 23
+
+Entonces lo mismo pasa en la compilación, yo tengo que ver cuáles son esos errores semánticos, esos errores de sintaxis que nosotros decimos o que los profesores le han indicado un componente importante del análisis semántico, lo constituye el chequeo de tipos de datos donde se comprueba que los operandos de cada operador son de un tipo permitido por las especificaciones del lenguaje, aparte de este ejemplo ¿Si se acuerdan cuando ustedes decían declaro una variable?.

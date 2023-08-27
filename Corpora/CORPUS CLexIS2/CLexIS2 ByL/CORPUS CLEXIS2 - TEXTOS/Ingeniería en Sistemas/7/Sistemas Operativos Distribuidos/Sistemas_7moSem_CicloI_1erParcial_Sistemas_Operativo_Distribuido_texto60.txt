@@ -1,0 +1,3 @@
+﻿Texto 60 
+
+Hadoop es una tecnología para implementación de Big Data Sistemas orientados y datos pero en la tecnología, ellos presentan un concepto que se llama HDFS Hadoop Distributed File System, éste tiene como 9 o sea tiene N equipos atrás esta pieza, hace posible almacenar data sets masivos con tipos de datos estructurados, semiestructurados y no estructurados como imágenes, vídeos, datos de sensores, etc. 

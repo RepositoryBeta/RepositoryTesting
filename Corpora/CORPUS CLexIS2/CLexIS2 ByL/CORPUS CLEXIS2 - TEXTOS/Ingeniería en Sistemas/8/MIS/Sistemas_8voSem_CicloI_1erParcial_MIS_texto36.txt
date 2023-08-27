@@ -1,0 +1,4 @@
+texto 36
+
+Los MIS proporcionan a los gerentes informes basados en los flujos rutinarios de datos y los ayudan en el control general de las organizaciones, mientras que los DSS se enfocan en el cambio, la flexibilidad y la respuesta rápida, con un DSS es menor al esfuerzo de enlazar a los usuarios con los flujos de información estructurada y es mayor el énfasis de los modelos, supuestos, consultas ad hoc y despliegue gráfico.
+

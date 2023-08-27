@@ -1,0 +1,4 @@
+texto 78
+
+¿Qué habíamos dicho que hay dentro del CPU unidad central de proceso?
+Dentro encontrábamos los registros internos, encontrábamos la unidad aritmética lógica y la unidad de control, obviamente en el interior de ese procesador va haber movimientos de datos entre ellos, se consideran que son elementos de entrada y salida, los que al mover los datos entran y salen del CPU a la memoria.

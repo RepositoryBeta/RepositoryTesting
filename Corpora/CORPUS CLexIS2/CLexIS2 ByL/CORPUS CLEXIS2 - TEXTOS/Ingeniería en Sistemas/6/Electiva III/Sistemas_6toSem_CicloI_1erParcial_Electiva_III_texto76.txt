@@ -1,0 +1,5 @@
+texto 76
+
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, conocida como LOPD, define estas responsabilidades como obligaciones:
+1) Inscripción del fichero: El responsable de los ficheros ha de notificarlos ante el Registro General de Protección de Datos para proceder a su inscripción. No solicitarla constituye una infracción leve según recoge la ley.
+2) Calidad de los datos: La empresa o el responsable del fichero ha de garantizar que los datos que ha recogido son adecuados y veraces, se han recabado legítimamente y son utilizados exclusivamente para el fin para el que se obtuvieron. 

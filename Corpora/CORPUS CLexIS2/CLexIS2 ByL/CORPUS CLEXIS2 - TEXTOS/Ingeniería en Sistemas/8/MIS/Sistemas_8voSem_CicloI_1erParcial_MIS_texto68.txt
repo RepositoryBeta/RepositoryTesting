@@ -1,0 +1,5 @@
+texto 68
+
+Principales diferencias con la base de datos SQL, alguna de las diferencias más destacables que nos podemos encontrar entre los sistemas NOSQL y los sitemas SQL están:
+1) No utilizan SQL como lenguaje de consultas. La mayoría de las bases de datos NOSQL evita utilizar este tipo de lenguaje o lo utilizan como un lenguaje de apoyo. Ejemplo, Cassandra utiliza lenguaje CQL, Mongodb utiliza JSON o Bigtable hace uso de GQL.
+

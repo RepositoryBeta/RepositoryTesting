@@ -1,0 +1,10 @@
+texto 64
+
+Algunos de los argumentos de MODEL que puede tomar son:
+TINY: para programa con un solo segmento para datos y código (tipo COM)
+SMALL: para programas con un solo segmento de datos (64K, incluida la pila) y otro de código (64K) 
+LARGE: varios segmentos de datos y código (1Mb para cada uno).
+MEDIUM: Varios segmentos de código y 1 de datos. 
+COMPACT: 1 segmento de código y varios de datos. 
+
+

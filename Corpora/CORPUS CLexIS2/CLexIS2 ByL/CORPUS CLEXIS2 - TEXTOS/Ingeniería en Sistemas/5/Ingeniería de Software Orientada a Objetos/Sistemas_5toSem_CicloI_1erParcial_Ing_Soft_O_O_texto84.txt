@@ -1,0 +1,2 @@
+TEXTO 84
+Diseño de sistemas:  el diseño de sistemas en la primera fase de diseño en la cual se selecciona la aproximación básica para resolver el problema, durante el diseño del sistema se decide la estructura y el estilo global. Existen unas fases que son: investigación preliminar, la determinación de requerimientos, el diseño del sistema, el desarrollo del software, prueba de los sistemas y puesta en marcha todas esas fases comprenden lo que es el diseño de un sistema.

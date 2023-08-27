@@ -1,0 +1,2 @@
+TEXTO 43
+Recuerden que el token es el nombre que se le da a cada componente léxico y el lexema, es la secuencia de caracteres de la entrada que corresponde a un token. Por último tenemos el patrón que es el que va de forma compacta a describir el conjunto de lexema. Ejemplo: tenemos una oración en el ejemplo. ¿Qué es esto? Es una oración, donde me dice que la e inicia una oración, hay un espacio en blanco. Acuérdense en que el espacio en blanco el lexema lo separa con comillas dobles. 

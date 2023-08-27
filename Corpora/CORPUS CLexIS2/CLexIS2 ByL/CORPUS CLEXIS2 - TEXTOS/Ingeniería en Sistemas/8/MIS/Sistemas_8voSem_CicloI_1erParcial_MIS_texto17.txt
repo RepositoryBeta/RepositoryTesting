@@ -1,0 +1,4 @@
+texto 17
+
+Veamos ahora, los diferentes tipos de sistemas información, tenemos cuatro dentro de esa escala piramidal, en la primera tenemos las que son mecanismos operativos, llamados los TPS o sistemas de procesamiento transaccionales, también tenemos lo que son los reportes operacionales que lo utiliza la mayoría de los jefes, supervisores, son los reportes diarios de ventas, los reportes diarios de ingresos y egresos, flujo de caja.
+

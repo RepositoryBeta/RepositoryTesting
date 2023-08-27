@@ -1,0 +1,8 @@
+texto 86
+
+Mala configuración de seguridad 
+Se da en casos donde los controles de acceso se encuentran correctamente configurados pero no hay mecanismos para mantener segura la información de los usuarios, los hackers aprovechan esta falencia para manipular encabezados y mostrar mensajes de error con información confidencial, de esta forma será posible para un atacante revelar datos y generar acceso no deseados. 
+Entradas XML
+XML significa Extensible Markup Language es un metalenguaje sencillo para la comunicación a través de Internet dando soporte a bases de datos. Las aplicaciones que analizan archivos XML puede ser engañada para brindar al atacante datos confidenciales. 
+
+

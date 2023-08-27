@@ -1,0 +1,5 @@
+texto 72
+
+EVALUACIÓN
+Herramienta típica en la aplicación de la auditoria, al área de sistemas o cualquier otra área, determinar mediante pruebas concretas, se está cumpliendo con la actividad evaluada, de acuerdo a lo que se esperaba.
+PASO 1: Establece anticipadamente parámetros de carácter cualitativo, a los cuales se les asigna un cierto valor numérico, matemático, estadístico, contable. 

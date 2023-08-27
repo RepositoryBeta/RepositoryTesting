@@ -1,0 +1,8 @@
+texto 65
+
+Técnicas Especiales 
+Son herramientas especializadas de gran importancia para el auditor especializado porque permiten evaluar procedimientos y estructuras propias de la informática. 
+PRINCIPALES TÉCNICAS
+Guías de evaluación.
+Ponderación.
+Modelos de Simulación.

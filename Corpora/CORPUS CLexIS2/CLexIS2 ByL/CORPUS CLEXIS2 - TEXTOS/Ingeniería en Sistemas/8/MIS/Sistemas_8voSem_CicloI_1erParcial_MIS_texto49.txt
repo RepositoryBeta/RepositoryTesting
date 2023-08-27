@@ -1,0 +1,4 @@
+texto 49
+
+Quizá varios programadores tengan que trabajar durante semanas para reunir los elementos de datos requeridos en un nuevo archivo. Ahora tenemos la seguridad defectuosa, como hay poco control o poca administración de los datos, el acceso a la información, así como su diseminación, pueden estar fuera de control. La gerencia tal vez no tenga forma de saber quién está accediendo a los datos de la organización, o modificándolos.
+

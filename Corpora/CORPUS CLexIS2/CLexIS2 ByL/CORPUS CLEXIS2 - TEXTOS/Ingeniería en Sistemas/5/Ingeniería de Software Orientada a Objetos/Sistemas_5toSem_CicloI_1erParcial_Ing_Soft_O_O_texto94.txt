@@ -1,0 +1,2 @@
+TEXTO 94
+Las pruebas de sistemas orientado a objetos cuando ustedes ya pasaron de la fase del análisis del diseño de la codificación, se deben realizar pruebas para verificar, si lo que el cliente ha requerido es lo correcto, un ejemplo es la sudamericana de software ellos tienen como cliente potencial a claro, ellos le desarrollan software a claro. Pero, claro no les cancelas hasta mostrar avances de sus productos. esos avances  son en base a las pruebas que realiza claro.

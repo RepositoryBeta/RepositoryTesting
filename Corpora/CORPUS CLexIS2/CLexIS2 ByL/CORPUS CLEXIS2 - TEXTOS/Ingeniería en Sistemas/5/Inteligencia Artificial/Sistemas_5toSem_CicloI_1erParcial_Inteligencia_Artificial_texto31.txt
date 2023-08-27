@@ -1,0 +1,4 @@
+texto 31
+
+La minería de datos es el proceso de hallar anomalías, patrones y correlaciones en grandes conjuntos de datos para predecir resultados. Empleando una amplia variedad de técnicas, puede utilizar esta información para incrementar sus ingresos, recortar costos, mejorar sus relaciones con clientes, reducir riesgos y más. La minería de datos es una piedra angular de la analítica, la cual le ayuda a desarrollar los modelos que pueden descubrir conexiones dentro de millones o miles de millones de registros.
+

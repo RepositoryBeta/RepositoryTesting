@@ -1,0 +1,6 @@
+texto 85
+
+CRLF injection
+Se refiere a Carriage Return (ASCII 13) Line Feed (ASCII 10) se logra modificando un parámetro de HTTP o URL, a diferencia de LDAP no le será posible crear nuevos usuarios, pero sí leer y acceder archivos confidenciales. 
+Pérdida de autenticación
+Es a través de esta vulnerabilidad que un usuario o alguien ajeno a la organización obtenga por diversos medios una contraseña de otro usuario o miembro de la empresa, es una forma de suplantación de identidad. En la inmensa mayoría de los casos este tipo de ataque OWASP top 10 está relacionado con la gestión de contraseñas, la expiración de las mismas y mantener sesiones activas en un dispositivo. 

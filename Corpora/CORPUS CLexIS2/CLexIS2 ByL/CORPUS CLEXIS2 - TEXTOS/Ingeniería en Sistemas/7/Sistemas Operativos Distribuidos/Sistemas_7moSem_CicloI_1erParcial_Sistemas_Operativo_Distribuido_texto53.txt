@@ -1,0 +1,5 @@
+﻿Texto 53
+
+Aquí, me temo que la implantación práctica de este concepto, el tener un diccionario de conceptos común, no ha triunfado por las dificultades que plantea el poner de acuerdo a tanta gente dentro de una organización.
+
+Con la llegada de los microservicios, con su independencia y su aislamiento del resto de microservicios, quizás ya ni tenga tanto sentido.

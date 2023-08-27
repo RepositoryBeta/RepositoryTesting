@@ -1,0 +1,3 @@
+texto 100
+
+También tenemos que se alimenta de las investigaciones en otros campos, poderse emplear distintos AES o BLS ya propuestos. En las desventajas de los MA tenemos: Cuando se hace por mutación se puede perder información valiosa con mucha mutación o se puede regresar al punto anterior con poca mutación, sus resultados son aproximados, no exactos, el diseño de un algoritmo memético requiere de constantes pruebas y refinamiento de parámetros.

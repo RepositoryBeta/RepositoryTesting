@@ -1,0 +1,8 @@
+texto 49
+
+Registro de datos de memoria (MBR), contiene los datos que van a ser escritos en la memoria o los que fueron leídos en ella.
+Registro de direcciones de entrada y salida (I/O AR), especifica al dispositivo ya sea de entrada o salida.
+Registro de datos de entrada y salida (I/O BR), es una área temporal en donde se lleva a cabo el intercambio de datos entre el procesador y el dispositivo de entrada y salida que esta especificado en IOAR.
+
+
+

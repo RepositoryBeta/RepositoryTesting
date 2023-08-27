@@ -1,0 +1,4 @@
+texto 15
+
+LAS FUNCIONES DEL CONTROL INTERNO Y AUDITORIA INFORMÁTICA 
+El Control Interno Informático o CII controla diariamente que todas las actividades de sistemas de información sean realizadas cumpliendo los procedimientos, estándares y normas fijados por la dirección de la organización y/o la dirección informática, así como los requerimientos legales. La función del CII es asegurarse de que las medidas que se obtienen de los mecanismos implantados por cada responsable sean correctas y válidas. El CII suele ser un órgano staff de la dirección del departamento de informática y está dotado de las personas y recursos materiales proporcionados a los objetivos que se le encomienden.

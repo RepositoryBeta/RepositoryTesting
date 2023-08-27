@@ -1,0 +1,5 @@
+﻿texto 68
+Pero reemplazando el nivel de Van por 0 para que nos pueda dar la tasa de descuento. A diferencia del VAN, cuando la tasa es muy alta, nos está diciendo que el proyecto no es rentable, si la tasa nos da menor, esto quiere decir que el proyecto es rentable. Mientras más baja sea la tasa, mucho más rentable es el proyecto.
+Es confiable este tipo de método
+Debes saber que las críticas que ha sufrido este método son muchas por el grado de dificultad que tiene para muchas personas. 
+

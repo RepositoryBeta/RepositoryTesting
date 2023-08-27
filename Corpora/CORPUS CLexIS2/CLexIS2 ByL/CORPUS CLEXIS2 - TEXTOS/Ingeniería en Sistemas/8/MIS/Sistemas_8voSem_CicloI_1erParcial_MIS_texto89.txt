@@ -1,0 +1,4 @@
+texto 89
+
+Continuamos con otro tema, tenemos ahora las plataformas analíticas, los distribuidores de base de datos comerciales han desarrollado plataformas analíticas especializadas de alta velocidad, que utilizan tecnología tanto relacional como no relacional y están optimizadas para analizar conjuntos de datos de gran tamaño. Las plataformas analíticas como IBM Netezza y Oracle Exadata cuentan con sistema de Hardware y Software preconfigurados que están diseñados de manera específica para el procesamiento de consultas y los análisis.
+

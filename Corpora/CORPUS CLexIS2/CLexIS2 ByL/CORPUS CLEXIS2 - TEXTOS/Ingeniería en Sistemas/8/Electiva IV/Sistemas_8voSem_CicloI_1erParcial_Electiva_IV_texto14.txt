@@ -1,0 +1,4 @@
+texto 14
+
+¿Cuáles son las características de la tecnología móvil?
+Las características de la tecnología móvil tenemos, como primer punto la movilidad, usted con esta tecnología móvil puede moverse por cualquier lado y en cualquier momento, puede llegar hasta el punto de poder analizar objetos, por ejemplo los proyectos de tesis que yo lanzo, en un FCI que estoy manejando, los chicos están tratando de reconocer objetos, hay otro proyecto que se trata del reconocimiento de imágenes, puede identificar si entra un vehículo, una persona o una moto, e irlos contando para poder determinar la cantidad de personas que pueden probablemente estar dentro del recinto.

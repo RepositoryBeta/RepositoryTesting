@@ -1,0 +1,3 @@
+texto 74
+
+Fragmentos: Android introduce los fragmentos en Android 3.0 (nivel de API 11), principalmente para admitir diseños de IU más dinámicos y flexibles en pantallas grandes, como las de las tablets. Cuando se agrega un fragmento como parte de la presentación de la actividad, se encuentra en Viewgroup dentro de la jerarquía de vistas de la actividad y el fragmento define su propio diseño de vistas.

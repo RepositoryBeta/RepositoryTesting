@@ -1,0 +1,3 @@
+﻿Texto 61
+
+Está optimizado para almacenar grandes cantidades de datos y mantener varias copias para garantizar una alta disponibilidad y la tolerancia a fallos, con todo esto, HDFS es una tecnología fundamental para Big Data, o dicho de otra forma, es el Big Data File System o almacenamiento Big Data por excelencia, es un sistema distribuido basado en Java que permite obtener una visión de los recursos como una sola unidad.

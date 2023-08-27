@@ -1,0 +1,3 @@
+texto 71
+
+Por ultimo y otra vez incrementamos el contador de programa, ahora es 7 y se repite el mismo proceso el registro de la dirección 7 va al registro de instrucción y una vez allí el decodificador al ver que es un SAVE le dice al secuenciador que guarde el registro 3 en la dirección 2 de la memoria principal, la orden de guardarlos sería por el bus de control, la dirección que le corresponde sería por el bus de direcciones y el registro en si se envía por el bus de datos, ahora deberíamos volver a incrementar el contador del programa pero como ya no hay dirección 8 aquí acaba la ejecución de este programa.

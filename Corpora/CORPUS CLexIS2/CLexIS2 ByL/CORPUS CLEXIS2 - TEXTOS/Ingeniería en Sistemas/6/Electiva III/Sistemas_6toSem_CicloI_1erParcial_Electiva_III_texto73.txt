@@ -1,0 +1,4 @@
+texto 73
+
+Estos metadatos abarcan, por ejemplo, la definición del esquema de base de datos que fundamenta el DWH, los datos sobre las estructuras de memoria, sobre las rutas de acceso y tamaños de los archivos, metadatos que describen las fuentes de los datos, así como el día y la hora en que tienen lugar las actualizaciones, las reglas de depuración y de transformación de los datos, índices y tablas de partición. El gestor también se ocupa del intercambio de metadatos entre cada uno de los componentes del almacén y facilita una base de metadatos homogénea.
+Gestión de la seguridad: aquí tienen lugar diversos servicios incluidos en la autenticación de usuarios, de autorización y de cifrado.

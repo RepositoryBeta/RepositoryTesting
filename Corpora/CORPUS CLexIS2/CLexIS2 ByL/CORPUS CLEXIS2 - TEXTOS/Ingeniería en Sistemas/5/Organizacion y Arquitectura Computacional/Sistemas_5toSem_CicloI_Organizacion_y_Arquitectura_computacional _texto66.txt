@@ -1,0 +1,4 @@
+texto 66
+
+El bus de direcciones sirve para decirle al CPU cual es la dirección que debe leer o escribir, cada dirección tiene un número y este bus funciona a través de 3 bits, por último está el bus de control, este bus es de un bit y sólo sirve para decirle al CPU si debe leer o escribir. Ejemplo:
+Primero el CPU debe saber cuál es la dirección de la primera instrucción del programa, como el control de programa indica que estamos en la dirección 4 iremos a esa dirección por el bus de direcciones y cooperemos este registro desde la memoria principal al registro de instrucción.

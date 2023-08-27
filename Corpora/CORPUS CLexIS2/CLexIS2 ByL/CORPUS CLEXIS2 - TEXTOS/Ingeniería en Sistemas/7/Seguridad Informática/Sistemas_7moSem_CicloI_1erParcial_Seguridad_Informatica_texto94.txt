@@ -1,0 +1,4 @@
+texto 94
+
+La norma define de manera genérica, independientemente de los factores ambientales de organización (entorno, contexto, activos de las TIC, información, cultura organizacional, etc.) tanto internos como externos a la misma y de los activos de los procesos de la organización (políticas, procedimientos, procesos, etc.), como se planifica, implanta, verifica y controla un Sistema de Gestión de Seguridad de la Información, a partir de la realización de un análisis de riesgos y de la planificación e implantación de la respuesta a los mismos para su mitigación. Es decir, cualquier empresa u organización puede desplegar un SGSI siguiendo este estándar.
+

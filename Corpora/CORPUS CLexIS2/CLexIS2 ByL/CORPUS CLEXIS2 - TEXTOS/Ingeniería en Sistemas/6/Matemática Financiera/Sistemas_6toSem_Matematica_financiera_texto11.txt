@@ -1,0 +1,8 @@
+﻿texto 11
+Características Interés Simple
+Entre las características del Interés Simple que sobresalen son:
+1) El capital inicial no se modifica, manteniéndose igual durante toda la operación.
+2) El interés no se modifica, siendo el mismo para cada uno de los períodos de la operación.
+3) La tasa de interés es aplicada sobre el capital invertido o capital inicial.
+
+

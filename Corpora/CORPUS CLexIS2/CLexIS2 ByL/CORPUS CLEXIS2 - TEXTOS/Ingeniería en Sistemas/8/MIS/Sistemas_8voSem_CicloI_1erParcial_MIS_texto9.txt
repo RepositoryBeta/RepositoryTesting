@@ -1,0 +1,4 @@
+texto 9
+
+Luego tenemos la parte sociológica, también se desarrollan software para fundaciones y hay que tratar sobre temas de sociología. Pero también desde el punto de vista del desarrollo de software, el ingeniero debe estar preparado para que al entrar o interactuar con personas de diferentes ideologías, creencias, ramas de la ciencia que conocen y son expertos y muy conocidos en esa área, entonces, también hay que manejar el nivel de como interactuar con ellos al momento de levantar requerimientos.
+

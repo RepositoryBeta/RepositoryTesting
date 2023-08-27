@@ -1,0 +1,8 @@
+texto 96
+
+Mediante la auditoría de bases de datos se evaluará.
+- Definición de estructuras físicas y lógicas de las bases de datos.
+- Control de carga y mantenimiento de las bases de datos.
+- Integridad de los datos y protección de accesos.
+- Estándares para análisis y programación en el uso de bases de datos.
+- Procedimientos de respaldo y de recuperación de datos.

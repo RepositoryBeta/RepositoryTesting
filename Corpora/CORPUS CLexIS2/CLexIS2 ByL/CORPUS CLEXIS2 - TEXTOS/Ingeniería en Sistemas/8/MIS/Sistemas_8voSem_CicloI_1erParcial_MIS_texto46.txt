@@ -1,0 +1,4 @@
+texto 46
+
+A medida que este durante 5 a 10 años, la organización se satura con cientos de programas y aplicaciones que son muy difíciles de mantener y administrar. Los problemas resultantes son la redundancia e inconsistencia de los datos, la dependencia de programa y datos, la inflexibilidad, la seguridad defectuosa de los datos, y la incapacidad de compartir datos entre aplicaciones.
+

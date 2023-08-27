@@ -1,0 +1,4 @@
+texto 66
+
+Pivoting: este hace referencia al método de girar un cubo de datos de forma que se visualice, al menos, otra dimensión.
+Drill down / Roll up: cuando las variables de un objeto se deben desglosar a valores aún más detallados se utiliza la operación drill down, que permite a los analistas ampliar una sección del cubo OLAP para aumentar su grado de detalle. La operación inversa se denomina roll up y en ella se compacta la información a niveles más altos de la jerarquía. Ambos se utilizan en la navegación en estructuras jerárquicas multidimensionales.

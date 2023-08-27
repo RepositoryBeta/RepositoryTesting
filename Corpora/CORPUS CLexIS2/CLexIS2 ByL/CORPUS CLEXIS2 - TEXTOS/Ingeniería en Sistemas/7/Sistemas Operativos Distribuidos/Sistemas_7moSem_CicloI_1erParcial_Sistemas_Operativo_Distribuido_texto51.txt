@@ -1,0 +1,7 @@
+﻿Texto 51
+
+Contratos de servicios estandarizados
+
+Un formato versátil, completo y también, muy difícil de entender para una persona, pero perfectamente válido para una máquina.
+
+Hoy en día, el club de los formatos de los contratos cuenta con nuevos miembros, debido a que ya no existe un monopolio de servicios SOAP, ahora tenemos los servicios REST por todos lados. 

@@ -1,0 +1,4 @@
+texto 75
+
+Seguimos con los elementos de clasificación de la metaheurística, viene el método de reducción, este método trata de identificar alguna característica de la solución que permita simplificar el tratamiento del problema. Seguimos, métodos de manipulación del modelo, hoy tienen una solución del problema original a partir de otro problema simplificado con menos restricciones, línea alisando el problema, etc.
+

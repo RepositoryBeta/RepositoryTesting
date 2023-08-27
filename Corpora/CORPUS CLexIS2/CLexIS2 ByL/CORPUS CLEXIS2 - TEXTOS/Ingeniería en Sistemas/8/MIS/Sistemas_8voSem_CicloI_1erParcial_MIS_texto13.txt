@@ -1,0 +1,4 @@
+texto 13
+
+Continuando con la teoría, nos dice que existen en la metodología del comportamiento, aspectos como la integración estratégica de negocios, el diseño, la implementación, la utilización y la administración no se pueden explorar útilmente con los modelos que se utilizan en la metodología técnica. Hay otras disciplinas del comportamiento que aportan conceptos y métodos importantes.
+

@@ -1,0 +1,11 @@
+texto 68
+
+El tipo de direccionamiento se determina en función de los operandos de la instrucción.
+La instrucción MOV realiza transferencia de datos desde un operando origen a un operando destino. Su formato es el siguiente: 
+MOV destino, origen. 
+Direccionamiento de registro 
+Transfiere un byte o palabra desde un registro fuente hasta un registro destino. 
+NOTA: No se permite el acceso entre registros de segmentos ni de distintos tamaños. MOV AX,CX; transfiere el contenido de CX en AX.
+
+
+

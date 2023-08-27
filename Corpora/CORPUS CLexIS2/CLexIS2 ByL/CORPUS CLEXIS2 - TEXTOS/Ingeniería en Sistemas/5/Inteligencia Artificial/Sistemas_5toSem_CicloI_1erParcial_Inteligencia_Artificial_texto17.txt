@@ -1,0 +1,4 @@
+texto 17
+
+El término heurística proviene de una palabra griega con un significado relacionado con el concepto de encontrar y se vincula a la supuesta exclamación eureka de Arquímedes al descubrir su famoso principio. La concepción más común en IA es interpretar que heurístico es el calificativo apropiado para los procedimientos que, empleando conocimiento acerca de un problema y de las técnicas aplicables, tratan de aportar soluciones (o acercarse a ellas) usando una cantidad de recursos (generalmente tiempo) razonable.
+

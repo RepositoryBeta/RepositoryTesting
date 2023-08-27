@@ -1,0 +1,3 @@
+texto 25
+
+Se necesita un componente más, un dispositivo de entrada de proporcionara los datos y las instrucciones secuencialmente uno tras otro, pero un problema no siempre ejecuta las instrucciones según la misma secuencia, puede saltarse ciertas instrucciones, de la misma forma, las operaciones con datos pueden necesitar acceder a más de un operando y según una secuencia determinada.

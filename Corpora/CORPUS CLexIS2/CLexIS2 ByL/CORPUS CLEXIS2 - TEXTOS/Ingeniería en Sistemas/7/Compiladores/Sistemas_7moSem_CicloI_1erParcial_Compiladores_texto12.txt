@@ -1,0 +1,3 @@
+TEXTO 12
+
+¿Cómo normalmente aprendieron que asignaban valores? De derecha a izquierda no verdad. Pero para la compilación de izquierda a derecha y por último una constante entera numérica entera el número 23. Así hace El analizador léxico. Lo mismo pasa con la compilación, la compilación va a ser lo mismo tú vas a leer tu línea de código de izquierda a derecha y tú tienes que ir identificando qué cosa es, si es un identificador, si es un operador, si es una constante, si es un número. Eso lo tiene que tener claro.  

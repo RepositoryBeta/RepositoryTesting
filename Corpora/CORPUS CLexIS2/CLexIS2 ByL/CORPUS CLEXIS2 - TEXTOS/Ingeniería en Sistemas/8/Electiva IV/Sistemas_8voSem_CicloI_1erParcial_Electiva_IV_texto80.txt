@@ -1,0 +1,8 @@
+texto 80
+
+AVD MANAGER (Dispositivo Visual Android): Sirve para ejecutar nuestra aplicación en un dispositivo virtual. 
+Pasos para lanzar la aplicación en el dispositivo móvil.
+1) Pulse 7 veces para activar la opción de desarrollador.
+2) Activar la opción depuración USB.
+3) Al conectar el teléfono a la PC, permitir depuración de USB en el celular.
+4) Luego de conectar el teléfono a la PC y dar permiso de depuración de USB.

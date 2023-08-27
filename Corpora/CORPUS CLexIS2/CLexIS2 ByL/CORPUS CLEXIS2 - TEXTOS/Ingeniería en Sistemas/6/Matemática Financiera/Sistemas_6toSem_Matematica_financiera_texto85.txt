@@ -1,0 +1,5 @@
+texto 85
+- La segunda da el importe de la renta o pago (R).
+- La tercera indica los intereses (I) y resulta de multiplicar el saldo insoluto (SI) anterior por la tasa de interés del periodo (i).
+- La cuarta señala la amortización (A) del periodo y resulta de restar al pago del periodo  (R) los intereses del mismo (I).
+- La quinta revela la amortización acumulada (AA), consecuencia de la suma de la amortización acumulada (AA) del periodo anterior más la amortización (A) del periodo en estudio.

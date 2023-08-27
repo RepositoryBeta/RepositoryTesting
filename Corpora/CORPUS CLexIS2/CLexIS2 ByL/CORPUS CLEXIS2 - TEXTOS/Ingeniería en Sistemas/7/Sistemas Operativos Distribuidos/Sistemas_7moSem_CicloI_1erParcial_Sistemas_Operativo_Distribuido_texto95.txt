@@ -1,0 +1,3 @@
+﻿Texto 95
+
+El primero es un núcleo ubicuo mínimo o micronúcleo, que controla el hardware del nodo, el segundo es una colección de componentes de administración del sistema de alto nivel que coordinan las actividades individuales y colaborativas del nodo, estos componentes son una abstracción de las funciones del micronúcleo y dan soporte a las aplicaciones de usuario.

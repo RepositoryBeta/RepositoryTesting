@@ -1,0 +1,6 @@
+texto 64
+
+Métodos de un activity.
+5) Onstop: La actividad ya no va a ser visible para el usuario. (Ojo si hay muy poca memoria) es posible que la actividad se destruya sin llamar a este método.
+6) Onrestart: Indica que la actividad va a volver a ser representada después de haber pasado por onstop.
+7) Ondestroy: Se llama antes de que la actividad sea totalmente destruida. Por ejemplo, cuando el usuario pulsa el botón de volver o cuando se llama al método finish. Ojo si hay muy poca memoria, es posible que la actividad se destruya sin llamar a este método.

@@ -1,0 +1,8 @@
+texto 80
+
+Beneficios
+Control de actividades de procesamiento: Estos procedimientos, no sólo indican las acciones requeridas pero también indican cuando estas acciones son tomadas y por quiénes.
+Control de calidad de procesamiento:  Con los procedimientos de verificación y procesamiento de documentación adecuados, el personal del centro de datos es capaz de asegurar que una tarea procede y finaliza cómo se espera.
+
+
+

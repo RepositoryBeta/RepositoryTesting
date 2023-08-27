@@ -1,0 +1,3 @@
+texto 99
+
+Es posible que se descienda el nivel de importancia de los servicios que han estado ejecutándose por un tiempo prolongado (como 30 minutos o más) a fin de permitir que sus procesos se incluyan en la lista de LRU almacenada en caché que se describe a continuación. De esta manera, se evitan situaciones en las que los servicios de duración prolongada con pérdidas de memoria o algún otro problema consuman tanta memoria RAM que impidan que el sistema use los procesos almacenados en caché de manera eficaz.

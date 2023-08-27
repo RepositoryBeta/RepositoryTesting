@@ -1,0 +1,3 @@
+texto 28
+
+Contiene el dato que se va a escribir en memoria o donde se escribe el dato que se va a leer en memoria, igualmente, un registro de direcciones de entrada y salida (E/SAR, E/S Address Register)  especifica un dispositivo de entrada y salida. Un registro para datos de entrada y salida (E/SBR, E/S Buffer Register) se utiliza para intercambiar datos entre un módulo de entrada y salida y la CPU.

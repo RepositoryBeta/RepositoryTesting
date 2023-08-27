@@ -1,0 +1,8 @@
+texto 75
+
+Interrupciones originadas en el software 
+Los errores de software provocan una interrupción software de forma síncrona (trap3), como salirse de una tabla. 
+El propio programa produce la IRQ con una instrucción especifica de lenguaje máquina. También se denominan trap a los errores generados por el hardware, es decir, el hw produce la IRQ. Ejemplos: división por cero, instrucción de código maquina errónea, acceso a memoria incorrecto. Hay una gran variedad en la nomenclatura y clasificación.
+
+
+

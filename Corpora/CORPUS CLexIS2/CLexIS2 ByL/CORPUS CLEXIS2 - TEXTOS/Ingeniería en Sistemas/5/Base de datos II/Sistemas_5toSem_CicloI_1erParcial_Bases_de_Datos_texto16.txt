@@ -1,0 +1,6 @@
+texto 16
+Donde: 
+DATAFILE: Especifica los archivos de datos que componen el tablespace. 
+REUSE: Reutiliza el archivo si ya existe o lo crea si no existe
+SIZE entero: Especifica el tamaño del tablespace, en KB o MB DEFAULT 
+STORAGE: Define el almacenamiento por omisión para todos los objetos que se creen en ese espacio de tabla. Fija la cantidad de espacio si no se especifica en la sentencia CREATE TABLE.

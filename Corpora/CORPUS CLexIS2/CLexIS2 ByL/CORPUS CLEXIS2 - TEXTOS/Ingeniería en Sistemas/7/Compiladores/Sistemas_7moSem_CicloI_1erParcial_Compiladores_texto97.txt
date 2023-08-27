@@ -1,0 +1,2 @@
+TEXTO 97
+Tipos de compiladores: Entre ellas tenemos el ensamblador, de los años 40, 30, existe también el compilador cruzado, el compilador con montador, el autocompilador, metacompilador y decompilador. También existen compiladores en línea, que te va a permitir ejecutar y compilar varios tipos de lenguajes. La historia del compilador desde 1940, la primera persona que realizó un código de compilación fue una mujer. 

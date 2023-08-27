@@ -1,0 +1,7 @@
+texto 25
+
+Esta filosofía propició la creación de los Sistemas Operativos distribuidos que son, básicamente, implementaciones basadas en el modelo cliente - servidor. 
+
+Aunque los Sistemas Operativos distribuidos no serán estudiados en este curso, explotan un mecanismo interesante de la comunicación entre procesos, que es el paso de mensajes. 
+
+La tendencia actual es desarrollar aplicaciones distribuidas en vez de Sistemas Operativos distribuidos, aprovechando las redes de computadoras.

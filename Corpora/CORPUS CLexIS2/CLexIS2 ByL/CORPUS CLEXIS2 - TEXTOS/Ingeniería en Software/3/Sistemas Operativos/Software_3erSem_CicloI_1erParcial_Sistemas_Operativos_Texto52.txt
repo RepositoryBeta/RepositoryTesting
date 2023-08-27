@@ -1,0 +1,7 @@
+texto 52
+
+Cuando sucede alguna de las cosas mencionadas, el procesador es asignado a otro proceso (en caso que el otro proceso no haya finalizado de ejecutar, volverá a la lista de procesos listos). 
+
+La elección del quantum es importante, ya que si es muy pequeño existirían muchos cambios de contexto (el cual lleva tiempo) y si es muy grande el sistema tenderá a ser FCFS.
+
+Multilevel Queue: Este algoritmo propone dividir la lista de procesos listos en varias colas, una para cada tipo de proceso. Cabe destacar que los procesos no podrán cambiar de cola, que cada cola tendrá su propio algoritmo de planificación, y que existirá un algoritmo de planificación entre colas.

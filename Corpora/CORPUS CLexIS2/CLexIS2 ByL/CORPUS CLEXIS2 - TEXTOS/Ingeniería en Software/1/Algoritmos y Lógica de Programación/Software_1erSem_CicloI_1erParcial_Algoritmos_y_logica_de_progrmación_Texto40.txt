@@ -1,0 +1,2 @@
+texto 40
+Otra consideración a tener en cuenta es el diseño del algoritmo, algoritmos cuando lo veamos simplemente van a ver qué es una serie de pasos ordenados, que van a cumplir una meta, que voy a hacer primero, que voy a hacer después, que tengo que considerar, esto también debo incluirlo, en fin, después tenemos la configuración del entorno de desarrollo y codificación, todo desarrollo y codificación corresponde hacia netamente el lenguaje de programación que voy a utilizar y no solamente programación, si no como ustedes ven el entorno de trabajo.

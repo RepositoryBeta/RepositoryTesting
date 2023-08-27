@@ -1,0 +1,5 @@
+﻿texto 98
+
+Es usual requerir que los datos se intercambien  de forma fiable independientemente de la naturaleza de las aplicaciones,  esto es asegurar que todos los datos lleguen a la aplicación destino en el mismo orden en el que fueron enviados.
+
+Tiene sentido agrupar todos los mecanismos que proporcionan dichas y habilidad en una capa común compartida por todas las aplicaciones; ésta se denomina capa de transporte.

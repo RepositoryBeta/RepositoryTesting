@@ -1,0 +1,3 @@
+Texto 97 
+
+Y tengo una cardinalidad máxima de muchos a muchos, pudiera ser que en la interrelación o en la relación yo tenga 12 atributos que son propios de esa interrelación, eso considere, también porque lo pueden utilizar en sus ejercicios, aquí algo que nuevamente le indico estamos en un modelo conceptual, este modelo conceptual se va a convertir en un modelo relacional, porque en los modelos conceptuales nos vamos a encontrar que yo tengo relaciones de muchos a muchos modelos finales, en un modelo relacional no es posible tener una relación de muchos a muchos y esto no se va a convertir. 

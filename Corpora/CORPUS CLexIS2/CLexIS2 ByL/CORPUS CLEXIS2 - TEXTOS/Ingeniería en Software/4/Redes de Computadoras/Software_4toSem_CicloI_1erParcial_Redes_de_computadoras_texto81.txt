@@ -1,0 +1,7 @@
+﻿texto 81
+
+Modelos normalizados
+
+Hay dos arquitecturas que han sido determinantes y básicas en el desarrollo de los estándares de comunicación: el modelo de referencia de OSI, el conjunto de protocolos TCP IP.
+
+Modelo OSI (interconexión de sistemas abiertos): Una tengo que secar afuera división en capas, en Esta técnica las funciones de comunicación se distribuyen en un conjunto jerárquico de capas.

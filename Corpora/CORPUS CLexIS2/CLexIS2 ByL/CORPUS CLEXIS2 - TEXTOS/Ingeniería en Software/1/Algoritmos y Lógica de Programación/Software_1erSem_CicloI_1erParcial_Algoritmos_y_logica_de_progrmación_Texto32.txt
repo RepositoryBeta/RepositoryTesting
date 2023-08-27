@@ -1,0 +1,3 @@
+﻿texto 32
+
+Esto es muy importante, la documentación es donde el desarrollador plasma todo su trabajo, si el desarrollador tiene que moverse a otra oportunidad laboral e irse de esa empresa, entonces viene otro a leer el trabajo de quien lo hizo, pero que pasa si quien hizo el sistema no dejó documentado nada, antes se solía llamar pues al programador que dejó hecho ese código, porque nunca dejó documentado las líneas de código que el hizo y aparte era tan desordenado que  él solamente podía comprender sus líneas de código.

@@ -1,0 +1,5 @@
+texto 22
+
+La investigacion de operaciones
+
+Al utilizar algun modelo o algoritmo de la IO las decisiones seran mas eficientes y seguras en cuanto a costos, tiempos, recursos, beneficios, entre otros aspectos, en comparacion con aquellas decisiones que son tomadas de forma arbitraria sin hacer uso de alguna tecnica, herramienta o metodo matematico.

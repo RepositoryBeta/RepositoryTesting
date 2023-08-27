@@ -1,0 +1,3 @@
+﻿texto 9
+
+Pero eso no es lo que ella entiende la computadora, en este caso el compilador tiene un proceso magnífico, que es el que hace convertir ese lenguaje humano en lenguaje de máquina, el lenguaje de máquina es netamente una combinación de 0 y 1, ustedes son afortunados, nosotros venimos desde hace años en este mundo incursionando en este campo de la programación, hemos tenido inclusive muchas veces escribir líneas de código en combinaciones de ceros y unos como los lenguajes assembler para las computadoras.

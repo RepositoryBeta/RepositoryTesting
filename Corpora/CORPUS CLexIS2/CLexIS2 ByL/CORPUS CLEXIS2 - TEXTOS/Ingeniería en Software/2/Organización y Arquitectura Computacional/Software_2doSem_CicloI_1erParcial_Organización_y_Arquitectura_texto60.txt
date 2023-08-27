@@ -1,0 +1,3 @@
+TEXTO 60
+
+Introducción a las memorias: Dentro de estas unidades tanto de control, como la unidad aritmética lógica. Tenemos pequeñas áreas, pero son pequeñas áreas de gran velocidad de procesamiento que necesitas tener ahí un espacio de memoria, donde poder seguir alojando instrucciones. Una de ellas es la MBR, la tenemos como parte de la unidad aritmética lógica, ella contiene una palabra que debe  ser almacenada en memoria o es usada para recibir una palabra procedente de la memoria.

@@ -1,0 +1,9 @@
+﻿texto 65
+
+Característica del USB
+
+Permite adjuntar dispositivos periféricos, sin necesidad de reiniciar la computadora emite volver a configurar el sistema.
+
+Son reconocidos automáticamente por el computador y se configuran automáticamente, lo cual evita dolores de cabeza al instalar un nuevo dispositivo en mi PC.
+
+No capaces de transmitir datos.

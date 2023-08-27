@@ -1,0 +1,7 @@
+﻿texto 52
+
+Entonces cuando nosotros nos referimos siempre aún programación lineal vamos a tener estos tres aspectos no nos olvidemos lo vamos a recordar por un rato.
+
+La definicion correcta de las variables de decision es un primer paso esencial en el desarrollo del modelo.
+
+Una vez hecha, la tarea de construir la funcion objetivo y las restricciones se hace en forma mas directa, es decir que nosotros lo primero que tenemos que hacer es identificar esas variables de decisión.

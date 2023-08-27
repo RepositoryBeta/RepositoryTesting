@@ -1,0 +1,7 @@
+texto 88
+
+capa de aplicación:  son las que dan los procesos de red a las aplicaciones,  suministra servicios de red a los procesos de aplicaciones, como por ejemplo correo electrónico, transferencia de archivos y emulación de terminales,  dentro de la caja de aplicaciones tenemos 4 protocolos:
+
+TELNET:  permite acceder de forma remota a otro computador,  ejecutar comandos en dicho equipo.
+
+FTP:  protocolo de transferencia de archivos entre sistemas.

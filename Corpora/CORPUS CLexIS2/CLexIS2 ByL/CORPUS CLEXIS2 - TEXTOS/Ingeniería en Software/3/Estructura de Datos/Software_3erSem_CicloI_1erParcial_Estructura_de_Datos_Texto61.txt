@@ -1,0 +1,7 @@
+texto 61
+
+LISTA CIRCULAR ENCADENADA
+
+Aunque las listas lineales son muy útiles tiene sin embargo algunas desventajas, la principal es que dado un nodo (P), no se puede alcanzar otro nodo que sea poseído por P.
+
+Supongamos que hacemos un pequeño cambio a la estructura de la lista lineal de tal manera que el campo next en el último nodo contiene un puntero que va al primer nodo en lugar de apuntar a null.

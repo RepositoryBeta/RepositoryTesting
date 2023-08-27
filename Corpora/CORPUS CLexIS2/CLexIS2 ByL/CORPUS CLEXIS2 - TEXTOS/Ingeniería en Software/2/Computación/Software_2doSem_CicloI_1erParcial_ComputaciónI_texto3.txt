@@ -1,0 +1,5 @@
+﻿texto 3
+
+Los objetivos de la asignatura
+
+Aplicar herramientas que permiten relacionar la tecnología con las instancias del proceso de aprendizaje, fomentadas en una base investigativa con énfasis en el procesamiento de textos y presentación dinámica de la información, mediante prácticas efectivas para representar la información en diversos medios tecnológicos.

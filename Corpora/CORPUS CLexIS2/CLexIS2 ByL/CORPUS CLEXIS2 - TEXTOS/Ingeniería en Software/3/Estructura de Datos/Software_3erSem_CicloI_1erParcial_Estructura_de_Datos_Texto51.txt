@@ -1,0 +1,7 @@
+texto 51
+
+ALGORITMO DE PILAS
+
+Hasta ahora para el movimiento de la pila solamente se han visto las operaciones PUSH y POP, pero se ha tomado en cuenta la forma de representar una pila correctamente, como son contadores para el valor de stacktop o bien se han visto pilas de tamaño indefinido.
+
+ La pila se ha visto como arreglo, pero desafortunadamente son diferentes, pues el número de elementos en un arreglo es fijo y en una pila es dinámico cuyo tamaño va cambiando a medida que los elementos son insertados y removidos.

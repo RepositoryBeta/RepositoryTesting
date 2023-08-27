@@ -1,0 +1,4 @@
+texto 105
+
+Pues bien, el proceso de fabricación de un procesador define el tamaño del transistor, y determina la cantidad que podemos embutir en un chip. A menor proceso de fabricación menor tamaño y mayor cantidad de transistores en un mismo chip. Un menor proceso de fabricación es mucho más costoso y mucho más avanzado. Esto nos permite entender de forma sencilla porque importa tanto el proceso de fabricación cuando hablamos de procesadores.
+

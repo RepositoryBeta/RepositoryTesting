@@ -1,0 +1,2 @@
+TEXTO 4 
+Organización y Arquitectura: las cuatro secciones están constituidas por la unidad aritmética lógica, la unidad de control, la memoria (que es una secuencia de celdas de almacenamiento con números en la  cuál cada una es una unidad de información conocida como bit) y los dispositivos de entrada y salida. Existe la unidad central de proceso, junto con unidades que la conforman, además hay un gran sistema de buses dónde va interconectadas todas las áreas.

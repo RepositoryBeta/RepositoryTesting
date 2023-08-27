@@ -1,0 +1,7 @@
+texto 92
+
+Dirección:  dirección del emisor y destinatario deben ser indicada.
+
+Código de detección de errores: Se suele incluir algún tipo de secuencia de comprobación de la trama para detectar la ocurrencia de errores.
+
+Control de protocolo:  incluye información adicional para implementar las funciones de los protocolos enumerados en lo que resta de esta sección.

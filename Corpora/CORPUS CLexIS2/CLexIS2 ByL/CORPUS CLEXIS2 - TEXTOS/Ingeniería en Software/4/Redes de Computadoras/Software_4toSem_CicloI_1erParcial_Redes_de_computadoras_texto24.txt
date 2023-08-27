@@ -1,0 +1,3 @@
+texto 24
+
+Entonces imagínense de qué eso es una red o son varias redes, cada uno de esas persona es una red y el mensaje tiene que ir saltando de red en red, imagínense que cada vez que salta de red en red varíe el mensaje, al final el mensaje llega una cosa distinta al origen eso no puede pasar en una comunicación digital en una comunicación de redes, por eso es que dice claramente, una comunicación es exitosa cuando el mensaje llega al receptor tal cual como fue enviado por el emisor.

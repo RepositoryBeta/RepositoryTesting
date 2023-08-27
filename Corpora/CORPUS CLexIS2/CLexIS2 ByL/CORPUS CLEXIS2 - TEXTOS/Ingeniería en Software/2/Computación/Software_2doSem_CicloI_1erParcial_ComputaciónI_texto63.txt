@@ -1,0 +1,9 @@
+﻿texto 63
+
+Puerto paralelo
+
+El puerto paralelo integrado usa un conector tipo D miniatura de 25 patas en el panel posterior del sistema, este puerto de entrada y salida envía datos, el puerto paralelo se utiliza principalmente para impresora.
+
+Puerto serial
+
+Los puertos serie integral usan conectores tipo D miniaturas de 9 patas en el panel posterior, estos puertos son compatibles con dispositivos que requieran transmisión de datos en serie.

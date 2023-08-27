@@ -1,0 +1,4 @@
+texto 35
+
+Porque la base datos maneja el control de concurrencia, que es poder permitir a muchas personas que accedan a la base de datos de manera simultánea, al mismo tiempo, a poder actualizar un objeto único, que tiene el dbms que se llama la técnica de bloqueo blog.
+Hallar el objeto hasta que el usuario que está siendo atendido lo deje de utilizar y ahí inmediatamente lo pone disponible para el siguiente usuario, arma una cola de usuarios, una cola de usuario para poder atender a todos los usuarios que en algún mismo instante de tiempo quieren actualizar un objeto de la base, a eso se llama concurrencia múltiples. 

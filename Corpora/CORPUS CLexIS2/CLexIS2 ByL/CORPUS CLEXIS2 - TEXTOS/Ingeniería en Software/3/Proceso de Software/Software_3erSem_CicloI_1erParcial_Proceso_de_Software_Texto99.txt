@@ -1,0 +1,9 @@
+﻿texto 99
+
+PostArquitectura
+
+Este es el modelo COCOMO 2 más detallado. Puede ser utilizado después de haber desarrollado la arquitectura global del proyecto. Utiliza nuevos parámetros de costo, nuevas reglas de conteo de líneas y nuevas ecuaciones. 
+
+Este modelo corresponde al esfuerzo de desarrollo estimado una vez que se ha fijado la arquitectura del sistema. Este modelo base puede ajustarse para:
+
+Estimaciones más tempranas, correspondiente al modelo de diseño temprano(PreArquitectura).

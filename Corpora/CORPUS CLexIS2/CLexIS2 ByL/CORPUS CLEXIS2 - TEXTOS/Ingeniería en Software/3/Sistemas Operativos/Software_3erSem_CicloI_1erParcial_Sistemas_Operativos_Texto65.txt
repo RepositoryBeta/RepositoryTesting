@@ -1,0 +1,7 @@
+texto 65
+
+Cuando el cliente libera a mutex, el barbero lo retiene, ordena algunas cosas e inicia el corte de pelo. 
+
+Al terminar el corte, el cliente sale del procedimiento y deja la peluquería. 
+
+Nótese que no existe un ciclo para el cliente, puesto que el corte de pelo es una actividad que el cliente recibe automáticamente, más no ejecuta tal actividad.

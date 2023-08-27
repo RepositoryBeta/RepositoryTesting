@@ -1,0 +1,3 @@
+﻿texto 10 
+
+{d^2y/dx^2} cos x + cos y = 0 Es de orden 2, porque la mayor derivada es de d^2y utiliza la D como derivada, tiene segunda derivada verdad, y como ven no hay más derivadas, entonces el orden es 2 el primer ejemplo la primera derivada del orden es uno, en el segundo ejemplo aquí la máxima derivada es de 3, y en el tercer ejemplo tiene derivada en el orden de la segunda derivada y por ende su orden es 2, estos conceptos deben tener bien presentes. Usted se da cuenta que una diferencial ordinaria de una ecuación diferencial ordinaria porque tiene una sola variable independiente una sola.

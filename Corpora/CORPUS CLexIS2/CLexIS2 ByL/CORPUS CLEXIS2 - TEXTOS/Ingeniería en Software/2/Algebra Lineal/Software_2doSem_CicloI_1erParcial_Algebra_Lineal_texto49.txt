@@ -1,0 +1,3 @@
+﻿texto 49
+
+Recuerde que la matriz inversa la vamos a dar con el signo de elevado a la menos 1 va a ser igual a 1 dividido para determinante de A por la traspuesta de la matriz adjunta habiamos visto como podíamos calcular el determinante podríamos calcularlo a través de por el método de cofactores o también podíamos a calcularlo por el metodo de sarrus y éste sea de 3 por 3 en este caso también comentábamos que es preferible entonces utilizar el método de cofactores para evitar problemas no.

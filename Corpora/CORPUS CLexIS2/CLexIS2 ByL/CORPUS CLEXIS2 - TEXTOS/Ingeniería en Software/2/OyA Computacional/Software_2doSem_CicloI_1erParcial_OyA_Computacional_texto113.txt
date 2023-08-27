@@ -1,0 +1,5 @@
+texto 113
+
+Introducción Organización y Arquitectura y componentes del computador.
+Podemos hablar que cuando mencionamos organización y arquitectura, es importante conocer o saber que vamos a tratar sobre arquitectura de computadores, arquitectura internas, de la computadora de los periféricos y dispositivos externos, que va a hacer importante identificar los componentes del Hardware, conocer esos dispositivos y tener bien claro los métodos y tecnologías de conexión.
+

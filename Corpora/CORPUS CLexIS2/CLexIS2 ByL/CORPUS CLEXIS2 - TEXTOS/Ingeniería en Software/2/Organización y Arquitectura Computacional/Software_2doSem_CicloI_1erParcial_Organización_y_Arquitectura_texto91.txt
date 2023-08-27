@@ -1,0 +1,2 @@
+TEXTO 91
+Organización del procesador: La CPU es la unidad central del procesamiento qué se encarga de procesar todas las instrucciones del Hardware y Software, por lo que es la parte más importante del ordenador. Por ejemplo: En ocasiones al momento de querer hacer alguna instalación, el ordenador da mensaje como que te falta memoria. Esto se produce debido a la comunicación que tiene el procesador con sus diversas áreas, para brindar una información mediante los dispositivos de salida.

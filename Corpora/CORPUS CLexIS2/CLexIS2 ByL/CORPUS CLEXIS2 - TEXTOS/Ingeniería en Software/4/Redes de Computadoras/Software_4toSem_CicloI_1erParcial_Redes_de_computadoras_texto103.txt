@@ -1,0 +1,5 @@
+ texto 103
+
+El protocolo de transferencia de archivos FTP  enviar archivos de un sistema a otro bajo el control del usuario,  que permite transmitir archivos tanto de texto como de binario.
+
+ TELNET  facilita la realización de conexiones remotas Mediante los cuales el usuario en un terminarlo computador personal se conecta a un computador remoto y trabaja como si estuviera conectado directamente a ese computador.

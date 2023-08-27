@@ -1,0 +1,2 @@
+TEXTO 53
+Clasificación y organización de requerimientos: esta actividad toma la compilación no estructurada de requerimientos, agrupa requerimientos relacionados y los organicen grupos coherentes. La forma más común de agrupar requerimientos de usar un modelo de arquitectura del sistema, para identificar subsistemas y asociar los requerimientos con cada subsistema. En la práctica, la ingeniería de requerimientos y el diseño arquitectónico no son actividades separadas completamente.

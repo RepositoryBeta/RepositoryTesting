@@ -1,0 +1,5 @@
+﻿texto 54
+
+Percentiles 
+los percentiles son valores de la variable que dividen la distribución en 100 partes iguales. 
+De este modo si el percentil 80 (P80) es igual a 35 años de edad, significa que el 80% de los casos tiene edad igual o inferior a 35 años, su procedimiento de cálculo es relativamente simple en datos agrupados sin intervalos, el percentil 80, en los datos de la tabla, será el valor de la variable cuyo Ni sea inmediatamente superior a 33,6 ((80 x 42)  / 100).

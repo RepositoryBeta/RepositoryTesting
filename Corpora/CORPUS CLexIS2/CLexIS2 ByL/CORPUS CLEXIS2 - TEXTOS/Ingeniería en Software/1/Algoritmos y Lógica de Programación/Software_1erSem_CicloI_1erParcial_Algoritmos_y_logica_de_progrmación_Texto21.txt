@@ -1,0 +1,3 @@
+﻿texto 21
+
+Escribir fórmulas, diseñar la secuencia de uso del programa, definir los distintos escenarios que se pueden presentar al resolver el problema, etc, hay una serie de pasos ordenados que debemos hacer para poder llegar a una buena solución, es simplemente una secuencia de pasos que te dice que considera necesario para poder llegar a la solución del problema, bien entonces allí ya tenemos una idea mucho más amplia porque ya empezamos a usar un poco la programación para ver cómo le damos una solución a este problema no.

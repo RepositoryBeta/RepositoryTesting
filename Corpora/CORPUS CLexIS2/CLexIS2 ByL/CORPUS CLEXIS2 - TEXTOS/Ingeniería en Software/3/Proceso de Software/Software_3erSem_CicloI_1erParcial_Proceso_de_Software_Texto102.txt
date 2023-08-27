@@ -1,0 +1,7 @@
+﻿texto 102
+
+Preparación individual: Consiste en que cada participante desarrolla independientemente una lista inicial de tareas que deberán ser completadas para alcanzar la meta del proyecto, donde cada participante estima el esfuerzo que cada tarea consumirá. 
+
+Ciclo de vida
+
+Reunión de estimación: El objetivo en este paso es establecer una lista con todas las estimaciones individuales para debatirlas en anonimato, evitando las posibles intimidaciones entre los participantes, todo esto, con el fin de debatirlas diferentes estimaciones con el propósito de que cada integrante pueda modificar, añadir, eliminar sus estimaciones renovando la lista obtenida anteriormente.

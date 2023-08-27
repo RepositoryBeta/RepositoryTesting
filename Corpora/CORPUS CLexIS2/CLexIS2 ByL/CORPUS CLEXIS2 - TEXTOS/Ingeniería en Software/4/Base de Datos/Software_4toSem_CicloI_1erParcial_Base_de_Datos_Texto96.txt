@@ -1,0 +1,4 @@
+Texto 96
+
+Como cantidad de empleados que están trabajando en esa tarea, en ese trabajo, el tiempo de duración de ese trabajo, en esta relación del uso de la máquina en estos trabajos me dicen que yo quiero contemplar el número de horas, ósea este número de horas de utilizar, no es un atributo ni de máquina, ni de trabajo, sin embargo, yo lo pudiera poner aquí como atributo dentro de la interrelación y relación a utilizar, poner también la fecha en que utilizó esa máquina, esta máquina no es parte del trabajo, pero bien pudiera ser parte de la relación e interrelaciones, pudieran también tener ciertos atributos en particular normalmente cuando yo tengo una interrelación entre entidades.
+

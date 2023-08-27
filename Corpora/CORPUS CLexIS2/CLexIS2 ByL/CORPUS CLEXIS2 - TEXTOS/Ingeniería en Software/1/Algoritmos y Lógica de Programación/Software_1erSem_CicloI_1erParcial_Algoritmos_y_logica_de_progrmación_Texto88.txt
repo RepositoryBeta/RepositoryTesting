@@ -1,0 +1,3 @@
+texto 88
+
+De los operadores aritméticos que son suma, resta, multiplicación y división,  pero ahora tiene que ir al siguiente y tener dos para que él pueda avanzar, yo necesito entonces hacer lo que el incremento, decir que I va a ser igual a I  más uno, I tiene ahora dos,  y se ha hecho el siguiente ahora tiene dos, pero I lo obliga a regresar mientras para evaluar la condición dos es menor o igual que 100? si la condición es verdadera  escriba y que tiene dos, luego I se hace el siguiente, ahora I tiene lo que I tiene, es decir I tiene lo que tiene en ese momento más uno, entonces I tiene 3 y ese valor entonces se lo asigna ahí mismo a el fin.

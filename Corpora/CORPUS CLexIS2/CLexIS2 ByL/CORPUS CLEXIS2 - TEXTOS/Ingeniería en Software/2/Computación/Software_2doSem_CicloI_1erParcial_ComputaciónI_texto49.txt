@@ -1,0 +1,4 @@
+﻿texto 49
+
+¿Porqué se dice esto? 
+Porque el Hardware es el que yo puedo palpar, yo puedo palpar la cámara, yo puedo palpar el mouse, puedo palpar la impresora, palpar los parlantes, en cambio el software no se puede palpar, el word no se puede tocar el archivo de Excel, no puede palpar el antivirus, entonces todo ello involucra el lado del software.

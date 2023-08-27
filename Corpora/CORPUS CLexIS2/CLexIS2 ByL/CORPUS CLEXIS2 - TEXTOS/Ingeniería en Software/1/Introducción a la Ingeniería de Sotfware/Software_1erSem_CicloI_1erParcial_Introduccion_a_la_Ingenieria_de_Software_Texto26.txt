@@ -1,0 +1,8 @@
+texto 26 
+Definicion
+¿Qué debe hacer el sistema?
+Información que ha de manejar el sistema.
+Necesidades de rendimiento.
+Restricciones de diseño.
+Interfaces del sistema con los usuarios y con otros sistemas.
+Criterios de validación.

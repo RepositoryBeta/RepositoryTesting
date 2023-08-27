@@ -1,0 +1,7 @@
+texto 72
+
+ Fase de definición
+
+Se identifican los requisitos claves del sistema y del software.
+ Se desarrolla un análisis de sistema: se define el papel de cada elemento en el sistema automatizado de información, incluyendo el que jugará el software.
+ Un análisis de requisitos: se especifican todos los requisitos de usuarios que el sistema tiene que satisfacer, esta faceta orientada al que.

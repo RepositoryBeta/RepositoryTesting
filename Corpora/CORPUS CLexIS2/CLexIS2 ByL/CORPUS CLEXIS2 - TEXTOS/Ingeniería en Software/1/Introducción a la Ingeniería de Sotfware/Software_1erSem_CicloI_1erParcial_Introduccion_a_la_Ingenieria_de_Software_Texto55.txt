@@ -1,0 +1,5 @@
+texto 55 
+
+Se puede definir ciclo de vida del Software como:
+
+Las distintas fases por las que pasa el software desde que nace una necesidad de mecanizar un proceso hasta que llega desde les hace el Software que sirvió para ese objetivo, pasando por la fase de desarrollo y explotación.

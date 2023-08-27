@@ -1,0 +1,5 @@
+﻿texto 44
+
+¿Qué es programación lineal?.
+La investigación de operaciones en resumen son el uso de modelo de estadística de simulaciones, modelos de modelaje, modelos matemáticos que nos permiten tomar decisiones para resolver un problema determinado, ahora la programación de lineal es una de esas técnicas que utiliza la investigación de operaciones.
+Pues aquí nos dice que corresponde a una tecnica a traves de la cual se resuelve situaciones reales en las que se pretende identificar y resolver dificultades para aumentar la productividad respecto a los recursos (principalmente los limitados y costosos),aumentando asi los beneficios.

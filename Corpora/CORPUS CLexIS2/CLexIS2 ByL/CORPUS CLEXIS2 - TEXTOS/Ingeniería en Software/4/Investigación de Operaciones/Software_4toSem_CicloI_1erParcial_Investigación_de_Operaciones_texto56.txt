@@ -1,0 +1,9 @@
+texto 56
+
+-  Las restricciones que gobiernan el proceso pueden ser expresadas como ecuaciones lineales y/o desigualdades lineales escritas en terminos de las variables de decision.
+
+Generalidades de la Programacion Lineal
+
+1er paso para determinar el modelo es: definicion de las alternativas variables de decision del problema.
+
+2do paso: se usan las variables de decision parqa construir la funcion y las restricciones del modelo.

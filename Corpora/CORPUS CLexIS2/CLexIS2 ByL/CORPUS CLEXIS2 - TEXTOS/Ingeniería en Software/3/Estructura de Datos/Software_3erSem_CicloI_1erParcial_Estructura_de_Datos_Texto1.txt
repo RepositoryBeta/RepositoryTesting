@@ -1,0 +1,7 @@
+﻿texto 1 
+
+Memoria dinámica lineal: 
+formada por una secuencia de elementos.
+no se necesita predefinir el tamaño de los datos.
+crece a demanda de acuerdo a la inserción de elementos.
+libera espacio de memoria cuando se eliminan elementos.

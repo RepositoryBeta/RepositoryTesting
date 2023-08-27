@@ -1,0 +1,6 @@
+﻿texto 41
+
+Es el cerebro del sistema, encargado de procesar todos los datos e informaciones. 
+Para su funcionamiento requiere de algunos componentes más como:  memorias, unidades de disco, dispositivo de entrada, salida y los programas.
+
+El procesador o núcleo central está formado por millones de transistores y componentes electrónicos de un tamaño microscópico.

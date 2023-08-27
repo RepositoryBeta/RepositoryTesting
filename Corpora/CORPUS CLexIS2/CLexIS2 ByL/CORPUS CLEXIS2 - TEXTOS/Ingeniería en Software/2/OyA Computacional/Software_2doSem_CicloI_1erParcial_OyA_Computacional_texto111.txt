@@ -1,0 +1,4 @@
+texto 111
+
+Esa numeración señala la cercanía de la misma el procesador y el tamaño de cada una, siendo la primera la más cercana pero también la más pequeña y la tercera la más lejana pero la más grande. En esta memoria se almacenan los datos fundamentales para que estén lo más cerca posible del procesador, de manera que éste no tenga que recurrir a otros medios como la ram o la unidad de almacenamiento para llevar a cabo tareas concretas.
+

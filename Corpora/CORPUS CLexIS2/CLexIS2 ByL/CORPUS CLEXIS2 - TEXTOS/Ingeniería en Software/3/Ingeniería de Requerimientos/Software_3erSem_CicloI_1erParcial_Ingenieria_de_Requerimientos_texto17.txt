@@ -1,0 +1,2 @@
+TEXTO 17
+En las actividades También tenemos la especificación de requerimientos Qué es donde se produce un documento precisando los requerimientos. Tenemos también la validación de requerimientos Se revisa la consistencia y la integridad del documento de requerimientos. obviamente la validación significa revisar que el software puede realmente funcionar y que si hay algún cambio, el cambio realmente se lo pueda hacer. Mantenimiento de requerimientos, mejora continua, cambios en las necesidades y contextos.

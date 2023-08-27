@@ -1,0 +1,7 @@
+﻿texto 91
+
+Modelo Avanzado COCOMO.
+
+Es un modelo que incorpora todas las características de la versión intermedia y lleva a cabo una evaluación del impacto de los conductores de coste en cada fase (análisis, diseño, etc.) del proceso de ingeniería de software. 
+
+La estimación es más precisa a medida que se toman en cuenta mayor cantidad de factores que influyen en el desarrollo de un producto de software.﻿

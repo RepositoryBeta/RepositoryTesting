@@ -1,0 +1,4 @@
+texto 8
+
+Eso es muy importante, ¿Quién se encarga de distinguir entre bus de direcciones y bus de datos?, el bus de control, que es el árbitro del proceso. Entonces, veamos, el bus de control gobierna el uso y acceso a las líneas de datos y direcciones. Como éstas líneas están compartidas por todos los componentes, tiene que proveerse de determinados mecanismo que controlen su utilización. Las señales de control transmiten tanto órdenes como información de temporización entre los modos.
+

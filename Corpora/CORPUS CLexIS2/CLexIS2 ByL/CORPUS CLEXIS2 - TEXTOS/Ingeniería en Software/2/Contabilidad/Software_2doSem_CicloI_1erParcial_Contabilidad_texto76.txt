@@ -1,0 +1,13 @@
+﻿texto 76
+
+NIC 11 Contratos de construcción (será sustituida por el niif 15).
+
+NIC 12 Impuesto a las ganancias.
+
+NIC 16 Propiedades, planta y equipo.
+
+NIC 17 Arrendamientos.
+
+NIC 18 Ingresos de actividades ordinarias (será sustituido por niif 15).
+
+NIC 19 Beneficios a los empleados.

@@ -1,0 +1,15 @@
+﻿texto 58
+
+Actividades y metas Analista 
+
+Entrevistar al cliente, ayudándole a identificar sus necesidades. 
+
+Verificar si los requisitos especificados son los correctos. 
+
+Definir una estructura básica del sistema que incluya fuentes de información, módulos de procesamiento de información, y resultados esperados. 
+
+Realizar el análisis de los requisitos. 
+
+Analizar la estructura básica del sistema. 
+
+Generar los diagramas de la arquitectura.

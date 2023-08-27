@@ -1,0 +1,2 @@
+texto 58
+Entonces tenemos ahora, dice: representación de la información en datos simples y estructuras de control,  los temas que tenemos para estos son tipos de datos y definición y ámbito de las variables, dentro de los tipos de datos nosotros ya hemos venido manejando este tipo de dato entero, en alguna ocasión ya salió un dato de tipo real y tenemos también datos, en los libros siempre lo llaman bueno los informáticos le llamamos tipo carácter y cadenas, pero los libros siempre lo llaman carácter.

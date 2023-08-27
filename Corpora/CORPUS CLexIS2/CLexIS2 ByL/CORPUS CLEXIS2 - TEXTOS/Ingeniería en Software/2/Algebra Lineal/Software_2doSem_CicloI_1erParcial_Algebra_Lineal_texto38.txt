@@ -1,0 +1,9 @@
+﻿texto 38
+
+Dado que un espacio vectorial puede tener más de una base, es necesario demostrar que esta definición tiene sentido.
+
+SUBESPACIOSVECTORIALES
+
+Un subespacio vectoriales el subconjunto de un espacio vectorial,que debe cumplir varias características.
+
+Sean (V, +, K, *) un espacio vectorial y S un subconjunto de V.

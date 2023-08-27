@@ -1,0 +1,9 @@
+texto 2
+
+Ser la plataforma para los programas de aplicacion del usuario
+
+El objetivo mas importante de las computadoras es servir de herrramientas el ser humano para procesar datos en forma liviana, rapida, segura y eficiente.
+
+Sistema Operativo como controlador de recursos
+
+Desde el punto de vista de controlador de recursos el sistema operativo proporciona a los usuarios una interfaz conveniente de arriba hacia abajo (top down), ya que su labor es la de proporciona una asignacion ordenada y controlada de los procesadores, memoria, dispositivos de Input Output ejemplo: 3 procesos llegan a la misma impresora.

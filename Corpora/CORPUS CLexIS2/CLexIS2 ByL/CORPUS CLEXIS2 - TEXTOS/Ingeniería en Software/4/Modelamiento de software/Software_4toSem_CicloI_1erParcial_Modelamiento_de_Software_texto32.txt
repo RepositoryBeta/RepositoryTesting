@@ -1,0 +1,3 @@
+﻿texto 32
+
+Pero es algo como que ya para que, se te dañó el disco duro, vótalo y cómprate otro nuevo, pero alguien me puede decir si los de estados sólido cuestan $30 y la reparación del disco te puede costar $200, entonces a eso les llega un momento en que la abstracción nos obliga a no entrar en el detalle y poder dar una solución y manipular estos Simplemente porque yo sé cómo funciona en mi mundo abstracto y listo asimismo funciona la abstracción acá donde ustedes vayan a modelar un sistema.

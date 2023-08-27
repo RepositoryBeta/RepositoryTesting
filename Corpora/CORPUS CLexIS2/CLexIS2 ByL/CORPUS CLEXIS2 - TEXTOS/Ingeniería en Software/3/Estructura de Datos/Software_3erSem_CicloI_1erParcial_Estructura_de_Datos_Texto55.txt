@@ -1,0 +1,3 @@
+texto 55
+
+El orden de precedencia o jerarquía de los operadores son: primero el exponente, posteriormente multiplicación y división y por último la suma y la resta, Cuando dos operadores tienen la misma precedencia, se sigue el orden de izquierda a derecha, a excepción de el exponenciación donde se asume un orden de derecha a izquierda.

@@ -1,0 +1,2 @@
+TEXTO 37
+Unidad central de proceso: Los buses no sólo transportan datos sino también direcciones de memoria, particularmente los buses son el canal que comunican a todas las áreas correspondientes del computador hacia el procesador, los datos ingresados mediante los dispositivos de entrada como: el teclado, el ratón, el lápiz óptico, etc. Y mediante los dispositivos de salida como: el monitor y como la impresora, podemos obtener los resultados de esos datos ya procesados.

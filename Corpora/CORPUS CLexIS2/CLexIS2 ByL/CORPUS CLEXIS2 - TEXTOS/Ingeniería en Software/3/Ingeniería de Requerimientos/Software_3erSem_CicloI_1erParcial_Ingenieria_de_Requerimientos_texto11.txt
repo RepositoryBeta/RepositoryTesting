@@ -1,0 +1,2 @@
+TEXTO 11
+¿Qué es Ingeniería de Requerimientos? La IR es: Actividad relacionada con el descubrimiento, documentación, y mantenimiento de un conjunto de requerimientos para un sistema intensivo en software. El termino Ingeniería implica que se utilizaran técnicas repetibles y sistemáticas para asegurar que los requerimientos del sistema son completos, consistentes y relevantes. IR consiste en identificar el propósito del sistema de Software así como el contexto en el que será utilizado. 

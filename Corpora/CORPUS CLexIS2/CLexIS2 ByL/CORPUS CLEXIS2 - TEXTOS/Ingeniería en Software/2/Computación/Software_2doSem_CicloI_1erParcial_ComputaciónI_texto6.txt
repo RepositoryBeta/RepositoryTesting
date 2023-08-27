@@ -1,0 +1,5 @@
+﻿texto 6
+
+Introducción a las tics.
+
+Tenemos algunos temas que vamos a ver: Arquitectura de un PC, descripción de los componentes, tipos de ordenadores, conexión de periféricos, el sistema operativo, entorno, manejo de carpetas, aplicaciones informáticas, interacción con creación y programas de conferencia en línea: webinars y prácticas esto es un poco de lo que va con las actividades que vamos a mandar.

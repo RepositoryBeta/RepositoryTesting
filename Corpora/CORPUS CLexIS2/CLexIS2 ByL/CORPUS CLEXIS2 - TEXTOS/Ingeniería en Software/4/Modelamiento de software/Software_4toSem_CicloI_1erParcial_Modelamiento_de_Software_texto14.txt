@@ -1,0 +1,3 @@
+﻿texto 14
+
+Entonces el primer reto que tenemos a diferencia de ese sujeto que está ahí pensando cómo dibujar la Torre Eiffel que existe, nosotros vamos a modelar cosas que no existen vamos a hacer cosas abstractas primero, segundo muchas de estas ideas no son los mismos en una versión dificilísima del modelamiento de los objetos, no existen las formas de modelado cambian los lenguajes cambia la tecnología cambia mucho, imagínense usted tenga que modelar la matriculación de una universidad pero de una universidad hace 10 años que la de ahora.

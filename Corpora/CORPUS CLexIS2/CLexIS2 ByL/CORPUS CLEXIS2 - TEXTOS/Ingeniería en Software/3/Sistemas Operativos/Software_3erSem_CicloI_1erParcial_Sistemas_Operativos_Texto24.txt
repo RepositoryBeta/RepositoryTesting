@@ -1,0 +1,7 @@
+﻿texto 24
+
+En esta arquitectura, se manifiesta con mayor peso la necesidad de establecer llamadas al sistema robustas, para la comunicación entre procesos. 
+
+Se escoge el modelo cliente servidor para esta comunicación, porque se establece que cada proceso (independiente o no) actúa como servidor del resto. 
+
+En esta arquitectura, el objetivo fundamental del núcleo es garantizar la comunicación entre procesos. 

@@ -1,0 +1,4 @@
+texto 11
+
+El bus de direcciones consiste en el conjunto de líneas eléctricas necesarias para establecer una dirección .La capacidad de la memoria que se puede direccionar depende de la cantidad de bits que conforman el bus de direcciones, siendo 2 a la (n) el tamaño máximo en bits del banco de memoria que se podrá direccionar con n líneas. Hace un momento atrás estábamos viendo esta imagen de un bus ide, este bus ide tiene 8 líneas de cobre y permite transmitir 8 bits.
+

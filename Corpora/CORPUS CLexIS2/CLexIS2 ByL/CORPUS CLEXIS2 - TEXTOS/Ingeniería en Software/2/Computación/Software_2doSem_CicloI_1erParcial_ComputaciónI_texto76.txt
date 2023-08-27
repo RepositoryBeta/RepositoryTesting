@@ -1,0 +1,7 @@
+﻿texto 76
+
+Aplicaciones informáticas
+
+Es una herramienta fundamental para que el usuario puede realizar uno o más tipos de trabajo, marca una diferencia importante con respecto a los sistemas operativos que son los órganos que permiten el funcionamiento de las aplicaciones.
+
+Para que una aplicación pueda correr en un ordenador necesitará de un sistema operativo que le sirva de base para su implementación como ejemplo se menciona los procesadores de texto, las hojas de cálculo y la base de datos.

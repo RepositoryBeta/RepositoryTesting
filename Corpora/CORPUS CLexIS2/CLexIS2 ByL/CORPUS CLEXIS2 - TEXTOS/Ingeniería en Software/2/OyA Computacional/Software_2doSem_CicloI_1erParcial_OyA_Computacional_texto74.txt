@@ -1,0 +1,4 @@
+texto 74
+
+Entonces, acá vamos a ver la parte interna del cpu, tenemos un microprocesador, vamos a ver la alu, la unidad aritmética lógica, el FPU, la unidad auxiliar de punto flotante, que está ayudando al coprocesador matemático de la unidad aritmética lógica, aquí tenemos y está parte es importante, el l1 caché, es el primer nivel de la memoria, level 1 caché, donde el administrada datos, ojo, pensábamos que la memoria RAM era quién le tenía los datos al procesador, en teoría sí, pero luego de que la caché sea llenada.
+

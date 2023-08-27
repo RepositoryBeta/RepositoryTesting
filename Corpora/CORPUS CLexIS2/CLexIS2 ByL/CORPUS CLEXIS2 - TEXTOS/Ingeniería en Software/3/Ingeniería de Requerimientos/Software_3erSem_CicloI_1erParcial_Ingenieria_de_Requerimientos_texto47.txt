@@ -1,0 +1,8 @@
+TEXTO 47
+Estudio de viabilidad: Algunos ejemplos de preguntas posibles son: 
+1) ¿ Cómo se las arreglaría la organización sino simplemente este sistema?.
+2) ¿ Cuáles son los problemas con los procesos actuales y como ayudaría un sistema nuevo a aliviarlos?.
+3) ¿ Cuál es la contribución directa que hará el sistema los objetivos y requerimientos del negocio?.
+4) ¿La información  se puede obtener y transferir a otros sistemas de la organización?.
+5) ¿ Requiere el sistema tecnología que no se ha utilizado previamente en la organización?.
+6)¿ A qué debe ayudar el sistema y a qué no necesita ayuda?.

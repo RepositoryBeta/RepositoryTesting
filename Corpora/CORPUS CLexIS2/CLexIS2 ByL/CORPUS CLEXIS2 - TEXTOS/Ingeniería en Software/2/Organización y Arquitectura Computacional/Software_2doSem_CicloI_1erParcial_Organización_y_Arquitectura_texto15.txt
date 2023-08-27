@@ -1,0 +1,2 @@
+TEXTO 15
+Ranuras de expansión: Una ranura de expansión (también llamada slot de expansión) es un elemento de la placa base de un ordenador que permite conectar a esta una tarjeta adicional o de expansión la cual suele realizar funciones de control de dispositivos periféricos adicionales, tales como monitores, impresoras o unidades de disco duro. Esta ranuras son las que nos permiten conectar tarjeterías, si poseemos una ranura de video tenemos que buscar la ranura correspondiente para poderla interconectar.

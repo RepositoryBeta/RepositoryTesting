@@ -1,0 +1,4 @@
+﻿texto 55
+
+Correcto y eso es lo que nos dice parametros y estimadores nos dice que es una cantidad numerica calculada a partir de elementos de la población, por ejemplo la altura media de los individuos de un país correcto de un país, la idea es resumir toda la información que hay en la población en unos pocos números parámetros.
+Ahora un estimador estadístico También conocido, es una cantidad numérica calculada a partir los elementos de la muestra o de una muestra.

@@ -1,0 +1,3 @@
+﻿texto 85
+
+Al vuelo porque cuando usted crea el arreglo pero el arreglo te pregunta ¿de qué?, es un arreglo de enteros, es un arreglo de booleano, quieres un arreglo de personas quiero un arreglo de lo que quieras, Cuál es el tipo de dato de que va a ser este arreglo, ese es el de parametrizacion de mi clase abstracta, en cambio mis clases normales como persona y personas tiene nombre sin apellido usted no le va a decir quién es persona.

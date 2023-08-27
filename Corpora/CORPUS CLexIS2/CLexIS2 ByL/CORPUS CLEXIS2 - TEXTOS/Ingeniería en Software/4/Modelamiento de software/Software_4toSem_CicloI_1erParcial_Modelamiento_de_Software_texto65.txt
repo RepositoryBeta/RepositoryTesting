@@ -1,0 +1,3 @@
+﻿texto 65
+
+Hay otro tipos de modelado de más bajo del nivel, jerárquico, de red, relacional, etcétera no lo vamos a tomar mucha en cuenta y aquí se acaban introducción al modelado, vamos a ver unos conceptos de objeto atributos relaciones y cardinalidad, una de las cosas que se pueden hacer dentro de modelado es hacer un diagrama de clases y un diagrama de clases representar la relación de las clases de mi sistema ustedes ya pasaron por programación orientada objetos .

@@ -1,0 +1,2 @@
+TEXTO 43
+Unidad central de proceso: Organización básica de computadoras. Una particularidad de la unidad de control es que puedes traer funciones de la memoria principal y determinar su tipo, es decir, interpretar las órdenes que le damos al computador, que puede supervisarlo, que puede ejecutarlo y los registros que son memorias de alta velocidad que son para almacenar datos intermedios y cierta información de control.

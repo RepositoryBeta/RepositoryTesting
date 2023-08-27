@@ -1,0 +1,5 @@
+﻿texto 21
+
+Una posible estrategia de solución consiste en tomar y = U x y resolver para y: L y = b.
+
+Como la matriz L es triangular superior este sistema puede resolverse mediante sustitución hacia abajo, lo cual se hace fácilmente en m2 FLOPS. Una vez con los valores encontrados de y, la incógnita al sistema inicial se resuelve despejando x de U x = y.

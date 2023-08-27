@@ -1,0 +1,5 @@
+texto 55
+
+Tuberías (pipes) 
+
+Una tubería es un mecanismo de comunicación y sincronización. Desde el punto de vista de su utilización, es como un seudoarchivo mantenido por el sistema operativo. Conceptualmente, cada proceso ve la tubería como un conducto con dos extremos, uno de los cuales se utiliza para escribir o insertar datos y el otro para extraer o leer datos de la tubería. La escritura se realiza mediante el servicio que se utiliza para escribir datos en un archivo. De igual forma, la lectura se lleva a cabo mediante el servicio que se emplea para leer de un archivo.

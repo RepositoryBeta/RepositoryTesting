@@ -1,0 +1,7 @@
+texto 84
+
+Unidad de control. Pues, obviamente se encarga de controlar y administrar las operaciones de todas las partes del equipo, pero no realiza operaciones de proceso de datos. Es decir, no hace cálculos. En si, sus funciones son:
+1) Controlar la transferencia de datos y las instrucciones entre otras unidades.
+2) Accionar y coordinar todas las unidades de la computadora.
+3) Obtener las instrucciones de la memoria, interpretar y dirigir la operación de la computadora.
+

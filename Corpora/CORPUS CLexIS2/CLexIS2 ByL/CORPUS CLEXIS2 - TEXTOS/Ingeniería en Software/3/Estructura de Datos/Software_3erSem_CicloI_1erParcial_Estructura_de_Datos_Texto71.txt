@@ -1,0 +1,13 @@
+texto 71
+
+Recorrido INORDEN. Este recorrido se realiza así: primero recorre el subárbol izquierdo, segundo visita la raíz y, por último, va al subárbol derecho. En síntesis:
+
+ hijo izquierdo — raíz — hijo derecho.
+
+Recorrido PREORDEN. Este recorrido se realiza así: primero visita la raíz; segundo recorre el subárbol izquierdo y por último va a subárbol derecho. En síntesis:
+
+ raíz — hijo izquierdo — hijo derecho.
+
+Recorrido POSORDEN. Primero recorre el subárbol izquierdo; segundo, recorre el subárbol derecho y, por último, visita la raíz. En síntesis:
+
+ hijo izquierdo– hijo derecho — raíz.

@@ -1,0 +1,4 @@
+﻿texto 27
+
+Obviamente en esa distribución se requiere de un transporte, también vamos a verificar el método de optimización de transporte, a quiénes clientes, luego vamos a ver la teoria de colas a ver de qué manera es la forma donde nuestros clientes se van a sentir más satisfechos porque van a ser atendidos oportunamente.
+La IO dentro de las organizaciones determina las unidades a producir, a partir de una disponibilidad de tiempo y materia prima, determina el correcto sistema de distribucion de los productos desde las fabricas (origen) hacia las sucursales (destinos).

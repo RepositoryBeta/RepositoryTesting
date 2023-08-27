@@ -1,0 +1,3 @@
+﻿texto 7
+
+Vamos a utilizar la entrevista pero nosotros nos vamos a concentrar un poco más en lo que es la encuesta, a pesar de que vamos a ver algunas herramientas para poder medir los datos, ¿Qué es lo más importante? los datos, una encuesta normalmente está formada por preguntas verdad, en la cual en esas preguntas nosotros queremos determinar cierta información  de una persona o un grupo de personas.

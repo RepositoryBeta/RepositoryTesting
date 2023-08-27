@@ -1,0 +1,8 @@
+texto 94 
+
+ limitaciones DRA.
+
+ Las limitaciones de tiempo impuesto en un proyecto DRA  demandan ámbitos en escala.
+
+ si una aplicación de gestión puede modularse de forma que permita  completarse  cada una de las funciones principales en menos de 3 meses, es el candidato del DRA.
+ Cada una de las funciones puede ser afrontadas por un equipo DRA  diferente y ser integrada en un solo conjunto.

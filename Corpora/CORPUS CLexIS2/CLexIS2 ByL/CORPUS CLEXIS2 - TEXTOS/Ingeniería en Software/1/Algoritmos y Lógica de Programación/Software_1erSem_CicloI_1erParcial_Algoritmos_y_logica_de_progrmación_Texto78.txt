@@ -1,0 +1,2 @@
+texto 78
+vamos a plantearlo en PSINT, ¿Tengo variables?. ¿Tengo que ingresar algo? En ningún momento dice nada, dice obtener la tabla multiplicar, automático, tienes que hacerlo sólo, por lo tanto implica ciclos, pero no recuerdo cómo es la sintaxis del ciclo, entonces tengo que recurrir a mi ayuda, la ayuda es fabuloso, entonces yo voy y le digo que esto es estructura de control, por lo tanto yo tengo que definir como entero en todo caso siempre hay que hacer y llevar un orden.

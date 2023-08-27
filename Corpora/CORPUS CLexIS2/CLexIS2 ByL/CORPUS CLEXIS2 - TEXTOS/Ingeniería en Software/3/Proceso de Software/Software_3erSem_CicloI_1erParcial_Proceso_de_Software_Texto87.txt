@@ -1,0 +1,9 @@
+﻿texto 87
+
+¿Qué es el Punto de Función?
+
+Punto de Función (FP) es su unidad de medida. Por lo tanto, pretende representar una cantidad; en este caso, medición independiente de la tecnología utilizada para construir el software.
+
+¿Qué mide el Análisis de Puntos de Función?
+
+El APF mide lo que el software hace, independiente como fue construido. Por lo tanto, el proceso de medición o de conteo de puntos de función es basado en la evaluación de los requerimientos funcionales del usuario, como se describe en los artefactos de desarrollo. El procedimiento de la medición está escrito por el IFPUG en su Manual de Prácticas de Conteo (Counting Practices Manual).

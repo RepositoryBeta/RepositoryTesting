@@ -1,0 +1,2 @@
+texto 76
+Yo tengo que usar ciclo pero ojo,  puedo darme cuenta que cuando yo tengo un elemento con ese elemento yo tengo otro inicio y otro fin, qué es el 1, del 1 al 12, cuando cambio de elemento al dos yo voy de ese elemento, otra vez tengo inicio y tengo fin y además tengo un incremento de 1, cambio de elemento tengo un inicio y tengo fin, fíjate, entonces yo puedo identificar que tengo otro ciclo y eso es lo que se conoce como ciclo anidado, porque me da por cada elemento, tú entras a un ciclo interno a otro.

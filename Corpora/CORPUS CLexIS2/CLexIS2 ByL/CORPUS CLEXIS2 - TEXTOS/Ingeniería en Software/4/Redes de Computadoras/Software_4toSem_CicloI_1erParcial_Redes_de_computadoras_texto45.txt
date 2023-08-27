@@ -1,0 +1,4 @@
+texto 45
+
+
+entonces un medio de transmisión puede ser de tres tipos, según la manera cómo fluye la información puede ser simplex, half-dúplex y full-dúplex, la comunicación simplex la comunicacion simplex es unidireccional hay un emisor y un receptor no hay en sentido contrario, los ejemplos de simplex puede ser la radio, la televisión, las estaciones de televisión nos envían la señal de televisión y la recibimos de ellos hacia nosotros una sola dirección.

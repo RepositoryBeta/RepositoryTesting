@@ -1,0 +1,3 @@
+﻿texto 26
+
+Ajustes al código,  sino porque sabremos que tanta paciencia tenemos para soportar los cambios de último minuto,  los cambios de parecer en los requerimientos del usuario, los errores de uso, etcétera, miren lo que dice, cuando el programa es puesto a prueba es cuando empezamos nosotros a ver los errores y a decir, mira el cálculo no es correcto, aquí hay que ajustar este color no me gusta, cambiar el tamaño de letra que me parece muy grande, además yo necesito saber aquí mi lista de usuarios que han caído en mora, porque yo ya necesito empezar a pasar correo electrónico y hace las pruebas, en fin. 

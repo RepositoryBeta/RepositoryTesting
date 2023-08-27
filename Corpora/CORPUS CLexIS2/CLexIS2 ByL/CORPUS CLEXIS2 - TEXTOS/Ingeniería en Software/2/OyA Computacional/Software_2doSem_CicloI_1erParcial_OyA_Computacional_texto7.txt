@@ -1,0 +1,3 @@
+texto 7
+
+Entonces, por ejemplo tenemos un bus de control, un bus de direcciones y un bus de datos. Un bus de control que se encarga de enviar los bits o los conjuntos de bits, los bytes, o bien sea a las unidades de almacenamiento o bien sea a las unidades de procesamiento. El bus de direcciones es aquel que recibe los datos que van directo al procesador y los buses de datos son aquellos que reciben los datos que son para almacenamiento o para recuperación. Es decir, para lectura o escritura.

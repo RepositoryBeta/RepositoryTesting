@@ -1,0 +1,2 @@
+TEXTO 5
+Se pueden identificar dos tipos de sistemas intensivos en software. el primero es el sistema de información este sistema recolecta almacena transforma transmite y procesa datos o información. su principal objetivo es proveer a los usuarios de la información que requiere en el momento que lo requiere. este tipo de sistemas consiste principalmente en Software que se ejecuta en computadoras ordinarias. los sistemas información son normalmente los que están hechos sólo por software y realmente no utiliza ningún tipo de Hardware.

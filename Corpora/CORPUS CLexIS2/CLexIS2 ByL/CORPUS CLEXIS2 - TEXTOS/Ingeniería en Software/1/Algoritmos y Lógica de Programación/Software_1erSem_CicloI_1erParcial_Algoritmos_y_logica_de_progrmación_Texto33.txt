@@ -1,0 +1,3 @@
+texto 33
+¿Que es algoritmo?
+porque comprender el programa de quien no hacia la documentación, era un dolor de cabeza, ya ven que tan importante es  la documentación, debe de ser parte de nuestro trabajo de software, debe ser parte esencial porque así entonces eso le va a facilitar el trabajo a otro.

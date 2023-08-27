@@ -1,0 +1,3 @@
+﻿texto 4
+
+Diagrama de clase, importantísimo aunque sea en borrador y en servilleta, muy importante diagrama entidad relación y lo mismo entre más grandes el proyecto entre más grande es más importante el proyecto, más importante al hacer un buen diagrama de clases o un buen diagrama entidad relación porque seguramente ese proyecto de 40,000 dólares es un proyecto que va a soportar una cantidad de transacciones gigantes con la cantidad de datos demasiado grande.

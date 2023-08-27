@@ -1,0 +1,4 @@
+﻿texto 68
+Como es fácil de comprender, esta priorización hace que el diagrama de Pareto sea especialmente útil para representar variables cualitativas ordinales, superando al diagrama de barras al dar información sobre el porcentaje acumulado al ir agregando las categorías de la distribución de la variable.
+El cambio de pendiente de esta curva nos informa también del cambio en la concentración de datos, que depende de la variabilidad en que los sujetos de la muestra se reparten entre las distintas categorías.
+Por desgracia, R no dispone de una función simple para representar diagramas de Pareto.

@@ -1,0 +1,3 @@
+Texto 95
+
+Eso quiere decir, que el día de hoy no la están utilizando. Pero más adelante pudiera ser utilizada muchas veces, es por eso la cardinalidad mínima y máxima en esta parte de la relación y miren que hay algo importante que si les quiero resaltar que miren que las relaciones a veces también, yo debo poner o incorporar atributos propios de la relación que voy a estar utilizando esa máquina, en ese trabajo, porque por si, que máquina va a tener sus propios atributos, de la máquina como el nombre de la máquina, el tipo de máquina, lo que soporta, las dimensiones de la máquina, son atributos propios de la máquina y posiblemente que del trabajo tenga atributos propios del trabajo.

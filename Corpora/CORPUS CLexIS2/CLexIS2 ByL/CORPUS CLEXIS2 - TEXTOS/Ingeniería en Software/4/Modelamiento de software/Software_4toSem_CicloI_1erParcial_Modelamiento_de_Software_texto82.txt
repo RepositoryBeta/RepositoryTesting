@@ -1,0 +1,5 @@
+﻿texto 82
+
+Como yo sé que son los objetos y como yo sé que son las instancias porque tienen valores cuando a una clase se le asignan valores a mi clase persona y tengo un montón de código qué instancia con valores que le he pasado en ese constructores.
+¿Qué son las clases genéricas?
+son clases que tienen un nivel de abstracción adicional por ejemplo la clase persona es abstracta, si es abstracta porque digamos que tiene nombre y apellido esa es la persona.

@@ -1,0 +1,5 @@
+texto 53 
+
+Cuando un proceso implica la construcción de algún producto, suele referirse al proceso como un ciclo de vida.
+El proceso desarrollo de software  suele denominarse ciclo de vida del software, la evolución del Software representa el ciclo de actividades involucradas el desarrollo, uso y mantenimiento del sistema de software.
+Los proyectos de software se desarrollan en una serie de fases, van desde la concepción del software y su desarrollo inicial hasta su puesta en funcionamiento y posterior retirada por otra nueva generación de software.

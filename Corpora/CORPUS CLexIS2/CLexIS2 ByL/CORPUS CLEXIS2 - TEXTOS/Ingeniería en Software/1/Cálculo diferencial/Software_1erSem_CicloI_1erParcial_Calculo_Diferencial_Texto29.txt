@@ -1,0 +1,6 @@
+texto 29
+¿Qué son coeficientes constantes de una ecuación diferencial lineal homogénea?
+Son ecuaciones diferenciales ordinarias lineales homogéneas con coeficientes de las derivadas y de la variable dependiente son constantes.
+La forma de este tipo de ecuaciones es la siguiente:
+ay" + by' + cy = 0 
+donde a, b y c son constantes.

@@ -1,0 +1,2 @@
+TEXTO 18
+Pasar de binario a decimal: Para el primer paso numeramos los bits de derecha a izquierda comenzando desde el 0 (muy importante desde el 0 no desde el 1). El paso 2 ese número asignado a cada bit cifra binaria será el exponente que le corresponde. En el paso 3 cada número se multiplica por 2 elevado al exponente que le corresponde asignado anteriormente. Finalmente, se suman todos los productos y el resultado será el número equivalente en decimal.

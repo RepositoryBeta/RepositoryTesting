@@ -1,0 +1,7 @@
+﻿texto 101
+
+Ciclo de Vida
+
+Planificación: Es el primer paso del proceso Wideband delphi que comienza con la definición y alcance del problema a estimar. 
+
+Reunión inicial: Consiste en la comprensión sobre el problema de estimación, en donde el equipo revisa los objetivos estimados, discute el problema y algunos asuntos de la estimación llegando a un acuerdo sobre las unidades de estimación (semanas, horas laborales, dólares, líneas de código) que se usaran a lo largo del proceso.

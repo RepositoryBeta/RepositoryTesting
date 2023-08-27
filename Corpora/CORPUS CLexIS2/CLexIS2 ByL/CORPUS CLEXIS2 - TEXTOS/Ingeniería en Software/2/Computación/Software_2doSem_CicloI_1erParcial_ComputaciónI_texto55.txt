@@ -1,0 +1,7 @@
+﻿texto 55
+
+PDA
+
+Son ordenadores muy pequeños en los que se puede almacenar una gran cantidad de información a través del sistema de memoria Flash. 
+
+Interactúa directamente con la pantalla porque carece de teclado, aunque la mayoría son pequeñas hay algunas que cuentan con un tamaño parecido al de las portátiles, cada vez son menos utilizadas debido a la expansión de los tablets.

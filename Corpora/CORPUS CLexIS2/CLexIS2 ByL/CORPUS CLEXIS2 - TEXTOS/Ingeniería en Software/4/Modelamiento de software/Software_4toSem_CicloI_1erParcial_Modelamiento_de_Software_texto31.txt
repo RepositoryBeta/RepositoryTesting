@@ -1,0 +1,3 @@
+﻿texto 31
+
+Gracias a esa abstracción podemos reparar algo que no necesariamente conocemos al 100%, alguien ha abierto un disco duro o ha destapado, cuando uno los abre son una de las partes más delicadas de abrir porque inclusive se necesita estar en un ambiente libre de polvo porque una mota de polvo y chao, quienes abren discos duros son gente que trabaja por lo general en informática forense o alguien que quieren verdad recuperar algo que se le borró.

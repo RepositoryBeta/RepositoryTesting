@@ -1,0 +1,2 @@
+TEXTO 75
+Instrucciones de máquina: La colección de instrucciones de máquina que puede interpretar y ejecutar un procesador, es lo que se denomina su juego de instrucciones. Cada instrucción de máquina es expresada en el llamado lenguaje de máquina o código de máquina, y generalmente indicada por una sucesión de dígitos binarios o de dígitos hexadecimales. Él recibe una orden y esta orden no vienen dada en lenguaje natural.

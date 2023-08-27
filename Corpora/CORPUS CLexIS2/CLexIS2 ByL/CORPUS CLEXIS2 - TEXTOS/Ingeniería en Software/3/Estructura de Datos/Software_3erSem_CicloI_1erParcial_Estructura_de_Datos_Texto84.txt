@@ -1,0 +1,4 @@
+﻿texto 84
+Grafos isomorfos
+Isomorfismo significa (de igual forma). Dos grafos son isomorfos si existe correspondencia uno a uno entre los nodos de ambos grafos, y además conservan la adyacencia tanto entre los nodos como en la dirección de los lados.
+Dos grafos G1 y G2, son isomorfos si existe una correspondencia uno a uno entre los vértices de los grafos, tal que todo par de vértices que son adyacentes en un grafo si y sólo si el correspondiente par de vértices son adyacentes en el otro grafo.

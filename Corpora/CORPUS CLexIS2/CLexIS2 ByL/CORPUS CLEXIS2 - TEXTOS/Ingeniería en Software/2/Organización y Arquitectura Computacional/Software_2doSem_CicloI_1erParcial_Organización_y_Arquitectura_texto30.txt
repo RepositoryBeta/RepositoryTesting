@@ -1,0 +1,2 @@
+TEXTO 30
+Unidad central de proceso: programa informático mediante la realización de la presiones básicas aritméticas, aquí es donde se realizan las operaciones aritméticas lógicas, las entidades bancarias explotan esta área, porque aquí está el corazón de todas las operaciones. Si queremos presentar la suma de un número entonces tú ingresas tu requerimiento, la unidad central del proceso tiene una área que se llama unidad aritmética lógica y es ahí donde hace todos los cálculos y luego te dirige los resultados.

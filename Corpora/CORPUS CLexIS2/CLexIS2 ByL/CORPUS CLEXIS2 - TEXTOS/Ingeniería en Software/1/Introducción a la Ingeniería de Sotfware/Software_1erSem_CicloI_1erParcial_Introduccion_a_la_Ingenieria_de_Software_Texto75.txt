@@ -1,0 +1,8 @@
+texto 75 
+
+ Fase de mantenimiento
+
+ Mantenimiento correctivo: Corrección de errores.
+ Mantenimiento  adaptativo: Adaptaciones requerida por la evolución del entorno del software.
+ Mantenimiento perfectivo: Las modificaciones debido a los cambios de requisitos del usuario para mejorar el sistema.
+ Mantenimiento preventivo: mejor de las características internas del producto para ser más mantenible.

@@ -1,0 +1,4 @@
+﻿texto 56
+Centro.
+El punto crítico es un centro cuando los autovalores son imaginarios puros. Las trayectorias son curvas cerradas que rodean al origen, que en general tienen forma de elipses, de modo que ninguna trayectoria tiende a él cuando (t) -> +infinito ó (t) -> -infinito.
+Por ello, el punto crítico es estable, pero no asintóticamente estable. Ejecutar el ejemplo N° 3 de la galería de (Sistemas Autónomos).

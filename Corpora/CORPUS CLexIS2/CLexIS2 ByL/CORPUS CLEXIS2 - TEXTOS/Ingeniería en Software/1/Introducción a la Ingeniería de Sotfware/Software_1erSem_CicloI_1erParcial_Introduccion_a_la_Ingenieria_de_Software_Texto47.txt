@@ -1,0 +1,5 @@
+texto 47 
+
+Otro autor desconocido (s/a,  2008b) plantea que un sistema de información está compuesta por seis elementos claramente identificables, base de datos, transiciones, informes, procesos, usuarios.
+
+Bases de datos: de donde se almacena toda la información que se requiere para la toma de decisiones, información se organiza en registros específicos e identificables.

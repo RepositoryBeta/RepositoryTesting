@@ -1,0 +1,4 @@
+texto 34
+
+Por ejemplo ante un sólido, hablamos de un ssd m2, quizá las computadoras que le hagamos un sondeo, el 80% no tenga la ranura el puerto m2, entonces ahí lo que nos queda es poner los puertos con conector Sata y la m2 te da una mayor transferencia y esa así te da obviamente un menor tamaño y a la vez un menor consumo y te representa mejor arquitectura. Ósea si vas a hacer una computadora con características para gamer o para diseño o para videojuegos o para desarrollo, definitivamente que para la emulaciones, en los ambientes, en los entornos gráficos, si tendría que tener un ssd y de preferencia un m2 porque es mucho más eficiente y más óptimo.
+

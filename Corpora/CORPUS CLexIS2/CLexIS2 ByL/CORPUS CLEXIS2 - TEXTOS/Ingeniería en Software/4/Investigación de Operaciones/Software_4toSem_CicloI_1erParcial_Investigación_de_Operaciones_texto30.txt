@@ -1,0 +1,3 @@
+﻿texto 30
+
+Fíjense que vamos a determinar una solución, porque vamos a verificar varias alternativas de solución mediante metodos, mediante modelos matemáticos y vamos a verificar, cuál es la que resulta una restricción de recursos ilimitados o sea vamos a considerar que los recursos no son ilimitados que por más que yo tenga todos los millones de dólares que pueda tener un ser humano igual no puedo construir tantas computadoras si me dedico esta rama, tantas computadoras que voy a llenar el mundo de computadoras, porque también necesito bodegas donde almacenar esas computadoras.

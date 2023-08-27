@@ -1,0 +1,3 @@
+﻿texto 98
+
+Acá se hace una cuna pequeña comparación entre el método simplex y el simplex Dual el método simplex es un algoritmo iterativo que iniciando en una solución básica factible pero no óptima genera soluciones basicas factibles cada vez mejor hasta encontrar la solución óptima si está existe la base de su lógica es mantener la factibilidad mientras gusta la optimalidad el método simplex Dual es un método Igualmente iterativo que como contraparte del simplex comienza en una solución básica óptima pero no factible y mantiene la intermejorabilidad mientras Busca la factibilidad.

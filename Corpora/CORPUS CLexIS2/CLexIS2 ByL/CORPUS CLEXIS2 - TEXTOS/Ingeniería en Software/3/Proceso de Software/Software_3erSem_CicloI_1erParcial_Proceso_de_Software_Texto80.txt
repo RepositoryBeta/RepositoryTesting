@@ -1,0 +1,5 @@
+﻿texto 80
+
+Documentador 
+
+Durante el proceso de desarrollo de software, se genera una gran cantidad de documentación. Dicha documentación debe ser almacenada en el repositorio del proyecto. La documentación sirve, entre otras cosas, para conocer la historia del proyecto. Hay que destacar que los documentos no se escriben al final del proyecto, sino que se van generando junto con las diferentes fases del proyecto. A medida que el proyecto va avanzando, los documentos deben ir siendo modificados para mantener el estado de los documentos a la par con el estado de desarrollo del proyecto.

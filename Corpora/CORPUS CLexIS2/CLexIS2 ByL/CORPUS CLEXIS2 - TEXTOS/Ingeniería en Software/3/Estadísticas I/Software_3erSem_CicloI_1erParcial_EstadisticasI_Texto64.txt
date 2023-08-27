@@ -1,0 +1,3 @@
+﻿texto 64
+Por ejemplo, si hacemos un gráfico de sectores para una variable cualitativa ordinal estaremos perdiendo la información sobre la jerarquía de las variables, por lo que resultaría más correcto utilizar un gráfico que permita ordenar las categorías de menos a más. Y este gráfico no es otro que el diagrama de barras, del que hablaremos a continuación.
+El diagrama de sectores será especialmente útil cuando haya pocas categorías de la variable, si hay muchas, la interpretación deja de ser tan intuitiva, aunque siempre podemos completar el gráfico con una tabla de frecuencias que nos ayude a interpretar mejor los datos.

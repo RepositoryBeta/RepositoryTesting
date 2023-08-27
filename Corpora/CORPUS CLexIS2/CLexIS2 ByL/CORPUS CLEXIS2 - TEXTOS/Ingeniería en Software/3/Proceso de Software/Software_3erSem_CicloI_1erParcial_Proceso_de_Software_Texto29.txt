@@ -1,0 +1,7 @@
+﻿texto 29
+
+La concurrencia se logra de dos formas:
+
+- Las actividades de sistemas y de componentes ocurren simultáneamente y pueden modelarse con el enfoque orientado a objetos.
+
+- Una aplicación cliente/servidor típica se implementa con muchos componentes, cada uno de los cuales se pueden diseñar y realizar concurrentemente.

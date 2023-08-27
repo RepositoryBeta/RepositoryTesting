@@ -1,0 +1,4 @@
+texto 101
+
+Tipos abstractos de datos 
+Una vez que se ha elegido el algoritmo, la implementación puede hacerse usando las estructuras más simples, comunes en casi todos los lenguajes de programación: escalares, arreglos y matrices. Sin embargo, algunos problemas se pueden plantear en forma más simple o eficiente en términos de estructuras informáticas más complejas, como listas, pilas, colas, arboles, grafos, conjuntos.

@@ -1,0 +1,5 @@
+texto 53
+
+Y tú, si hay usuarios que lo están llamando por teléfono al administrador y si hay lentitud en el sistema, lentitud en la base de datos, empieza a realizar y si él detecta tal vez en este escenario, porque es un escenario que le estoy planteando, él detecta que hay un requerimiento de un usuario que está generando un lazo indefinido que no se termina, ¿qué es lo quese debe hacer?, en las palabras comunes se denomina matar a los procesos y el matar al proceso servidor y al proceso de usuario que está generando ese problema. 
+
+

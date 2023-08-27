@@ -1,0 +1,8 @@
+﻿texto 100
+
+Proceso contable
+
+Es el conjunto de actividades que permiten incorporar a la contabilidad y expresar a través de los estados financieros las operaciones económicas de una organización.
+
+Las operaciones económicas son hechos de carácter interno y externo, medibles en dinero que afectan o modifican la situación financiera y/o resultados financieros.
+

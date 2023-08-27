@@ -1,0 +1,4 @@
+texto 33
+
+¿Por qué el costo de 2 base datos? 
+Otra técnica espejo en línea y otra técnica son los archivos de log que ya alguno de ustedes pudieron revisar dentro de la arquitectura interna, es una arquitectura interna de oracle hay una parte que dice los archivos de los archivos de los registros que se crean cuando cada usuario hace una transacción en la batea, te hace una inserción, si hace una eliminación se hace una actualización, archivo de log entonces en el momento que falla la base de datos yo o el dba va hacia los archivos de log para ver las últimas transacciones que se hicieron y poder recuperar.

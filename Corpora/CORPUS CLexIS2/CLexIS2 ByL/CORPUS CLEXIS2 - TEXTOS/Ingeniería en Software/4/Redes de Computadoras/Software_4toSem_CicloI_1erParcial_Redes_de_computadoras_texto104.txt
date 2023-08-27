@@ -1,0 +1,7 @@
+texto 104
+
+Dirección Mac y dirección IP
+
+Podemos definir dirección IP como la dirección única de cada dispositivo en la red y está formada por los cuatro números separados por puntos,  cada una de las cuales pueden tomar valores entre 0 y 255,  ejemplos 192.168.0.1
+
+La dirección Mac o control de acceso al medio,  también conocida como dirección física. Es un identificador único de 48 bits ( 6 bloques hexadecimales) asignado por el fabricante a cada dispositivo de red ejemplo  54 - B8 - 0A - 3E - D0 - 28.

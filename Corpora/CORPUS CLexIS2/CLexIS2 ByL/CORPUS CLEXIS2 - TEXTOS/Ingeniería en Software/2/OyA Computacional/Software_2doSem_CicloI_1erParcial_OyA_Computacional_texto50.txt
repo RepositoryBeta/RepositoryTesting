@@ -1,0 +1,5 @@
+texto 50
+
+Las unidades centrales (los cores) de proceso adicionales, permiten a un computador hacer varias cosas a la vez. Justamente de eso se trata para que sean multi tasking. Por ejemplo:
+Una computadora puede utilizar un núcleo para la comprensión de un archivo y otro para la reproducción del audio o alguna tarea que se esté ejecutando en background. Es decir, eso es la funcionalidad o el enriquecimiento de los procesadores multicore o multinúcleo.
+

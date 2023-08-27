@@ -1,0 +1,2 @@
+TEXTO 93
+Organización de los registros: Los registros son los que el procesador necesitan para poder hacer el almacenamiento de datos, también pero de forma muy rápida, estos registros son áreas de memoria temporales. Pero, que son muy veloces que se necesitan para que vayan dando respuesta de las órdenes que recibe el procesador. Hay de varias categorías como los registros de uso general, registros de segmento y registros de punteros.

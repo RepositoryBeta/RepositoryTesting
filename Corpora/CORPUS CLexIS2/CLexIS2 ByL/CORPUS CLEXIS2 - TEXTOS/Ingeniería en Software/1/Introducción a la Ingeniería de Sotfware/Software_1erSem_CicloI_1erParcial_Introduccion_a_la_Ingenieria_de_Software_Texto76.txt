@@ -1,0 +1,9 @@
+texto 76
+
+ El proceso del software
+
+ Conjunto de actividades necesarias para transformar las ideas iniciales del usuario, que deseó tematizar a un determinado trabajo, en software.
+
+ Conjunto ordenado de actividades; es decir, una serie de pasos que involucran tareas, restricciones y recursos que producen una determinada salida esperada
+
+ Marco de trabajo de las tareas que se requieren para construir software de alta calidad.

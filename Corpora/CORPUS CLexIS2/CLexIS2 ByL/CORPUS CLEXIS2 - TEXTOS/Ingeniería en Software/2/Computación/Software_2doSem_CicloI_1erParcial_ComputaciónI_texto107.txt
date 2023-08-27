@@ -1,0 +1,7 @@
+﻿texto 107
+
+Iniciar combinación de correspondencia
+
+En el siguiente grupo de herramientas podemos seleccionar destinatarios escribiendo una nueva lista, o utilizar y editar una lista existente como por ejemplo un listado de MS Excel o incluso eligiendo los contactos registrados en la agenda de Outlook.
+
+En  general, el proceso de combinar correspondencia en Word consiste en elaborar un documento maestro que irá tomando datos del listado de contactos que generemos.

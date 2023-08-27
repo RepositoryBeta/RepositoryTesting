@@ -1,0 +1,7 @@
+texto 63
+
+ ventajas de la topología en bus
+
+el fallo en una interface no afecta al otro, si se conecta el cable directo que va al computador no afecta al resto, para esas redes de esa época las velocidades eran altas, sencilla inserción con nuevas estaciones en esa época no era tan sencillo.
+
+desventajas: bajo rendimiento, la rotura del bus hace que se vaya toda la red abajo.

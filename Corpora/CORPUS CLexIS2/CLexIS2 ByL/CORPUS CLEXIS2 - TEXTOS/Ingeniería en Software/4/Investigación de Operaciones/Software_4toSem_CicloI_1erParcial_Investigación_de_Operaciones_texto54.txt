@@ -1,0 +1,6 @@
+﻿texto 54
+
+Ahora el criterio función.
+Objetivos en el ejemplo del pan de sal y el pan de dulce ellos no pueden ser negativos entonces la funcion objetivo elegir los mejores óptima valores de las variables de decisión debe de estar representado como una función lineal que involucra las variables decisión por lo tanto se requiere de una función de tipo pues normalmente cuando nos refiramos a la función objetivo lavamos expresar con forma.
+
+Z=C1X1 + C2X2 +  CnXn = Sumatoria de CiXi i=1, n.

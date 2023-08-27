@@ -1,0 +1,7 @@
+﻿texto 4
+
+Factores de surgimiento
+
+Revolucion industrial: Paso de talleres artesanales a grandes compañias, rapida identificacion de similitudes entre problemas ambiente de las operaciones industriales y los problemas propios del ambiente productivo de las nuevas empresas.
+
+Entonces fijense aqui estamos hallando otra característica de la investigación de operaciones y básicamente se refiere al modelamiento, al modelaje o a la simulación que ocurre, que de repente hay un equipo multidisciplinario que se formó para resolver el problema determinado, un problema x.

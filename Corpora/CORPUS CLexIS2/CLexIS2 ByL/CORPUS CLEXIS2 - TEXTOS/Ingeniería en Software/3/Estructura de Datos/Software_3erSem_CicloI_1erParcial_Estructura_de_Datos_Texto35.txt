@@ -1,0 +1,9 @@
+﻿texto 35
+
+CLASIFICACIÓN DE LAS ESTRUCTURAS DE DATOS
+ESTRUCTURAS DE DATOS ESTÁTICAS
+- Simples o primitivas
+ a) Boolean
+ b) Char
+ c) Integer
+ d) Real.

@@ -1,0 +1,2 @@
+TEXTO 26
+Unidad central de proceso: Introducción.- También llamado CPU, controla el funcionamiento del computador y lleva a cabo sus funciones de procesamiento de datos. Frecuentemente se le llama simplemente procesador. Se trata de uno de los componentes vitales que te vas a encontrar en tu ordenador, tu smartphone, tu tableta o portátil, e incluso entre los relojes y prácticamente cualquier dispositivo electrónico. Sin él, simplemente no podrían funcionar.

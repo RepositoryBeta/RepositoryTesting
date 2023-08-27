@@ -1,0 +1,13 @@
+texto 45
+
+Para conocer el número de filas se necesita restar el límite inferior al límite superior más 1.
+
+           Var matriz: array [1 - 3, 1 - 5] of integer;
+
+                           fila    columna  
+
+filas = 3 - 1 + 1 = 3
+
+columnas = 5 - 1 + 1 = 5 
+
+El producto del número de filas por el número de columnas es igual al número de elementos: 3 x 5 = 15 elementos.

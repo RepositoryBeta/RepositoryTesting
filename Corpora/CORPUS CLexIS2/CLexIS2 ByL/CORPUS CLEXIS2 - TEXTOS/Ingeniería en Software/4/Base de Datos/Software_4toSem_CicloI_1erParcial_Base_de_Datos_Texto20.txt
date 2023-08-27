@@ -1,0 +1,5 @@
+texto 20
+
+Cuando yo digo roles y privilegios quiero decir que a los usuarios yo le digo bueno este usuario va a tener el rol de director, este usuario va a tener el rol de jefe este usuario, va a tener el rol de operador de acuerdo.
+Privilegios o roles 
+Yo le doy privilegio, el director va a tener privilegios para hacer cualquier cosa en la base de datos, el jefe sólo va a poder consultar datos de sus empleados, por ejemplo y el operador sólo va a poder consultar por ejemplo las transacciones que hacen determinado grupo de clientes.

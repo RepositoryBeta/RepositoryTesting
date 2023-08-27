@@ -1,0 +1,4 @@
+texto 40
+
+Porque el dba utilizará la arquitectura interna, dentro de la arquitectura interna a conseguir esas características, para complementar el tema del foro que ustedes tienen de tareas a presentarles la arquitectura interna mientras yo le presento lo que es arquitectura interna, una instancia de oracle, cada vez que yo inicio la base de datos, se va a iniciar una instancia de Oracle, una instancia de Oracle es la que me permite ya tener disponible levantada el servicio de base de datos. 
+

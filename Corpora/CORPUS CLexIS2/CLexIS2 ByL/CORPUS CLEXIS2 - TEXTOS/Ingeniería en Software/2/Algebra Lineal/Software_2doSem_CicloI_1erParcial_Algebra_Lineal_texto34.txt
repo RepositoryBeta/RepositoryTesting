@@ -1,0 +1,7 @@
+﻿texto 34
+
+Todos los elementos de la base (B) deben ser linealmente independientes (no debe haber combinaciones lineales entre los elementos). 
+
+Los vectores linealmente independientes tienen distinta dirección y sus componentes no son proporcionales. 
+
+El rango de una matriz es igual al número de vectores independientes.

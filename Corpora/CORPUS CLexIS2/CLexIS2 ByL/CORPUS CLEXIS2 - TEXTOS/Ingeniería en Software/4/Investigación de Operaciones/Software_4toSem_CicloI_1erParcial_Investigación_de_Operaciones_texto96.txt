@@ -1,0 +1,10 @@
+﻿texto 96
+
+Ahora el sexto pasó dice actualización de la tabla entonces  la fila correspondiente a los siete los permanecerá inalterado en la nueva la tabla resto de los valores deberán calcularse como se explica a continuación: 
+
+En la fila elemento pivote cada nuevo elemento se calcula como: 
+- Nuevo elemento fila pivote = anterior elemento fila pivote / pivote.
+
+- Tengo resto de las filas cada elemento se calcula:
+
+ nuevo elemento fila = anterior elemento fila- ( anterior elemento fila en la columna pivote * nuevo elemento fila pivote).

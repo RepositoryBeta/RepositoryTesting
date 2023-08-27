@@ -1,0 +1,8 @@
+texto 68
+
+Hay tipos de relaciones recursivas, yo las puedo testificar y yo tengo relaciones recursivas simétricas y relaciones recursivas asimétricas y dentro de la asimétricas habían algunos tipos y nos puede ayudar indicando, cuales son esos tipos de relaciones asimétricas que tenemos.
+¿Cuáles son esos tipos?
+Jerárquica y reflejadas. 
+Entonces tenemos tipos de eso es importante reconocer la relación recursiva.
+
+

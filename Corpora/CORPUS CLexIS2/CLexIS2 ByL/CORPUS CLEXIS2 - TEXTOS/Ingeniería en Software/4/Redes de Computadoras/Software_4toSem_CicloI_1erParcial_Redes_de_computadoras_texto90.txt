@@ -1,0 +1,9 @@
+texto 90
+
+ encapsulamiento
+
+ es necesario empaquetarlo encapsular los datos para enviar información de un dispositivo a otro,  el encapsulamiento rodea los datos con la información de  protocolo necesaria antes de que se una al tránsito de la red,  para eso tenemos pasos para encapsular los datos:
+
+ crear los datos
+
+ empaquetar los datos para ser transportados.

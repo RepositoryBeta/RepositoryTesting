@@ -1,0 +1,3 @@
+﻿texto 56
+
+Se acuerdan de su clase de requerimientos, en la clase de requerimientos a ustedes su cliente les decia bla, bla, bla, les ponía pictures y usted los ponia a requerimientos etcétera, es de esos requerimientos salen las entidades, ¿esto ya puede ser una base de datos?, todavia no, pero esto ya es un bosquejo muy bueno para diseñar mi base de datos y lo que me faltaría ver los atributos de la tabla, el modelo de diagrama de clases y posiblemente quizas esto podria ser un diagrama de clase en el sistema de biblioteca yo no lo usaria.

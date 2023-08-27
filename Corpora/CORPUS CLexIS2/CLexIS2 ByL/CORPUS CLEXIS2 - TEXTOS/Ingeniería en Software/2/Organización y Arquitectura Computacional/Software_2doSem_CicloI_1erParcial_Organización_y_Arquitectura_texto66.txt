@@ -1,0 +1,2 @@
+TEXTO 66
+Introducción a las memorias: Tenemos un registro temporal, todo lo que es temporal es memoria. Aquí está el IBR y su localización es la unidad de control, se comunica también con el IR, luego ellos se seguirán comunicando con las otras áreas. Tenemos la MAR y luego mira si hay que enviarlo para la unidad aritmética lógica, lo hará. También, es empleado para almacenar temporalmente, temporalmente la instrucción contenida en la parte derecha de una palabra de memoria.

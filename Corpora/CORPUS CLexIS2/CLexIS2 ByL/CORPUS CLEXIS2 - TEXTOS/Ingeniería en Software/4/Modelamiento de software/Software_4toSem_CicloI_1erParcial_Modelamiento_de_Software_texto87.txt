@@ -1,0 +1,3 @@
+﻿texto 87
+
+Vienen las clases abstractas que son las clases que no tienen implementación ya la conocen las abstractas las clases utilitarias que contienen librerías como yo represento una clase parametrizable aquí arriba le pongo este simbolito que digo tipo, de posibles universos que pueden haber es un tipo, yo puedo hacer una lista de personajes en una lista, una lista lo que me dé la gana este parámetro se pone afuera en el caso de parametrizable.

@@ -1,0 +1,13 @@
+﻿texto 40
+
+El contenido se refiere al significado y a la forma de la información de entrada y salida. Algunas veces es difícil establecer categorías genéricas para las aplicaciones del software que sean significativas. Conforme aumenta la complejidad del software, es más difícil establecer compartimentos nítidamente separados.
+
+Las siguientes áreas del software indican la amplitud de las aplicaciones potenciales:
+
+Tipos de software y su desarrollo:
+
+Software de Sistemas
+
+Software de Tiempo Real
+
+Software de Gestión.

@@ -1,0 +1,11 @@
+﻿texto 77
+
+El objetivo central de los enfoques de V&V de software es el de asegurarse que el producto está libre de fallas y cumple con las expectativas de sus usuarios. Sin embargo, existen muchas limitaciones teóricas y prácticas que hacen que este objetivo no sea posible de obtener para el caso de muchos productos.
+
+Objetivos Ingeniero de validación y verificación 
+
+Correctitud: En que grado el producto está libre de fallas. 
+
+Consistencia: En que grado el producto es consistente consigo mismo y con otros productos. 
+
+Necesidad: En que grado lo que hay en el producto es necesario. 

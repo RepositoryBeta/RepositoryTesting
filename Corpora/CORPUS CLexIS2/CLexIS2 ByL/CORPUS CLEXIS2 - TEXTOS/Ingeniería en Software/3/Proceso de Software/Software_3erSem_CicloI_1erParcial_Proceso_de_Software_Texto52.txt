@@ -1,0 +1,25 @@
+﻿texto 52
+
+Roles en el proceso de software.
+
+Roles :
+
+Administrador de proyecto 
+
+Analista 
+
+Diseñador 
+
+Programador 
+
+Téster 
+
+Asegurador de calidad 
+
+Documentador 
+
+Ingeniero de validación y verificación 
+
+Administrador de la configuración
+
+Cliente.

@@ -1,0 +1,11 @@
+texto 77
+
+ Modelos de procesos de software
+
+ El modelo de cascada:
+
+ el modelo de plan - impulsado.  Fases separadas y distintas especificación y desarrollo. 
+
+ El desarrollo incremental:
+
+ especificación, desarrollo y validación se intercalan. Puede ser el plan impulsado o ágil.

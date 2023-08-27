@@ -1,0 +1,4 @@
+texto 39
+
+En un intervalo de tiempo se pueden transmitir una secuencia de dígitos binarios, a través de una única línea, y se pueden utilizar varias líneas del bus para transmitir dígitos binarios simultáneos. Cuando transmito simultáneo es paralelo, porque son bastantes al mismo tiempo y serial es uno a la vez. Por ejemplo, un dato de 8 bits puede transmitirse media de 8 líneas del bus, el bus ide tenía ocho líneas, las computadoras poseen diferentes tipos de buses que proporcionan comunicación entre sus componentes.
+

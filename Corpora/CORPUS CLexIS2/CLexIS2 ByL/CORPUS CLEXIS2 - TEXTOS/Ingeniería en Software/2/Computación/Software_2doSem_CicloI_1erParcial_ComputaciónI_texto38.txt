@@ -1,0 +1,5 @@
+﻿texto 38
+
+La arquitectura entonces es el diseño conceptual y la estructura operacional fundamental de un sistema que conforma una computadora.
+
+La arquitectura de una computadora explica la situación de sus componentes es decir nos da los lineamientos  de cuáles son sus fundamentos y cuales son sus componentes esenciales para que pueda darse un sistema informático, es decir para que pueda darse un proceso informático como tal.

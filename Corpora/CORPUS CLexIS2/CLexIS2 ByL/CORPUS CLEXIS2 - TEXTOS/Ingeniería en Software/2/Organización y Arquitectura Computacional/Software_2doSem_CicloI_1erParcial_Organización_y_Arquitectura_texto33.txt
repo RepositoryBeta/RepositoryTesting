@@ -1,0 +1,2 @@
+TEXTO 33
+Unidad central de proceso: Unidad de control.- Es en esencia la que gobierna todas las actividades de la computadora, así como el CPU es el cerebro de la computadora, se puede decir que la UC es el núcleo del CPU. Supervisa la ejecución de los programas, coordina y controla al sistema de cómputo es decir coordina las actividades de entrada y salida. Una actividad de entrada puede ser el abrir un programa y una actividad de salida la reproducción de un video.

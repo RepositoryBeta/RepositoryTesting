@@ -1,0 +1,2 @@
+TEXTO 59
+Introducción a las memorias: La memoria principal no solamente almacena datos, que viajan por los buses, también almacenan instrucciones y esas instrucciones van a través de los buses que realizan una comunicación, que va en conjunto a la unidad de control, la unidad aritmética lógica, los buses, la memoria principal cuando ya hay un resultado o se proporciona un resultado se lo envían hacia los dispositivos de salida.

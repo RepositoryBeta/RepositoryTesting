@@ -1,0 +1,3 @@
+texto 63 
+
+Diseño:  ya sabemos que hacer, ahora tenemos que determinar ¿Cómo debemos hacerlo?, ¿Cómo debe ser construido el sistema en cuestión?; definimos el detalle entidades y relaciones de la base de datos, selecciónamos el lenguaje que vamos utilizar, el sistema de gestor de base de datos, etc.

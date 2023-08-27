@@ -1,0 +1,7 @@
+﻿texto 9 
+
+x^2 {d^3y/dx^3} - ({dy/dx}) ^4 = 1 
+Es de orden 3, porque la mayor derivada es de d^3y utiliza la D como derivada, 
+¿Qué tipo de notación es esta?, notación de Leibniz ya que el utilizaba esta anotación d^3y el 3 significa tercera derivada; 
+¿({dy/dx})^4 qué derivada será ésta? 
+Mire la derivada, siempre deben fijarse en el orden de la derivada, aquí está fuera del orden de la derivada, lo que significa que esto es exponente.

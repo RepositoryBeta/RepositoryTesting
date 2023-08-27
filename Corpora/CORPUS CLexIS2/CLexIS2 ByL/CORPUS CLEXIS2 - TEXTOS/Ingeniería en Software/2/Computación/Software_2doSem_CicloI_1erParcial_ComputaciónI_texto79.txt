@@ -1,0 +1,7 @@
+﻿texto 79
+
+En caso de que hagamos clic con el ratón fuera y deje de parpadear, para poder ponerle un nombre a la carpeta, pulsamos sobre la carpeta con el botón derecho del ratón y hacemos clic sobre (cambiar nombre) volverá a parpadear y podremos cambiarlo.
+
+Eliminación de archivos carpetas accesos directos
+
+En ocasiones necesitamos eliminar archivos carpetas accesos directos que nosotros hemos creado y que ya no son de utilidad en nuestro equipo.

@@ -1,0 +1,15 @@
+﻿texto 21
+
+Objetivos:
+
+Son un medio eficaz para aclarar los requisitos de los usuarios e identificar las características de un sistema que deben cambiarse o añadirse.
+
+Mediante el prototipo se puede verificar la viabilidad del diseño de un sistema.
+
+Características:
+
+Es una aplicación que funciona
+
+Su finalidad es probar varias suposiciones con respecto a las características requeridas por el sistema
+
+Se crean con rapidez.

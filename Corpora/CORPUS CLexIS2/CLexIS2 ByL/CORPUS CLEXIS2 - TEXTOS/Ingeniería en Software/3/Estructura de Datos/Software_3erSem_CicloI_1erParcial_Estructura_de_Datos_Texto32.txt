@@ -1,0 +1,13 @@
+texto 32
+
+ESTRUCTURA DE DATOS DINÁMICAS
+
+Son aquellas cuya ocupación en memoria puede aumentar o disminuir en tiempo de ejecución
+
+IMPORTANCIA Y UTILIDAD DE LAS ESTRUCTURAS DE DATOS
+
+La programación estructurada significa escribir un programa de acuerdo a las siguientes reglas.
+
+- El programa tiene un diseño modular.
+
+- Los módulos son diseñados de un modo descendente.

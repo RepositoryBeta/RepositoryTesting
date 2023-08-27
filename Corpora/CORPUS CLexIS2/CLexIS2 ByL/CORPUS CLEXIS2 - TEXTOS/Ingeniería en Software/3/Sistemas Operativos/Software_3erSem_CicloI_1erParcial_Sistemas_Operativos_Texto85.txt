@@ -1,0 +1,7 @@
+texto 85
+
+Algoritmo De Sustitución LRU 
+
+(Least Recently Used, la menos usada recientemente) y equivale a aplicar el algoritmo óptimo hacia atrás en el tiempo.
+
+Los algoritmos locales corresponden a asignar a cada proceso una fracción fija de la memoria. Los algoritmos globales reparten dinámicamente marcos de página entre los procesos ejecutables. Los algoritmos globales funcionan mejor, cuando el tamaño del conjunto de trabajo puede variar durante la vida de un proceso. Si se emplea un algoritmo local y el conjunto de trabajo crece, habrá thrashing.

@@ -1,0 +1,3 @@
+texto 48
+
+En matemática es importante estudiar la estabilidad de las soluciones de ED, es decir, cómo difieren las soluciones bajo pequeñas modificaciones de las condiciones iniciales. Dicha estabilidad es muy importante en la ciencia que utilice la ED (por ejemplo, en la Física), ya que, en la realidad, las condiciones iniciales normalmente no se conocen con certeza (datos obtenidos con aparatos de poca precisión), y es importante que pequeños cambios de las mismas no generen comportamientos cualitativos diferentes en la solución encontrada.

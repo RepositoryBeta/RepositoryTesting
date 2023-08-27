@@ -1,0 +1,3 @@
+﻿texto 100
+
+Entonces en el caso de los problemas de minimización vamos a tener unas restricciones que van a ser mayores o iguales, recuerden que las restricciones de los ejercicios de maximización las restricciones tenían eran menor o igual a las de minimizacion es mayor o igual entonces por ejemplo fíjense que nosotros tenemos aquí en ejemplo 6 es menor que 15 verdad pero para poder alcanzar el 15 y quitar la desigualdad nosotros añadimos 6 Entonces ahora si nosotros tenemos expresiones del tipo mayor igual sino de nosotros podemos decir que 9 es mayor o igual a 3 pero nosotros para quitar la desigualdad de mayor deberíamos restar seis.

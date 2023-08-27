@@ -1,0 +1,2 @@
+TEXTO 65
+Introducción a las memorias: El registro de instrucciones contiene los 8 bits del código de operación de la instrucción que se va a ejecutar,  o sea él ya tiene una respuesta de lo que va a ejecutar en ese momento, ¿Qué ejecutará? Él ejecutará lo que le hayas pedido. El registro de instrucciones se encuentra en la unidad de control, estos 8 bits combinados representan un byte. Un byte en la representación de un carácter.

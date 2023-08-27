@@ -1,0 +1,3 @@
+
+TEXTO 100
+Control de la CPU: El computador tiene varias partes los dispositivos de entrada y salida, tienen los buses que son los que comunican estos dispositivos. Tenemos la memoria y entre ellas está la unidad central de proceso, donde tenemos otras áreas que son la de registros, unidad aritmética lógica, interconexión interna del CPU y la unidad de control que también posea áreas que son: la lógica secuencial, la unidad de control registros y decodificadores y una memoria de control.

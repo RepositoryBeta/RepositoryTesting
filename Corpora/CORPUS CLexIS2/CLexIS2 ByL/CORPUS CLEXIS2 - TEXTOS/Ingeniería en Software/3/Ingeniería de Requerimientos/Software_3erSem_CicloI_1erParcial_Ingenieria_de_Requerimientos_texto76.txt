@@ -1,0 +1,2 @@
+TEXTO 76
+Actores en el caso de uso: aquí tenemos los usuarios que son personas sistemas o dispositivos. Tenemos también el actor que significa un rol que juega una entidad externa en relación al sistema. Es decir, que se debe nuevamente trabajar con roles, los actores normalmente son los sujetos en las oraciones que describen como la gente usa los sistemas. Es mejor utilizar roles ya que permite centrarse en como el sistema será usado y no en puestos de trabajo. Ejemplo podemos tener un mismo actor para un sistema de RH.

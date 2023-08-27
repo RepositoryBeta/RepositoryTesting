@@ -1,0 +1,7 @@
+texto 90
+
+ fases DRA:
+
+ Modelado de datos: el flujo de información definido como parte de la fase modelado de gestión refina como un conjunto de objetos de datos necesarios para apoyar la empresa.
+
+ Se define las características de cada uno de los objetos y relaciones entre otros objetos.

@@ -1,0 +1,11 @@
+texto 38
+
+Implementaciones:
+
+Hay dos grandes categorías en la implementación de hilos:
+
+Hilos a nivel de usuario (UTL)
+
+En una aplicación ULT pura, todo el trabajo de gestión de hilos lo realiza la aplicación y el núcleo o kernel no es consciente de la existencia de hilos. Es posible programar una aplicación como multihilo mediante una biblioteca de hilos. La misma contiene el código para crear y destruir hilos, intercambiar mensajes y datos entre hilos, para planificar la ejecución de hilos y para salvar y restaurar el contexto de los hilos.
+
+ Todas las operaciones descritas se llevan a cabo en el espacio de usuario de un mismo proceso. El kernel continua planificando el proceso como una unidad y asignándole un único estado Listo, bloqueado, etc.

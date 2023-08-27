@@ -1,0 +1,4 @@
+texto 15 
+Integrar ambos lados de la ecuación, ya tiene todas las (y) a la izquierda y todo lo que sería la (x) a la derecha entonces hace la integración de ambos lados.
+Resolver las integrales: 
+Anotar la respuesta.

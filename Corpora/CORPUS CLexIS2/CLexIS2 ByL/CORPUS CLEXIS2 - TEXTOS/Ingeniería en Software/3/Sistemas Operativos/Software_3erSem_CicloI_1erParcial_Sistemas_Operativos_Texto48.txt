@@ -1,0 +1,13 @@
+texto 48
+
+Medidas para poder evaluar los algoritmos de planificación 
+
+Utilización de CPU (CPU Utilization): es el porcentaje de uso útil que tiene un procesador. 
+
+Rendimiento (Throughput): Número de procesos terminados por unidad de tiempo. 
+
+Tiempo de retorno (Turnaround Time): Tiempo desde que un proceso se carga hasta que finaliza su ejecución. 
+
+Tiempo de espera (Waiting Time): Es la suma de los tiempos que un proceso estuvo en la cola de procesos listos. 
+
+Tiempo de respuesta (Response Time): Tiempo desde la carga hasta que el proceso da su primer respuesta. 

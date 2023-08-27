@@ -1,0 +1,6 @@
+TEXTO 34
+Ejemplos de requerimientos NF: Tenemos los requerimientos de producto.
+Eficiencia: 1) Desempeño (Ejemplo: Número de maletas por minuto), 2) Espacio (Ejemplo: Mínima cantidad de memoria requerida). 
+Fiabilidad (Tiempo mínimo antes de primera falla). 
+Portabilidad (Puede usarse con otro SO o con otro HW). 
+Usabilidad (Tiempo de entrenamiento requerido).

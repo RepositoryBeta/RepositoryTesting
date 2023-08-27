@@ -1,0 +1,2 @@
+TEXTO 18
+¿Qué son los requerimientos? Los requerimientos para un sistema computacional son los servicios proporcionados por el sistema y sus restricciones operativas. movimientos pueden variar desde una declaración abstracta de alto nivel o una definición detallada y formal de una función del sistema esto depende de las necesidades de los stakeholders. algunos de los problemas que surgen durante el proceso de ingeniería de requerimientos son resultado de no hacer una Clara separación entre estos diferentes niveles de descripción.

@@ -1,0 +1,6 @@
+﻿texto 45
+
+Mediana
+Otra medida de tendencia central es la mediana, la mediana es el valor de la variable que ocupa la posición central, cuando los datos se disponen en orden de magnitud. 
+Es decir, el 50% de las observaciones tiene valores iguales o inferiores a la mediana y el otro 50% tiene valores iguales o superiores a la mediana.
+Si el número de observaciones es par, la mediana corresponde al promedio de los dos valores centrales. Por ejemplo, en la muestra 3, 9, 11, 15, la mediana es (9+11)/2=10.

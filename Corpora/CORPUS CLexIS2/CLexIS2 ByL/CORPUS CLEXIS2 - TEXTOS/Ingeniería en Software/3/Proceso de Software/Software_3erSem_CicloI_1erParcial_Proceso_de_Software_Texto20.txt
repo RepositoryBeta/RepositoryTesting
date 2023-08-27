@@ -1,0 +1,13 @@
+﻿texto 20
+
+Problemas de la progresión secuencial :
+
+Desconocimiento de las necesidades por parte del cliente.
+
+Inestabilidad de los requisitos No se ven resultados hasta muy avanzado el proyecto Efecto big bang próximo a la entrega.
+
+MODELO TIPO SECUENCIAL
+
+MODELO ITERATIVO BASADO EN PROTOTIPOS
+
+Un prototipo es un modelo experimental de un sistema o de un componente de un sistema que tiene los suficientes elementos que permiten su uso. 

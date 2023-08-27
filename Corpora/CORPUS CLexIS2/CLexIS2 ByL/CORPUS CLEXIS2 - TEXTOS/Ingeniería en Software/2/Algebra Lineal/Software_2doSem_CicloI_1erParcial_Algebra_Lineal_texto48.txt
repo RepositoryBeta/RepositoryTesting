@@ -1,0 +1,3 @@
+﻿texto 48
+
+Entonces en la matriz inversa es realmente es una matriz que es bien importante, tiene unas características especiales, no toda matriz es inversa   y nos ayuda a resolver sistemas de ecuaciones lineales Pues aquí nos dice verdad una matriz inversa es la transformación lineal de una matriz mediante la multiplicación del inverso del determinante de la matriz por la matriz adjunta traspuesta entonces aquí nosotros vamos a determinar la primera formula.

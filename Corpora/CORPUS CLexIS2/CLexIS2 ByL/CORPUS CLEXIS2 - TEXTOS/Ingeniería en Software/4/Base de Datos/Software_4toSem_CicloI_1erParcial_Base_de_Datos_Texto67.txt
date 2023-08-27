@@ -1,0 +1,5 @@
+texto 67
+
+Entonces para poder diferenciar en la entidad, ¿cuál es cuál? si es subordinado, yo puedo hacerme de una relación recursiva, como ven ahí que relaciona la entidad persona consigo mismo, a través de los roles y de la relación que en este caso y se dirigen a una persona, dirige a muchos subordinado y dirigido, entonces esa es la relación, recuerden yo les decía también podemos identificar relación recursiva cuando adicional al yo haber detectado de que en una misma entidad puedo almacenar registros que cumplen diferentes roles, a pesar de tener los mismos atributos también si yo visióno, que es una especie de jerarquía, que es lo que deseo almacenar también es otro criterio que me ayuda a confirmar que efectivamente lo que yo necesito es una relación o asociación recursiva en una entidad.
+
+

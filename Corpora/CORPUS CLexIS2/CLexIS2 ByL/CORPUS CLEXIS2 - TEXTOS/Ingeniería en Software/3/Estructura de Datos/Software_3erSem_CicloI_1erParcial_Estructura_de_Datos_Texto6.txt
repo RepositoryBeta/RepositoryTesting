@@ -1,0 +1,8 @@
+﻿texto 6 
+
+Lista vacía.
+No tiene elementos.
+Puntero inicio es NULL.
+Lista no vacía.
+Tiene uno o más elementos.
+Puntero inicio es diferente a NULL.

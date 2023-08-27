@@ -1,0 +1,4 @@
+
+TEXTO 99
+Funcionamiento de la unidad de control: Existen dos tipos de unidades de control las cableadas, usadas generalmente en máquinas sencillas, y sus componentes habituales son de instrucción y las microprogramadas, usadas generalmente en máquinas complejas. Cada vez la tecnología avanza y los computadores se van volviendo más robustos y nuestra máquina se van haciendo sencillas, en comparación a la gran avalancha tecnológica con la que vienen los equipos, ya hablamos de una novena generación y hasta décima generación.
+

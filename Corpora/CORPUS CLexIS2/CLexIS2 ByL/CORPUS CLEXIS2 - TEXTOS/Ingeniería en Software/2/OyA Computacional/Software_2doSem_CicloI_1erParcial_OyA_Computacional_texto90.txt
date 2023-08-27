@@ -1,0 +1,4 @@
+texto 90
+
+Finalmente, los registros, hablamos un poquito que los procesadores actuales cuentan con un sistema propio de almacenamiento, por así decirlo, y la unidad más pequeña y rápida son los registros. Básicamente se trata de un pequeño almacén en donde se almacenan las instrucciones que se están procesando y los resultados obtenidos de ella. Eso se llama memoria caché, que es el siguiente nivel de almacenamiento, también es una memoria extremadamente rápida, mucho más que la memoria RAM.
+

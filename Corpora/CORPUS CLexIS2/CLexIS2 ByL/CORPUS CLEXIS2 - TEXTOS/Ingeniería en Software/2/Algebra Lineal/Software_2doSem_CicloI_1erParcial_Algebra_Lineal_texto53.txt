@@ -1,0 +1,3 @@
+﻿texto 53
+
+ y que a su vez también podemos ver que en este caso se cumple la propiedad conmutativa cuando vimos multiplicación de matrices se dijo que la multiplicación de matrices este no cumplía con la propiedad conmutativa pero solamente  cumple con la propiedad conmutativa cuando la matriz se le multiplica por su misma matriz inversa Entonces en este caso si se cumple esta condicion donde que la matriz por la matriz inversa es igual a la matriz identidad que también es igual se invirtiera más verdad la matriz inversa por la matriz original.

@@ -1,0 +1,5 @@
+﻿texto 35
+
+Durante el sprint el equipo realizará una serie de tareas previamente identificadas. Cada miembro deberá elegir la tarea que más le motive hacer para lograr que se realice de manera rápida y obtener una mejor calidad.
+
+MODELO CRYSTAL El nombre de metodologías Crystal viene de que cada proyecto software puede caracterizarse según dos dimensiones, tamaño y criticidad, al igual que los minerales se caracterizan por dos dimensiones, color y dureza. 

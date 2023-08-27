@@ -1,0 +1,3 @@
+texto 46
+
+Hoy vamos a trabajar el concepto de organización arquitectura computacional con respecto al funcionamiento del procesador. El punto de hoy, en arquitectura del computador es el microprocesador o también conocido como procesador, efectivamente se llama microprocesador o simplemente procesador al circuito integrado central de un sistema informático, en donde se llevan a cabo las operaciones lógicas y aritméticas para permitir la ejecución de los programas, desde el SO hasta el software de aplicación.

@@ -1,0 +1,2 @@
+TEXTO 55
+Razones que dificultan el proceso de adquisición de requerimientos: Diferentes participantes tienen distintos requerimientos y pueden expresarlos en varias formas. Los ingeniero de requerimientos deben descubrir todas las fuentes potenciales de requerimientos e identificar similitudes y conflictos. Factores políticos llegan a influir en los requerimientos de un sistema. Los administradores pueden solicitar requerimientos específicos del sistema, porque éstos les permitirán aumentar su influencia en la organización.

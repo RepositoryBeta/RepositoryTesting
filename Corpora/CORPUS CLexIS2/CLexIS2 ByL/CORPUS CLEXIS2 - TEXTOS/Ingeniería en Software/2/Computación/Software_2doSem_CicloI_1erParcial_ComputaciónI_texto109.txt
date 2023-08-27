@@ -1,0 +1,5 @@
+﻿texto 109
+
+Finalmente los combinamos generando un nuevo documento con todas las direcciones de la base de datos. Si por ejemplo se tratase de cartas, se generaría un documento con tantas páginas o cartas como registros de Excel.
+
+Sigue los pasos del  asistente combinar correspondencia de Word para personalizar tus plantillas y conseguir los resultados en unos cuantos sencillos pasos.

@@ -1,0 +1,6 @@
+texto 51
+
+Imagínense lentitud en la base de datos, no hay más, en ese caso de una base datos responde cada dos segundos, cada 2 segundos las transacciones y eso lo monitorea el dba en la mañana. 
+Por ejemplo, la semana anterior todos tuvimos lentitud en el sistema en el moodle, todos tuvimos lentitud desde  9 o 10 de la mañana entonces, el administrador de base de datos lo que vayas directamente a los componentes de la arquitectura a revisar cada uno de los componentes para ver que está provocando la lentitud. 
+
+

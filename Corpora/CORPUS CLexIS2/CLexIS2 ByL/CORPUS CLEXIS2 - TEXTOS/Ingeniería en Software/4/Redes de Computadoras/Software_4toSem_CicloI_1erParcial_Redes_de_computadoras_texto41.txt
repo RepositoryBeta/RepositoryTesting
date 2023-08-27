@@ -1,0 +1,5 @@
+texto 41
+
+La red debe poderse escalar, debe ser confiable en cuanto a su uso, debe estar disponible en cualquier momento que se la desee usar, debe ser por supuesto segura y mientras más veloz sea la red, mejor, todo eso es en términos generales, ahora vemos cada uno de ellas.
+
+velocidad: la cantidad total de información digital que se puede transmitir a través de cualquier medio de comunicación se mide en bits por segundo (bps).

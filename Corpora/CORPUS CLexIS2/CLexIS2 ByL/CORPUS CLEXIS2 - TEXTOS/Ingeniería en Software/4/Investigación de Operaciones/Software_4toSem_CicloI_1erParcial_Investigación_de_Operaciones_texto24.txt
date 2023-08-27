@@ -1,0 +1,3 @@
+﻿texto 24
+
+Entonces como le digo, todo es con experiencia porque si bien es cierto aquí se dice que la investigación de operaciones se basa en el método científico, se basa en modelos, en algoritmos también si es necesario trabajar con experiencia y a veces no solamente experiencias si no tambien sentido común, entonces pues simplemente la idea es buscar solución a la situación obviamente en investigación de operaciones vamos a trabajar con métodos, metodos deterministicos.

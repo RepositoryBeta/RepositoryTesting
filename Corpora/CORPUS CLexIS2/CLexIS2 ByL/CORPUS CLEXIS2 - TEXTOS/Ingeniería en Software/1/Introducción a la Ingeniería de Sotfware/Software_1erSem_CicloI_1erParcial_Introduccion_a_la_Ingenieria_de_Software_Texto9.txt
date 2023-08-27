@@ -1,0 +1,3 @@
+texto 9
+
+Recordemos el ejemplo que les había mencionado sobre las compras, las ventas y los inventarios, el módulo de ventas fue creado para vender productos y a su vez estos productos sean verificados de inventario, si este módulo no cumple su función, nosotros tenemos que medir esa función con esta metrica, corrección ya que habrá un error ese defecto mejor dicho y lo vamos a medir con miles de líneas de código.

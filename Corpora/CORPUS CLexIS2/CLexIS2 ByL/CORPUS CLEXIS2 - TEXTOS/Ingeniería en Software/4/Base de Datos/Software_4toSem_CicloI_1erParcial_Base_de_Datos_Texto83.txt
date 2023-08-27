@@ -1,0 +1,8 @@
+texto 83
+
+Ok, entonces incorporamos un nuevo elemento a los básicos, que es importante que ustedes identifiquen ahora que todo esté, yo debería también tener esa identificación de entidades debiles y, ¿qué otra extensión tendrá un ejercicio?
+La clase membresía, porque la clase membresia va de la mano con la cardinalidad, la mínima si le decimos que cardinalidades debemos tener en todo eso. Entonces obviamente la clase membresía va a estar también en todos los ejercicios que todos los días no se miran como a estos cuatro elementos que hemos estado tomando, ya se incorporan dos elementos más que deben tener cualquier ejercicio, entidades débiles y la clase membresia.
+
+
+
+

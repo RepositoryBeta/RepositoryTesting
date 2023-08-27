@@ -1,0 +1,11 @@
+﻿texto 42
+
+Dar varios ejemplos de transformaciones lineales.
+
+Dar las definiciones de kernel (o núcleo) y de imagen para una transformación lineal.
+
+Ver un ejemplo que abarque ambas definiciones.
+
+Finalmente, probar que el kernel y la imagen son subespacios vectoriales.
+
+A grandes rasgos, las transformaciones lineales se pueden pensar como (funciones bonitas) entre espacios vectoriales que (preservan las operaciones de suma y multiplicación por escalar).

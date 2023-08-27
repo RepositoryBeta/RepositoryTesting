@@ -1,0 +1,15 @@
+﻿texto 43
+
+Software de Tiempo Real: Coordina, analiza, controla sucesos del mundo real conforme ocurren. Maneja diferentes componentes:
+
+Recolección de datos
+
+Dar formato a la información recibida del exterior
+
+De análisis para transformar la información
+
+De Control y salida que responda al exterior
+
+De Monitorización que coordine a todos los componentes
+
+En un tiempo de entre 1 milisegundo a 1 segundo.

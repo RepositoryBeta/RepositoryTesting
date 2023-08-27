@@ -1,0 +1,3 @@
+﻿texto 13
+
+Por ejemplo: queremos saber si existe una empresa, vámonos a la parte comercial, la empresa de aquí a 5 años va a quebrar o va a seguir funcionando entonces de eso nosotros tenemos que tomar datos, tenemos que empezar por datos historicos, es decir, si queremos definir una de las variables más importantes que en este caso sería la variable ventas, vamos a ver si el producto que ellos promocionan no se ha vendido en los últimos años para poder pronosticar y aquí a 2, 3, 4, 5 años.

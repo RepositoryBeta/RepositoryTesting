@@ -1,0 +1,2 @@
+TEXTO 61
+Lenguajes de descripción de diseño: Este enfoque usa un lenguaje como un lenguaje de programación, pero con características más extractos para especificar los requerimientos al definir un modelo operacional del sistema. Aunque en la actualidad este enfoque se usa raras veces, aún tiene utilidad para especificaciones de interfaz. Anotaciones gráficas: Los modelos gráficos, complementados con anotaciones de texto, sirve para definir los requerimientos funcionales del sistema; los casos de uso del UML. y los diagramas de secuencia se emplea de forma común.

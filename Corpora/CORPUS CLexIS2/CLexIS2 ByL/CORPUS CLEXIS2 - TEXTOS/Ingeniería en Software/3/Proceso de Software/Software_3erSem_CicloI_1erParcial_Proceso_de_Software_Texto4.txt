@@ -1,0 +1,11 @@
+﻿﻿texto 4
+
+Características del proceso de Software.
+
+Cualquier proceso tiene las siguientes características:
+
+El proceso establece todas las actividades principales.
+
+El proceso utiliza recursos, está sujeto a una serie de restricciones y genera productos intermedios y finales.
+
+El proceso puede estar compuesto de subprocesos que se encadenan de alguna manera. Puede definirse como una jerarquía de procesos organizada de modo que cada subproceso tenga su propio modelo de proceso.

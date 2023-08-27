@@ -1,0 +1,4 @@
+﻿texto 41
+
+De esta forma, ambos tipos de medidas usadas en conjunto permiten describir un conjunto de datos entregando información acerca de su posición y su dispersión los procedimientos para obtener las medidas estadísticas difieren levemente dependiendo de la forma en que se encuentren los datos. 
+Si los datos se encuentran ordenados en una tabla estadística diremos que se encuentran agrupados y si los datos no están en una tabla hablaremos de datos no agrupados.

@@ -1,0 +1,6 @@
+﻿texto 93
+
+Modelo TCP IP
+
+La arquitectura de protocolos TCP IP es resultado de la investigación y desarrollo llevados a cabo en la red experimental de  conmutación de paquetes ARPANET, financiera por la agencia de proyectos de investigación avanzada para la defensa no conocida como DARPA y se denomina globalmente como la familia protocolos TCP IP.
+TCP IP se desarrolló como un estándar abierto, significado de cualquier persona podía usar el TCP IP, esto contribuyó acelerar el desarrollo de TCP IP como un estándar.

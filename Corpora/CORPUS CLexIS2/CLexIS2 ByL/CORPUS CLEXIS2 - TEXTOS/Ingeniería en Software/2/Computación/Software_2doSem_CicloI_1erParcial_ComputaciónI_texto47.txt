@@ -1,0 +1,7 @@
+﻿texto 47
+
+Todos nosotros tenemos seguramente distintos tipos de dispositivos de entrada salida en nuestro computador de hecho tenemos aquí:
+dispositivos de entrada: teclado, mouse, la cámara, un escáner, micrófono.
+dispositivos de salida: el más usual como es el monitor, la impresora, los altavoces, etcétera.
+
+Y también estamos encontrando dispositivos que son mixtos no ustedes verán pantallas que no solamente me permiten ingresar la información sino que me responde y me generan algún tipo de respuesta.

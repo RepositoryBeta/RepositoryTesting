@@ -1,0 +1,2 @@
+TEXTO 16
+Aritmética del computador:  Sistema binario y hexadecimal:  El sistema binario se basa en la representación de cantidades utilizando los números 1 y 0. Por tanto su base es 2  (número de dígitos del sistema), cada dígito número en este sistema se denomina bit  (contracción de binary digit). Según el orden ascendente de los números en decimal tendríamos los números binarios equivalentes a sus números en decimal.

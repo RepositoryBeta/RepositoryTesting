@@ -1,0 +1,5 @@
+texto 97
+
+En situaciones en las que los dos y positivos estén conectados a redes diferentes,  se necesitan una serie de Procedimientos que permitan que los datos atraviesan a distintas redes interconectadas.  Esta es la única función de la capa internet.
+
+ El protocolo en internet IP se utiliza en esta capa para ofrecer el servicio de encaminamiento a través de varias redes.

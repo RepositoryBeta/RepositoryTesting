@@ -1,0 +1,2 @@
+TEXTO 94
+Organización de los registros: Los registros del procesador son sitios de almacenamiento rápido y temporal, se emplean para controlar instrucciones en ejecución, manejar direccionamiento de memoria y proporcionar capacidad aritmética. Los registros son espacios físicos dentro del microprocesador, con capacidad de 4 bits a 64 bits dependiendo del microprocesador, que se emplee ya que estos difieren de muchos tipos y modelos.

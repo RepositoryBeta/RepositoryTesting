@@ -1,0 +1,2 @@
+texto 35
+Cuando nos proponemos resolver problemas en programación siempre pensamos directamente al computador y empezamos a escribir código sin antes haber analizado en lo más mínimo el problema, o bueno lo vamos analizando y directamente vamos a escribiendo el código y pues en algunos casos esta práctica funciona, claro está, cuando los problemas son sencillos o cuando eres un programador experimentado, no así con problemas más complejos y más aún cuando estás empezando a programar.

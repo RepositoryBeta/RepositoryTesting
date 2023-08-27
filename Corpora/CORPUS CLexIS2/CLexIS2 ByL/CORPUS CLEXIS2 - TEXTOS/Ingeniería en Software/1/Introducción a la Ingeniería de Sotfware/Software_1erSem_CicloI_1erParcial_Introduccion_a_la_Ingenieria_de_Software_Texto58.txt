@@ -1,0 +1,5 @@
+texto 58 
+
+Se puede definir el ciclo de desarrollo de software como:
+
+El período de tiempo que comienza con la decisión de desarrollar un producto software y finaliza cuando se ha entregado este. Este ciclo incluye,  en general, una fase de requisitos, una fase de diseño, una fase de implantación, una fase de pruebas, y a veces, una fase de instalación y aceptación.

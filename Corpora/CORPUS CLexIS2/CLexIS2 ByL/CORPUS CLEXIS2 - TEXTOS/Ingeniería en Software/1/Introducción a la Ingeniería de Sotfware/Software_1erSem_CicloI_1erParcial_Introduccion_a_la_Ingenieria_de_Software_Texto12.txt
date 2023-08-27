@@ -1,0 +1,3 @@
+texto 12
+
+Otra métrica es la integridad: aqui hablamos de seguridad, y es la habilidad en la que un sistema puede resistir, ustedes ya saben que tipos de ataque, ejemplo ahora mismo pero ya conoce se que el siug esta haciendo atacado mucho por agentes externos que requiere la definición de amenaza y seguridad y se calcula de la siguiente forma. integridad = 1 -(amenaza * (1 - seguridad)).

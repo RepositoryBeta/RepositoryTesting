@@ -1,0 +1,9 @@
+﻿texto 43
+
+Definición de transformaciones lineales
+
+Definición. Para V y W espacios vectoriales sobre un campo F, una transformación lineal entre V y W es una función tal que:
+
+Para todo V1 y V2 en V se tiene que T (V1 + V2) = T (V1) + T (V2) se le conoce como que (T abre sumas).
+
+Para todo v en V y c en el campo F se tiene que T (cv)= cT (v). A esto se le conoce como que (T saca escalares).

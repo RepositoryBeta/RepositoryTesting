@@ -1,0 +1,15 @@
+﻿texto 68
+
+Demostrar que las funciones del sistema parecen estar funcionando de acuerdo a sus especificaciones. 
+
+Proveer una buena indicación de la confiabilidad del software y algunas indicaciones de la calidad del software.
+
+Actividades y metas Téster 
+
+Participación en el proceso de especificación del sistema. 
+
+Interacción con el diseñador. 
+
+Realizar los tests, apoyado por los programadores. 
+
+Informar sobre los resultados obtenidos.

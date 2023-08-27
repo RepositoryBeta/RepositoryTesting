@@ -1,0 +1,8 @@
+TEXTO 35
+Ejemplos de requerimientos No Funcionales:  Tenemos los requerimientos organizacionales. 
+Entrega: (Ejemplo: Fecha de entrega, fecha cuando estará operacional, sesiones de entrenamiento, actualizaciones). 
+Implementación y Estándares. 
+Tenemos también los requerimientos externos. 
+Interoperabilidad (Ejemplo: Comunicación con otro equipo). 
+Éticos (Ejemplo: Seguridad para los operadores). 
+Legislativos (Ejemplo: Reglas de privacidad).

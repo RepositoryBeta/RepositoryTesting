@@ -1,0 +1,13 @@
+﻿texto 17
+
+¿Quiénes son los usuarios externos?
+
+Los usuarios externos son los: 
+
+1) Accionistas.
+
+2) Prestamistas.
+
+3) Los empleados.
+
+4) Los clientes.

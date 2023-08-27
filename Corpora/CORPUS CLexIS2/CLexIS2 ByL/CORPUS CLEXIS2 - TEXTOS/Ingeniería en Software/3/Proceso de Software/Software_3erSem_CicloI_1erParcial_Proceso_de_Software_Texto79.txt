@@ -1,0 +1,15 @@
+﻿texto 79
+
+Monitoreo. 
+
+Evaluación de resultados. 
+
+Evaluación del impacto del cambio. 
+
+Monitoreo del progreso técnico de V&V y calidad de resultados. 
+
+Examinar documentación temprana del proyecto. 
+
+V & V de los requisitos de usuario, diseño del software, requisitos de software, código, transferencia y manutención. 
+
+Administración de tests.

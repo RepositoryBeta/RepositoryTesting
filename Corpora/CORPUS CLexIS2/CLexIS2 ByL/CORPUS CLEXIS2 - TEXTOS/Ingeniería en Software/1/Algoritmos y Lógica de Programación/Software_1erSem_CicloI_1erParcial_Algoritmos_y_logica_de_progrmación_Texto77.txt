@@ -1,0 +1,2 @@
+texto 77
+Cambias de elemento y entras a otro ciclo interno cuál es tu ciclo externo es el que va desde el 1 al 12, los que están pintados con amarillo, cuál es tu ciclo interno que por cada elemento tienes otro ciclo que va del 1 al 12, ¿Por qué crees que utiliza ciclo? ya lo hemos dicho, su particularidad es que tiene inicio, tiene fin y tiene incremento.

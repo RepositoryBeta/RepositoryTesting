@@ -1,0 +1,9 @@
+﻿texto 33
+
+Sus principios se basan en:
+
+Mantener equipos de trabajo bien organizados en los que se maximice la comunicación.
+
+Utilizar un proceso flexible susceptible a cambios para asegurar una máxima calidad del producto.
+
+Dividir el trabajo en paquetes poco acoplados.

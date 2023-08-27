@@ -1,0 +1,4 @@
+texto 21
+
+Sus propiedades son de mejor calidad, tienen mayores velocidad de transmisión de datos y ocupa menos espacio, por lo tanto menos energía. Por general tiene menos velocidad de transferencia de hasta 600 megabits por segundo. Es decir, mucho más que ide que iba hasta 133 megabits por segundo. El bus Sata es por todos conocido, dado que es el que conecta las unidades almacenamiento de nuestro ordenador.
+

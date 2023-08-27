@@ -1,0 +1,6 @@
+texto 82
+
+Las entidades débiles es muy posible que casi un 100% que vayamos a encontrar en un ejercicio, ósea a estos cuatro elementos como entidades, relaciones, atributos y cardinalidades y aumentamos, se puede ser un nuevo elemento básico que debería tener todo ejercicio, son las entidades, porque las entidades débiles son las que vamos a encontrar en todo ejercicio, en todo eso van a ver entidad y una va a ser débil y otra va a ser fuerte.
+
+
+

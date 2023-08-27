@@ -1,0 +1,6 @@
+TEXTO 83 
+Caso de estudio: Construcción del diagrama de caso de uso: De acuerdo con el problema los participantes: 
+1) Informan al departamento de cuentas.
+2) Notifican al departamento de procesamiento de órdenes.
+3) Contactan a los embarcadores. 
+El contexto ubica el sistema dentro de las operaciones de la bodega, trabaja con las órdenes, con cuentas por pagar y con los que embarcan.

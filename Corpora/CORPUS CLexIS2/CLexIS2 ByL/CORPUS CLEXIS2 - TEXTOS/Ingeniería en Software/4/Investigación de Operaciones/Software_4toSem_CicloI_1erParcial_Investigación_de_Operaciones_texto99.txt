@@ -1,0 +1,3 @@
+﻿texto 99
+
+Con este procedimiento se lograron llegar a una solución óptima sea que el método simplex Dual también nos va a permitir al igual que el método simple llegar a una solución óptima al igual que todo lo que son los métodos de este programación lineal, entonces una aplicación típica del método simplex Dual es la resolución de problemas con una función objetiva de minimizacion con restricciones del tipo mayor igual y donde las variables de decisión son mayores o iguales a cero.

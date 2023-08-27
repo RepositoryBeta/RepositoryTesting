@@ -1,0 +1,2 @@
+texto 108 
+Una vez que el realiza esta división, él me va a dar el residuo de la división de estos dos números,  perfecto ya lo hice y está bien, ahora qué pasa si el usuario aquí ingreso el número 1, entonces el ejercicio dice: ingresar 2 números y presentar el mayor de los dos números, podemos valernos de lo que escribimos en el ejercicio anterior, ingrese primer número, ingrese segundo número, planteo y pregunto si num1 es mayor a num2 o igual.

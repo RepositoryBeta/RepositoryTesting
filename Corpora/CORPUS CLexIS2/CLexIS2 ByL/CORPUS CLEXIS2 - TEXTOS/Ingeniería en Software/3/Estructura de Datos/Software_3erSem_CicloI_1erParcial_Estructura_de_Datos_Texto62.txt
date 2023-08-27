@@ -1,0 +1,15 @@
+texto 62
+
+NODOS DE ENCABEZAMIENTO
+
+En algunas ocasiones es deseable mantener un nodo extra al frente de la lista, este nodo no representa un elemento en la lista y es llamada nodo de encabezamiento. Tendría sus dos campos, la porción INFO no es muy utilizado o solo para hacer referencia a algo especial.
+
+Un nodo de encabezamiento sin información se representaría:
+
+     List ---> [ |]--> [ 8 |]--> [ 7 |]--[ 2 |]--// (nil)
+
+Si deseara que el campo INFO guardará alguna referencia.
+
+     List --> [ 3 |]--> [ 8 |]--> [ 7 |]--> [ 2 |]--//
+
+Hace referencia que la lista está formada por 3 elementos. 

@@ -1,0 +1,7 @@
+﻿texto 102
+
+Los protocolos TCP IP son los estándares en torno a los cuales se desarrolló la internet, de modo que la credibilidad del modelo TCP IP se debe en gran parte a su protocolo, en comparación por lo general las redes no se desarrollan a partir del protocolo OSI, aunque el modelo OSI se usa como guía.
+
+Aplicaciones TCP/IP
+
+El protocolo simple de transferencia de correo SMTP proporciona una función básica de correo electrónico, este protocolo establece un mecanismo para transferir mensaje entre computadoras remotos.

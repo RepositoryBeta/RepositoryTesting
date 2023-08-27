@@ -1,0 +1,3 @@
+texto 50
+
+la más grande es la red WAN,  wide area Network, red de área amplia  esa podríamos decir que la más grande por ejemplo la internet la internet es considerado una WAN ya es de cobertura mundial verdad, Entonces entre la más pequeña que es LAN y entre la más grande que es la WAN ahí vienen algunas denominaciones,  como la MAN que se refiere a la red de área metropolitana, dando a entender por ejemplo que es una red de cobertura digamos que de una ciudad.

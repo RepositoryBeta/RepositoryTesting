@@ -1,0 +1,4 @@
+texto 89
+
+La parte lógica realiza operaciones de lógica como comparar, seleccionar, emparejando y fusión de datos. Vemos a la alu, cómo trabaja o cómo está estructurada, tenemos un bus de control que dice cuándo puede entrar en acción, los buses de datos le dicen ok, recibe los registros, es decir, elementos que se van a operar, ella se encarga de operar, la manda a un registro de estado para saber si se despachó o si sigue en proceso, que son los monitores del sistema y luego vemos el registro del resultado que se va con el bus de datos para despacho a quién lo indique. Todo eso lo administra el bus de control.
+

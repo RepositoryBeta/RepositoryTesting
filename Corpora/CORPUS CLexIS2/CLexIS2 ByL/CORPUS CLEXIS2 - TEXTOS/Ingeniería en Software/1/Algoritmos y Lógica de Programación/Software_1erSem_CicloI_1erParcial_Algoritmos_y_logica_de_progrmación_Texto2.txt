@@ -1,0 +1,3 @@
+texto 2
+
+Ustedes puedan diseñar sus diagramas de flujo y también su pseudocódigo y finalmente dice estructuras de control de flujo en algoritmo de decisión y repetición, hasta aquí todo es algoritmo, no tenemos todavía el lenguaje de programación como tal, hasta cuándo entremos a la siguiente unidad ahí si es netamente full desarrollo, bien, entonces si ustedes tienen su syllabus, toda la información se ha tomado del syllabus obviamente ya organizado en estas unidades. 

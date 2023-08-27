@@ -1,0 +1,2 @@
+texto 70
+Veamos el ejemplo de enante, mi variable se llama edad, ¿Tiene un identificador? sí, porque me identifica el dato que contiene, dice que una variable tiene un identificador porque me identifica el valor que contiene, por lo tanto entonces tiene un valor asociado, tiene un valor, tiene un tipo y un nombre, lo mismo que hemos visto aquí, este es mi variable edad tiene un valor, tiene un tipo de dato que sería entero y un nombre que es su identificador en este caso se llama edad.

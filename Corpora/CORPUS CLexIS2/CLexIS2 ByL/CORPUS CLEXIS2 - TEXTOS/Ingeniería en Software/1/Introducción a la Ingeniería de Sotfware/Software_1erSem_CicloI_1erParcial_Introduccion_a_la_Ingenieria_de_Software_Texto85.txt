@@ -1,0 +1,9 @@
+texto 85
+
+ Espiral
+ En este modelo, el esfuerzo de desarrollo es iterativo. Tan pronto como uno complete, es un esfuerzo de desarrollo, otro comienza. Además, en cada desarrollo ejecutado, puedes seguir estos cuatros pasos:
+
+ - Determinar qué quieres lograr.
+ - Determinar las rutas alternativas qué puedes tomar para lograr estás metas, por cada una, analizar los riesgos y resultados finales, y seleccionar la mejor.
+ - Seguir la alternativa seleccionada en el paso 2.
+ - Establecer que tienes terminado.

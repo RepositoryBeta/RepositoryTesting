@@ -1,0 +1,11 @@
+texto 44
+
+¿Quién elige y asigna los procesos a ejecutar? 
+
+El Despachador es el módulo del SO que da el control de la CPU al proceso seleccionado por el Scheduler (Planificador). 
+
+Esto implica 
+
+Cambio de contexto: Salvar registros del procesador en PCB del proceso saliente. Cargar los registros con los datos del PCB del proceso entrante. 
+
+Cambiar el bit de modo a usuario. 

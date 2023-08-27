@@ -1,0 +1,5 @@
+texto 78
+
+Un grafo dirigido es aquel que tiene todas sus aristas dirigidas; es decir, un dígrafo está asociado a un par ordenado (vea figura 9.1a). Por ejemplo, si w es vértice de partida y v es vértice de llegada, entonces la arista se asocia a la pareja ordenada (w, v), que es diferente de (v, w); es decir,
+
+(W, V) no es igual a (V, W).

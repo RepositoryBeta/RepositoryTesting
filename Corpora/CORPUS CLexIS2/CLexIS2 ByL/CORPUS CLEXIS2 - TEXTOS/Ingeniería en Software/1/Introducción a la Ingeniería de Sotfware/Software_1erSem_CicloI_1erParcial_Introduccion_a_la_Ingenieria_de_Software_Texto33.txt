@@ -1,0 +1,4 @@
+texto 33 
+
+Código de ética (ACM/IEEE): 
+Los  ingenieros de software deberán comprometerse consigo mismo en convertir en análisis, especificación, diseño, desarrollo, prueba  y mantenimiento de software en una profesión respetable y beneficiosa de acuerdo con su compromiso con la salud, seguridad y bienestar del público, ingeniero software deberán apegarse a ocho principios.

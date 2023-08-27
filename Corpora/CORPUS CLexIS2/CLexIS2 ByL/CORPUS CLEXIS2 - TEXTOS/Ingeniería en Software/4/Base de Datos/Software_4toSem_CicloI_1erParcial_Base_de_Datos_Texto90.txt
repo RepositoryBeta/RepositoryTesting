@@ -1,0 +1,3 @@
+Texto 90
+
+Una relación recursiva, ejemplo en un contexto académico, un sistema académico, ustedes tienen que registrar materias, pero hay también que identificar o se necesita identificar, ¿cuáles son las materias previas de esa materia?, si yo en una misma entidad llamada materia, yo puedo identificar las materias y cuáles son sus materia entonces, si yo pudiera hacerlo mediante una asociación recursiva, una materia tiene muchas materias previas y una materia es previa de muchas otras materias miren que aquí la cardinalidad máxima es de muchos a muchos y adicionalmente están las leyendas, que es lo importante cuando tengamos relaciones recursivas.

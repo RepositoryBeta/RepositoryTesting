@@ -1,0 +1,5 @@
+﻿texto 103
+
+Ensamblando las tareas: Es donde el moderador o Project manager ensambla las tareas del proyecto y sus estimaciones individuales dentro de una lista maestra definitiva de tareas, en donde se encuentran recopilados todos los procesos trabajados con anterioridad. 
+
+Revisión de resultados: Finalmente, en este paso el equipo de estimación revisa los resultados resumidos y llega a un acuerdo sobre el resultado final.

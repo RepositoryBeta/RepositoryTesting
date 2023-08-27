@@ -1,0 +1,9 @@
+﻿texto 51
+
+Entonces aquí como generalidades de la programación lineal, el modelo de programacion lineal, como en cualquier modelo, investigacion de operaciones, tiene tres componentes basicos.
+
+-  Las variables de decision que se trata de determinar.
+
+-  El objetivo(la meta) que se trata de optimizar.
+
+-  Las restricciones que se deben satisfacer.

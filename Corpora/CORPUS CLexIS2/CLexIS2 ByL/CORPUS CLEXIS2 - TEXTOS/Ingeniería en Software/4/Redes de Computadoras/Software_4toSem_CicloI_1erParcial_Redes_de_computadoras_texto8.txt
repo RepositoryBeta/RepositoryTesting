@@ -1,0 +1,3 @@
+﻿texto 8
+
+Pero quien verdaderamente transmite es el módem, el módem lanza a través de la señal telefónica pública, es el sistema de transmisión porque recibe del otro lado, esos otros modems quien le entrega la información al destino ya sea por otro computador o un servidor lo que sea ejemplo precisamente tenemos sistema origen, sistema destino y Sistema o medio de transmisión esto es un modelo simplificado si hablamos como sistema de la comunicación.

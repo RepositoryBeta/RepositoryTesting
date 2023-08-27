@@ -1,0 +1,5 @@
+﻿texto 13
+
+Estudia fundamentalmente los modelos deterministas que ayudan en la toma de decisiones, recuerden vamos a ver lo que son los modelos matemáticos que ya hemos hablado, vamos a manejar claro también el proceso estadístico estocasticos que también ustedes van a estar viendo de seguro en Inteligencia Aritificial.
+
+Entonces como le decía el porque surge la investigación de operaciones porque hay un problema que necesitamos resolver pero ese problema tenemos que resolverlo considerando que la busqueda de los recursos son escasos, que los sistemas son cada vez mas complejos.

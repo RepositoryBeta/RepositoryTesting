@@ -1,0 +1,4 @@
+texto 9
+
+Otra de las características, es la independencia de datos, entonces consiste en la capacidad de modificar el esquema físico, lógico de una base de datos sin tener que realizar cambios en las aplicaciones o programas que se sirven de ella. 
+No sé, como ven aquí el repositorio, que nosotros representamos la base datos y diversas aplicaciones que pueden estar conectándose con las base de datos para consultar los datos la independencia de datos que es otra característica que traen estos dbms.

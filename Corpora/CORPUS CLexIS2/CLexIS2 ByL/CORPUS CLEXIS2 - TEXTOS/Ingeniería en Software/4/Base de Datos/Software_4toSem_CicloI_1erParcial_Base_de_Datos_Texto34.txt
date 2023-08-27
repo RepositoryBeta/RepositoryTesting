@@ -1,0 +1,5 @@
+texto 34
+
+Esas últimas transacciones no es como hacer un reverso o recuperar lo último que se hizo, como cuando ustedes en Word hacen un reverso de lo último que te hizo, es otra de las características del de DBMS, control de concurrencia a la base datos no es que va a ingresar un usuario, los usuarios y no van a ingresar miles de usuarios al mismo tiempo y al realizar una transacción con el mismo objeto de la base de datos.
+Entonces como la base de datos voy a poder atender a miles de usuarios que están tratando de actualizar la tabla cliente por eso la base de datos.
+

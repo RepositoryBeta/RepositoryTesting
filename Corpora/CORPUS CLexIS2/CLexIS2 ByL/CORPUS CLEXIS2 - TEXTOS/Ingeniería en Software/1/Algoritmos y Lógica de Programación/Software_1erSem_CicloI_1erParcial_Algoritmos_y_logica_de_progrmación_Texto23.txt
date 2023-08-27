@@ -1,0 +1,3 @@
+﻿texto 23
+
+Aquí donde hacemos uso de toda nuestra pericia técnica,  nuestro conocimiento lenguaje de programación, nuestra capacidad de razonamiento y de todas las herramientas que existen para escribir programas, desde editores de código, compiladores, sistemas de base de datos, programas de diseño y toda herramientas que sea necesaria para lograr nuestros objetivos, aquí involucra la programación, desde que lenguaje de programación voy a utilizar, que lenguaje, que versión, cuál es la plataforma en la que se va a ejecutar, bajo qué sistema operativo voy a ejecutar este programa, en fin.

@@ -1,0 +1,5 @@
+﻿texto 26
+
+Por este motivo es interesante conocer algo más que simplemente los arrays o los hashmaps que casi todo el mundo conoce.
+Las estructuras de datos son útiles porque nos permiten tener una batería de herramientas para solucionar ciertos tipos de problemas.
+Además, nos permiten hacer un software más eficiente optimizando recursos, algo muy útil para IOT y para los entornos que trabajan con Big Data.

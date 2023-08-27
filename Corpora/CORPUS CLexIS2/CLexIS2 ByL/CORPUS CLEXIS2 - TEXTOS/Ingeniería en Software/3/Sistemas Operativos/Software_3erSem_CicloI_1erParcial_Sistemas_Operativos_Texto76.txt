@@ -1,0 +1,19 @@
+﻿texto 76
+
+Recuperación del interbloqueo 
+
+Una vez detectado, hay que eliminarlo 
+
+Seleccionar sucesivamente procesos implicados y quitarles sus recursos hasta eliminar interbloqueo 
+
+Alternativas: 
+
+Retroceder en el tiempo como ejecución de proceso 
+
+Requiere S.O. con mecanismo de puntos de recuperación 
+
+Abortar proceso perdiendo todo su trabajo realizado 
+
+Criterio de selección de procesos basado en: 
+
+Prioridad, número de recursos asignados al procedimiento, tiempo de ejecución.

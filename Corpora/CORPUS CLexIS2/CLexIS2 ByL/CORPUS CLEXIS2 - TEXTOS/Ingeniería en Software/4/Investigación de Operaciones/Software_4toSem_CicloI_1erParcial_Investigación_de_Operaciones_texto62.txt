@@ -1,0 +1,5 @@
+﻿texto 62
+
+Entonces básicamente son los conceptos que quería traer tambien es como el por el nombre de región de validez.
+Solución optima: Es el conjunto de todos los vertices del recinto. hace subrayar ademas que, en concreto, esa puede ser minima o maxima para cada caso.
+Valor del programa lineal: En este caso, este viene a ser el valor que la mencionada funcion objetivo toma en lo que es el vertice de la solucion optima.

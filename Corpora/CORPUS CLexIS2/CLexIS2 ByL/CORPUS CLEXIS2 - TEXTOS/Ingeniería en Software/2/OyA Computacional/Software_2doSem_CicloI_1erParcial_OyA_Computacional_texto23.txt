@@ -1,0 +1,4 @@
+texto 23
+
+Podría tener un Core i9, de décima generación, pero si no tengo un mainboard que lo soporte, no lo voy a poder instalar, hablando de la placa madre, contiene todo el circuito lógico principal para que funcione, tarjetas, memorias, discos, unidades, fuentes de poder, puertos de expansión, etc. Además de alojar el procesador y otros componentes de suma importancia. Dentro de esta placa los buses de datos comúnmente llamada duras de expansión ocupan gran parte de la misma.
+

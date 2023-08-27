@@ -1,0 +1,6 @@
+texto 39
+
+Los programas trabajan con transacciones atómicas, que son varias subtransacciones que conforman una sola transacción y lo maneja de tal forma que no me genere inconsistencia en el momento que ocurra un fallo en medio de una transacción, si ocurre un fallo no se queda inconsistente sino que hace un reverso total, estas características.
+Son características que los tiene que probar el dbms, características o funciones, que ¿Quién las va a utilizar?, la va a utilizar el dba, quién al fondo la va a conocer, el dba. 
+
+

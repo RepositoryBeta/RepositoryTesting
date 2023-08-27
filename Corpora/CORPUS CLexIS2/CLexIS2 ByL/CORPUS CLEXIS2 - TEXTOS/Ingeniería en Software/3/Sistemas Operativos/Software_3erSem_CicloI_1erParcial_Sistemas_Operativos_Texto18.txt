@@ -1,0 +1,9 @@
+﻿texto 18
+
+Sistema en capas
+
+El diseño se organiza en una jerarquía de capas, donde los servicios que brinda una capa son consumidos solamente por la capa superior. 
+
+La capa 0 es del Hardware y la N es la de los procesos de Usuario. 
+
+Estos sistemas tienen como ventaja que son modulares y la verificación se puede hacer a cada capa por separado (son más mantenibles). Sin embargo el diseño es muy costoso y es menos eficiente que el sistema monolítico ya que pierde tiempo pasando por cada capa.

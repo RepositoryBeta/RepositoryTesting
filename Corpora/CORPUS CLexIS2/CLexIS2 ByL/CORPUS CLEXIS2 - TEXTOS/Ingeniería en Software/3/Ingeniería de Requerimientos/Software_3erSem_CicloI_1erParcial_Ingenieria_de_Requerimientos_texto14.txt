@@ -1,0 +1,2 @@
+TEXTO 14
+La concepción de los requerimientos significa iniciar el proceso. Esto indica que debe existir una necesidad de una compañía, oportunidad en el mercado, buena idea, estudio de viabilidad donde se estudia si realmente se puede llegar a realizar el requerimiento si se puede llegar a formar en el software lo que está pidiendo y transformarlo en requisitos, riesgos, en ocasiones nosotros tenemos ciertos riesgos en crear un software, es por eso que se realiza un análisis de los riesgos, etc.

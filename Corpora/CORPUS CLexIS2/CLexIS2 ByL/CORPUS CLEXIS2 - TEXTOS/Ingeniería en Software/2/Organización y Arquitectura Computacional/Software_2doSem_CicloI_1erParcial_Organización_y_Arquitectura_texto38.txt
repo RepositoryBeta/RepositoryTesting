@@ -1,0 +1,2 @@
+TEXTO 38
+Unidad central de proceso: Por medio de los buses que son los que llevan las direcciones y también los datos ingresados, por medio de los dispositivos de entradas, viajan a través de los buses para llegar hasta el CPU. Que es donde se van a procesar esos datos allí el CPU hará todo su trabajo, primero interpretará, qué es lo que necesitas o qué es lo que has enviado, para ejecutar la orden tendrá que supervisar, alojar una aplicación en una memoria libre y ejecutarla.

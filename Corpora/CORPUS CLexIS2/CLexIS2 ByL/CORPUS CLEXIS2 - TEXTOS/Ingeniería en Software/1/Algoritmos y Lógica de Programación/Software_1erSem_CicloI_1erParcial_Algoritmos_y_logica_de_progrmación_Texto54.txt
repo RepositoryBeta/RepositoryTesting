@@ -1,0 +1,2 @@
+texto 54
+Ahora yo digo caso contrario que pasa si no, que ocurre, que pasa con los menores a 0?  el número es negativo y ya tengo mi algoritmo, ese algoritmo que lo he hecho en lenguaje natural, tengo que llevarlo al pseudocódigo y para el pseudocódigo, entonces qué pasa cuando yo ya voy a realizar mi pseudocódigo con esas instrucciones que ya venimos aprendiendo, fíjense,  tenemos el proceso que lo me lo da la misma herramienta.

@@ -1,0 +1,5 @@
+TEXTO 24
+Los requerimientos puedes describir alguno de los siguientes puntos:
+4) Una restricción para el desarrollo del sistema: Ejemplo, el sistema debe ser desarrollado usando Android.
+Debe ser para Android,  recuerde que Android es un SO, debe usar algún tipo de lenguaje como Java o algún otro tipo de lenguaje.
+5) Cómo realizar una operación: Ejemplo, la cantidad de registros debe ser obtenida a través de la fecha de acceso, sumando cada una.

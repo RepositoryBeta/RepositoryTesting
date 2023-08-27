@@ -1,0 +1,6 @@
+texto 37
+FAMILIA DE SOLUCIONES 
+Una solución que contiene una constate arbitraria representa un conjunto G (x, y, c) = 0 de soluciones llamado Familia de Soluciones UNIPARAMÉTRICAS. 
+Cuando resolvemos una ED de orden n buscamos una Familia de Soluciones n - PARAMÉTRICAS. 
+Forma General EDO Orden (n) -> Solución G (x, y, C1, C2, Cn) = 0 Familia  n - paramétrica.
+Forma General EDO Orden 1 -> dy/dx = f ( x, y) -> Solución G (x, y, C1) = 0 Familia Sol. uniparamétrica.

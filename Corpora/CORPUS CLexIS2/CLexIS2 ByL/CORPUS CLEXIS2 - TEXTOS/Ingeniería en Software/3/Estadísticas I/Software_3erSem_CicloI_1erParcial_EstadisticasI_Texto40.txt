@@ -1,0 +1,5 @@
+﻿texto 40
+
+Las medidas de tendencia central son medidas estadísticas que pretenden resumir en un solo valor a un conjunto de valores que representan un centro en torno al cual se encuentra ubicado el conjunto de los datos. 
+Las medidas de tendencia central más utilizadas son: media, mediana y moda.
+Las medidas de dispersión en cambio miden el grado de dispersión de los valores de la variable dicho en otros términos, las medidas de dispersión pretenden evaluar en qué medida los datos difieren entre sí.

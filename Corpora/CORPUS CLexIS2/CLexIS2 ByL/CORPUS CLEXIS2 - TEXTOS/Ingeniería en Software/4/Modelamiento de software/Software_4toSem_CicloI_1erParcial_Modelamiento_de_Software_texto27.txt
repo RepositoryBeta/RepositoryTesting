@@ -1,0 +1,3 @@
+﻿texto 27
+
+Considero y lo repito la abstracción para mí es uno de los pilares fundamentales de nuestra sociedad tecnológica porque sino nos abstraeríamos no pudiéramos contar cosas interesantes imagínense que a ustedes les toque ir a trabajar en la NASA y le pongan hacer el Space X con este proyecto que tienen de de llegar a la luna, llegar al espacio les toque hacer un algoritmo pequeño para algo dentro del transbordador si ustedes no saben la abstracción.

@@ -1,0 +1,15 @@
+﻿texto 10
+
+Permite la reasignación y la reutilización de personal especializado
+
+Transferencia entre proyectos.
+
+Mejora la productividad y el desarrollo.
+
+El desarrollo es reproducible.
+
+Establece el contexto en el que se aplican los métodos técnicos.
+
+Gestiona el cambio adecuadamente.
+
+Asegura la calidad.

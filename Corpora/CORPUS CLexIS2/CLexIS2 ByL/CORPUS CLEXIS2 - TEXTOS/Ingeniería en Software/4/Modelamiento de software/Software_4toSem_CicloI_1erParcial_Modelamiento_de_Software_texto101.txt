@@ -1,0 +1,3 @@
+﻿texto 101
+
+Siguiendo ese tema de polimorfismo asumimos que son cosas que hay que ir manejandole por detrás por diseño y para cerrar el tema y las clases van a tener varios tipos de de asociaciones o cardinalidades una de ellas es de uno a uno cuando voy a decir una clase se contiene una única vez con otra uno a muchos, una clase tiene mucho de otra clase muchos a muchos muchas clases tienen mucho de otra clase por ejemplo miren esta relación una persona trabaja en un departamento de control ahí hay de uno a uno.

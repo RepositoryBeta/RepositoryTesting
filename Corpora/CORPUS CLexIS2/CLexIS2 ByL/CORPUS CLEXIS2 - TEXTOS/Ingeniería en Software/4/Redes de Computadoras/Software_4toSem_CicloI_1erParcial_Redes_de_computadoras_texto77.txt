@@ -1,0 +1,5 @@
+texto 77
+
+En lugar  de implementar toda la lógica para llevar a cabo la comunicación en un único módulo,  el problema se divide en subtareas, cada uno de los cuales se realiza por separado.
+
+Una arquitectura de protocolos, los distintos módulos se disponen formando una pila vertical. Cada  capa de la pila realiza el subconjunto de tareas relacionadas entre si qué son necesarias para comunicar con el otro sistema.  por lo general,  las funciones más básicas se dejan a la capa inmediatamente inferior.

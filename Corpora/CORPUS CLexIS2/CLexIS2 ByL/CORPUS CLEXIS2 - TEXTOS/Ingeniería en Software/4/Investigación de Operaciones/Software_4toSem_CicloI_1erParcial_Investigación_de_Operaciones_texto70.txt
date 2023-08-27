@@ -1,0 +1,3 @@
+﻿texto 70
+
+Entonces el método simplex únicamente trabaja con restricciones del problema cuyas inecuaciones sean del tipo menor igual y sus coeficientes independiente sean mayores o iguales a cero tanto hay que estandarizar las descripciones para que cumplan estos requisitos antes de iniciar el algoritmo simplex, entonces ya sabemos que nos están diciendo que nosotros debemos estandarizar nuestros nuestras restricciones.

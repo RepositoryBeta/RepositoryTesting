@@ -1,0 +1,7 @@
+texto 86
+
+ Grafos Homeomorfos
+
+Dos grafos G1 y G2 son homeomorfos si pueden reducirse a gráficas isomorfas realizando varias reducciones en serie. La reducción en serie se da cuando en una gráfica G las aristas (v, v1) y (v, v2) están en serie, y al hacer reducción en serie desaparece v y solo queda v1, v2. Los grafos homeomorfos permiten afirmar cuándo una gráfica no es plana.
+
+Por consiguiente, si ambos grafos G1 y G2 pueden obtenerse a partir de un mismo grafo por una sucesión de subdivisiones elementales de aristas o reducción en serie, se dice que los grafos son homeomorfos.

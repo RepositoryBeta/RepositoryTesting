@@ -1,0 +1,3 @@
+texto 6
+
+ por lo tanto X va a ser mi variable aleatoria para nosotros poder describir una variable aleatoria tenemos que tener claro ciertas cosas vamos a los parametros que tiene que tener una varible aleatoria primero, vamos a tener X grande, esta X me representa mi variable aleatoria, Tenemos también un valor de x pequeña donde me representa un valor real en este caso me indica un valor real  los valores enteros recordemos que forman parte de los números reales.

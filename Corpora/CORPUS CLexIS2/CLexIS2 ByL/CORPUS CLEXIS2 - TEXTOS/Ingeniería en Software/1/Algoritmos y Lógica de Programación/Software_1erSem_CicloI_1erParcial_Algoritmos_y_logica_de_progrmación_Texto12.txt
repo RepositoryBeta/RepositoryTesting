@@ -1,0 +1,3 @@
+﻿texto 12
+
+Por ejemplo, yo no tengo esa habilidad, pero hay otros que tienen estabilidad y por eso se van un poco hacia el diseño de aplicaciones web, hacia el diseño de aplicaciones, el diseño propiamente como tal y hay otros que obviamente son muy fuertes y tienen mucha habilidad en el desarrollo del código, entonces allí se van complementando los equipos software, los equipos de el diseño de las pantallas, el otro el desarrollo del código, el otro seguramente va a realizar la instalación, las pruebas, etc.

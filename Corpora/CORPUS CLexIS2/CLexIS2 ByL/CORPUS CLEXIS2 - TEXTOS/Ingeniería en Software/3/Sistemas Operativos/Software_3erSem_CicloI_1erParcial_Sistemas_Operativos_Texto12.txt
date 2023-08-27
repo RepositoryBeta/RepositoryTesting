@@ -1,0 +1,7 @@
+﻿texto 12
+
+En una estructura monolítica pura tendríamos un núcleo complejo y de gran tamaño que debería ser recompilado por completo ante cualquier modificación. Sin embargo, cuando se utiliza la carga dinámica de módulos, éstos pueden compilarse por separado y cargarse durante la ejecución del sistema. 
+
+En cualquier caso, seguirán ejecutándose en modo privilegiado, lo que, comparado con un sistema con estructura de micronúcleo, lo hace más rápido, pero más vulnerable a errores de programación.
+
+Como ejemplos de sistemas con estructura monolítica podemos nombrar Solaris, Freebsd, OSX (versiones anteriores a la 9), GNU Linux y las versiones de escritorio de Windows anteriores a XP.

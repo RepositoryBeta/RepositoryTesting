@@ -1,0 +1,9 @@
+﻿texto 3 
+
+Lista enlazada simple:
+contiene una serie de elementos en estado de izquierda a derecha, partes que conforman la lista:
+nodo.
+elemento (números, caracteres, etc).
+puntero siguiente.
+puntero inicial.
+puntero final.

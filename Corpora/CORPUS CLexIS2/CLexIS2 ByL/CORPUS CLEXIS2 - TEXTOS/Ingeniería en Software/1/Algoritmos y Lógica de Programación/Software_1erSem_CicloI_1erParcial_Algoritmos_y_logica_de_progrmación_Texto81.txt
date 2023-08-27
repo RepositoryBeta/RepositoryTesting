@@ -1,0 +1,8 @@
+﻿texto 81
+
+Entre el mientras y el fin de El mientras van las instrucciones, las líneas de programación que yo quiero ejecutar para llegar a ese objetivo qué pasa con él mientras, tiene esta representación y en este rombo se ubica la condición que yo necesito analizar para saber si es verdadero o es falso para ser mas explicita se ve así:
+Mientras (condición) Hacer
+
+	(instrucciones)
+
+FinMientras.

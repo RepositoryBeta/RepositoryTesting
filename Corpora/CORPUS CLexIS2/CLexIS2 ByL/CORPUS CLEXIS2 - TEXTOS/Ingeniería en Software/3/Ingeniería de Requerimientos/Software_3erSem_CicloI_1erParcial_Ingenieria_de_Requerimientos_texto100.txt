@@ -1,0 +1,3 @@
+
+TEXTO 100
+En los stakeholders existen tres categorías de actores dentro de los cuáles tenemos: los clientes los usuarios y otras partes interesadas. En los clientes tenemos como: patrocinadores o sponsors, un producto campeón. En los usuarios tenemos: usuarios directos y usuarios indirectos. En otras partes interesadas tenemos los que son los consejeros y los proveedores. Todos estos stakeholders son de suma importancia en la participación del software.

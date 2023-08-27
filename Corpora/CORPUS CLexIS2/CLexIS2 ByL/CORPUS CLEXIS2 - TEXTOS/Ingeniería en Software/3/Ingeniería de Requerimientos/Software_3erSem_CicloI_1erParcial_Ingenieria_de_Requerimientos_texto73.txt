@@ -1,0 +1,2 @@
+TEXTO 73
+Cada una de estas opciones puede representarse con un caso de uso separado. El cliente fuera del sistema está asociado con cada uno de los casos de uso dentro del sistema que planea usar. Los elementos del diagrama de caso de uso son: primeramente una bolita que representa el caso de uso, un cuadrado que representa al sistema, el actor que son los usuarios la generalización y la asociación. Y cómo por último existen la dependencia. Hay casos de uso que generan una dependencia tenemos también que se puede incluir o extender.

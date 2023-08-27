@@ -1,0 +1,3 @@
+texto 19
+¿Qué significa cambio del orden de integración?
+Significa cambiar el orden de los diferencial, es decir, si en una integral tenemos f (x , y) dx, dy  pero  en el otro lado tenemos dy, dx ese es el orden de los diferenciales entonces vamos a cambiar el orden para que sea lo contrario, ejemplos  sí dice dy, dx acaba va a cambiar dx, dy aquí en cambio dice dx,dy cambiar el orden de integración, es que ahora va a ser primero dy y después dx.

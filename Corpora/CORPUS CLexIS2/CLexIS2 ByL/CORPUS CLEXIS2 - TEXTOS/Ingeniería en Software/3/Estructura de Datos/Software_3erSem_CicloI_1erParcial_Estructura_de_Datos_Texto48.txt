@@ -1,0 +1,9 @@
+texto 48
+
+APLICACIONES DE PILAS
+
+Supongamos que se da una expresión matemática que incluye varios conjuntos de paréntesis, se desea saber si los paréntesis están embebidos correctamente, es decir:
+
+- Si existe igual número de paréntesis a la izquierda que a la derecha.
+
+- Cada paréntesis de la derecha esté precedido por el correspondiente paréntesis de la izquierda.

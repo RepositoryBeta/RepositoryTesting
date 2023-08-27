@@ -1,0 +1,4 @@
+texto 15
+
+También tenemos otro grupo de métricas ¿Qué son las métricas de costos?: estas se basan o se centran en revisar los costos total del sistema informático por ejemplo podemos ver cuánto va a costar el sistema basado en x líneas de código.
+Métrica orientada al tamaño: esto nos permite conocer tiempo en que se terminará el producto software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con la que desarrollamos el software.

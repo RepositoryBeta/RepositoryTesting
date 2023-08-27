@@ -1,0 +1,4 @@
+texto 26
+
+Y ustedes ¿Cuándo están indicándole sus datos personales?, ustedes le indican su nombre y el cajero lo escribe mal, ejemplo una dirección donde ustedes viven y tal vez la persona que lo está atendiendo el cajero o el asesor del banco digita mal su dirección, suele pasar esa información ya el cajero por si ya está ingresando un dato erróneo. 
+Y esa base de datos es un error humano, que muchas veces es difícil de detectar y que va a generar inconsistencia, es por eso que les mencionaba hace un momento que normalmente en las bases de datos traen un porcentaje inconsistencias.

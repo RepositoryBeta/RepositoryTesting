@@ -1,0 +1,2 @@
+TEXTO 72 
+Hay dos tipos de cosas que usted tiene que aprender a hacer en tanto para su tesis para la parte del documento, lo que necesita que son los diagramas de caso de uso y las narrativas de los casos de uso, los escenarios no son tan necesario que usted aprenda. los esenciales son el diagrama y las narrativas. la meta del diagrama es proporcionar una explicación de la relación del sistema y el mundo exterior. por ejemplo en el caso de un cajero el diagrama de caso de uso puede corresponder a la pantalla principal y el menú disponible: retiro, consulta de saldo, etc. 

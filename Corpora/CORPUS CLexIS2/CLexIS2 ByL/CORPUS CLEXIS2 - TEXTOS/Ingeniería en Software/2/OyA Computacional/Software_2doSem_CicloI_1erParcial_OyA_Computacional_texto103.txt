@@ -1,0 +1,4 @@
+texto 103
+
+Por contra, la arquitectura MCM es más económica y más sencilla de producir, y también asimila mejor los altos de proceso, viene a ofrecer un rendimiento inferior. Cuando hablamos de arquitectura también podemos estar haciendo referencia a la generación de un procesador. por ejemplo, Coffe Lake Refresh la última revisión a nivel de arquitectura que han recibido los procesadores core 9000 de Intel, y Zen es su contraparte de AMD, utilizada en los Ryzen serie 2000.
+

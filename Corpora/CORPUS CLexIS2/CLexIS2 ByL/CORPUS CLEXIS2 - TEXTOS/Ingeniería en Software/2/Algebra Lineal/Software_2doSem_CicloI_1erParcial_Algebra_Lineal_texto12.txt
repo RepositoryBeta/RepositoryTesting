@@ -1,0 +1,7 @@
+﻿texto 12
+
+El proceso debe aplicarse hasta que se obtenga la matriz en forma escalonada (método de Gauss) o en forma escalonada reducida (método Gauss Jordan) de la matriz ampliada.
+
+Recordamos que una matriz en su forma escalonada reducida cumple:
+
+En cada fila, el primer elemento distinto de cero (de izquierda a derecha) es un 1 (uno principal). A la izquierda de este 1, sólo hay ceros. A su derecha puede haber cualquier número. 

@@ -1,0 +1,5 @@
+texto 87
+
+ Del modelo espiral mejor al modelo de cascada enfatizando la naturaleza iterativa del proceso de diseño.
+
+ Eso introduce un ciclo de prototipo iterativo. En cada iteración, las nuevas expresiones que son obtenidas transformando otras dadas son examinadas para ver si representan progreso hacia el objetivo.

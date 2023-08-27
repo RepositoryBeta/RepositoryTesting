@@ -1,0 +1,6 @@
+texto 61
+
+La entidad débil es aquello que no puede existir sin la entidad fuerte, en este caso se llama menor, muy bien. Está bien el concepto, ósea es una entidad que existe porque depende de otra, para su existencia necesita de otra entidad y estas entidades débiles se grafican de esta forma, decíamos con doble contorno y algo importante de la entidad débil, si no puede complementar acerca de las claves, ¿qué es la clave y el parcial?, es la que lleva únicamente la entidad débil y la clave primaria en la que haya relacionado con la clave fuerte, que contiene un atributo que la relaciona a ella.
+
+
+

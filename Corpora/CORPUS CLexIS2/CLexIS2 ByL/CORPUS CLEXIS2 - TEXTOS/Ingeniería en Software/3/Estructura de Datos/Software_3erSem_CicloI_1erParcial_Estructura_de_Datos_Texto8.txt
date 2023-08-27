@@ -1,0 +1,7 @@
+texto 8
+operaciones básicas sobre las listas doblemente enlazadas.
+De nuevo tenemos el mismo repertorio de operaciones sobre este tipo listas:
+Añadir o insertar elementos.
+Buscar o localizar elementos.
+Borrar elementos.
+Moverse a través de la lista, siguiente y anterior.

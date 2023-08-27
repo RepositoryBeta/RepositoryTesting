@@ -1,0 +1,5 @@
+texto 42
+ECUACIONES DIFERENCIALES DE SEGUNDO ORDEN
+ECUACIONES LINEALES DE SEGUNDO ORDEN ORDINARIAS: Una ecuación diferencial de segundo orden es de la forma: y'' + ay' + by = f (x).
+Si f (x) = 0 Se llama Ec. Homogénea como por ejemplo: y'' + 3y' + 4y = 0.
+Si f (x)diferente 0 Se llama Ec. No Homogénea como por ejemplo: y'' + 6y' + 5y = 2sen x.

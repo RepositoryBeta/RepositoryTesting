@@ -1,0 +1,7 @@
+﻿texto 88
+
+¿Qué no mide directamente el Análisis de Puntos de Función?
+
+Es importante destacas que los puntos de función no miden directamente el esfuerzo, productividad y costo, porque ella produce una medida de tamaño funcional de software. 
+
+Sin embargo, a partir del tamaño funcional correlacionado con otras variables, se torna posible identificar productividad, estimar esfuerzo y o costo de proyectos de software.

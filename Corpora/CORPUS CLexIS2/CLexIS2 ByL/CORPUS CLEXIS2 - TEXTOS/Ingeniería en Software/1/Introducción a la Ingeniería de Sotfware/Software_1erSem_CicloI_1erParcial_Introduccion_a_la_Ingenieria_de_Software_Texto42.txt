@@ -1,0 +1,4 @@
+texto 42
+
+Sistemas estratégicos: sistema de información desarrollado en las organizaciones con el fin de lograr ventajas competitivas, a través del uso de la tecnología de información.
+En dependencia del enfoque(tres en total), según reporta Peña (2006), los sistemas de información se puede agrupar en una cierta clasificación, que brinda una idea esencial de su estructura y funcionamiento.

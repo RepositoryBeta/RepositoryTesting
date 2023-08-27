@@ -1,0 +1,15 @@
+﻿texto 78
+
+Suficiencia: En que grado el producto es completo. 
+
+Rendimiento: En que grado el producto satisface los requisitos de rendimiento.
+
+Actividades y metas Ingeniero de validación y verificación 
+
+Administración de V & V de software. 
+
+Planificación. 
+
+Coordinación. 
+
+Reportar. 

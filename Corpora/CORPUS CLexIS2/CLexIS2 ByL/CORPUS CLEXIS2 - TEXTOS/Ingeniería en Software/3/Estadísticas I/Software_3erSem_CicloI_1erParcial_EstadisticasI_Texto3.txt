@@ -1,0 +1,3 @@
+﻿texto 3
+
+se va analizar dos tipos de variables, el primer tipo de variables se lo conoce como variables cualitativas y al siguiente tipo se lo conoce como variables cuantitativas, ahora una variable cualitativa me es representada como las palabras, cualidades, por eso se le conoce como variables cualitativas y una variable cuantitativa por supuesto se representa a partir de un valor numérico, esa es la gran diferencia, en estadística nosotros tenemos tanto variables cualitativas como variables cuantitativas, es decir cuando nosotros queremos hacer una encuesta, normalmente dentro de la encuesta tenemos dos tipos de variables.

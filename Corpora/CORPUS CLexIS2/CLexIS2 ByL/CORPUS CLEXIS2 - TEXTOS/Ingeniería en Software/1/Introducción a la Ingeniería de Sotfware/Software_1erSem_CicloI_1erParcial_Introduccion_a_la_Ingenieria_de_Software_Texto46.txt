@@ -1,0 +1,12 @@
+texto 46
+
+Elementos de un sistema de información.
+
+Los sistema de información, según Peña (2006), Tienen cinco elementos importantes, estos son:
+Financiero
+Administrativos
+Humanos
+Materiales
+Tecnológicos
+Sin embargo otro autor ( s/a, 2008a)  menciona que un sistema de información consiste en tres elementos: humano, tecnología y organización. 
+En teoría de  sistemas, un sistema de información es un sistema automatizado manual que involucra personas, máquinas y/o métodos organizador de recolección, proceso, transmisión, clasificación y divulgación de datos.

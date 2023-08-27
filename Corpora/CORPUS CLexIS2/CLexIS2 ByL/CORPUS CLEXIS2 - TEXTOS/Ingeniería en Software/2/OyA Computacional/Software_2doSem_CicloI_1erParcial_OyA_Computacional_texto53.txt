@@ -1,0 +1,4 @@
+texto 53
+
+En una computadora esa es su velocidad. Es decir, un núcleo va a ser más lento que uno con dos núcleos, obviamente porque va a tener dos core que atiendan. Esto se debe a que cada núcleo funciona a dicha velocidad, y hoy en día como mínimo notaremos una mejora en cuanto a SO nos referimos. En algún momento ustedes no trabajaron un pentium 1, pentium 2, pentium 3, pentium 4, pentium m, sino que ya probablemente empezaron a trabajar con los Dual Core, octa core, hexa core.
+

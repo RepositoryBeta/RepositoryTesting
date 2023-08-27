@@ -1,0 +1,9 @@
+﻿texto 23
+
+Sistemas cliente servidor
+
+Separar funcionalmente el núcleo, los procesos del sistema y los procesos de aplicación, induce una idea interesante: 
+
+¿Se podrán separar físicamente los procesos del sistema y/o los de aplicación? La arquitectura dónde cada proceso se ejecuta de manera independiente, es una de las más difíciles de lograr. 
+
+Esta independencia implica que los procesos podrían ser ejecutados en sistemas (no solo CPU, sino todo el hardware) diferentes y distantes geográficamente. En cada sistema independiente solo estarían presentes el núcleo y los componentes mínimos para la ejecución de uno o algunos procesos. 

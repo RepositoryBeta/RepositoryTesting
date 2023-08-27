@@ -1,0 +1,3 @@
+﻿texto 89
+
+Hay personas que le ponen aquí arriba abstract también funciona pero incluso me gusta más poner en cursiva porque a mí lo que me interesa como programador está mirando un modelo para saber cómo funciona esa vaina, me interesa de la clase abstracta, me interesa que me diga cuál es elemento abstracto, porque es el método que yo voy a tener que implementar cuando le haga herencia sobre esa clase abstracta entonces por favor cursiva.

@@ -1,0 +1,2 @@
+texto 33
+ECUACIÓN EN DERIVADAS PARCIALES (EDP) Es una ecuación que contiene una función multivariable y sus derivadas parciales. Se utilizan para problemas que involucran funciones de varias variables, y pueden resolverse manualmente, para crear una simulación por computadora. También para describir fenómenos como el sonido, el calor, la electroestática, la electrodinámica, la elasticidad, o la mecánica cuántica.

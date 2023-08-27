@@ -1,0 +1,2 @@
+TEXTO 10 
+La unidad de procesamiento: Existe también el sistema de interconexión que es un mecanismo que proporciona la comunicación entre la CPU, la memoria principal y los dispositivos de entrada y salida. Todo está interconectado y todo funciona porque hay comunicación interna entre los dispositivos internos que están en la tarjeta madre como en los dispositivos de Hardware que conforman este equipo si uno de estos componentes se daña el computador no puede funcionar.

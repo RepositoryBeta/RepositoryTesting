@@ -1,0 +1,9 @@
+texto 38
+
+OPERACIONES MÁS COMUNES DE LAS ESTRUCTURAS DE DATOS
+
+DEFINICIONES BÁSICAS
+
+NODO: Está formado por dos campos. Un campo de información que contiene el valor del elemento (info) y el campo NEXT que es el que apunta a la dirección del elemento siguiente.
+
+CAMPO DE INFORMACIÓN (INFO): Contiene el elemento actual o valor del nodo en la lista.

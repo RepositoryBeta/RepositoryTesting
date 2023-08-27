@@ -1,0 +1,2 @@
+texto 82
+Si la condición es verdadera se ejecuta la línea de programación por las líneas que ustedes quieran, mientras, como dice la condición es verdadera usted está dando que se ejecute el ciclo cada vez que la condición es verdadera, cuando la condición llega hacer falsa, entonces ya salen, mire como está aquí en la línea del flujo, sale para ir a hacer otra acción vamos a ver un ejercicio propuesto.

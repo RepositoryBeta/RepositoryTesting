@@ -1,0 +1,5 @@
+texto 107
+
+Frecuencia de trabajo.
+Intel y amd implementado hasta características en sus procesadores a través de lo que conocemos como hyper threading y SMT, y permite que cada núcleo físico trabaja con un proceso y subproceso, lo que equivale a 2 hilos. Hablamos de velocidad del procesador, hemos utilizado únicamente la unidad Mhz, que significa megahercio, y que se refiere a un ciclo por segundo.
+

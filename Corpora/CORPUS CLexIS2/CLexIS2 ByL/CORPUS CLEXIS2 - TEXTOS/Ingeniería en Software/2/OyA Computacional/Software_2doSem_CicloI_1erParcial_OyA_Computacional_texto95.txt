@@ -1,0 +1,4 @@
+texto 95
+
+Estamos hablando de un direccionamiento, de una indexación, que ustedes lo han visto en base de datos o lo están viendo en base de datos, manda a la 197 y obtenme ese registro, lo hace, ve a la 2 que es la segunda parte de ese registro y concaténamelo y entonces comienza la magia, el contenido de estas direcciones de memoria se le llaman palabras  (word, nada que ver con el programa Word o con el concepto común de palabras).
+

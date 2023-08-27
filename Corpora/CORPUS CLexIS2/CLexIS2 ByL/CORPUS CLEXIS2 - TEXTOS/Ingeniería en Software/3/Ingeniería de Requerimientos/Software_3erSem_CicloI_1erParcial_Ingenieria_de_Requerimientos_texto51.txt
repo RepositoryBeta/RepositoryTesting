@@ -1,0 +1,6 @@
+TEXTO 51
+Etapas del proceso de IR: Adquisición y análisis de requerimientos. En su proyecto ¿Quiénes son los stakeholders? ¿Cuál es el dominio de aplicación?. Se trabaja con los stakeholders para definir:
+1) Dominio de aplicación.
+2) Servicios que debe proporcionar el sistema.
+3) Desempeño requerido.
+4) Restricciones, etc.

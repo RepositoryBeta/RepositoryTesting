@@ -1,0 +1,4 @@
+texto 117
+
+Al programador no le interesa si es una ddr2, si es una ddr3 o una ddr4, los megahercios de velocidad de la memoria, esos datos en sí, que son más descriptivos de hardware, se convierten en un atributo organizacional, mientras que aquellos atributos que sí son requisitos para poder ejecutarse ciertas aplicaciones son atributos arquitectónicos, atributos arquitectónicos por ejemplo, son los requerimientos mínimos para correr en un plan esencial el juego fortnite, voy a tener que trabajar con un giga de vídeo por mínimo, voy a tener que trabajar con un procesador de 64 bits, tengo que trabajar por lo menos con 2 gigas de ram, procesador de 4 núcleos, etc.
+

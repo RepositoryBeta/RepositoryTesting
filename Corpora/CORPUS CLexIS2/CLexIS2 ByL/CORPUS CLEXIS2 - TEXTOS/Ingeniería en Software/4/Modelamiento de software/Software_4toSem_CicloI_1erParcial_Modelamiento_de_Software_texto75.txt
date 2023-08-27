@@ -1,0 +1,4 @@
+﻿texto 75
+
+El termino abstracción, los voy a Bombardear con el término abstracción hasta que lo entiendan en todos sus ejes, la representación de un tipo abstracto, existen varios tipos de datos, tipo primitivo, ¿Cuáles son los tipos de datos primitivos que conocemos? son los enteros, char, booleanos, flotantes, etcétera son formas de representar un tipo de datos con una característica en particular y que dependiendo de lenguaje lo entiendan
+¿Qué es un tipo abstracto? son un tipo dato que yo no sé cómo funciona.

@@ -1,0 +1,3 @@
+﻿texto 9
+
+Ahora una variable no observable es por ejemplo, es la edad, nosotros podemos ver u observar a la persona pero no sabemos la edad hasta que esta persona nos indique a través de la información que nos puedas dar, qué edad va a tener para poder nosotros analizar esa variable, hasta ahora hemos visto dos tipos de variables verdad usados, la variable sexo que puede ser una un fenómeno observable rápido de poder definir.

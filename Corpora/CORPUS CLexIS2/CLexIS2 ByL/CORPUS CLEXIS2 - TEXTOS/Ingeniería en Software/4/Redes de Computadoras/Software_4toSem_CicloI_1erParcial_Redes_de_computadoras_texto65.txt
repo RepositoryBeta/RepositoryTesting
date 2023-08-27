@@ -1,0 +1,8 @@
+
+texto 65
+
+Entonces esta es la conexión estrella, hoy en día hablamos que los switches ya direccionan, ya conocen y aprenden, ya saben directamente hacia qué equipo direccionar según la ip y todo eso 
+
+ ventajas de la topología estrella:
+
+escalabilidad: porque fácilmente podemos como interconectar, facil detección de nuevo fallo es mucho más fácil detectar porque simplemente vemos a quien no le llega señal si determinamos que ese es el fallo.

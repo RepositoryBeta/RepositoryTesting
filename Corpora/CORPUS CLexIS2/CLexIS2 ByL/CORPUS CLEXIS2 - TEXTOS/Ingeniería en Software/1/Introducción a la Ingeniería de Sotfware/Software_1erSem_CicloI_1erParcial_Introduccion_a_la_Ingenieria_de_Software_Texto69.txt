@@ -1,0 +1,5 @@
+texto 69 
+
+ El modelo debe reflejar la meta de desarrollo, a medida que se construye el modelo del equipo de desarrollo evalúa las actividades candidatas por su adecuación para  alcanzar dichas metas.
+
+ Ayuda al equipo de desarrollo a comprender donde sabe adaptarse el proceso, los modelos de proceso de desarrollo de software incluyendo requisitos del sistema como entrada y un producto entregado como salida.

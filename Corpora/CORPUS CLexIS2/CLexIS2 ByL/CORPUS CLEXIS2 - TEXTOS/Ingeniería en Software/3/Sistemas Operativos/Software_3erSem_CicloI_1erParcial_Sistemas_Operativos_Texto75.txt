@@ -1,0 +1,19 @@
+﻿texto 75
+
+Detección del interbloqueo 
+
+Algoritmo que comprueba si se cumplen condiciones de interbl. 
+
+Condiciones para interbloqueo (Coffman): 
+
+Exclusión mutua. Recursos de uso exclusivo. 
+
+Retención y espera. Mientras proc. espera por recursos pedidos, mantiene los ya asignados. 
+
+Sin expropiación. No se expropian recursos asignados. 
+
+Espera circular. 
+
+Existe lista circular de procesos tal que cada proceso espera por recurso que tiene siguiente proceso. 
+
+En sistema general son necesarias pero no suficientes.

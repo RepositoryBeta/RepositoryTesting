@@ -1,0 +1,3 @@
+texto 64 
+
+Implementación: empezamos al codificar algoritmos y estructura de datos, definidos en las etapas anteriores, en el correspondiente lenguaje de programación o para un determinado sistema gestor de base de datos.  En muchos proyectos se paso directamente a esta etapa; son proyectos muy arriesgado que adoptan un modelo de ciclo de vida code & fix (codificar y corregir) donde se eliminan las etapas y especificaciones, análisis y diseño con los siguientes pérdida de control sobre la gestión del proyecto.

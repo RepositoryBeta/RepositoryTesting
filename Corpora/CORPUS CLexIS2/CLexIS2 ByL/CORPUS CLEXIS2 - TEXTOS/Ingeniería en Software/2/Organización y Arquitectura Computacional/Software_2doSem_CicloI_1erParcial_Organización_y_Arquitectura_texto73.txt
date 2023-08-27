@@ -1,0 +1,2 @@
+﻿TEXTO 73
+Instrucciones de máquina: Una instrucción de máquina o instrucción máquina es una operación elemental, que un programa puede solicitar a un procesador, para que las ejecute, ya hemos estudiado que el procesador está compuesto de varias áreas donde está la unidad de control, la unidad aritmética lógica, dónde están también los registros que son pequeños espacios de memoria pero que tienen una velocidad muy buena. Todo este conjunto de áreas forman el procesador.

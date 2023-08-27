@@ -1,0 +1,3 @@
+﻿texto 66
+
+Siempre va haber algún punto donde nosotros vamos a decir nos vamos a detener hasta acá, hasta cuando nosotros hacemos ese algoritmo donde escribimos cada uno de los pasos a seguir para alcanzar ese objetivo entonces hay un momento en cuando ya nosotros tenemos que detener las iteraciones y ya tenemos la solución ustedes recuerdan cuando tuvieron métodos numéricos así se enteraba bastante para hallar convergencias para hallar raíces de funciones y así otra otro tipo de funciones matemáticas que ya que realizar a través de iteraciones.

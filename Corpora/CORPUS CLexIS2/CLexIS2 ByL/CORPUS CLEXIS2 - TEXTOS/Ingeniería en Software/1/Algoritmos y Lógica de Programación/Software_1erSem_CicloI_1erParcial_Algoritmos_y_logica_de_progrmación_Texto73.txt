@@ -1,0 +1,2 @@
+texto 73
+Entonces qué hago, si me dice las tablas de multiplicar del 1 al 12, eso significa que yo tengo que empezar por, uno por uno igual uno, 1 * 2 = 2, 1 * 3 = 3  y asi voy a tener que hacerlo hasta cuando llegue al 1 por 12 igual 12, pero me dice las tablas de multiplicar del 1 al 12 es decir que yo ahora tengo que hacer lo mismo con la tabla del 2, 2 * 2 = 2 y después haré lo mismo hasta llegar al 12, 2 * 2 = 4, así mismo 2 * 3 = 6 y así sucesivamente hasta cuando llegue al 2 por 12, será 2 por 12 igual 24.

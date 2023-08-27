@@ -1,0 +1,2 @@
+TEXTO 26
+El dominio de los requerimientos se refiere a quién va dirigidos:  los requerimientos de usuario tenemos a los administradores clientes, usuarios finales del sistema, ingenieros clientes, administradores contratistas y arquitectos del sistema. los requerimientos del sistema tenemos usuarios finales del sistema, ingenieros clientes, arquitectos del sistema y desarrolladores del software. En las especificaciones del diseño del Software tenemos los arquitectos del sistema y desarrolladores del software. También deberían estar los diseñadores gráficos.

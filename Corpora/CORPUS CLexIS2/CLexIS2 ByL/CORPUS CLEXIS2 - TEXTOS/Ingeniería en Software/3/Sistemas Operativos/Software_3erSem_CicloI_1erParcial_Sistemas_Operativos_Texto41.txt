@@ -1,0 +1,6 @@
+﻿texto 41
+
+Hilos a nivel de Kernel.
+
+En una aplicación KLT pura, todo el trabajo de gestión de hilos lo realiza el kernel. En el área de la aplicación no hay código de gestión de hilos, únicamente un API (interfaz de programas de aplicación) para la gestión de hilos en el núcleo.
+Windows 2000, Linux y OS 2 utilizan este método. Linux utiliza un método muy particular en que no hace diferencia entre procesos e hilos, para linux si varios proceso creados con la llamada al sistema clone comparten el mismo espacio de direcciones virtuales el sistema operativo los trata como hilos y lógicamente son manejados por el kernel.

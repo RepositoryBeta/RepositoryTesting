@@ -1,0 +1,4 @@
+texto 87
+Grafos particulares
+Grafo conexo. Es aquél grafo en que existe camino simple entre cualquier par de vértices. Es decir, desde cualquier vértice v tiene al menos un camino para llegar al vértice w. También llamado grafo conectado.
+el grafo es conexo, pues dados dos vértices cualesquiera v y w existe un camino de v a w.

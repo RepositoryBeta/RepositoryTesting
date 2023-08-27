@@ -1,0 +1,5 @@
+texto 68 
+
+Razones para modelar en proceso de software
+
+Cuando se pone por escrito una descripción de un proceso, se da forma a una comprensión común de las actividades, recursos y restricciones relacionadas de cómo desarrollar el software, esto ayuda al equipo a que se desarrollen contra las inconsistencias, la redundancia, la  omisiones en el proceso en las partes que lo constituyen.

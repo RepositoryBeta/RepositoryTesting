@@ -1,0 +1,9 @@
+texto 47
+
+y por ultimo la comunicación full-dúplex a veces se le dice solo duplex que esa si es en dos sentidos y esa sí puede ser al mismo tiempo, por ejemplo la comunicación celular de ahora y todo eso, bueno ya vimos que estos son los tres tipos básicos de Comunicaciones según la dirección de transmisión, 
+
+simplex: una sola dirección, 
+
+half-dúplex: ambas direcciones pero no al mismo tiempo.
+
+full-dúplex: ambas direcciones y si puede ser al mismo tiempo.

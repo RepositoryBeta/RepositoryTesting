@@ -1,0 +1,7 @@
+TEXTO 22
+Estos requerimientos son de diferentes tipos:
+1) Muy general, como el mostrado en el 1.
+2) Requerimientos funcionales, como el 2, que define una parte de la funcionalidad del sistema.
+3) Requerimiento de implementación, como el 3.
+4) Requerimientos de desempeño, como el 4.
+5) Requerimientos de usabilidad.

@@ -1,0 +1,7 @@
+﻿texto 96
+
+COCOMO II está adaptado a los ciclos de vida de los modelos de desarrollo de software actuales, dado que es posible de aplicar a aquellas nuevas prácticas no tradicionales de software como desarrollo rápido de aplicaciones, aplicaciones no secuenciales, reusabilidad del software, reingeniería, programación orientada a objetos, entre otras.
+
+Desarrollar un modelo de estimación de costo y cronograma de proyectos de software que se adaptara tanto a las prácticas de desarrollo de la década del 90 como a las futuras.
+
+Construir una base de datos de proyectos de software que permitiera la calibración continua del modelo, y así incrementar la precisión en la estimación.

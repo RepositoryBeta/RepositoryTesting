@@ -1,0 +1,20 @@
+﻿texto 7
+
+Una matriz cuadrada (mismo número de filas que de columnas) tiene matriz inversa si, y solamente si, su determinante es distinto de 0.
+
+Las matrices con inversa se denominan regulares o invertibles. En caso contrario, se denominan singulares.
+
+La inversibilidad de las matrices es un concepto clave en el álgebra matricial debido a sus múltiples aplicaciones.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+﻿texto 5
+
+Y si usted no hace un diagrama entidad relación no va a tener un plano en el cual predecir posibles falencias de sus sistemas, cuando yo entre en funcionamiento con datos reales uno de las primeras formas de evaluar un sistema es espiando los histogramas entonces en estos proyectos son muy importante, porque hay otros casos el proyecto diagramas de estado, diagrama de secuencia, levantamiento del modelo, arquitectura, etcétera.

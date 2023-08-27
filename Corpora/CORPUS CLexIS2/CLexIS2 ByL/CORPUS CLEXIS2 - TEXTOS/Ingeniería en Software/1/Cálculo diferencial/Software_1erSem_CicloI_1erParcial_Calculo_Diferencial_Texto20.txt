@@ -1,0 +1,4 @@
+﻿texto 20 
+
+Nos podemos dar cuenta que en la integral de la izquierda tenemos dx, dy y que sus límites de integración son 0,1 y (Y), raiz cuadrada de (x), en cambio en la integral de la derecha tenemos dy, dx y sus límites de integración son 0, 1 y x^2, x podemos ver que han cambiado los límites de integración de la integral interna.
+Entonces el cambio del orden de integración quiere decir que los diferenciales aquí está dx, dy van a hacer cambiado, y en su lugar va a ser dy, dx.

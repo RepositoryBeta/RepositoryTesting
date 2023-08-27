@@ -1,0 +1,8 @@
+﻿texto 17 
+
+Clasificación de los algoritmos de ordenamiento de información:
+El hecho de que la información está ordenada, nos sirve para poder encontrarla y accesarla de manera más eficiente ya que de lo contrario se tendría que hacer de manera secuencial.
+Algoritmos de inserción:
+En este tipo de algoritmo los elementos que van a ser ordenados son considerados uno a la vez. 
+Cada elemento es INSERTADO en la posición apropiada con respecto al resto de los elementos ya ordenados.
+Entre estos algoritmos se encuentran el de INSERCION DIRECTA, SHELL SORT, INSERCION BINARIA y HASHING.

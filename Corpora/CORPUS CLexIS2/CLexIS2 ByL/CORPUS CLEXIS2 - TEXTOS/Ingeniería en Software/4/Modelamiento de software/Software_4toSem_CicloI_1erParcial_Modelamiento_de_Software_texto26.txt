@@ -1,0 +1,3 @@
+﻿texto 26
+
+Seguimos con el tema de modelamiento porque la clase se llama modelamiento y yo quería que ustedes sepan de qué se trata el modelamiento antes de empezar crudo,vamos a empezar con los objetos, atributos, etc,  hablamos de modelar, el modelaje era un proceso cognitivo es un proceso mental que hacemos desde hace mucho tiempo los seres humanos y no es algo que le atañe netamente en ingeniería de software, ni a los desarrolladores.

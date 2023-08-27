@@ -1,0 +1,9 @@
+texto 66
+
+interbloqueos
+
+Los interbloqueos afectan a los procesos que se dan de manera concurrente y además utilizan recursos del sistema, dichos recursos son liberados cuando el proceso ya no los necesita, por lo tanto,  los recursos son asignados por el sistema   operativo   con   el   fin   gestionarlos   de   la   manera   más   eficiente. 
+
+Los procesos no suelen trabajar de manera independiente, sino que se comunican entre sí generando una exclusión mutua, es aquí cuando se pueden producir los interbloqueos.
+
+Teniendo en cuenta esto, los procesos siguen una serie de pasos para usar un recurso del sistema. 

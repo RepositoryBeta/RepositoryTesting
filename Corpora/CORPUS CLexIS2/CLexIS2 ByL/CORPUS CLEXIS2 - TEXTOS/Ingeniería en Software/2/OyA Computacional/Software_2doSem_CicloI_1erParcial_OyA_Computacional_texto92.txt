@@ -1,0 +1,8 @@
+texto 92
+
+El DIE tiene esos 3 niveles, level 1, level 2 y level 3.
+1) Caché de nivel 1 (L1): Es la más pequeña después de los registros.
+2) Caché de nivel 2 (L2): Esta memoria es más lenta que la l1.
+3) Caché de nivel 3 (L3): Es la más lenta de las 3, aunque mucho más rápida que la memoria.
+Tenemos aquí a los registros, específicamente que es la memoria interna del procesador.
+

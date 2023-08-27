@@ -1,0 +1,3 @@
+texto 69
+
+para ese tipo de redes la velocidad de transmisión es altas con bajas tasas de error, buen comportamiento ante situaciones de alto tráfico todos eso son relativos, la desventaja es que si se cae un nodo hay fallo en toda la red y en la incorporación de nuevo nodos no es sencilla es idéntico a la de bus que si quiero añadir un nuevo dispositivo tendría prácticamente que abrir toda la red.

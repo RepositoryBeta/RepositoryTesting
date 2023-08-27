@@ -1,0 +1,8 @@
+﻿texto 33
+
+Base y dimension de los espacios vectoriales
+
+BASE DE UN ESPACIO VECTORIAL 
+Un conjunto de vectores B = (u1, u2,  uk) forman una base del espacio vectorial V si: Los vectores de B pueden generar todo el espacio vectorial V.
+
+Dada una base B = (u1, u2, uk) Y un vector V, este se puede escribir de la siguiente forma: V = a1 * u1 + a2*u2 + ak * uk. Los números a1, a2, ak reciben el nombre de coordenadas del vector V.

@@ -1,0 +1,3 @@
+﻿texto 77
+
+Ahora bien si yo quiero quitar ese signo de desigualdad y mantenerlo igualdad que debo hacerle al 5 se le sumaria 3 para que sea igual a 8 de esta misma manera nosotros tenemos una restricciones de la forma menor o igual, bueno nosotros y ustedes saben que en programación lineal nosotros hayamos variables de decisión funciones objetivos verdad y la restricción una función objetivo y las restricciones y las restricciones son inecuaciones de tenemos una función verdad más o menos de esta forma y acá tenemos un menor igual.

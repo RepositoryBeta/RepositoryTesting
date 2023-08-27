@@ -1,0 +1,5 @@
+ texto 90
+
+ Grafo Bipartito. Un grafo G=(V,E) es bipartito, si el conjunto de vértices V puede separarse en dos subconjuntos V1 y V2 disjuntos (V1, V2 = Æ) de modo que cada arista de E sea incidente con un vértice de V1 y con un vértice de V2; también puede decirse, cada vértice de V1 es adyacente con vértices de V2, pero no hay adyacencias entre los vértices de cada subconjunto.
+Un grafo bipartito, donde V1 = (v1, v2, v3) y V2 = (v4, v5) son conjuntos disjuntos donde cada arista es incidente en un vértice de V1 y un vértice de V2; es decir, cada vértice de V1 es adyacente con cada vértice de V2. 
+Que un grafo es bipartito, si y solo si, no tiene ciclos con longitud impar.

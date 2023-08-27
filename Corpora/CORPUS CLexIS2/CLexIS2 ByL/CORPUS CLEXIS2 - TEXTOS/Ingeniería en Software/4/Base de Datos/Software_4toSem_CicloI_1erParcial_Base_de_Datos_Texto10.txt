@@ -1,0 +1,6 @@
+texto 10
+
+¿Qué pasa si es que yo modifico la base de datos? 
+Mis aplicaciones no tienen porque verse alterada .
+Eso es la independencia, tener independencia de los datos, versus los programas de aplicación entonces, acá yo voy a tener un modelo lógico, que el modelo entidad relación en la capa conceptual de los niveles ansi-sparc y también voy a tener un nivel físico.
+En la capa interna física del modelo ansi parc si yo cambio cualquiera de estos dos niveles de lenguaje de aplicación, tengo una aplicación que yo estoy haciendo.

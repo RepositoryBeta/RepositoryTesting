@@ -1,0 +1,7 @@
+texto 68
+
+Para definir de mejor manera a los recursos hay cuatro tipos existentes:
+Recursos consumibles: son aquellos que dejan de existir una vez que los procesos los han utilizado.
+Recursos reutilizables: son aquellos que los procesos ya han utilizado y quedan libres para posteriores procesos.
+Recursos compartidos o exclusivos: este tipo de recursos no se ven afectados por los interbloqueos ya que son usados de manera inmediata.
+Recursos con ejemplar único o múltiples: pueden tener varios ejemplares y así ser usados por distintos procesos.

@@ -1,0 +1,13 @@
+﻿texto 40
+
+Estas antes mencionadas se dan con la suma y la multiplicacion para los vectores.
+
+Para ello se definen 4 axiomas que garantizan la existencia del subespacio vectorial. 
+
+Sea V un espacio vectorial, se define S como subespacio vectorial si y solo si:
+
+- S no es un conjunto vacío.
+
+- S es igual o está incluido en V.
+
+- La suma es ley de composición interna.

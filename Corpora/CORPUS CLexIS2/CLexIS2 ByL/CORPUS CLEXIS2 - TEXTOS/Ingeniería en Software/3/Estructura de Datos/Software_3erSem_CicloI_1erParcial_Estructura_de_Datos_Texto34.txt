@@ -1,0 +1,4 @@
+﻿texto 34
+
+La programación estructurada se refiere a un conjunto de técnicas que aumentan considerablemente la productividad del programa reduciendo en elevado grado el tiempo requerido para escribir, verificar, depurar y mantener los programas. 
+Utiliza un número limitado de estructuras de control que minimizan la complejidad de los programas y por consiguiente reducen los errores y hacen los programas en general más eficientes.

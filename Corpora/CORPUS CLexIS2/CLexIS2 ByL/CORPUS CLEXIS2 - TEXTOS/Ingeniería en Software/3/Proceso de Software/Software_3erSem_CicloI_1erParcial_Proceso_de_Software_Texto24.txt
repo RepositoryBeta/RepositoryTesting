@@ -1,0 +1,15 @@
+﻿texto 24
+
+Características:
+
+Modelo secuencial: Separación en fases de cada caja de tiempo
+
+Integraciones constantes
+
+Centrado en el código más que en la documentación
+
+Desarrollo basado en componentes
+
+Uso efectivo de herramientas y frameworks
+
+Participación activa del usuario.

@@ -1,0 +1,3 @@
+﻿texto 107
+
+También tenemos el enfoque común que aunque los miembros del equipo ágil realizan diferentes tareas y aporten habilidades distintas a de proyecto, todo deben centrarse en una meta cómo entregar al cliente en la fecha prometida un incremento de software que funciona ese es el enfoque comun, la colaboración ya que la ingeniería de software sin importar el proceso trata de evaluar analizar y usar la información que se comunica el equipo de software.

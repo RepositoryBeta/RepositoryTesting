@@ -1,0 +1,2 @@
+TEXTO 79
+Asociaciones en los casos de uso: Se representan con una línea conectando un actor a un caso de uso. Pueden ser bidireccionales o unidireccionales. por ejemplo tenemos una consulta de saldo o un retiro de efectivo. Las asociaciones implican que un actor interactúa con el comportamiento modelado en el caso de uso. La notación para las asociaciones es un línea simple entre el actor y el caso de uso en el que participa. Los actores sólo pueden tener asociaciones con casos de uso, subsistemas, componentes y clases.

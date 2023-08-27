@@ -1,0 +1,5 @@
+texto 37
+
+Y esa transacción en el cajero automático, está compuesta por varios insert, varias actualizaciones en la base de datos, es un programa que actualiza primero el monto que ustedes están haciendo la transacción, actualiza la fecha de la transacción, tal vez va actualizar los archivos o tablas contables donde se está contabilizando las transacciones que hacen los clientes, entonces todo voy hacer en una transacción. 
+Pero, ¿Qué pasa si el cajero falla a la mitad de la transacción?, pasa si el cajero para aquí a la mitad, hace un update, un insert y ahí falla entonces, si es que el dbms no me trae un manejo de transacciones correcto.
+

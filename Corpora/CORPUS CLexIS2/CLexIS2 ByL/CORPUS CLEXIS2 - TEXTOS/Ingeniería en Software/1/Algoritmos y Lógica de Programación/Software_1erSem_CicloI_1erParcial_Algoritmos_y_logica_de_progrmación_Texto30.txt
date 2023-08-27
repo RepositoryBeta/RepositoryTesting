@@ -1,0 +1,3 @@
+﻿texto 30
+
+Pero él tiene que ir mejorando sus versiones y además proponiendo mejoras en ese aplicativo, porque si no viene otro y nos lo gana, y nos vende otro producto mucho mejor, la documentación es un paso muy importante pero que realmente a los programadores no nos gusta, es un poco tedioso pero muy importante de hecho no es precisamente el último paso de nuestro proceso de desarrollo sino que en teoría debería ser una práctica constante a lo largo de todas las etapas.

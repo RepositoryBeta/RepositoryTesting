@@ -1,0 +1,4 @@
+texto 50 
+
+Usuario: identifica todas las personas que interactúan con el sistema, este incluye desde el máximo nivel ejecutivo que recibe los informes estadísticas procesadas, hasta el usuario cooperativo que se encarga de recolectar ingresar la información al sistema.
+Procedimientos Administrativos: corresponde al conjunto de reglas y políticas de la organización, que rigen el comportamiento de los usuarios frente al sistema. Particularmente, deberán asegurar que nunca, bajo ninguna circunstancia un usuario tenga acceso directo a la base de datos.

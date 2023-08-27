@@ -1,0 +1,5 @@
+﻿texto 23
+
+Esta rama es especial porque justamente le dedica los resultados o los algoritmos que manejan Machine learning son una combinación de estadística computacional.
+
+En qué se diferencia el machine learning con el Deep learning, es netamente por los algoritmos que usted va a manejar, por ejemplo en Machine learning los algoritmos que maneja estamos hablando de redes neuronales, estamos hablando de redes bayesianas, estamos hablando por ejemplo: árboles de decisión.

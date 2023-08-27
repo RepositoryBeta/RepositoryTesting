@@ -1,0 +1,2 @@
+TEXTO 80
+Instrucciones de máquina: Cuando das clic o das órdenes en las aplicaciones, el sistema operativo las controla y están en constante comunicación con el CPU. Otras cosas que están que son los dispositivos periféricos, conectas los dispositivos al módulo correspondiente y el módulo hace la traducción de lo que quieres comunicar a la CPU. Pero, obviamente debe pasar por aplicaciones, los controladores y luego el sistema operativo lo reconoce y ese sistema operativo, va a actuar a través del CPU para dar órdenes porque es donde tiene que ser procesada.

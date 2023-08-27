@@ -1,0 +1,3 @@
+﻿texto 8
+
+Esos aparatos fueron concebidos para pensar y comunicarse empleando un lenguaje bastante simple: el lenguaje binario, osea la computadora sólo entiende en términos de 0 y 1,  eso realmente es una ley que los va acompañar durante el resto de su vida, ustedes deben de saber que las computadoras no entienden ningún lenguaje, nosotros escribimos en lenguajes de programación aplicando lenguajes de programación que la mayoría de los que conozco todos vienen en inglés.

@@ -1,0 +1,7 @@
+﻿texto 53
+
+Entonces recuerden que habíamos hablado de tres aspectos de las variables de decisión de la funcion objetivo y de la restricción entonces. En la programacion lineal se requiere que nuestro modelo matematico satisfaga las condiciones:
+
+-  Las variables de decision (incognitas):son no negativas (positivas o cero), por lo que Xi >=0
+
+-  El criterio (funcion objetivo) para elegir los mejores (óptimos) valores de las variables de decision debe estar representado como una funcion lineal que ionvolucre a las variables de decision. 

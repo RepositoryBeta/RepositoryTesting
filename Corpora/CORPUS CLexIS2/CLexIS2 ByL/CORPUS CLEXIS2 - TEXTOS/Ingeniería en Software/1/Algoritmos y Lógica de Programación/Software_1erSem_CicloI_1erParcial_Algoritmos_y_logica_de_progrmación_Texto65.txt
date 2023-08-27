@@ -1,0 +1,2 @@
+texto 65
+Ya tengo mi valor ese dato dice que la edad de Brian Sánchez es de 18 años, un identificador es el nombre que yo le voy a poner a esta área donde está mi dato, entonces yo le voy a poner edad, ¿No le puedo poner numero? si pero fíjate que no identifica, no sería un identificador si le pongo número, esto es edad si yo le pongo ese nombre. queda preciso, que representa o cómo dice el identificador, identifica lo que la variable contiene.

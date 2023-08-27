@@ -1,0 +1,3 @@
+﻿texto 77
+
+Entonces dónde esa persona es el conjunto en esa abstracción de persona ojo es abstracción de persona, es simplemente la unión entre sus tres tipos de datos primitivos y su comportamiento, hay una abstracción interesante que yo se las pongo a los estudiantes de algoritmos todos utilizamos el tipo file el tipo de dato file es una tipo de dato súper abstracto, y tiene un montón de tipos de datos hiper complejo, para que esa clase, ese archivo que yo importo y lo puedo utilizar Simplemente yo hago asterisco file (open).

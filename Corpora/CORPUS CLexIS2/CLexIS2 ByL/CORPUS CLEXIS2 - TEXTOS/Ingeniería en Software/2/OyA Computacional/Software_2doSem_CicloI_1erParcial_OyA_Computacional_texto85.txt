@@ -1,0 +1,6 @@
+texto 85
+
+4) Se comunica con los dispositivos de entrada salida para transferencia de datos o resultados de almacenamiento.
+5) No procesar o almacenar datos. Esto no hace la unidad de control, ella no procesa datos ni almacena datos.
+Ahora, en la unidad de control existen elementos, quizás el más importante es el reloj, el CLK se encarga de generar una señal adrada que sincroniza los componentes internos.
+

@@ -1,0 +1,3 @@
+﻿texto 102
+
+Pero un departamento de control puede tener muchas personas de uno a muchos porque es de uno y de retorno es muchos acá un profesor da una materias y una materia es dictada por muchos profesores muchas a muchos la relación de uno a uno por ejemplo en el relación de noviazgo se supone que una persona esta con noviazgo con otra persona y es cuando no puede haber más de uno.

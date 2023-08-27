@@ -1,0 +1,4 @@
+﻿texto 61
+
+Representación de variables cualitativas
+El primer tipo de gráfico que vamos a considerar a la hora de representar una variable cualitativa es el gráfico de sectores, mucho más conocido como gráfico de pastel, este consiste en una circunferencia cuya área representa el total de los datos así, a cada categoría se le asigna un área que será directamente proporcional a su frecuencia de esta forma, las categorías más frecuentes tendrán áreas mayores, de modo que de un vistazo podemos hacernos una idea de cómo se distribuyen las frecuencias en las categorías.

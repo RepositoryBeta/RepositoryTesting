@@ -1,0 +1,17 @@
+﻿texto 66
+
+Explorar los distintos estilos de codificación que pueden ser utilizados en el lenguaje seleccionado. 
+
+Realizar la codificación del sistema. 
+
+Interactuar con los ingenieros de testeo y apoyarlos.
+
+Actividades y metas Programador 
+
+Reunirse con otros miembros del equipo de programadores. 
+
+Interactuar con el administrador de la configuración. 
+
+Realizar los cambios solicitados al código. 
+
+Hacer la documentación del código.

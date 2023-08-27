@@ -1,0 +1,3 @@
+﻿texto 52
+
+Esta relación es una relación que se llama de clientela si se dan cuenta en el fondo hay una pertenencia por detrás quiere decir que uno contiene al otro estamos viendo este gráfico, está abstracción del sistema bibliotecario entonces qué significa, aquí los rentangulos son entidades, las líneas son relaciones, hasta ahora en este modelo bastante sencillo en este modelo lo que estamos viendo son relaciones que se llaman de clientela.

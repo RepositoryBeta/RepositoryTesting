@@ -1,0 +1,2 @@
+TEXTO 81
+Instrucciones de máquina: El usuario es el que da las órdenes, utiliza todo este andamio de Hardware y Software que para él es totalmente transparente, él desconoce todo lo que está pasando internamente. Pero como ustedes tienen esta asignatura saben que lo que pasa, es que existe una comunicación entre datos, buses, dispositivos y que finalmente la CPU es la que tiene el control de la interpretación y ejecuciones.

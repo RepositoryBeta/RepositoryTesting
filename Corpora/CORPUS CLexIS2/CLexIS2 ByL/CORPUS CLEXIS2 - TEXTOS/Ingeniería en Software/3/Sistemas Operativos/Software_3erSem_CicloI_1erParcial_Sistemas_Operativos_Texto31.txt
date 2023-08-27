@@ -1,0 +1,7 @@
+texto 31
+
+Sincronización de hilos
+
+Todos los hilos comparten el mismo espacio de direcciones y otros recursos como pueden ser archivos abiertos. Cualquier modificación de un recurso desde un hilo afecta al entorno del resto de los hilos del mismo proceso. Por lo tanto, es necesario sincronizar la actividad de los distintos hilos para que no interfieran unos con otros o corrompan estructuras de datos.
+
+ Una ventaja de la programación multihilo es que los programas operan con mayor velocidad en sistemas de computadores con múltiples CPU (sistemas multiprocesador o a través de grupo de maquinas) ya que los hilos del programa se prestan verdaderamente para la ejecución concurrente. 

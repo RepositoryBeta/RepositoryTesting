@@ -1,0 +1,4 @@
+texto 88
+
+La otra parte que habíamos hablado es la unidad aritmética lógica, en esta unidad tenemos dos elementos ya la primera parte es la aritmética la otra parte es la lógica, obviamente por ser aritmética lógica, cuando hablamos de la sección aritmética hablamos de las operaciones aritméticas, como suma, resta, multiplicación y división. Todas las operaciones complejas se realizan haciendo un uso repetitivo sobre estas operaciones.
+

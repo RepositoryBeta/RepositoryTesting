@@ -1,0 +1,4 @@
+texto 16
+
+En aquellos casos el dbms ayuda a vigilar, verificar aquellos datos que aparecen repetidos, para que se actualicen de manera coherente, es decir que todos los datos repetidos actualizan de forma simultánea, entonces este motor de base de datos me ayuda primero a minimizar la redundancia y en aquellas partes de la base de datos donde no se puede eliminar la redundancia.
+Lo que me va a garantizar que el dato sea igual, no sea igual, sea consistente porque si.

@@ -1,0 +1,5 @@
+﻿texto 69
+
+Si nosotros tomamos cualquier punto de esa zona de solución esa zona factible nosotros éramos capaces de obtener una solución a este problema pero nosotros no queriamos solamente una solución también queríamos la mejor solución.
+
+Entonces nosotros vamos a los vértices y decir a los bordes de ese polígono y teniamos la evaluación objetivos hasta alcanzar el punto óptimo entonces por eso que aquí nos dice que cada iteración desplaza la solución a un nuevo punto.

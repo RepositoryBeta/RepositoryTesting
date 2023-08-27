@@ -1,0 +1,5 @@
+﻿texto 86
+
+Cómo es la primera restricción no tengo h2 ni tengo h3 por esa razón colocó cero y cero en el lado derecho de la restricción tengo D.
+
+Entonces esa variable son como artificiales en que va a consistir el método como pueden ver acá nosotros tenemos que mirarlo de forma matricial si nosotros  tenemos acá esta matriz y aca tenemos la otra matriz si ustedes recuerdan que es una matriz identidad, que nosotros para poder alcanzar una matriz inversa nosotros teníamos que colocarle se acuerdan al lado una identidad hacer unas operaciones aplicar Gauss Jordan aplicar unas operaciones entre filas de matrices hasta alcanzar que mi matriz se invirtieran.

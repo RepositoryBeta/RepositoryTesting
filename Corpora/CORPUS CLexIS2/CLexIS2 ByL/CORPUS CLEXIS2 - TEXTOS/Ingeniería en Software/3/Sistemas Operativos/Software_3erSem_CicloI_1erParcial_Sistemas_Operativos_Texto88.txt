@@ -1,0 +1,11 @@
+texto 88
+
+Desventajas:
+
+- No es factible sino se conoce el tamaño máximo del archivo en el momento en que se crea el archivo.
+
+- Es la fragmentación del discoque resulta de esta política de asignación.
+
+Asignación por Listas Enlazadas: Es guardar cada uno como una lista enlazada de bloques de disco. Con este método es posible utilizar todos los bloques. No se pierde espacio por fragmentación del disco.                                                                                      
+
+Asignación por Lista enlazada Empleando un Indice: Todo el bloque esta disponible para todos. Además, el acceso directo es mucho mas fácil. 

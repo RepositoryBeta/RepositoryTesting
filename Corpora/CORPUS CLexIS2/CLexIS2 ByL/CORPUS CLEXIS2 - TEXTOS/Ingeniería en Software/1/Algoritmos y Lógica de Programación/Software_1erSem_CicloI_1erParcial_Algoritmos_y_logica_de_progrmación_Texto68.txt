@@ -1,0 +1,2 @@
+texto 68
+Los tipos de datos reales ya lo vimos son lo que llevan la parte decimal, 3.1415, el IVA de un artículo. más datos de tipo reales que lleven parte decimal, el promedio de tus notas de este parcial, en fin, los datos de tipo carácter sólo me representan un carácter, cualquiera que esta sea, un asterisco, un número pero que es un carácter y los de cadenas que son una combinación de letras, números y caracteres especiales.

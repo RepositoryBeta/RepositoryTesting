@@ -1,0 +1,5 @@
+﻿texto 18
+
+- Un modelo de flujo de datos o de actividad. Representa el proceso como un conjunto de actividades, cada una de las cuales realiza alguna transformación en los datos. Muestra cómo la entrada en el proceso, tal como una especificación, se transforma en una salida, tal como un diseño. Pueden representar transformaciones llevadas a cabo por las personas o por las computadoras.
+
+- Un modelo de rol acción. Representa los roles de las personas involucrada en el proceso del software y las actividades de las que son responsables.

@@ -1,0 +1,5 @@
+texto 43
+
+Supongamos que se desean conservar las puntuaciones de 50 estudiantes de un examen de informática. 
+
+Para almacenar éstas puntuaciones o calificaciones se necesita reservar 50 posiciones en memoria, dar un nombre al array, y a cada uno de los 50 estudiantes asignarles su calificación correspondiente, es decir, dar el índice o subíndice del array.

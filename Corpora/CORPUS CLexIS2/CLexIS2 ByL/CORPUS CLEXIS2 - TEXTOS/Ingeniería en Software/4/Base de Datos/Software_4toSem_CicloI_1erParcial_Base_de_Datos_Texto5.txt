@@ -1,0 +1,4 @@
+texto 5
+
+Estoy convirtiendo de manera abstracta, no hay problema en lenguaje natural a un diagrama conceptual, yo les decía que ustedes deben estar en capacidad el día mañana de cualquier requerimiento, les daba un ejemplo si el día de mañana. 
+Por ejemplo, a ustedes se acerca algún compañero que trabaja en una institución bancaria por ejemplo y le dice bueno yo sé que tú estás desarrollando sistemas y nosotros en el banco necesitamos un sistema para el manejo de las tarjetas de crédito.

@@ -1,0 +1,7 @@
+texto 79
+
+Y bueno teníamos finalmente la clase membresía, que es el otro elemento. 
+La clase membresía entonces, tiene que ver con la participación obligatoria u opcional de las entidades en la relación y como resumen, yo le decía que la clase membresía tiene que ver con la cardinalidad mínima, es a ustedes, ya lo saben, identificar entonces si la cardinalidad mínima, espero entonces yo debo dibujar este círculo a esta altura en la entidad que corresponde, la entidad que tiene la cardinalidad mínima que es 0 y eso me indica que la participación de proyecto dentro la relación es opcional.
+
+
+

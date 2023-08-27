@@ -1,0 +1,4 @@
+texto 25
+
+A través de estos buses circulan datos y direcciones que serán tratados por los dispositivos y el procesador de acuerdo a un régimen de llamadas o interrupciones que indican desde y hasta dónde provienen los datos o hacia dónde deben viajar. Entonces la característica principal es que muchos de estos se parten desde la placa o tarjeta madre, que es de donde se generan o nacen todas estas características arquitectónicas.
+

@@ -1,0 +1,2 @@
+TEXTO 68
+Introducción a las memorias: Tiene un acumulador y un multiplicador cociente, si es un multiplicador le corresponde a la unidad aritmética lógica, simplemente se emplean para almacenar operandos y resultados de operación de la unidad aritmética lógica temporalmente. Son memorias temporales pero que ayudan, porque su importancia está en la comunicación que tiene toda esta circuitería, para poder dar paso tanto a los datos de entrada y poder ser procesados, para que luego puedan ser devueltos en forma de resultado.

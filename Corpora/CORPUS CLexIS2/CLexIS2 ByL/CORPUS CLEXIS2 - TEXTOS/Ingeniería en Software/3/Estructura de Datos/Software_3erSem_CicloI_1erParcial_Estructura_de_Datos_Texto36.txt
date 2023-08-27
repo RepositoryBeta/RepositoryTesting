@@ -1,0 +1,7 @@
+texto 36
+- Compuestas
+ a) Arreglos
+ b) Conjuntos
+ c) Strings
+ d) Registros
+ e) Archivos.

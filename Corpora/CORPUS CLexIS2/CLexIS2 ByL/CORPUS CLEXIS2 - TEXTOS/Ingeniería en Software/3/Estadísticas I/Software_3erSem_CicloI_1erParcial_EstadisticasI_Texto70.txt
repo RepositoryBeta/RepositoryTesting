@@ -1,0 +1,4 @@
+﻿texto 70
+
+Para realizar un histograma, disponemos en el eje de abscisas todos los intervalos y levantaremos rectángulos cuyas bases serán la amplitud de los intervalos y cuyas alturas serán proporcionales a las frecuencias absolutas de cada intervalo. 
+Para este tipo de construcción es muy importante que los intervalos tengan la misma amplitud, en los casos en los que el número de intervalos resultantes de la agrupación es pequeño, se suele utilizar también el diagrama de sectores como representación gráfica apropiada.

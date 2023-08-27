@@ -1,0 +1,5 @@
+texto 95
+Máximo número de lados de un grafo
+Si un grafo es dirigido el máximo número de lados es n (n-1) y para grafos no dirigidos n (n-1) /2.
+Punto de Articulación
+Un punto de articulación de un grafo no dirigido G es un nodo v tal que cuando es eliminado de G (junto con las aristas incidentes en el) se divide un componente conexo del grafo en dos o más componentes conexos. El cálculo de los puntos de articulación se basa en un recorrido de profundidad.

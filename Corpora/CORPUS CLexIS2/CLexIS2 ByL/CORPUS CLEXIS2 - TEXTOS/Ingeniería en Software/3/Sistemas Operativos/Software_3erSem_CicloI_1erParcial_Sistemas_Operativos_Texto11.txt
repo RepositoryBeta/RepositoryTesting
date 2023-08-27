@@ -1,0 +1,7 @@
+﻿texto 11
+
+Sistemas operativos con estructura monolítica
+
+En este tipo de sistemas, el núcleo concentra la mayor parte de la funcionalidad del sistema operativo (sistema de archivos, gestión de memoria, etc), de modo que todos sus componentes principales se ejecutarán en modo núcleo. Aunque estos componentes se programen de forma separada se unen durante el proceso de compilación mediante un enlazador (linker).
+
+Para añadir flexibilidad a esta estructura, los sistemas operativos modernos que la utilizan (como es el caso de GNU Linux) pueden cargar módulos ejecutables de forma dinámica, permitiéndole actuar, en cierto modo, como un micronúcleo.

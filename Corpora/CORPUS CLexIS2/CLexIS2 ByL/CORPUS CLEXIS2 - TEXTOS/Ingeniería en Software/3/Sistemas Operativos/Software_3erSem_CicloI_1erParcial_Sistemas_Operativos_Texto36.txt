@@ -1,0 +1,13 @@
+texto 36
+
+Pila de ejecución donde se irá metiendo y sacando instrucciones. (Lugar donde almacenaremos las instrucciones que van a ser ejecutadas).
+
+Espacio de almacenamiento estático donde almacenará las variables.
+
+Acceso a los recursos de la tarea, que son compartidos por todos los hilos de la tarea.
+
+Ventajas del uso de hilos.
+
+Se tarda menos tiempo en crear un hilo de una tarea existente que en crear un nuevo proceso.
+
+Se tarda menos tiempo en terminar un hilo que en terminar un proceso.

@@ -1,0 +1,7 @@
+TEXTO 29
+Los requerimiento Funcionales definen: 
+1) Cuáles entradas debe aceptar el sistema, 
+2) Cuáles salidas debe producir el sistema, 
+3) Qué datos debe almacenar el sistema que utilizarán otros sistemas, 
+4) Qué operaciones debe realizar el sistema, 
+5) La sincronización y cronometraje de las actividades anteriores.

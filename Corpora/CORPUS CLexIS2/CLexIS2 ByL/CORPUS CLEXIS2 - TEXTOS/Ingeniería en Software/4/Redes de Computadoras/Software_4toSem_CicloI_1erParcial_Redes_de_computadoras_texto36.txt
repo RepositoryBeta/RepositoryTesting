@@ -1,0 +1,5 @@
+texto 36
+
+¿Qué es una red?
+
+Es un conjunto de computadoras, equipos de comunicación y otros dispositivos que se pueden comunicar entre sí, a través de un medio en particular cable utp o lo que sea, otra definición es que una red se define como un sistema el cual a través de hardware  (equipos) y Software (programas) permite compartir recursos e información.

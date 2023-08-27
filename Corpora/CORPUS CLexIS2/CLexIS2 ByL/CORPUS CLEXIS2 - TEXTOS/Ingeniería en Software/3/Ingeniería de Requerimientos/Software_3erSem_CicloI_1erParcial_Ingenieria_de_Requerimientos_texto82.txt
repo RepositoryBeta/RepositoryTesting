@@ -1,0 +1,2 @@
+TEXTO 82
+Caso de estudio: Construcción del diagrama de caso de uso: Fuente de información para poder construir el caso de uso: Receiving, Stocking significa para la parte de inventario, Order fulfillment, Shipping que va con el envío de paquetes. Paso 1: Establecer el contexto del sistema meta. El contexto define la ubicación del sistema dentro del negocio, incluyendo procesos, planes y objetivos del negocio, otros sistemas, gente y sus obligaciones en el trabajo, restricciones impuestas por entidades externas.

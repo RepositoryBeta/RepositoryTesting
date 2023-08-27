@@ -1,0 +1,4 @@
+texto 32
+
+Un respaldo en frío, esto quiere decir cuando la base datos no está operativa regularmente su trabajo se hacen los fines de semana, los días domingos a medianoche cuando no está operativa la base datos se hace un backup o un respaldo de los datos en frío, otra técnica es el mirror o espejo es tener una duplicidad una copia de la base de datos en línea, si yo estoy haciendo una transacción en la base datos máster. 
+Por ejemplo, una maestra inmediatamente realiza una transacción, en ese mismo instante de tiempo se graba la transacción en una segunda base de datos copia o mirror esto me genera un costo de almacenamiento.

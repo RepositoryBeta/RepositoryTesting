@@ -1,0 +1,5 @@
+﻿texto 72
+
+Entonces el modelo para poder aplicar el método simplex deben cumplirse las siguientes condiciones.
+
+La primera condición es que el objetivo consistirá en maximizar o minimizar el valor de la función objetivo por ejemplo incrementar ganancias o reducir perdidas respectivamente, sin embargo cuando este método básicamente  nosotros trabajamos es para funciones de maximización luego veremos un método Dual, este es muy similar pero tiene una una pequeña diferencia para comprender vamos a trabajar con ejemplos de minimizar.

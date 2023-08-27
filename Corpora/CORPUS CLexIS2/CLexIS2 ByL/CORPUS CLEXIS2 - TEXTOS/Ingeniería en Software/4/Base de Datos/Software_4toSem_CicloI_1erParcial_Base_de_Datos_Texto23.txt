@@ -1,0 +1,4 @@
+texto 23
+
+Por ejemplo, si yo estoy interactuando desde un programa que hizo un dinero software a un programador y en el programa. 
+El programador por ejemplo actualizó la tabla de cliente pero se olvidó de actualizar la tabla, por ejemplo no sé, la tabla de la contabilidad que se está realizando con esa transacción del cliente, eso ya es una falla del programa, una falla del programador. 

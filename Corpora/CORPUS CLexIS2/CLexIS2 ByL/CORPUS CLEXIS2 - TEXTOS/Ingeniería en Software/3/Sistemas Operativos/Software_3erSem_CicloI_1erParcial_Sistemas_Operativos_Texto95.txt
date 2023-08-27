@@ -1,0 +1,11 @@
+texto 95
+
+Vaciados increméntales. Consiste en efectuar un vaciado completo periódicamente.
+
+Consistencia del sistema de archivos: Se pueden realizar dos tipos de verificaciones de consistencia: de bloques y de archivos.
+
+Bloques, el programa construye dos tablas, cada una de las cuales contiene un contador para cada bloque, que inicialmente vale 0.
+
+Rendimiento del Sistema de Archivos
+
+El acceso a un disco es mucho más lento que el acceso a la memoria. La lectura de una palabra de memoria por lo regular toma decenas de nanosegundos. 

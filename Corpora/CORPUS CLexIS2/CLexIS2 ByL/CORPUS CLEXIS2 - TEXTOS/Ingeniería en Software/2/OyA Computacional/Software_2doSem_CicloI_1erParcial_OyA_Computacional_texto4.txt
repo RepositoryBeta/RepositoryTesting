@@ -1,0 +1,4 @@
+texto 4
+
+Primero va uno, luego va el otro y así sucesivamente, conforme se vayan generando los unos y ceros, la unidad de control se encarga de poder trabajar, repartir cada 8 bits y procesar esa información y en ese byte que tiene 8 bits, él va a encontrar ceros y unos para poder transformar esa información electrónica, en un dato computacional. Ahora, si no es serie, voy a tener el bus paralelo, en cambio en este caso en paralelismo yo transmito simultáneamente lo que el bus me permita.
+

@@ -1,0 +1,3 @@
+﻿texto 85
+
+Entonces así se forma nuestra variables, nuestras filas, ahora nos decía acá que las columnas van a hacer se van a consumir tantas columnas como variables hayan, ¿Cuántas variables tengo? x1, tengo x2, tengo x3, tengo h1, tengo h2 y h3, y lado derecho de la restricción que se lo llama B entonces ya aquí tenemos nuestra ecuación, nuestra tabla simplex, se dice que esta es la base, la tabla, ahora como la llenamos vamos a llenarlas con los coeficientes por ejemplo en la primera restricción van a ser los coeficientes de mi primera reflexión por eso que tengo aquí en x1 va 'a' y asi sucesivamente.

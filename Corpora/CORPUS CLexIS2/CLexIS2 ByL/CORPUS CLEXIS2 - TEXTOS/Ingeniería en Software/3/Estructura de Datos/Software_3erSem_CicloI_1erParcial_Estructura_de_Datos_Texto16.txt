@@ -1,0 +1,7 @@
+﻿texto 16 
+
+Operaciones Básicas
+Crear: se crea la cola vacía.
+Encolar (añadir, entrar, insertar): se añade un elemento a la cola. Se añade al final de esta.
+Desencolar (sacar, salir, eliminar): se elimina el elemento frontal de la cola, es decir, el primer elemento que entró.
+Frente (consultar, front): se devuelve el elemento frontal de la cola, es decir, el primer elemento que entró.

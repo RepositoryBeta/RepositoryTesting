@@ -1,0 +1,3 @@
+texto 48
+
+Si por ejemplo, el dba quiere sacar o quiere recuperar algo que respaldó en meses anteriores o en semanas anteriores va a donde a los archivos de backup y en los archivos de backup busca la información de meses anteriores que respaldó y la puede recuperar y también a nivel físico, miren hay archivos para el manejo de contraseñas y parámetros generales de la base de datos, la base de datos, la instancia como están manejados partes memorial, aparte sga maneja el motor mismo de la base datos y la parte pga que es el área de memoria donde van a subir los procesos servidores.

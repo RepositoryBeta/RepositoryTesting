@@ -1,0 +1,3 @@
+
+TEXTO 19 
+Operaciones binarias:  Las operaciones que se pueden realizar con números binarios son las mismas que en cualquier otro sistema:  suma, resta, multiplicación y división. La suma binaria tiene una tablita que obedece al momento de poder hacer la operación, las posibles combinaciones al sumar dos bits son: 0 + 0 = 0, 0 + 1 = 1,1 + 0 = 1 y 1 + 1=0 (llevando 1). Ese uno que se va llevando se acumula para  la siguiente columna de suma.

@@ -1,0 +1,3 @@
+﻿texto 1
+
+La primera unidad vamos a ver los fundamentos del modelamiento, en la primera unidad yo voy a pedir que desempolvemos nuestros conceptos de programación orientada a objetos que vieron en el segundo semestre porque vamos a necesitar recordar un poquito de como funciona un objeto, que es un objeto, atributos, relaciones, cardinalidad, multiplicidad.

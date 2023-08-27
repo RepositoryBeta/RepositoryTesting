@@ -1,0 +1,2 @@
+TEXTO 58
+Introducción a las memorias: Nosotros tenemos dos grandes partes que son prácticamente el computador de todo el equipo. Esa gran parte que es la unidad central de proceso, que aloja dos áreas: que es la unidad de control y la unidad aritmética lógica. Además los equipos de salidas tienen comunicación a través de los buses para que puedan aquí ejecutarse las instrucciones, las órdenes y luego a través de esos mismos buses poder tener datos de salida.

@@ -1,0 +1,18 @@
+﻿texto 99
+
+Partida doble es que deben existir por lo menos dos tipos de cuenta el debe y el haber en una cuenta yo registro las entradas.
+
+Principios fundamentales de la partida doble
+
+1) No hay deudor sin acreedor y no hay acreedor sin deudor, toda persona que recibe es deudora, toda persona que entrega es acreedora.
+
+2) Todo valor que ingresa es deudor y todo valor que sale es acreedor.
+
+3) Las pérdidas son siempre deudoras, las ganancias son siempre acreedores.
+
+4) En toda pasión el importe del debe, debe ser igual al importe del haber.
+
+5) Valor debe salir por el mismo concepto por el cual ingreso.
+
+6) Toda cuenta sin excepción deberá ser personificada.
+

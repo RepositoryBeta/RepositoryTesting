@@ -1,0 +1,5 @@
+texto 73
+
+Ahora, ¿Cómo funciona el cpu?
+El procesador es el elemento encargado de realizar todas las operaciones que forman a instrucciones de un programa. Si nos ponemos en el punto de vista de la máquina, estas operaciones se reducen a simple cadenas de ceros y unos, llamar bits, y que representan los estados de corriente no corriente, formando así estructuras lógicas binarias Incluso un ser humano es capaz de comprender y programar en código máquina, ensamblador o a través de una nueva programación de más alto nivel.
+

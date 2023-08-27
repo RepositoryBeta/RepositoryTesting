@@ -1,0 +1,4 @@
+﻿texto 3
+
+¿Qué tenemos como objetivo de esta unidad? 
+El objetivo es aplicar los conceptos fundamentales de lógica de programación para representar soluciones de problemas mediante pseudocódigo o diagrama de flujo, entonces aquí lo que vamos a ver simplemente es poder hacer estas representaciones de soluciones a problemas, nunca podemos resolver un problema sin analizarlo, para eso son las técnicas de pseudocódigo y diagrama de flujo.

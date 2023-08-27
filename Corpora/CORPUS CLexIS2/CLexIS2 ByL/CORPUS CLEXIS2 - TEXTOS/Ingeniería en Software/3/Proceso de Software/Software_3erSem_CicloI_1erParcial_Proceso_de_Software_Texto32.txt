@@ -1,0 +1,7 @@
+﻿texto 32
+
+MODELO TIPO ÁGIL
+
+MODELO SCRUM Scrum (Melé en español) es un modelo de desarrollo ágil que propone una técnica de desarrollo incremental mediante sprints.
+
+Para ello, no se cuenta con una planificación como tal, sino con un listado de características deseables para el producto que se deberán abordar durante los sprints de trabajo.

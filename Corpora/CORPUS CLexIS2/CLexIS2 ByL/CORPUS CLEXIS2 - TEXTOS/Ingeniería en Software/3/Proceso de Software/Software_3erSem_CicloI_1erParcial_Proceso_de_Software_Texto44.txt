@@ -1,0 +1,7 @@
+﻿texto 44
+
+Software de Gestión: El proceso de la información comercial constituye la mayor de las áreas de aplicación del software.
+
+Han evolucionado hacia el software de sistemas de información de gestión (SIG) que accede a una o más bases de datos que contienen información comercial por ejemplo: nóminas, cuentas de haberes, débitos, inventarios, etc.
+
+Se realizan tareas convencionales de procesamientos de datos.

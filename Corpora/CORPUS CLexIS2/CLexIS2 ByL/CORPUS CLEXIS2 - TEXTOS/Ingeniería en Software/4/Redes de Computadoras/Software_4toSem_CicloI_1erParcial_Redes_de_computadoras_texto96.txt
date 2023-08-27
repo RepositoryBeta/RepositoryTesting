@@ -1,0 +1,5 @@
+texto 96
+
+La capa de acceso a la red es responsable el intercambio de datos entre el sistema final el servidor, la estación de trabajo, etcétera,  la red la cual está conectado.
+
+También se encarga de las especificaciones de las características del medio de transmisión,  la naturaleza de las señales,  la velocidad de los datos  y cuestiones afines.

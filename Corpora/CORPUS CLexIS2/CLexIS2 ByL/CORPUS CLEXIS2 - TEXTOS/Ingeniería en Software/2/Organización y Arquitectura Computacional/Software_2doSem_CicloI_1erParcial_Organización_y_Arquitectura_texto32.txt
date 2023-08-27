@@ -1,0 +1,2 @@
+TEXTO 32
+Unidad central de proceso: Todas estas áreas que se encuentran en la unidad central del proceso como la unidad de control y la unidad aritmética lógica junto con la memoria local trabajan en conjunto para poder coordinar, para poder ejecutar, para poder supervisar todo, y así poder controlar todo el sistema que es el computador como tal, y poder realizar operaciones coordinadas que puedan salir correctamente.

@@ -1,0 +1,5 @@
+﻿texto 9
+
+Sistema de origen, sistema destino y sistema de transmisión, necesitamos un medio de transmisión los datos de información por algun medio de transmision tiene que trabajar el trabajo es el medio o sistema de transmisión.
+La Fuente
+Ejemplos de fuentes puede ser un teléfono o computador personal en el que genera los datos a transmitir, el transmisor normalmente los datos generados por la fuente no se transmiten directamente tal y como son generados.

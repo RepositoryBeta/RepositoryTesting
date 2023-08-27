@@ -1,0 +1,7 @@
+texto 58
+
+Clasificación de redes según su cobertura, las diferencias entre las LAN y las WAN 
+
+la cobertura LAN es pequeña, generalmente un edificio o, a lo sumo, un conjunto de edificios próximos es habitual que la LAN sea propiedad de la misma entidad propietaria de los dispositivos conectados a la red. 
+
+En WNA esto no es tan habitual o, al menos, una fracción significativa de recursos de la red son ajenos, por lo general las velocidades de transmisión internas en una Lan son mucho mayores que en una WAN.

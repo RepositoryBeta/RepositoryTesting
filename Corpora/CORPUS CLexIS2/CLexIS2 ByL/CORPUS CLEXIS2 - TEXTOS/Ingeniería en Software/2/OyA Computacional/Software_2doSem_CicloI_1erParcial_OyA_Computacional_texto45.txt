@@ -1,0 +1,4 @@
+texto 45
+
+A todos les llegan tres líneas, a cada uno le llega la línea de control, la línea de dirección y la línea de datos, tanto a la memoria, tanto los dispositivos entrada y salida, como también al cpu. Normalmente, se da a conocer como el más importante. Pero, realmente es tan importante como los demás, quítale un palillo de memoria a tu computadora y verás que es tan importante como el cpu, quítale la mainboard y ya no hay computadora, quítale el cpu y no va a ver quién trabaje, quítale la tarjeta de sonido y no vas a escuchar nada, Al final todo trabaja y orquesta para un fin común.
+

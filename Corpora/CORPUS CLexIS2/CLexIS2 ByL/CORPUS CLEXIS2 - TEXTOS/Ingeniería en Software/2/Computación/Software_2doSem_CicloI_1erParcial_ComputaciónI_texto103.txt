@@ -1,0 +1,5 @@
+﻿texto 103
+
+Herramientas para el procesamiento de texto
+
+El procesador de texto es una aplicación informática para la creación, edición, modificación y procesamiento de documentos de texto con formato, a diferencia de los historias de texto, que manejan sólo texto simple. 

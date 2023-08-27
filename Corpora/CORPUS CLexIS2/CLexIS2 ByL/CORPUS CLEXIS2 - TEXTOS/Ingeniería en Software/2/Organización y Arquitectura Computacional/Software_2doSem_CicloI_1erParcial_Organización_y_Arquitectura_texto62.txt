@@ -1,0 +1,2 @@
+TEXTO 62
+Introducción a las memorias: Tenemos la memoria MAR (Memory Address Register), que si ya nos dicen address podemos saber que esto es direcciones, y no solamente maneja datos, también almacena instrucciones. Esas instrucciones medidas en direcciones, instrucciones propiamente de combinaciones de bits, especifica la dirección en memoria de la palabra que va a ser escrita o leída por la memory address register.

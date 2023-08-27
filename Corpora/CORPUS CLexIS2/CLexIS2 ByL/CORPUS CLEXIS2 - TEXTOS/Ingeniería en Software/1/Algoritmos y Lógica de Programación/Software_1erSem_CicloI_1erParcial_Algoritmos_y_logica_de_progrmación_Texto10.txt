@@ -1,0 +1,5 @@
+﻿texto 10
+
+Metodología para resolver un problema 
+¿Cómo se hace un programa? 
+Programar es un proceso que requiere de creatividad, pero eso no quiere decir que no debemos seguir cierto orden lógico al momento de hacerlo, dependiendo de la complejidad del problema, los pasos que normalmente se siguen para desarrollar un programa son, ¿ustedes se han fijado que es lo que tienen las aplicaciones de software? hay algunos que dicen, Ay! que lindo como está esa interfaz, qué color a usado seguramente a mí no se me hubiera ocurrido, pero como combina bien el tamaño de las letras con el color de fondo, etc. 

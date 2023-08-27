@@ -1,0 +1,3 @@
+texto 13
+
+Por otra parte si la probabilidad de amenaza fuera del 0,5 y la posibilidad de repeler un ataque es solo 0.25, entonces la integridad del sistema será de 0.63 y aquí está un poco baja por lo tanto la probabilidad de que exista un ataque es bastante alto, otra otra métrica es la facilidad de uso: este es el intento por cuantificar la sencillez de una aplicación al utilizarla, construir una página web para que venda productos en línea y nos olvidamos de incluir un catálogo de productos como nuestro ¿Cliente va a encontrar los productos?, significa que la facilidad de uso no existe.

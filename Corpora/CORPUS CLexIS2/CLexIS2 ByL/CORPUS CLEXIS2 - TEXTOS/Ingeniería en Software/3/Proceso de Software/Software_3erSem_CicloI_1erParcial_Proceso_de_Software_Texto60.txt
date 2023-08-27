@@ -1,0 +1,7 @@
+﻿texto 60
+
+Objetivos Diseñador 
+
+Se encuentran construidos en niveles de abstracción bien definidos, provistos a través de una interfaz bien definida y controlada, y construida sobre facilidades igualmente bien definidas y controladas en niveles de abstracción inferiores. 
+
+Existe una separación clara de preocupaciones entre la interfaz y la implementación de cada nivel, haciendo posible cambiar la implementación de un nivel sin violar las suposiciones que hicieron los clientes. 

@@ -1,0 +1,3 @@
+texto 82
+
+Cada capa realizamos un conjunto de tareas, relacionadas entre sí, cada capa se sustenten la capa inmediatamente inferior,  una capa proporciona servicios a la capa inmediatamente superior,  idealmente las capas deberían estar definidas para que los cambios en una capa no implicarán cambios en otras capas, el modelo OSI explica de qué manera los paquetes de datos viajan a través de varias capas a otro dispositivo de una red, aún cuando el remitente y destinatario poseen diferentes tipos de modelos de red.

@@ -1,0 +1,4 @@
+texto 76
+
+Incluso la l3 que es la más lenta de ellas, es más rápida que la ram, significa que estamos hablando de velocidades en gigahercios extremadamente elevadas, puesto que la memoria RAM sabemos que tiene un rápido acceso, primero tenemos la l1, después la l2, después la l3, después tengo la memoria RAM y luego la memoria RAM, ¿Qué tengo?, cuando ya se me llena la memoria RAM, ¿Qué sigue?, sigue la memoria ROM, es el disco duro.
+

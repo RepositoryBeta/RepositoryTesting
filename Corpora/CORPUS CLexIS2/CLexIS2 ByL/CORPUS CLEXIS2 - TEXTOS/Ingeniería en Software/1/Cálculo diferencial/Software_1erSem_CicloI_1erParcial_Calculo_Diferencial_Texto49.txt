@@ -1,0 +1,5 @@
+texto 49
+
+Cuando la diferencia entre dos soluciones con valores iniciales cercanos es cualitativamente grande se dice que el sistema no presenta estabilidad, y, por supuesto, en ingeniería no se valora positivamente esta situación.
+
+Debido a que toda ED de orden superior puede reducirse a un sistema de ecuaciones diferenciales (SED) de primer orden equivalente, el estudio de la estabilidad de las soluciones de ED puede reducirse al estudio de la estabilidad de los SED.

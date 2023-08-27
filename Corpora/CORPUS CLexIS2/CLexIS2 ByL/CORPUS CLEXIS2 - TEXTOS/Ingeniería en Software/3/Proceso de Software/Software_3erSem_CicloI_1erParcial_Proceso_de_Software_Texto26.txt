@@ -1,0 +1,9 @@
+﻿texto 26
+
+MODELO TIPO EVOLUTIVO
+
+MODELO ESPIRAL: Este modelo fue propuesto por Boehm en 1986 en su artículo (A Spiral Model of Software Development and Enhancement).
+
+En 1988, Boehm publicó un artículo similar destinado a una audiencia más amplia. Básicamente consiste en una serie de ciclos que se repiten en forma de espiral, comenzando desde el centro.
+
+Se suele interpretar como que dentro de cada ciclo de la espiral se sigue un Modelo Cascada, pero no necesariamente debe ser así.

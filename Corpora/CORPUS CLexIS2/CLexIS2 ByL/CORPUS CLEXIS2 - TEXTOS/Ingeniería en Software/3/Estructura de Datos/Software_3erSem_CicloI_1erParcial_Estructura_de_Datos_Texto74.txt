@@ -1,0 +1,7 @@
+texto 74
+
+ Para evaluar una expresión con recorrido INORDEN pueden seguirse los siguientes pasos:
+
+Trascriba la expresión con recorrido INORDEN a POSORDEN (o a PREORDEN). Para tal fin, debe parentizar completamente la expresión y luego, cambie el paréntesis derecho (o izquierdo) por el operador más próximo no utilizado.
+
+ - Forme el árbol de expresión con recorrido POSORDEN (o PREORDEN) a partir de la expresión dada. En efecto, el árbol se forma escribiendo como raíz el operador principal de la expresión y se escriben los operandos como subárboles izquierdo y derecho. Observe que las hojas del árbol corresponderán a los operandos.

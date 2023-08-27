@@ -1,0 +1,3 @@
+texto 114
+
+Según algoritmo, bueno ya tengo todo resuelto, hice mi menu de opciones pero yo sé que según mi algoritmo cuando me dicen menú de opciones yo se que la forma de resolverlos es aplicando el ciclo mientras y eso todavía no lo he puesto y dice que esto va a estar dentro del menú de opciones hasta que el usuario elija la opción salir, por lo tanto ahora es el momento de aplicar el ciclo mientras, bueno donde pongo este ciclo, y aquí ya me da una pauta debe permanecer dentro del ciclo hasta tomar la opción salir.

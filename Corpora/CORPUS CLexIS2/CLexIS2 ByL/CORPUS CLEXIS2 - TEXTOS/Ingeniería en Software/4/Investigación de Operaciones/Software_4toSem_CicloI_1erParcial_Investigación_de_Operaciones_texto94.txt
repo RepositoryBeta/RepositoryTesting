@@ -1,0 +1,3 @@
+﻿texto 94
+
+Teniendo en cuenta que esta operación se hará únicamente cuando el coeficiente de la variable xn sea superior a 0 Entonces qué nos dice que nosotros debemos realizar un cociente entre D en este caso D dividido para cada elemento de esa columna pivote entonces de acuerdo al ejemplo que estabamos viendo los cocientes quedarian de la siguiente forma D dividido para A, E dividido para d, y F dividido para J, entonces nos dice vamos a dividir los valores de B entre el correspondiente de la columna hallada.

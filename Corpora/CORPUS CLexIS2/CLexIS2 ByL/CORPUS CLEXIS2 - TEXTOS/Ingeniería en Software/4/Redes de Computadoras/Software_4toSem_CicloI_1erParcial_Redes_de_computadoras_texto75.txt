@@ -1,0 +1,5 @@
+texto 75
+
+  En los sistemas de comunicación en cada una de las capas de la arquitectura de protocolos se implementan o más protocolos comunes.  cada protocolo proporción conjunto de reglas el intercambio de datos entre sistemas.
+
+En el intercambio de datos entre computadoras los procedimientos involucrados pueden llegar complejos  complejo. Debe haber un camino computadores directo o a través de una red de comunicación, además Normalmente se requiere la realización de los siguientes tareas.

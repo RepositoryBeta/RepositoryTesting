@@ -1,0 +1,3 @@
+Texto 91
+
+Las leyendas de los roles que cumplen las instancias que se van a almacenar o los roles que necesito para poder claramente identificar la relación recursiva, en una relación recursiva voy a almacenar material pero materias que cumplen 2 roles, materias que son previas y materias que tienen asignaturas previas y la entidad como si materia o estos dos roles materias tienen los mismos atributos, la previa yo pudiera muy bien almacenar en una misma entidad, yo debería tener la forma de ir, diferenciar y cuál materia tiene previas y cuál materia es previa de otra, ese ejercicio lo pudiera hacer mediante una recursiva, como lo ven, como es una relación obviamente, tiene cardinalidad máxima y también va a tener cardinalidades mínima.

@@ -1,0 +1,4 @@
+﻿texto 73
+
+-  Todas las restricciones deben ser ecuaciones de igualdad, pero qué raro porque anteriormente me decía que las inecuaciones son de este tipo, es decir que los ejercicios que tengan ecuaciones del tipo menor igual.
+Es decir que son para maximización lo debemos convertir en ecuaciones de igualdad a esa estandarización es como si también se le dijera llevarla a la forma canónica de inecuaciones a ecuaciones y el punto tres nos dice que todas las variables x me deben tener valor positivo o nulo condición de no negatividad.

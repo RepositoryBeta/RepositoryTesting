@@ -1,0 +1,3 @@
+﻿texto 111
+
+ En un ciclo de vida el análisis consiste en producir un documento de especificación de requisitos que describa lo que es el sistema debe hacer pero no cómo hacerlo, el proceso del estudio de las necesidades de los usuarios para llegar a una definición de los requisitos sistema y de Hardware o de software así como proceso de estudio y refinamiento de dichos requisitos, un requisito es una condición o capacidad que necesita el usuario para resolver un problema conseguir un objetivo determinado.

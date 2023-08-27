@@ -1,0 +1,3 @@
+﻿texto 60
+
+Pero usted no puede decir ah mira se te cayó el préstamo del libro, el préstamo el libro es un concepto, es una transacción entonces pues es lo que estamos aquí creando junto a esta simbolización es ese concepto abstracto, ya nos dimos cuenta que en la biblioteca entre miembros y libro, existe una linea, y esa linea es otro concepto que tendría el préstamo y entre biblioteca y miembro hay otro concepto que sería el carnet de membresía y ya nos podemos ir afilando.

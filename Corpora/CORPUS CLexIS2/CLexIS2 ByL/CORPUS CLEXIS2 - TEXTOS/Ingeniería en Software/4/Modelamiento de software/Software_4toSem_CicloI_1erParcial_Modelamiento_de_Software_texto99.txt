@@ -1,0 +1,3 @@
+﻿texto 99
+
+Preparador que está como en dos niveles hacia abajo es un subtipo hereda de los dos tipos de relieve y hereda de persona ojo que acá hay un problema de herencia múltiple, esto nivel de código me abre todo un abanico de posibilidades que una de las cosas que trabajaba también Bárbara porque cuando ella se da cuenta de que los datos abstractos venían con algo en particular un dato abstracto podía heredar un dato abstracto podía contener.

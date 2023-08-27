@@ -1,0 +1,3 @@
+texto 75
+
+Bueno, ya vi que tenía que analizar el problema, ahora ¿Eso tengo que pasarlo a líneas de código pero que hago?,  porque esto ya es un champú de cosas que tengo que mezclar, sencillo, Simplemente tienes que analizar,  entonces bueno voy a ir de lo más sencillo a lo más complejo, lo que pudo divisar es que aquí tengo inicio y tengo fin y el incremento es de uno en uno, tengo mi inicio que es uno y mi fin es el 12  y mi incremento va de uno en uno por lo tanto es una particularidad de los ciclos.

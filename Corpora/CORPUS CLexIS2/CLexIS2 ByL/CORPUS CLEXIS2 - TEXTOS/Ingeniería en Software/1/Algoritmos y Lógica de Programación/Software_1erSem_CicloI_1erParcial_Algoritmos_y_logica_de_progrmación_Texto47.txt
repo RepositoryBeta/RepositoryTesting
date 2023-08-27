@@ -1,0 +1,3 @@
+texto 47
+Por ejemplo, si el cliente realiza una compra mayor a $100 le vamos a dar un descuento del 10%, caso contrario para compras menores de 100 no hay descuento, fíjate, entonces yo ya tengo una condición planteada, y voy a ejecutar una acción dependiendo del resultado de la condición, la condición me dio falso tengo que no le puedo ejecutar descuento, pero si él compró mas de $100 si lleva descuento.
+

@@ -1,0 +1,11 @@
+﻿texto 4 
+Operaciones básicas sobre las listas enlazadas simples.
+lista vacía.
+listo no vacía.
+Longitud de la lista.
+insertar elemento.
+Buscar elemento.
+eliminar elemento.
+recorrer la lista.
+eliminar la lista.
+modificar elemento.

@@ -1,0 +1,4 @@
+texto 118
+
+Un computador un sistema complejo: los computadores de hoy en día contienen millones de componentes electrónicos básicos, enumerarlos sería imposible, la clave está en reconocer la naturaleza jerárquica de la mayoría de los sistemas complejos. Un sistema jerárquico en un conjunto de subsistemas interrelacionados donde cada uno de los cuales, se organiza en una estructura jerárquica hasta que se alcance el nivel más bajo del subsistema elemental. Tenemos una jerarquía mayor, y en esa jerarquía mayor se van desatando en cascada muchas otras jerarquías y subjerarquías hasta que se descompone al elemento más básico.
+

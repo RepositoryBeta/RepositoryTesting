@@ -1,0 +1,7 @@
+﻿texto 56
+
+Servidor
+
+Este dispositivo ofrece servicios para que otros ordenadores funcionen correctamente, basándose en una red local o en su defecto en internet.
+
+Los servidores cuentan con un almacenamiento de memoria de mayor tamaño, múltiples discos duros y además ofrecen una alta potencia debido a sus avanzados procesadores.

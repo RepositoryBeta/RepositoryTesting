@@ -1,0 +1,7 @@
+texto 51
+
+En general se utiliza un esquema expropiativo, ya que si llega un proceso con mayor prioridad al que esta ejecutando a la cola de listos, este tomará el control del CPU. 
+
+Tiene como inconveniente que sufre de posposición indefinida, ya que un proceso de baja prioridad quizá no pueda ejecutar nunca. Para ello se implementan prioridades dinámicas de envejecimiento (aumenta la prioridad según pasa tiempo sin ejecutar). 
+
+Round Robin: Este algoritmo designa un intervalo de tiempo para el uso del procesador, por cada proceso (time quantum). Cuando se le asigna la CPU a un proceso, este ejecutará hasta finalizar, o hasta que se le consuma el quantum. 

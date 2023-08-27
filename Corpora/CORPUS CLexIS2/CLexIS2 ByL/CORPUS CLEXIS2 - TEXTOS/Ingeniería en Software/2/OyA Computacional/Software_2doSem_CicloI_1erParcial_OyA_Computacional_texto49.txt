@@ -1,0 +1,4 @@
+texto 49
+
+Esta pastilla como observamos en la imagen actualmente presenta dos core, esto es un dual dore, tiene dos core, dos núcleos y cada uno trabaja en serio o en paralelo dependiendo, un microprocesador de doble núcleo se ve como un solo chip físicos. Es decir, como se visualiza en la pastilla que es mi procesador, pero en realidad tengo dos núcleos, como decíamos tiene 2 unidades centrales de proceso en su interior.
+

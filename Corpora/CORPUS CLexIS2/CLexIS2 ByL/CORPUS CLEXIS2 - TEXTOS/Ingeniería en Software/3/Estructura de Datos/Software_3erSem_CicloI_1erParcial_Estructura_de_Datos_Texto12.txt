@@ -1,0 +1,7 @@
+﻿texto 12 
+
+Operaciones básicas con listas circulares.
+A todos los efectos, las listas circulares son como las listas abiertas en cuanto a las operaciones que se pueden realizar sobre ellas:
+Añadir o insertar elementos.
+Borrar elementos.
+Moverse a través de la lista, siguiente.

@@ -1,0 +1,3 @@
+texto 115
+
+Bueno revisemos el codigo, ingresa la opción, ejecuta la línea que tenga que ejecutar, luego entra el ciclo nuevamente, toma la opción a ejecutar lo que tenga que ejecutar porque puede contar con todas las opciones y puede irse por cualquiera de las opciones de tomada entra al ciclo, y va a salir cuando tome la opcion de salida.

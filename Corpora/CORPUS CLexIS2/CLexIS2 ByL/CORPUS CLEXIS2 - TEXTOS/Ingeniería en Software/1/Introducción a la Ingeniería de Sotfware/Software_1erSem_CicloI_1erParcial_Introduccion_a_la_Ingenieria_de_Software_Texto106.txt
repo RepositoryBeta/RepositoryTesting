@@ -1,0 +1,3 @@
+﻿texto 106
+
+vamos a ver ahora por qué es importante el factor humano dentro de los procesos agiles, dice que los desarrollo agiles se centra en los talentos y habilidades de los individuos y adaptar proceso a personas y equipos específicos, dentro de esta tenemos como la competencia, como un concepto de desarrollo así como en la ingeniería de software la competencia incluye el talento innato, las habilidades específicas relacionadas con el software y el conocimiento general del proceso que el equipo haya elegido aplicar.

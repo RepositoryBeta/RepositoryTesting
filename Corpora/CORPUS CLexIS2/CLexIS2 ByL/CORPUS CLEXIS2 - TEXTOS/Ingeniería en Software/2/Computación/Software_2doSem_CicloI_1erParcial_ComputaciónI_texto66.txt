@@ -1,0 +1,9 @@
+﻿texto 66
+
+Puerto DIN
+
+Es un conector que fue  originalmente estandarizado por el DIN, la organización de estandarización alemana,  inicialmente muy utilizado.
+
+Puerto RJ45
+
+Es una interfaz física comúnmente usada para conectar redes de cableado estructurado categorías 4, 5, 5E y 6, RJ es un acrónimo inglés de Registered Jack, posee 8 pines o conexiones eléctricas, que normalmente se usan como extremo de cables de par trenzado.

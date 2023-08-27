@@ -1,0 +1,3 @@
+﻿texto 12
+
+Conjunto de recursos que nosotros requerimos para poder hacer uso y tratar la información de esta manera, ejemplo: yo necesito mandar una información a mi mamá que vive en la provincia de pichincha, en Quito ¿Qué hago?, ¿Qué hacen al día de hoy para poder comunicarse con su familiar, con su mamá que vive en otra provincia? Hablamos a través de texto verdad, a través de Whatsapp se puede mandar un mensaje de texto, el celular es un mecanismo de uso que tenemos para la comunicación, la tecnología interviene aquí.

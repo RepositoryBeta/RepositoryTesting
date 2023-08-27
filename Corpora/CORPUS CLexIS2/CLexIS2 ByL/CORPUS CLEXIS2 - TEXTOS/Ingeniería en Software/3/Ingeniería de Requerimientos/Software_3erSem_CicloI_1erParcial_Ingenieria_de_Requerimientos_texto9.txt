@@ -1,0 +1,2 @@
+TEXTO 9
+Razones por las que varios proyectos sobre pasaron el presupuesto o no fueron completamente funcionales de acuerdo a the standish Group de 1995. requerimientos incompletos, el usuario no puede utilizarla, la tecnología, cambia mucho los requerimientos, cambian de administrador, todas estas razones o la mayor contribución a estos problemas son producto de una mala definición de los requerimientos del sistema. el cliente jamás tiene la culpa toda la responsabilidad recae sobre el encargado del desarrollo de este software.

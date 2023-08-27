@@ -1,0 +1,5 @@
+﻿texto 61
+
+Vamos a ver ahora la conexión de periféricos 
+
+En la conexión de periféricos como ustedes habrán visto en su computador tenemos varios puerto en la parte de atrás para poder conectar los periféricos esto involucra también que hay una serie de formas de transmitir la información, los periféricos se conectan a la cpu a través de grupo de hilos que se conocen como buses, en el interior del computador del bus transmite la información de los datos en paralelo.

@@ -1,0 +1,3 @@
+﻿texto 22
+
+Pero ven que su sistema empieza a crecer y a volverse importante para la empresa bueno vamos haciendo los modelos porque si este sistema empieza a escalar yo no voy a tomar decisiones de escalamiento si no tengo un modelo que me lo sustente porque con los modelos es que uno dice Okay, ¿Qué pasa si le aumentó una tabla?, ¿Qué pasa si le cambió esta clase?, ¿Qué pasa si actualizó este componente?,en que me afecta y dónde me afecta.

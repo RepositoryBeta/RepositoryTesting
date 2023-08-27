@@ -1,0 +1,3 @@
+texto 61
+
+De manera que, la cpu o el microprocesador puede operar con una o más cpu (unidades centrales de procesamiento). Dentro de la cpu nosotros contamos con algunos elementos. ¿Cómo está constituido por dentro una cpu?, tiene registros de memoria que ya la veremos a mayor nivel, tiene una unidad de control, tiene una unidad aritmético lógica, es decir la alu, tiene una unidad de cálculo en coma flotante o un coprocesador matemático.

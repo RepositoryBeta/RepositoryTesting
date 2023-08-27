@@ -1,0 +1,2 @@
+texto 1
+Muy bien ya empezamos entonces con la primera clase, lo que corresponde a nuestro de estudio o plan analítico y lo primero que vamos a ver por supuesto es lo que son variables aleatorias ahora vamos a sincronizar esta clase de aquí con la parte que habíamos visto en lo último, que era experimento estadístico, espacio muestral y probabilidades si nos damos cuenta una variable aleatoria en realidad es una función de probabilidad.

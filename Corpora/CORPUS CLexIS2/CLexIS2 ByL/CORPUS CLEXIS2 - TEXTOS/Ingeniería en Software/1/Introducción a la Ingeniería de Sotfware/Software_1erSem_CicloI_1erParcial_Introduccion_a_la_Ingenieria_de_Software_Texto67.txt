@@ -1,0 +1,3 @@
+texto 67 
+
+Evolución: en la mayoría de los productos se considera esta etapa como el mantenimiento de evolución, y se le asigna, no sólo el agregado de nuevas funcionalidades (evolución); errores que surgen (mantenimiento). En la que se practica esta denominación no es del todo errónea, ya que es posible que aún luego de una tapa de debugging y validación exhaustiva, se filtran errores.

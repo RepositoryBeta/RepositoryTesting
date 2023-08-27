@@ -1,0 +1,6 @@
+
+texto 57
+
+ Un semáforo es un objeto con un valor entero al que se le puede asignar un valor inicial no negativo y al que sólo se puede acceder utilizando dos operaciones atómicas: wait y signal (también llamadas down o up, respectivamente).
+
+El número de procesos que en un instante determinado se encuentran bloqueados en una operación wait viene dado por el valor absoluto del semáforo si es negativo. Cuando un proceso ejecuta la operación signal, el valor del semáforo se incrementa.

@@ -1,0 +1,4 @@
+texto 57
+Foco.
+El punto crítico es un foco cuando los autovalores son complejos conjugados y tienen parte real no nula. 
+El punto crítico aislado del sistema lineal autónomo es estable si y sólo si todos los autovalores tienen parte real no positiva ; es asintónicamente estable si y sólo si todos los autovalores tienen parte real negativa; es inestable si existe al menos un autovalor con parte real positiva.

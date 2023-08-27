@@ -1,0 +1,3 @@
+﻿texto 54
+
+ Entonces esta condición se cumple si y sólo si, la matriz es una matriz inversa otra de las propiedades que tiene la matriz es unica, si es que es única ya que la inversa de una matriz es única no es que una matriz puede tener varias inversa, es como que nosotros dijéramos que una matriz es proporcional a otra puede ser no por muchas matrices, pueden ser proporcionales a otras sin embargo con respecto a la matriz la inversa es única.

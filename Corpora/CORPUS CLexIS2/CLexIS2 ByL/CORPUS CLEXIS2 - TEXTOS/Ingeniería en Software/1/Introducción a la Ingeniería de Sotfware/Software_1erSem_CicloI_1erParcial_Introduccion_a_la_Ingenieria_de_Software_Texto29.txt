@@ -1,0 +1,7 @@
+texto 29 
+
+Tipos de mantenimiento.
+Correctivo: el programa no funciona correctamente, hay que modificarlo.
+Perfectivo: se modifica el programa para obtener más eficiencia o nuevas funcionalidades no especificadas en la definición del sistema.
+Adaptativo:  adaptar el programa a los cambios en su entorno ( cambio de sistema operativo, de cpu, de legislación, etc).
+Preventivo: el software se deteriora con los cambios, este mantenimiento hace cambió para que los planos se pueden corregir, adaptar y mejorar más rápidamente - reingeniería del software.

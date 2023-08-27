@@ -1,0 +1,4 @@
+texto 89
+
+Es decir, entre cada par de nodos v y w existe una arista de v hacia w y de w hacia v (forzosamente tendrán que cumplirse ambas condiciones). Todo grafo completo es regular; pero no el recíproco; 
+Grafo fuertemente conexo. Es un grafo dirigido que tiene camino entre cualquier par de vértices; por ejemplo, Generan la relación de equivalencia. Mínimo deberá tener 2 caminos de un vértice a otro.

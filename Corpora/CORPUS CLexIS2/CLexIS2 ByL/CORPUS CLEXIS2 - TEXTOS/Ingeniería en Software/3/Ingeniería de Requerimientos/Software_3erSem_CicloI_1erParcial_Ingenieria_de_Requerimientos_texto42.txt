@@ -1,0 +1,7 @@
+
+TEXTO 42
+Los procesos de ingeniería de Requerimientos incluyen las siguientes etapas básicas: 
+Estudio de viabilidad o factibilidad: Determina si el sistema es útil para la empresa.
+Obtención y análisis de requerimientos: Descubrimiento de los requerimientos.
+Especificación de requerimientos: Transformación de requerimientos en estándares.
+Validación de requerimientos: Verificar que los requerimientos realmente definen el sistema que el cliente requiere.

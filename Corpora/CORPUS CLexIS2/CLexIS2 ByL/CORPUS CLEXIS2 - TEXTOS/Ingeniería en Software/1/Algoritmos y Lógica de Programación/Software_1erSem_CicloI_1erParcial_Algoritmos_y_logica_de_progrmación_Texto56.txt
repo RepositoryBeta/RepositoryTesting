@@ -1,0 +1,2 @@
+texto 56
+Entonces si mi condición es verdadera se ejecuta este bloque, pero también puede ser falsa, otro ejemplo yo puedo decir, si llueve hoy no salgo, caso contrario entonces si puedo salir, si yo puedo manejar esta sintaxis yo puedo resolver los ejercicios, tenemos entonces el definir que ha sido para definir nuestra variable aquí en este título yo le puedo poner un título cualquiera, puedo poner número positivo y negativo.

@@ -1,0 +1,7 @@
+texto 86
+
+ capa de transporte:  permite conexiones de extremo a extremo,  Aquí vemos otros protocolos
+
+TCP:  se encarga de comprobar que los datos que se reciben son correctos, por ello se establece una conexión entre el emisor y el receptor que garantizan que la información sea correcta,  y si no lo es se vuelve a solicitar
+
+UDP:  es un protocolo no orientado a conexión, por lo cual no se garantiza que la información llegue.

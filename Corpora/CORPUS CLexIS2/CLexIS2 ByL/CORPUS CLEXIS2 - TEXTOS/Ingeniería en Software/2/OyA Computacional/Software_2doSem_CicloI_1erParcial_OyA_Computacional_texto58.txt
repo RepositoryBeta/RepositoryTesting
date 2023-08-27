@@ -1,0 +1,4 @@
+texto 58
+
+Entonces tres tareas resumidamente del cpu, la alu, es decir, la arithmetic logic unit, que son los cálculos aritméticos, las operaciones lógicas y el control de entrada y salida. Ahora, antes si hablamos de los 50 y 60 que empezaron los microprocesadores, hablábamos de tubos de vacíos, encontrábamos que un cpu ocupaba una habitación entera y que consumía una cantidad de energía bastante considerable y obviamente generaba un gran calor, de manera que vivían quemándose los tubos de vacío.
+

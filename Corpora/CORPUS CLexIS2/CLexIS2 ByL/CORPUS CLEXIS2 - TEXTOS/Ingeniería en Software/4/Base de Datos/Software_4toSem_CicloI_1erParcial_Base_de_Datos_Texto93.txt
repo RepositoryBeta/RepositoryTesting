@@ -1,0 +1,3 @@
+Texto 93
+
+Acá tenemos, también una agregación que se está relacionando con otra entidad, todas tienen su cardinalidades mínimas y cardinalidades máxima. Por ejemplo, un empleado puede participar de muchos proyectos y en un proyecto participan muchos empleadores, la máxima de muchos a muchos y la mínima es que un empleado no participe en un proyecto, si puede ser que sólo esté como empleado y todavía no esté participando de un proyecto, por eso la mínima en cero y puede ser que algún proyecto no tenga empleados, eso no pudiera ser porque si ya es un proyecto en sí es porque por lo menos tiene un empleado, entonces la mínima eso miren como la agregación también tiene sus cardinalidades, en la relación que tiene con máquina esta agregación.

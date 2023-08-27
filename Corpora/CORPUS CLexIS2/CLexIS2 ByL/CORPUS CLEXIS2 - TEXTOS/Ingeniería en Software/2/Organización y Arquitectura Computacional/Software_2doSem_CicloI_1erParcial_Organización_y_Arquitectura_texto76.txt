@@ -1,0 +1,2 @@
+TEXTO 76
+Instrucciones de máquina: La orden le llega a él en lenguaje máquina, o también le puede llegar en lenguaje hexadecimal, porque en lenguaje hexadecimal están dadas las direcciones de memoria luego tenemos entonces lo que se denomina un juego de instrucciones, que corresponde a cada tarea dada o a cada actividad, cada vez que uno da clic, da enter o abre un programa, eso refleja una instrucción para el ordenador que en conjunto hacen un juego de instrucciones.

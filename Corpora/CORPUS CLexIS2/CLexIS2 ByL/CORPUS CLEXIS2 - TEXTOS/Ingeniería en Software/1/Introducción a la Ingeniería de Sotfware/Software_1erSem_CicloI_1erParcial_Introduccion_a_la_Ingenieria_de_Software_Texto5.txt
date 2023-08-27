@@ -1,0 +1,5 @@
+texto 5
+
+Métricas del software 
+
+Son las que están relacionadas directamente con el desarrollo de software en este caso esas métricas pueden ser la funcionalidad, la complejidad, eficiencia, obviamente más metricas pero aquí se ha considerado la funcionalidad, que ya sabemos de lo que es capaz nuestro software de dar a cumplir una función, la complejidad qué tan complejo es el desarrollo de nuestro trabajo y la eficiencia con la que da la respuesta.

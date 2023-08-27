@@ -1,0 +1,3 @@
+﻿texto 100
+
+Un grafo conexo G de n vértices con n ≥ 3 tal que todos los vértices de G tienen grado mayor o igual que n/2 contiene un ciclo Hamiltoniano. El Teorema de Dirac dice lo siguiente: Sea un grafo G, con sus vértices y aristas, conexo, con la cantidad total de vértices n mayor o igual a 3, dicho grafo debe cumplir todas estas características para poder continuar aplicando el Teorema. Por lo tanto, si el grado de cada uno de los vértices de este grafo es mayor o igual que la mitad del número total de vértices de G, entonces este grafo es Hamiltoniano.

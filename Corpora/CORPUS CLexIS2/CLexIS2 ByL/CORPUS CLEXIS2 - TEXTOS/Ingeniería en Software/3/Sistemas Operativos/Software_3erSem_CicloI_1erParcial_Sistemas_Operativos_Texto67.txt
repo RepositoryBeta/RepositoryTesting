@@ -1,0 +1,5 @@
+﻿texto 67
+
+Primeramente, se realiza la solicitud del recurso y si no esta disponible se pasa a un estado de espera, posterior a esto el proceso puede hacer uso del recurso para, por último, liberarlo.   
+
+Los procesos que ejecuta un sistema operativo pueden ser conocidos como entidades activas que son manejadas por el sistema operativo mediante el uso de threads o hilos, estos últimos corresponden a la unidad de ejecución del sistema. 

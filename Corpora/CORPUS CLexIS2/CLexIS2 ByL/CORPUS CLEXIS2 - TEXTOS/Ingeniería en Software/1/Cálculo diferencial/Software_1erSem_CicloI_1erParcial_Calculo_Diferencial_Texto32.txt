@@ -1,0 +1,4 @@
+﻿texto 32
+TIPOS 
+ECUACIONES DIFERENCIALES ORDINARIAS (EDO): Es una ecuación que contiene una función de una variable independiente y sus derivadas. El término (ordinaria) se usa en respecto a más de una variable independiente. 
+Las EDOS cuyas soluciones no pueden sumarse: las soluciones suelen obtenerse en forma de series o forma integral.

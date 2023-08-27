@@ -1,0 +1,5 @@
+﻿texto 43
+
+La programación de red, en la que el problema se puede modelar como una red, y la programacion no lineal, en la que las funciones del modelo son no lineales.
+
+Las tecnicas mencionadas no son mas que una lista parcial de la gran cantidad de herramientas disponibles en la investigacion de operaciones y ustedes saben cada día Existirá una nueva técnica que va a permitir mejorar estos aspectos y que va a permitir mejorar y ayudar a la consecución de soluciones a los problemas.

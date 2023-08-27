@@ -1,0 +1,7 @@
+texto 71
+
+vamos a ver la clasificación según su relación funcional:
+
+veamos la de punto a punto conocida también como peer to peer (p2p) donde los equipos se conectan directamente equipo conectado pueden hacer el papel de servidor y de estacion porque todo se conectan directamente.
+
+Cliente servidor, en este caso el servidor es una máquina específica que usa un sistema operativo desarrollado especialmente para este tipo de red.

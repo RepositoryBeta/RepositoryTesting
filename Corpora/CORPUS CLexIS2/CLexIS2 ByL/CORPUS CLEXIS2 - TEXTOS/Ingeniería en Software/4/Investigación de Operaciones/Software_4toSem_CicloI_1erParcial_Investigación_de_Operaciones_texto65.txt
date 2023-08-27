@@ -1,0 +1,3 @@
+﻿texto 65
+
+Entonces es un procedimiento iterativo que permite mejorar la solución de una función objetivo, recordemos que esa es la aplicación o el propósito que tiene la programación lineal el de mejorar la solución de la función, en este caso la función que vamos a optimizar es la función objetivo y en cada paso que ustedes saben que una iteración es la repetición de un mismo procedimiento hasta alcanzar un objetivo.

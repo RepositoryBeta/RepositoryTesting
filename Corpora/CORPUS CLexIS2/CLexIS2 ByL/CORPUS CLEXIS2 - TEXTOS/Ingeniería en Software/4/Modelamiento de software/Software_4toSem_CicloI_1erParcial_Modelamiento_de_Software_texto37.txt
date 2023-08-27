@@ -1,0 +1,3 @@
+﻿texto 37
+
+Aquí un ejemplo (símbolo de advertencia) esto es un símbolo que todo el mundo lo conoce, ¿porque lo conoce?, ¿ustedes nacieron conociéndolo? no, porque el símbolo que si bien es cierto lo aprendemos en algunas materias que me cobran y cuando aprendemos a manejar, nuestros padres nos lo dijeron o lo vemos en la calle es algo que culturalmente ya lo dominamos que significa advertencia, en nuestro código de programación significa que tenemos un error.

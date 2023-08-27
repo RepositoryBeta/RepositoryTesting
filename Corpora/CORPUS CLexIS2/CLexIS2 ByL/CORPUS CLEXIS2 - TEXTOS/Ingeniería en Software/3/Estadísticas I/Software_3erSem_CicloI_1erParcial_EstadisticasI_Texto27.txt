@@ -1,0 +1,3 @@
+﻿texto 27
+
+por supuesto la tendencia del manejo de lenguaje para un data science que viene del área de programación o el área de software es Python y para un estadístico, por ejemplo como yo que soy estadístico, el programa que se maneja es R esta con respecto al último punto que la estadística se utiliza como tecnología al servicio de las ciencias donde la variabilidad e incertidumbre forman parte de su naturaleza.

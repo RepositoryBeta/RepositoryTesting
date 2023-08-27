@@ -1,0 +1,3 @@
+﻿texto 6
+
+Pero para poder darle solución a ese problema tengo que hacer tres cosas: analizar el problema verlo bien, definirlo y finalmente diseñar una solución, yo no puedo diseñar una solución sino he analizado ni entendido el problema, si yo no lo he definido no puedo sentarme a diseñar una solución, puede ser que me apasiona la programación, y quiero ya hacer esta aplicación, quiero hacer una aplicación móvil o una aplicación web, para poder dar una solución a este problema que se ha presentado pero no puedo hacerlo tengo primero que analizar.

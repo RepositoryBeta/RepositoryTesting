@@ -1,0 +1,5 @@
+﻿texto 62
+
+Se define como el lugar donde los datos entran o salen o ambas cosas, se denominan puertos de entrada y salida y son interfaces para conectar dispositivos mediante cables.
+
+Generalmente tiene un extremo macho con clavija que sobresalen o tipo hembra la cual tienen una serie de agujeros para alojar los conectores machos.

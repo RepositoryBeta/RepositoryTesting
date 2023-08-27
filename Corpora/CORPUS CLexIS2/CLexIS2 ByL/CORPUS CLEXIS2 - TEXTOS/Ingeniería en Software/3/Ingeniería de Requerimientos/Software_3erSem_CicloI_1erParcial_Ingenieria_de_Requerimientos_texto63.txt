@@ -1,0 +1,2 @@
+TEXTO 63
+Prefacio: Debe definir el número esperado de lectores del documento, así cómo describir su historia de versiones, incluidas las causas para la creación de una nueva versión y un resumen de los cambios realizados en cada versión. Introducción: Describe la necesidad para el sistema. Debe detallar brevemente las funciones del sistema y explicar cómo funcionará con otros sistemas. También tiene que indicar cómo se ajusta el sistema en los objetivos empresariales o estratégicos globales de la organización que comisiona del software.

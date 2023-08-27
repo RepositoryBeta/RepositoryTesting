@@ -1,0 +1,3 @@
+texto 32
+
+Hay un tiempo asignado a las comunicaciones, tenemos tres factores internos que nos muestran como esta mayormente, el tamaño del mensaje, su complejidad o su importancia, vimos que lo importante que es cuando hay un acuso de recibo nosotros no podemos simplemente enviar un mensaje al aire sin tener acuse de recibo, no todos los sistemas, la mayoría de los sistemas de comunicaciones esperan confirmación de recepción.

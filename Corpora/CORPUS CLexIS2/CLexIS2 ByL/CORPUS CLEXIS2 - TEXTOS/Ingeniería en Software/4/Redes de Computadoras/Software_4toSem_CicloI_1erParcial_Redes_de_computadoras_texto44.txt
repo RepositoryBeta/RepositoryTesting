@@ -1,0 +1,3 @@
+texto 44
+
+El número de ciclos por segundo que se pueden enviar a través de un medio se mide en hertz, eso es la frecuencia es el número de ciclos por segundo y la unidad básica de la frecuencia son los hertz y bueno ahi también vienen las derivaciones, un kilohertz equivale a 1000 ciclos por segundo, un megahertz equivale a un millón de ciclos por segundo, un gigahertz es 10 a la 9 ciclos por segundo, un terahertz es 10 a la 12 ciclos por segundo.

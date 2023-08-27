@@ -1,0 +1,5 @@
+﻿texto 95
+
+Proyectos Integrados (Empotrados): Tiene un gran equipo de desarrollo, pero en general es poco experimentado en el tema dado que se trata de proyectos casi únicos. Corresponden a proyectos que representan un fuerte acoplamiento entre el Hardware, Software y los procedimientos operacionales. La modificación a los requerimientos noes práctica y los costos de validación son altos.
+
+COCOMO II: Es un modelo que permite estimar el coste, esfuerzo y tiempo cuando se planifica una nueva actividad de desarrollo software. 

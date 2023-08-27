@@ -1,0 +1,3 @@
+texto 100
+
+Esta es mi primera opción  sumar dos numeros es sencillo verdad, bueno ya vamos a escribir la segunda opción presentar el residuo de la división de dos números acá, ya entonces ahora voy al 3 entre me dice presentar los números desde el 1 al 100 eso ya lo hicimos, vamos Entonces  y sigo poniendo mis opciones lo que diviso y lo que primero podría ser verdad escribir cuarto en la cuarta opción es nada salir, y si es menos yo tengo que decirle que ingrese una opción entre 1 y 4 aqui ya he divisado.

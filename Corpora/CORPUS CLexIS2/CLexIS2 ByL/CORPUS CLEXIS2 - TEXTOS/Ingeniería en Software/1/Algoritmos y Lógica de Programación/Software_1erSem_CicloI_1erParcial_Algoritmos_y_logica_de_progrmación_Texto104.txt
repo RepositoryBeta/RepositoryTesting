@@ -1,0 +1,3 @@
+texto 104
+
+Esto no cambia en ninguna parte del mundo, cuando usted ya va empezar a resolver las opciones de un menú de opciones, utiliza según fin segun, pero que vamos a evaluar?, el valor ingresado por el usuario, ¿Qué pasa si él escogió la opción 1?, se ejecutar algo, ¿Qué pasa si el escogió la opción 2?,  voy ejecutar algo, ¿Qué pasa si él escogió la opción 3?, ejecutó algo, si el ingresó el valor de 4 debe ejecutar algo y si ingresó el valor 5 voy a ejecutar algo.

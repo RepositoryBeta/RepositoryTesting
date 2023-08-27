@@ -1,0 +1,3 @@
+texto 21
+
+Entonces la seguridad en la base de datos tiene varias técnicas, varios conceptos que se pueden aplicar, el más básico, el inicial es poder o el que provee de un usuario y contraseña para yo poder accesar a la base es otra característica que tienen todos los dbms y que el dba la debe manejar y obviamente les decía estas características están soportadas por detrás con un software potente DBMS por una arquitectura, que es la arquitectura que ustedes están estudiando, que en este ejemplo es la arquitectura interna de oracle.

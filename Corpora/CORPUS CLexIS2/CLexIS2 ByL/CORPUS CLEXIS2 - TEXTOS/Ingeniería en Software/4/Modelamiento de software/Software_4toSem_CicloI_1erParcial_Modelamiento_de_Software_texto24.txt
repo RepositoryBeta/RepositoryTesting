@@ -1,0 +1,3 @@
+﻿texto 24
+
+Tipos de modelo, el gráfico que es el que vamos a ver nosotros aquí vamos a ver el gráfico y hay un lenguaje de los soportes o UML, icónicos, fotográfico, textual, ustedes han trabajado con el textual, cuando hacen un formulario y viene ya lleno y sólo necesita completarlo eso es un modelo, modelos matemáticos lo que necesito para modelar, para modelar dijimos que es un proceso intelectual utiliza tres procesos cognitivos para entender y representar un objeto.

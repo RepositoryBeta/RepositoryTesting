@@ -1,0 +1,5 @@
+texto 42
+
+Una consulta o un lenguaje de consulta estructurado, que manejan las bases de datos sql, que en el ejemplo les decía consultar al cliente Pérez, ¿qué transacción hizo el día de hoy?, ese proceso de usuario se va a conectar con un proceso de servidor que va a estar ahí escuchando ese proceso de servidor, lo primero que va a hacer es en la memoria, acá donde ustedes ven que dice SGA y que tiene varios componentes, tratar de ubicar si es que existe la información que requiere el usuario, de la información ver, ¿Cuáles son las transacciones que hizo el usuario Pérez?. 
+
+

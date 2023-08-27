@@ -1,0 +1,2 @@
+texto 93
+Entonces ya será falsa la condición ya no se ejecuta ninguno de estas líneas y luego entonces tendremos que ir hacia el fin del proceso o ejecutar cualquier otra cosa no necesariamente ir hasta el fin del proceso sencillo, no pero en este mismo decir que vamos a imprimir los números 1 del 5 al 1000 pero que vayan de 5 en 5 de 5 en 5, ahora quiero mostrar los números el cinco hasta el 1000 pero de cinco en cinco qué debemos hacer tenemos que poner. 

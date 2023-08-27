@@ -1,0 +1,3 @@
+texto 34
+
+También vimos que para que una comunicación sea considerada como exitosa el mensaje que se envía debe llegar intacto o igual  a su destino, el mensaje enviado siempre debe ser igual al mensaje recibido ahí podemos decir que una comunicación ha sido exitosa, si no algo pasó en medio, entre otros factores de éxito depende de la calidad de señal que se está transmitiendo y la calidad o características del medio por el cual se transmite.

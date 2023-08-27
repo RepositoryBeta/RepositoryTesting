@@ -1,0 +1,9 @@
+﻿texto 3
+
+- Si dos filas (o columnas) son iguales (o proporcionales) el determinante es 0.
+
+- Si todos los elementos de una línea se descompone en suma de dos sumandos, el determinante puede descomponerse también como suma de dos determinante.
+
+- Si una fila o columna es combinación lineal de las otras su determinante es 0.
+
+- Si una fila (columna) de una matriz se le suma otra fila (columna) multiplicada por un n° el determinante no varía.

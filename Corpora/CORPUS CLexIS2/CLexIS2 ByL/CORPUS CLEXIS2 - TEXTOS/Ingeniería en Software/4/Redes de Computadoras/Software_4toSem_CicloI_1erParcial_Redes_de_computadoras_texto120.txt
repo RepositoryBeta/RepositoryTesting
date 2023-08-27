@@ -1,0 +1,4 @@
+texto 120
+la característica y la calidad de la transmisión determinarás tanto por el tipo de la señal como por sus características del medio existen dos tipos de medios de transmisión: guiados y no guiados.
+medios guiados: las ondas se transmiten combinándolas a lo largo de un medio físico  cómo puede ser parés trenzados, cables coaxiales y fibras ópticas.
+medios no guiados: también denominados inalámbricas, proporcionan un medio para transmitir las ondas electromagnéticas sin confinarlos.

@@ -1,0 +1,3 @@
+texto 40
+
+Estos son los elementos básicos de una red los dispositivos mensajes medios y las reglas,  las reglas son todos esos protocolos, todos esos son los que imponen las reglas de una red, hay muchas reglas de todos los protocolos que agregan información a los datos y que establecen las reglas de una red, entre las características de una red tenemos la velocidad, seguridad, confiabilidad, escalabilidad y disponibilidad.

@@ -1,0 +1,13 @@
+﻿texto 85
+
+Un usuario final generalmente se refiere a aquella persona que utiliza el sistema, pero que es desconocida o no identificable.
+
+Actividades y metas Cliente 
+
+Liderar el proyecto de software cuando la organización así lo requiere. 
+
+Debe conocer las distintas etapas y roles en la construcción de software.
+
+Definir los objetivos del proyecto negociando con sus clientes las características que le afecten. 
+
+Definir y priorizar requisitos. 

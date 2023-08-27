@@ -1,0 +1,9 @@
+﻿texto 36
+
+DIMENSION DE UN ESPACIO VECTORIAL 
+
+La dimensión de un espacio vectorial no nulo V es el número de vectores en una base para V. 
+
+Con frecuencia escribimos dim V para la dimensión de V. Como el conjunto {0} es linealmente dependiente, es natural decir que el espacio vectorial {0} tiene dimensión 0.
+
+Todo conjunto de vectores linealmente independientes en Rn forma una base en Rn.

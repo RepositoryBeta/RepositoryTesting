@@ -1,0 +1,13 @@
+﻿texto 10
+
+Los pasos del metodo de Gauss son:
+
+Escribimos una matriz doble que contiene a la matriz A en un lado y a la matriz identidad en el otro. 
+
+Realizamos operaciones elementales de fila para transformar la matriz A en la identidad. En el ejemplo, es suficiente restar la fila 2 a la fila 1
+
+Al terminar, por lo que dijimos anteriormente, la matriz B del lado derecho es, precisamente, la inversa de A: B = A-1.
+
+
+
+

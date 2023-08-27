@@ -1,0 +1,3 @@
+texto 27
+
+nosotros debemos de tener paciencia para soportar los cambios de último momento, de último minuto, porque entonces otra vez tendremos que regresar al código para codificar las línea, volver a ejecutar y volver a hacer las pruebas necesarias, en esta etapa los códigos son depurados para ajustar la nueva aplicación a los requerimientos iniciales hasta que queda lista su versión definidas, una vez que está todo listo, que se han hecho las modificaciones que se volvieron ejecutar, que seguramente se presentaron otros detalles y se volvió a ejecutar y ponerlo a prueba, ya tenemos una versión definitiva.

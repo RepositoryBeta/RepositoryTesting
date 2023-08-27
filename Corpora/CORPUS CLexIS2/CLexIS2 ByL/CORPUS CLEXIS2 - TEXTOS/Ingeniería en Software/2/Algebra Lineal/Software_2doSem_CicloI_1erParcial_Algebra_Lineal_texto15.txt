@@ -1,0 +1,5 @@
+﻿texto 15
+
+La importancia de la matriz adjunta de una matriz A se debe a que, si la matriz A tiene inversa, podemos calcularla a partir de la traspuesta de su adjunta y su determinante mediante la siguiente fórmula.
+
+La factorización LU de una matriz es una factorización que resume el proceso de eliminación gaussiana aplicado a la matriz y que es conveniente en términos del número total de operaciones de punto flotante cuando se desea calcular la inversa de una matriz o cuando se decide resolver a una serie de sistemas de ecuaciones con una misma matriz de coeficientes. 

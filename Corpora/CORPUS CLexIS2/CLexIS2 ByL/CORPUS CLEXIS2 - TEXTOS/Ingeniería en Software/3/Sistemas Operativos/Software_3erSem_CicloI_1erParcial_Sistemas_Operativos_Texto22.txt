@@ -1,0 +1,5 @@
+texto 22
+
+La idea fundamental es obtener un núcleo lo más pequeño y rápido posible y tratar el resto de las funciones y componentes como procesos de aplicación. En esta nueva concepción, es usual que el núcleo solo contenga lo necesario para la gestión de memoria y procesos.
+
+El resto se ejecutan como aplicaciones de usuario; es decir, con el nivel mínimo de privilegios. En la práctica es un poco difícil conseguir esto sin una pérdida apreciable de rendimiento. En alguna medida deben incluirse en el núcleo otras funciones como el manejo de hardware y algunos drivers.

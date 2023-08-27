@@ -1,0 +1,4 @@
+texto 49 
+
+Lo restante elementos de un sistema de información son:
+Procesos: corresponden a todos aquellos elementos que, de acuerdo a una lógica predefinidas, no tiene información de la base de datos y genera un nuevo registro de información. Los procesos sólo son controladas por el usuario (de ahí que aparezca en línea de puntos).

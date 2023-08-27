@@ -1,0 +1,3 @@
+texto 100
+
+Cuando tengo muchos que te crea una nueva entidad, que es la entidad intersección, si vayamos entendiendo todas esas reglas de transformaciones y lo vayan aplicándolos en los ejercicios, todo para recordar del modelo entidad relación y obviamente ese modelo entidad relación que le ha aplicado la transformación en cada relación de muchos a muchos, etc. Bueno, ya con eso estamos concluyendo un poco hemos hecho un repaso a nivel de los ejercicios y de estas nuevas extensiones al modelo entidad-relación, ampliado porque ya es un modelo entidad relación ampliado con estos nuevos conceptos.

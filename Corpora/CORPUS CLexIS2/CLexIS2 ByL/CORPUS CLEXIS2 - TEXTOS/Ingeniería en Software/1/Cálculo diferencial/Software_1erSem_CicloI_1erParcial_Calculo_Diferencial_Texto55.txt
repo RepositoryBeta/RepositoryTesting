@@ -1,0 +1,2 @@
+﻿texto 55
+Las trayectorias se asemejan a hipérbolas o semirrectas, como lo muestra el ejemplo N° 6 de la galería de (Sistemas Autónomos) del simulador Davinci. Note que x (t) (o y (t)) responde también a la expresión (formula) pero a diferencia del caso anterior los dos sumandos de x (t) tienen comportamientos distintos para t -> + infinito. Sin embargo, cuando el punto crítico es un punto de silla siempre x (t) -> infinito e  y (t) -> infinito.

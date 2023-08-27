@@ -1,0 +1,3 @@
+﻿texto 68
+
+Si usted hace algún cambio en la relación de los objetos de las clases porque no se dio cuenta que tenía un error o nos dio cuenta que en el futuro iba a crecer le afecten en el código, bastante, pero yo creo el código es duro de cambiar porque usted cambia algo y explota, otra cosa pero creo que lo más duro de cambiar es la base datos porque si usted se da cuenta de errores y ya tiene un millón de registros en su base datos y se dio cuenta que esos millón de registros va a tener que partir y quitar una tabla eso si le va a doler la vida.

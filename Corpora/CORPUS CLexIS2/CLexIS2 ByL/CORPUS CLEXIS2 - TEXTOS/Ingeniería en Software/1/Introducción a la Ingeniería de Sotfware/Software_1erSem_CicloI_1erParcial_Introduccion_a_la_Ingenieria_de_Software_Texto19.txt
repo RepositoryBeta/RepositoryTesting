@@ -1,0 +1,4 @@
+texto 19
+
+Software de sistema: este software se usa para cooperar y mantener un sistema informático, permite a los usuarios usar los recursos del ordenador directamente a través de otros software, algún ejemplo de este tipo de software son los sistemas operativos, compiladores y otras utilidades del sistema.
+Este es el software que básicamente permite que un dispositivo funcione de la forma que lo hace, de hecho sin él no podría funcionar una computadora.

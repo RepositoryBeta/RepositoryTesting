@@ -1,0 +1,7 @@
+﻿texto 50
+
+Software
+
+Se conoce como sufro al soporte lógico de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados Hardware.
+
+La interacción entre el software y Hardware hace operativo un ordenador,  es decir, el software envía instrucciones que el hardware ejecuta, haciendo posible su funcionamiento.

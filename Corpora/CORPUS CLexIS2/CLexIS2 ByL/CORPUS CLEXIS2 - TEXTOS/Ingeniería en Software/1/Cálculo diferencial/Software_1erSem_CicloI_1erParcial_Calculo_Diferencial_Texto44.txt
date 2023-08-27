@@ -1,0 +1,5 @@
+texto 44
+Ecuaciones diferencial ordinaria lineal (EDOL): 
+Es aquélla que se puede escribir de la siguiente forma:
+Salvo casos especiales, los métodos de resolución de ED de orden n > 1 son complicados y en muchos de ellos no es posible obtener una solución exacta, debiéndose emplear métodos numéricos para alcanzar soluciones aproximadas.
+En este libro sólo se tratarán las denominadas con coeficientes constantes.

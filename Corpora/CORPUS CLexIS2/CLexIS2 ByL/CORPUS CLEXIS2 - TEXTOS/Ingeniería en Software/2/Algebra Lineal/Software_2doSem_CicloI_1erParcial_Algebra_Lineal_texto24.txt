@@ -1,0 +1,9 @@
+﻿texto 24
+
+Los vectores se encuentran definidos por los componentes de módulo, dirección, sentido y punto de aplicación. Vamos a verlos con más detenimiento.
+
+Componentes de los vectores
+
+Como ya hemos adelantado, todos los vectores poseen una serie elementos que los definen:
+
+Dirección: hace referencia a la dirección de la recta en la que se encuentra el vector, o cualquier recta paralela.

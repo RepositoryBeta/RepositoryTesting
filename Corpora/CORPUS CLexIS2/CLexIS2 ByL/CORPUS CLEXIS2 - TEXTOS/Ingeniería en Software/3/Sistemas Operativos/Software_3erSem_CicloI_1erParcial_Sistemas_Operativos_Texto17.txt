@@ -1,0 +1,6 @@
+﻿texto 17
+
+Sistemas por capas o niveles de privilegio
+
+En la medida que el hardware se desarrolló para incorporar mecanismos de protección para la gestión de procesos, memoria y entrada salida, los sistemas operativos se adaptaron a este diseño. 
+El objetivo de la arquitectura por capas o niveles de privilegio, es separar la acción del código de los procesos del sistema, del núcleo y de los procesos de usuario. Idealmente se separa en el nivel de máximo privilegios o protección, al código base del núcleo.

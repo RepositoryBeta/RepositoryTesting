@@ -1,0 +1,3 @@
+﻿texto 25
+
+Entonces aquí podemos notar un poco más, los programadores optimizan sus líneas de código para no hacer todo un código largo, usted puede proponer soluciones en código pequeño o en módulos que se pueden ir llamando, para poder ir haciendo un programa de una forma estructurada, sólo porque nuestro trabajo finalmente será probado por los usuarios finales y eso se dará pie al surgimiento de errores comúnmente llamados bugs.

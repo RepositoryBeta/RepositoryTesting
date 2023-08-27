@@ -1,0 +1,3 @@
+texto 66 
+
+Validación: esta etapa tiene como objetivo la verificación de que el sistema desarrollado cumpla con los requerimientos expresado inicialmente por el cliente y que han dado lugar al presente proyecto. En muchos politicas la etapa de validación y debugging se realizan en paralelo por la estrecha relación que llevan. Sin embargo, tenemos que evitar la confusión: podemos realizarlo en  paralelo, pero no como única etapa.

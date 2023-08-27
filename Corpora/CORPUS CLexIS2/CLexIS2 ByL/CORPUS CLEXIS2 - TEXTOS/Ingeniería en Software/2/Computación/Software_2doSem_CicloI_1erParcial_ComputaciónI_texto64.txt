@@ -1,0 +1,7 @@
+﻿texto 64
+
+La mayoría del software utiliza el término COM derivado de comunicaciones seguido con un número para Designar un puerto serie, por ejemplo COM1 o COM2.
+
+Puerto USB
+
+Permite instalar perifericos sin tener que abrir la máquina para instalarle el Hardware, basta con conectar dicho periférico en la parte posterior del computador.

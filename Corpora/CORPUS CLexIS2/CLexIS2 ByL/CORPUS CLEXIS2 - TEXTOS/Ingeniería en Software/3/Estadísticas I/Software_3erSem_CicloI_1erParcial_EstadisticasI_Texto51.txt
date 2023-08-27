@@ -1,0 +1,3 @@
+﻿texto 51
+
+Medidas de tendencia central y de dispersión en datos agrupados, se identifica como datos agrupados a los datos dispuestos en una distribución de frecuencia en tal caso las fórmulas para el cálculo de promedio, mediana, modo, varianza y desviación estándar deben incluir una leve modificación, si la variable de interés es de tipo continuo será necesario determinar, para cada intervalo, un valor medio que lo represente. 

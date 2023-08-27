@@ -1,0 +1,4 @@
+texto 37
+
+El bus es un camino de comunicación entre dos o más dispositivos, una característica clave del bus es de que se trata de un medio de transmisión compartido y al bus se conectan varios dispositivos y cualquier señal transmitida por uno esos dispositivos, está disponible para que los dispositivos conectados al bus puedan acceder a ellos. Si dos dispositivos transmiten durante el mismo periodo de tiempo, las señales pueden solaparse y distorsionarse.
+

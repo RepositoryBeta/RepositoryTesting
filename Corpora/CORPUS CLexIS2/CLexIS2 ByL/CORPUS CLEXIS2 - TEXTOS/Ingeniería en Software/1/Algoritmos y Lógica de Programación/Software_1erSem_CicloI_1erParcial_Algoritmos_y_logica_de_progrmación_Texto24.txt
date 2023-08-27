@@ -1,0 +1,3 @@
+﻿texto 24
+
+Poner a prueba el programa ya una vez que lo hemos escrito y que tenemos ya todo un código que va a ser ejecutado para dar una solución software, que tenemos que hacer, aquí es donde se revela de que estamos hechos como programadores, aquí vemos la forma en que los programadores escriben el código, ya lo van a ver cuando empecemos a desarrollar líneas de código, muchos programadores escriben de forma desordenada, los identificadores que emplean para poder escribir el código no son identificadores.

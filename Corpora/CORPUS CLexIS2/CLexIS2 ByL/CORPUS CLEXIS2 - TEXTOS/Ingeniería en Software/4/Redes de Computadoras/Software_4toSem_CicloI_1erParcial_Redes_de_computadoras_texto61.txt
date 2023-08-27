@@ -1,0 +1,3 @@
+texto 61
+
+ Y por supuesto la información viaja a lo largo de este bus, de izquierda a derecha, de derecho a la izquierda en ambas direcciones, toda la información viaja hasta encontrar su destinatario, el terminal o estación de destino esa es la conexión en bus  qué pasa si se corta un cable se corta toda la red, estas redes o esta topología en bus tenía al final algo llamado terminadores que son unas resistencia en realidad que se conectaban a los extremos.

@@ -1,0 +1,3 @@
+﻿texto 2
+
+Vamos a hablar sobre complejidades, tema de abstracción, generalización, especialización, puntos de vista, etcétera, vamos a hablar sobre herramientas de modelado, uml,vamos a ver algo de modelado, algo de uml, tambien vamos a ver los enfoques de modelado, todo esto pertenece a la primera unidad, ahora en la segunda unidad vamos a ver los modelado de requerimientos, vamos a ver casos de uso, yo les nombré creo algo de casos de uso, vamos a hacer, vamos a ponerlo en practica, vamos a ver un requerimiento como lo transforma en caso de uso.

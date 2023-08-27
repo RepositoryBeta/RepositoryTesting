@@ -1,0 +1,5 @@
+﻿texto 11 
+
+Ya hemos visto conceptos de ecuaciones diferenciales vocabulario que vamos a utilizar porque de aquí en adelante hasta el final del curso vamos a hablar de ecuaciones diferenciales.
+¿Qué son EDOS (ecuación diferencial ordinaria) con variables separables?
+son aquellos EDOS ecuación diferencial ordinaria, en las que podemos separar todos los términos que tengan x, incluyendo sus derivadas dx a un lado de la ecuación y los términos que tienen y, incluyendo sus derivadas dy a otro lado de la ecuación.

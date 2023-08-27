@@ -1,0 +1,3 @@
+texto 59
+
+Según su topología que es la forma en que los componentes se interconectan, estructura o formato de los componentes o los dispositivos que se interconectan entonces los tres tipos básicos, estrella bus y anillo  por ejemplo anillo es un circuito cerrado aquí lo ponen como circular, puede ser cuadrado, triangular, o como quieran verlo pero la idea es que tiene que ser cerrado,  puede ser deforme pero tiene que estar cerrado pero por efectos visuales, términos y todo lo pusieron anillo.

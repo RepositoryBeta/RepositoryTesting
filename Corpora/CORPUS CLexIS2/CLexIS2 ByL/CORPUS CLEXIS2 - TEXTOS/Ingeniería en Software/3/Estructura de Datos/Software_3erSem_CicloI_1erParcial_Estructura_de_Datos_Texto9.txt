@@ -1,0 +1,4 @@
+﻿texto 9 
+lista circular.
+Una lista circular es una lista lineal en la que el último nodo a punta al primero.
+Las listas circulares evitan excepciones en las operaciones que se realicen sobre ellas, cada nodo siempre tiene uno anterior y uno siguiente.

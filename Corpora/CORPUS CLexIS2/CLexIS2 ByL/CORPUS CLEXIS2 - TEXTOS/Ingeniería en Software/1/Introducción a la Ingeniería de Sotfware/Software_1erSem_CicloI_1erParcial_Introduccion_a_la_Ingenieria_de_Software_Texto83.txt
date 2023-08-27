@@ -1,0 +1,8 @@
+texto 83 
+
+ Beneficios:
+
+ el costo de atender las necesidades cambiantes los clientes se reducen: la cantidad análisis, la documentación que tiene que ser hecho de nuevo es mucho menor qué la que se requiere con el modelo de cascada.
+ Es más fácil  obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.
+
+ Los clientes pueden hacer comentarios sobre las manifestaciones de software y ver cuánto se ha implementado.

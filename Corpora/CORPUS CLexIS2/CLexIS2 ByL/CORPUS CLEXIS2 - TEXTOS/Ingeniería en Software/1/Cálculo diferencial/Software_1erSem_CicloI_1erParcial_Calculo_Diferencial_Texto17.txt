@@ -1,0 +1,2 @@
+texto 17 
+También vimos enante las ecuaciones diferenciales lineales tienen este formato donde (A) y (B) son funciones que sólo dependen de la variable independiente (X), este tema es ecuaciones diferenciales lineales de primer orden.

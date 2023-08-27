@@ -1,0 +1,4 @@
+﻿texto 80
+
+Los atributos de que no tenga tiene que escribir los métodos en ese orden no como me da la gana tienen una regla si usted lo hace bien estamos siguiendo un modelo una forma bastante formal de representar lo que estoy haciendo si usted en su tesis lo decide hacer mal
+¿Qué es una instancia?, una instancia es un objeto creado y que pertenece una clase, cada objeto creado es una instancia de la clase, ¿Qué es instanciar?, es crear objetos de una clase.

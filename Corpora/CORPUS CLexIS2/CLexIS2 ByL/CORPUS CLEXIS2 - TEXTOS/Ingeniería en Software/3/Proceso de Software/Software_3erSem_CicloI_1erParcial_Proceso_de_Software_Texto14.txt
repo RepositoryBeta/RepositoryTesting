@@ -1,0 +1,9 @@
+﻿texto 14
+
+Componente del proceso
+
+Componente del proceso son las partes de un proceso: entradas, salidas, mecanismos y controles.
+
+Las entradas son recursos o datos que deben estar presentes, y triggers (diferentes tipos de eventos) que invocan un proceso.
+
+Los mecanismos son las herramientas, incluyendo máquinas, sistemas y personas, que realizar actividades, las acciones sobre y en respuesta a los insumos.

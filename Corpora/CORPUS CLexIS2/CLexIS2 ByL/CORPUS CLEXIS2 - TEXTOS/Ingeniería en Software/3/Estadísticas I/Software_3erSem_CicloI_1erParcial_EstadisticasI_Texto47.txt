@@ -1,0 +1,3 @@
+﻿texto 47
+
+Rango de variación, se define como la diferencia entre el mayor valor de la variable y el menor valor de la variable la mejor medida de dispersión, y la más generalizada es la varianza, o su raíz cuadrada, la desviación estándar, la varianza se representa con el símbolo s² que es sigma cuadrado para el universo o población y con el símbolo s2 (s cuadrado), cuando se trata de la muestra, la desviación estándar, que es la raíz cuadrada de la varianza, se representa por s el signo sigma cuando pertenece al universo o población y por (s), cuando pertenece a la muestra.

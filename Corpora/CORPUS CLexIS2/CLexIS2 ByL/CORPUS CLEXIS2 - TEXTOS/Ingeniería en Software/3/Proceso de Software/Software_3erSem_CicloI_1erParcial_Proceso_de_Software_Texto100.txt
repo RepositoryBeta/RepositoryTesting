@@ -1,0 +1,7 @@
+﻿texto 100
+
+Metodología
+
+Es un método grupal para refinar el Project plan, donde participan el Project Manager o un moderador, un recorder y estimadores. Las especificaciones se le dan a un grupo de expertos, quienes discuten las metas del proyecto, las suposiciones y estiman los recursos. Además, ellos hacen las estimaciones y se las dan a un moderador, quien compila las estimaciones. Luego, cada estimador sabe los resultados de sus estimaciones, las demás son anónimas. 
+
+Seguidamente, los expertos discuten los resultados y revisan las tareas. Este ciclo continuo hasta que las estimaciones convergen en una que se encuentre en un rango aceptable.

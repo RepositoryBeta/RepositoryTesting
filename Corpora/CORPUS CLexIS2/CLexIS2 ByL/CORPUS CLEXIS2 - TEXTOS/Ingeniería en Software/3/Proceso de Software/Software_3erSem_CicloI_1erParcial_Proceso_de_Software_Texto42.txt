@@ -1,0 +1,11 @@
+﻿texto 42
+
+Software de Sistemas: Programas que han sido escritos para servir a otros programas. Se caracterizan por una fuerte interacción con el hardware de la computadora Compartir recursos
+
+Sofisticada gestión de procesos
+
+Estructuras de datos complejas
+
+Múltiples interfaces externas
+
+Ejemplo: compiladores, editores y utilidades de gestión de archivos, ciertos componentes del sistema operativo, utilidades de manejo de periféricos, procesadores de telecomunicaciones, etc.

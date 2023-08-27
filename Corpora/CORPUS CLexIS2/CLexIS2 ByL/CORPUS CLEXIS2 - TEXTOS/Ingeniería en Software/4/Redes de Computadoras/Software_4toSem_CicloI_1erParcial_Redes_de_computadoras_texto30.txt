@@ -1,0 +1,3 @@
+texto 30 
+
+Bueno conversamos sobre la reseña de las comunicaciones, vimos el objetivo principal de las comunicaciones que eran enviar un mensaje entre emisor y receptor, teniamos el mensaje que se transmite entre el emisor y el receptor lo vimos como un sistema tenemos el sistema origen al sistema destino y en medio el sistema que transmite verdad habíamos dicho que tenemos una fuente al inicio y un destino al final.

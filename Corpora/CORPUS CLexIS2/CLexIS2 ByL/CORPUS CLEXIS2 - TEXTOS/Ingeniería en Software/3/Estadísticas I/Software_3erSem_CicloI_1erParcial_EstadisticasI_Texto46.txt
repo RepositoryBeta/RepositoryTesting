@@ -1,0 +1,5 @@
+﻿texto 46
+
+Moda
+La moda de una distribución se define como el valor de la variable que más se repite. En un polígono de frecuencia la moda corresponde al valor de la variable que está bajo el punto más alto del gráfico. Una muestra puede tener más de una moda.
+Las medidas de dispersión entregan información sobre la variación de la variable, pretenden resumir en un solo valor la dispersión que tiene un conjunto de datos, las medidas de dispersión más utilizadas son: Rango de variación, Varianza, Desviación estándar, Coeficiente de variación.

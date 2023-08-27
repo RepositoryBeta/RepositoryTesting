@@ -1,0 +1,3 @@
+﻿texto 93
+
+Ahora los que programamos en sistemas grandes nos toca meterle mano a código ajeno y vemos una herencia y nos da calambre en el ojo por que es una camisa de fuerza ciertos proyectos y cuando ustedes vean código de sistemas reales lo que menos van a ver herencia y lo que más va a ver son implementaciones de interfaz de ahí le voy diciendo un spoiler a lo que se les viene en el futuro la herencia enseña algo que pensamos que toda la vida va a ser nuestro amigo y no necesariamente es asi a veces hay un problema.

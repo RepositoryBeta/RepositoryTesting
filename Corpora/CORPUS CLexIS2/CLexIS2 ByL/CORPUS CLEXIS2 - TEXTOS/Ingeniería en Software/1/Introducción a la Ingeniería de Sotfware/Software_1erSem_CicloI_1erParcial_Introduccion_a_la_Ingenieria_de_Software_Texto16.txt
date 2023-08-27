@@ -1,0 +1,3 @@
+texto 16
+
+Que dice el PMBOK, Respecto a esto , un proyecto de software es un esfuerzo temporal que se lleva a cabo para crear un producto software, un servicio de tecnologías de la información resultado único, recuerden que el éxito de un proyecto depende en gran porcentaje de la dirección y que la dirección de un proyecto y la ejecución parecen iguales, pero son de naturaleza distinta.

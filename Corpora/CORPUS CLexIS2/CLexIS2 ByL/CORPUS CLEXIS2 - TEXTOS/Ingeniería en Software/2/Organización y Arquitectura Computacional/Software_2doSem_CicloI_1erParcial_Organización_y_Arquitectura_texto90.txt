@@ -1,0 +1,2 @@
+TEXTO 90
+Organización del procesador: El CPU es el cerebro, el que maneja todo este equipo informático, dentro de sus funciones está la de ejecutar operaciones, controlar el flujo del programa y controlar los circuitos internos, es el cerebro de este equipo es el que controla las actividades tanto de Hardware como del software. Si se desea abrir una aplicación la primera instancia es cargar en memoria y luego las instrucciones pasan a ser ejecutadas en la unidad central de proceso.

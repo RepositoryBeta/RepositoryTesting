@@ -1,0 +1,2 @@
+TEXTO 64
+Introducción a las memorias: Hay un registro de instrucciones, estos juegan un papel importante, es parte de la unidad de control, se comunica con la MAR, también salen hacia los circuitos de control, que están en la unidad de control, ya habíamos visto que la unidad de control es la más importante de la unidad central de proceso, porque ella supervisa, controla y ejecuta las órdenes que van a ser procesadas y que además a través de sus memoria se va a comunicar con la memoria principal.

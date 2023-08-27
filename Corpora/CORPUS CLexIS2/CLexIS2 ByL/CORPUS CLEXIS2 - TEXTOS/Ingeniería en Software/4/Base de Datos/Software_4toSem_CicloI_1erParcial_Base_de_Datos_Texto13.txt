@@ -1,0 +1,4 @@
+texto 13
+
+No hay relación entre los datos y la aplicación, es esto tan independencia a tal manera que yo puedo hacer modificación a la base datos y mis aplicaciones no se van a ver afectada, otra de las características que me traen los motores de base de datos. 
+Otras características que me deben traer los motores de base de datos, es la consistencia y cuando yo hablo de consistencia es tener los datos correctos, datos consistentes y eliminar o reducir la redundancia, recuerden un problema que veíamos en manejo de archivos, era la redundancia o datos repetidos. 

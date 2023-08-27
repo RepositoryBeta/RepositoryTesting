@@ -1,0 +1,4 @@
+texto 52
+
+Porque puede ser, puede ser que un requerimiento de un usuario una sentencia sql, tal vez genera una torre repetitivo, indefinido, un loop que consuma recursos de memoria y entonces, consume recursos megas de memoria y ¿qué va a hacer con la memoria?, la memoria en un momento se va a quedar ya sin memoria, que la base de datos se queden sin memoria que iba hacer que se caiga la base datos, se cae el sistema y ya no responde, ya no responde el sistema y se cae también las aplicaciones, normalmente el administrador de base de datos. 
+

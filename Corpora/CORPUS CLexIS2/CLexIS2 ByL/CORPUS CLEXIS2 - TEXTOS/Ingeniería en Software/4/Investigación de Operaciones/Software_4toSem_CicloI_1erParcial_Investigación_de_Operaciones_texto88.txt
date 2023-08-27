@@ -1,0 +1,3 @@
+﻿texto 88
+
+Pero matemáticamente lo podemos hacer es a buscar como la matriz inversa que vamos a pasar vamos a convertir esta matriz en una matriz identidad y acá vamos a alcanzar unos valores pero yo para mí estos valores no lo voy a tomar en cuenta lo que voy a tomar son los que me va adoptar B y  lo que me va a adoptar Z este lado van a ser mis soluciones del lado B en función a estos valores Qué quiere decir que debemos determinar variables que entran de estas variables.

@@ -1,0 +1,5 @@
+﻿texto 11
+
+¿Por qué crees que esto requiere de creatividad?
+
+Porque tienen que llamar la atención de los que van a utilizar ese programa, porque la primera impresión es lo que se vende, entonces fíjate que como está esta imagen que dice, Java, Javascript si ven las combinaciones de colores que tiene y como tiene la distribución de las letras, entonces nosotros como programadores, como desarrolladores también tenemos que tener una fortaleza en lo que es el diseño, en el diseño de las interfaces, el diseño de las pantallas, etc.

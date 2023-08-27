@@ -1,0 +1,2 @@
+texto 72
+Ya sabemos que el iva aquí al menos en Ecuador es 0.12, y no va a variar, es un dato constante, las estaciones del año no van a cambiar, los datos constantes a lo largo de la ejecución del programa no van a cambiar, obtener la tabla de multiplicar de los números del 1 al 12 y aquí donde empiezan ya nuestro paso como programador, que voy a hacer porque yo como programador tengo que resolver esto,  cómo hago todo esto, me dice que ingrese algún número? no, para nada.

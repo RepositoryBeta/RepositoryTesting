@@ -1,0 +1,2 @@
+texto 42
+Luego tenemos dice compilación y pruebas, que es lo que veíamos ayer, si no pongo si no corro mis pruebas difícilmente voy a poder ver cuáles son los errores, si todo se está ejecutando bien, si el usuario tiene alguna duda o quiere que le haga alguna mejora, todo esto solo lo voy a conocer simplemente cuando corra las pruebas, documentación y mantenimiento, ya dijimos que el mantenimiento es muy útil, porque el software tiene un ciclo de vida.

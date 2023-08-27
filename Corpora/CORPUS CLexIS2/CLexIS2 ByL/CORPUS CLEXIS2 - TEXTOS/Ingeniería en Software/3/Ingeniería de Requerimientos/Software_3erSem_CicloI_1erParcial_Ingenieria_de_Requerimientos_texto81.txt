@@ -1,0 +1,2 @@
+﻿TEXTO 81
+Generalización: La herencia indica que un objeto tiene desde el momento de su creación, acceso a todas las propiedades de otra clase. Esto mismo se aplica los actores y a los casos de uso, se conoce como generalización y a veces específica con una relación (es un). Una relación de generalización entre Casos de Uso implica que el Caso de Uso hijo hereda todos los atributos, secuencias de comportamiento, puntos de extensión y relaciones definidos en el Caso de Uso padre. Por ejemplo: Autorización de cargo y autorización de cargo con aviso al celular.

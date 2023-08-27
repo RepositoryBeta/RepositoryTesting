@@ -1,0 +1,13 @@
+﻿texto 46
+
+ARREGLOS TRIDIMENSIONALES
+
+Son arreglos de más de dos dimensiones.
+
+Por ejemplo:
+
+Var c: array [3.5, 1.2, 1.4]of integer;
+
+PILA VACÍA
+
+Una pila se denomina vacía cuando ésta contiene un solo elemento, y el elemento es retirado de la pila, por lo tanto, antes de retirar un elemento es necesario asegurarse que la pila no esté vacía, si ésta regresa el valor de verdadero la pila está vacía de lo contrario retorna un valor de falso.

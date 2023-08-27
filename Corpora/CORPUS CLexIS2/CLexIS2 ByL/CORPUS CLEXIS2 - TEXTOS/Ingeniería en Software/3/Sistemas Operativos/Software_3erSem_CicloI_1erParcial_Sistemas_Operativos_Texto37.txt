@@ -1,0 +1,9 @@
+texto 37
+
+ventajas del uso de los hilos
+
+Se tarda menos tiempo en cambiar entre dos hilos de una misma tarea que en cambiar entre dos procesos (porque los recursos no cambian, por ejemplo)
+
+Es mas sencillo la comunicación (paso de mensajes por ejemplo) entre hilos de una misma tarea que entre diferentes procesos.
+
+Cuando se cambia de un proceso a otro, tiene que intervenir el núcleo del sistema operativo para que haya protección. Cuando se cambia de un hilo a otro, puesto que la asignación de recursos es la misma, no hace falta que intervenga el sistema operativo.

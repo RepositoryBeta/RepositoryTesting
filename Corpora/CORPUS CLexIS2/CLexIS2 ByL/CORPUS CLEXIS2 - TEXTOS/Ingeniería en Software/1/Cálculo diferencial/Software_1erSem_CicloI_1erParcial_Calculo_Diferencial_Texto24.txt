@@ -1,0 +1,5 @@
+﻿texto 24 
+
+Integrales dobles en coordenadas polares.
+¿Qué significa coordenadas polares?
+Las coordenadas polares o sistema de coordenadas polares son un sistema de coordenadas en el que cada punto del plano se determina por una distancia y un ángulo. Nosotros hasta el momento hemos trabajo con el sistema de coordenadas rectangular para determinar un punto, ya que esa es la manera tradicional, en cambio en coordenadas polares necesitamos de una distancia y un angulo.

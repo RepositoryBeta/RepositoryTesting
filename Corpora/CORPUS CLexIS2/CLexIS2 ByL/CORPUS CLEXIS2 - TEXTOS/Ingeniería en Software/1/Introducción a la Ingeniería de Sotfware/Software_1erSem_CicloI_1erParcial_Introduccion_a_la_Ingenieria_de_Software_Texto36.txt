@@ -1,0 +1,4 @@
+texto 36
+
+Un sistema de información realiza cuatro actividades básicas: entrada, almacenamiento, procesamiento y salida de información (Peralta, 2008).
+Entrada de información: es el proceso mediante el cual el sistema de información toma los datos que requiere para procesar la información.

@@ -1,0 +1,2 @@
+TEXTO 82
+Ciclos de captación y ejecución: ¿Para qué sirve estudiar los ciclos de instrucción de una CPU? Sirve para comprender el funcionamiento de la ejecución de instrucciones del procesador, que es un ciclo de instrucción. Cuando hablamos de ciclo, hablamos de etapa, de fases que son necesarias, que se lleven a cabo para completar un proceso. Es el periodo de tiempo que tarda la unidad central de proceso en ejecutar una instrucción de lenguaje máquina.

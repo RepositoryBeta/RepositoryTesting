@@ -1,0 +1,7 @@
+﻿texto 1
+
+Software
+
+Según la definición del IEEE:
+
+Software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo, y un producto de software es un producto diseñado para un usuario.

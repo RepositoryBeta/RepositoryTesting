@@ -1,0 +1,3 @@
+texto 55
+
+Tenemos, que definir: para definir nuestras variables, escribir: para poder visualizar los mensajes y además también los valores de las variables, leer: habíamos dicho que es para ingresar el número y hasta aquí vamos bien, tengo el mensaje, ingreso al número y determinó si mi número es mayor a 0 entonces va a pasar algo, y me da que simplemente pongo un mensaje, visualizo y dice que el número es positivo, pero que pasa si mi condición es falsa, sino, entonces quiere decir que el número es negativo.

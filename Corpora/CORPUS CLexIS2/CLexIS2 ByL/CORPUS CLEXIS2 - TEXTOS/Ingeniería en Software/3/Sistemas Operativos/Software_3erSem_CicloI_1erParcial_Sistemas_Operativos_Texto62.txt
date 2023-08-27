@@ -1,0 +1,11 @@
+texto 62
+
+EL PROBLEMA DEL BARBERO DORMIL EL PROBLEMA DEL BARBERO DORMILÓN 
+
+El problema consiste en programar a un barbero y a sus clientes sin entrar en competencia
+
+La peluquería tiene un barbero, una silla de peluquero y n sillas para que se sienten los clientes en espera, si es que los hay.
+
+Si no hay clientes el barbero se sienta en la silla de peluquero y se duerme. Cuando llega un cliente debe despertar al barbero. 
+
+Si llegan más clientes mientras el barbero corta el cabello a un cliente, ellos se sientan (si hay sillas desocupadas). 

@@ -1,0 +1,8 @@
+texto 83
+
+¿Cuáles son las funciones de la unidad de memoria?
+1) Almacena todos los datos y las instrucciones necesarias para su procesamiento.
+2) Almacena los resultados intermedios de procesamiento.
+3) Almacena los resultados finales del proceso antes de que estos resultados se lancen a un dispositivo de salida.
+4) Todas las entradas y salidas se transmiten a través de la memoria principal.
+

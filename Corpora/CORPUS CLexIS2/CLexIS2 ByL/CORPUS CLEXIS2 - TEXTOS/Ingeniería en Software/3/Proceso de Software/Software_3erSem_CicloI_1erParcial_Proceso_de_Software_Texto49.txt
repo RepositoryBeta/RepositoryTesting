@@ -1,0 +1,5 @@
+﻿texto 49
+
+Software basado en Web: Las páginas Web buscadas por un explorador son software que incorpora instrucciones ejecutables (por ejemplo, HTML, Perl, o Java), y datos (por ejemplo, hipertexto y una variedad de formatos de audio y visuales).
+
+En esencia, la red viene a ser una gran computadora que proporciona un recurso software casi ilimitado que puede ser accedido por cualquier persona con un modem.

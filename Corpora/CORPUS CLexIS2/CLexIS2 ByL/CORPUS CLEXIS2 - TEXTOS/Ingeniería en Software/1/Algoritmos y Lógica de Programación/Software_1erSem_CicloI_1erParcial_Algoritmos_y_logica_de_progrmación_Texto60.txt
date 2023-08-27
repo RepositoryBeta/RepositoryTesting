@@ -1,0 +1,3 @@
+texto 60
+Otro ejemplo: calcular el IVA, tienes que pagar el IVA que es 10 con 20 (10,20), pi 3.1416, es la que hace que nosotros tengamos que incurrir en datos de tipo reales, que son los datos tipo carácter? son los que están representados por un solo carácter, ustedes pueden conocer por otras materias que un carácter está formado por 8 bits, que forman un byte y un byte es cualquier carácter, una letra, un número, un carácter, definición y ámbito de las variables también vamos a ver lo que son variables y constantes.
+

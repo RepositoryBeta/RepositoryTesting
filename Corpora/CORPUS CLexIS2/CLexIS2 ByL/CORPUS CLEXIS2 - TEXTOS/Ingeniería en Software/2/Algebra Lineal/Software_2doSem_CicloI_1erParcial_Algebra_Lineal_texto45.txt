@@ -1,0 +1,5 @@
+﻿texto 45
+
+Matrices y transformaciones ortogonales reales Por lo aprendido en temas anteriores, sabemos que, además de a vectores y a subespacios vectoriales, el término (ortogonal) se aplica a ciertas matrices A Rm×n: las que verifican At A = In. 
+
+En este tema vamos a ver que podemos aplicarlo también a ciertas transformaciones lineales, siempre relacionado con algún producto interno, y también a cómo se relaciona, en estos casos, con el concepto geométrico de ortogonalidad. 

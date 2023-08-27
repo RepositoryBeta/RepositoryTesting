@@ -1,0 +1,4 @@
+texto 26 
+
+¿Para qué sirven las coordenadas polares?
+Las coordenadas polares, lo usan a menudo por la de navegación, ya que el destino o la dirección del trayecto pueden venir dados por un ángulo y una distancia del objeto considerado. Entonces la coordenadas polares necesitan el ángulo y la distancia, las aeronaves por ejemplo, utiliza un sistema de coordenadas polares ligeramente modificado para la navegación, entonces es ahí donde se usan las coordenadas polares en la navegación.

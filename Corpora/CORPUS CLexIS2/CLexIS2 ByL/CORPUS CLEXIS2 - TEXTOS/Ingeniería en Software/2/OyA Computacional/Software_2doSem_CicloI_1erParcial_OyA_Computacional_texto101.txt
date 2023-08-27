@@ -1,0 +1,5 @@
+texto 101
+
+¿Qué es exactamente un procesador?
+Un procesador es un componente electrónico semiconductor basado en el silicio que se encarga de realizar lo que conocemos como tarea generales. Tiene un enfoque multipropósito y su capacidad de realizar trabajo generales, es precisamente lo que define su importancia y su valor frente a otros componentes especializados, como la unidad de almacenamiento la unidad gráfica, en resumen que por él pasan todas las cargas de trabajo del sistema, y que es el cerebro que se encarga de ejecutar todas las tareas antes de llegar a las unidades especializadas.
+

@@ -1,0 +1,11 @@
+﻿texto 62
+
+Interactuar con los programadores. 
+
+Asignación de subsistemas a procesadores. 
+
+Administración de la concurrencia. 
+
+Selección de estrategias de control. 
+
+Administración de condiciones de borde.

@@ -1,0 +1,4 @@
+texto 77
+
+Esa la jerarquía de almacenamiento de las instrucciones antes de pasar a ser despachadas por los elementos que se encargan de procesar, que son la unidad aritmética lógica, la de punto flotante, la unidad de control, etc. Entonces, el procesador trabaja de esa forma, tiene memorias integradas. ¿Cuáles son?, son la l1, la más rápida, la l2 más lenta pero igual más rápida que la l3, que es la más lenta que las anteriores, pero más rápida que la memoria RAM.
+

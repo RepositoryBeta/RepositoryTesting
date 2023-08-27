@@ -1,0 +1,3 @@
+﻿texto 68
+
+Cada iteracion desplaza la solución en un nuevo punto de esquina, recordemos que en la clase pasada estuvimos trabajando con programación lineal y con este zona factible recordemos que nosotros teníamos la solución de una solución, de un problema la vamos a obtener cuando podemos ser capaz de determinar cuál es la zona factible, todos los puntos que están contenidos en esa zona factible van a ser solución de mi problema porque recordemos que esta zona va a satisfacer todas las restricciones que se necesitan dando entonces todas esas zonas que nosotros podíamos graficar ya sea con trazos.

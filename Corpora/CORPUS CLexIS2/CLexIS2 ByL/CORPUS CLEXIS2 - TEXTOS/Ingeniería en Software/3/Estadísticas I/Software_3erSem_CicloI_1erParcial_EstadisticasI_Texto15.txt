@@ -1,0 +1,3 @@
+﻿texto 15
+
+Pero esas predicciones tienen que estar dadas, es decir yo tengo que dependiendo de la variable que vaya yo a investigar debo de tener un histórico de esas variables, un histórico de ventas, un histórico de empleados verdad, para yo poder predecir a partir de esos datos en este caso lo que yo quiera analizar, como tercer punto tenemos los modelos que crea la ciencia osea, en la estadística son de tipo determinístico o aleatorio.

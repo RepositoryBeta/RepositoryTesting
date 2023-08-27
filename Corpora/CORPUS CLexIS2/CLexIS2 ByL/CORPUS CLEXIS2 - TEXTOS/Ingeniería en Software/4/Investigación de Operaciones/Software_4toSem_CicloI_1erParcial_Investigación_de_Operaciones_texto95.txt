@@ -1,0 +1,3 @@
+﻿texto 95
+
+Entonces fijesense que nosotros tenemos aca aprendido dos términos el como elegir la variable que entra la base, como elegir la variable que sale de la basen ahora nos dan como quinto definición, como quinto termino el elemento pivote de la tabla queda marcado por la intersección entre la columna de la variable entrante y la fila de la variable saliente es decir el elemento que intersecta tanto la columna como la fila cuál es el elemento, en este caso la E entonces ese es elemento pivote.

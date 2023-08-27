@@ -1,0 +1,3 @@
+texto 45
+
+Diseño de algoritmos mediante las técnicas de pseudocódigo y diagramas de flujo ya vamos empezar a trabajar con algoritmo para ello, tenemos los pasos para resolver un problema ya decíamos para que están hechos los desarrolladores de software, son los que van a dar solución mediante un aplicativo a los problemas que hayan dentro de la sociedad y vemos que dentro la sociedad hay problemas bastante complejos, que las herramientas de software nos van a permitir una solución fantástica, una solución al momento, una solución automatizada.

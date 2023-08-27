@@ -1,0 +1,3 @@
+texto 43
+
+ Ahí viene la derivaciones megabits, gigabits por segundo, la unidad como tal es bits por segundos los bps, como la información requiere ser procesada ahi viene el asunto del reloj que es quien le da la pauta para el procesamiento en cada cambio de señal, cada cambio de señal es lo que se denomina como ciclo, ese ciclo se procesa y se transmite también información y esa capacidad de transmisión está en función de la frecuencia.

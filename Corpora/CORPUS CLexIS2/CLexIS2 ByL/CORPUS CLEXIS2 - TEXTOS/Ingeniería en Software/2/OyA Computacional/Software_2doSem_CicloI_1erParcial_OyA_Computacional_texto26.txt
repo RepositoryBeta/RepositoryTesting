@@ -1,0 +1,4 @@
+texto 26
+
+Por ejemplo, otra de las características de los buses es por ejemplo, cuál es la velocidad del bus, esa velocidad del bus que está dada en megabits por segundos, esos megabits por segundo son el producto de la fórmula ancho, cuando hablamos de ancho ya estamos hablamos a nivel de cuántas líneas puedo tener por frecuencia y eso ya corresponde a la riqueza de las propiedades conductivas del material.
+

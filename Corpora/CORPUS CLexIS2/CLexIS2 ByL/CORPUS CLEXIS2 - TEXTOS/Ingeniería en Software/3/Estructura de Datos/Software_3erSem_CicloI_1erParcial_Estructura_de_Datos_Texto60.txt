@@ -1,0 +1,9 @@
+texto 60
+
+COLAS ENCADENADAS
+
+Como se ha visto anteriormente la cola funciona con dos extremos, una parte de enfrente para eliminación de los elementos y una parte de atrás para inserción de los elementos.
+
+Una cola encadenada se representará así:
+
+front--> [ x |]--> [ y |]--> [ z |]--// rear.

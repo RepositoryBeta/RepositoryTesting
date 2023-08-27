@@ -1,0 +1,7 @@
+﻿texto 2
+
+El proceso de Software
+
+Conjunto de actividades necesarias para transformar las ideas iniciales del usuario, que desea automatizar un determinado trabajo, en software.
+
+conjunto ordenado de actividades; una serie de pasos que involucran tareas, restricciones y recursos que producen una determinada salida esperada.

@@ -1,0 +1,4 @@
+texto 96
+
+Simplemente se llaman así, palabras. Al número de posiciones únicas identificables en memoria se la denomina espacio de direccionamiento. Es decir, el número de la dirección física del registro, tenemos el funcionamiento de los registros, para 64 bits, 32 bits, 16 bits y 8 bits. Podemos ver leer un carácter en pantalla con eco se presenta en pantalla. Registro: AX, BX, CS, DX. Para alto (High): AH = 01. Para bajo (Low): AL= 5.
+

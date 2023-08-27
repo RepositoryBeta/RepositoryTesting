@@ -1,0 +1,4 @@
+texto 19
+
+El envío de muchos bits a la vez a través de un conector ancho, plano, con una velocidad de transferencia de datos máxima de 133 MB/S, que va a estar súper editada o dependiendo del dispositivo que se conecte, hay dispositivos que no viajan a 133 megabits. Es decir, la carretera que se le pone es de 133 carriles por segundo. Pero, el dispositivo depende solamente manda 80 bits por segundo, entonces obviamente va a ver un desperdicio.
+

@@ -1,0 +1,7 @@
+﻿texto 45
+
+Software de Ingeniería y científico: Está caracterizado por los algoritmos ( conjunto finito de instrucciones o pasos que sirven para ejecutar una tarea o resolver un problema ) de manejo de números
+
+Ejemplo: Astronomía, vulcanología, análisis de la presión de los automotores, dinámica orbital de las lanzaderas espaciales, biología molecular, fabricación automática.
+
+Pero las nuevas aplicaciones del área de ingeniería se han alejado de los algoritmos convencionales numéricos. 

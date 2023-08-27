@@ -1,0 +1,3 @@
+﻿texto 92
+
+Tiene sus detractores, bastante detractores, gente que odia la herencia cuando usted está haciendo arquitectura de software o diseño de software y ya empieza a modelar su sistema van a ver ese tipo de problema en la herencia que es ese amigo que usted tuvo desde el principio y cuando aprendió a heredar éramos felices heredando y el polimorfismo que aprendimos era gracias a la herencia se va a dar cuenta que ese amigo es su enemigo.

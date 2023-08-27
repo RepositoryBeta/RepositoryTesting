@@ -1,0 +1,19 @@
+texto 1
+
+Introduccion
+
+El software se puede dividir en dos clases: SO y Aplicativos.
+
+Es el encargado de la administracion de los recursos fisicos y logicos de la PC.
+
+El sistema moderno consta de uno o varios procesadores, terminales, memoria central, relojes, dispositivos de I/O, siendo este transparente para el programador todas estas actividades de administracion.
+
+Un sistema operativo es un conjunto de programa integrado que tienen como objetivo aprovechar el hardware de una computadora y utilizarlo en forma segura y eficiente. Para lograrlo, se pueden resumir las siguientes funciones basicas.
+
+Gestionar los recursos de hardware de la computadora
+
+Ser una interfaz entre el usuario y la computadora
+
+Ser la plataforma para los programas de aplicacion del usuario.
+
+Por ejemplo: Cuando un usuario ejecuta una aplicacion de software.

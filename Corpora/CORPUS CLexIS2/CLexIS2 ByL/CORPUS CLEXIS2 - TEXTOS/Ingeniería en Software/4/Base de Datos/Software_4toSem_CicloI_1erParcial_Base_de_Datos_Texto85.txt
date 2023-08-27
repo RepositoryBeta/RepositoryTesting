@@ -1,0 +1,8 @@
+Texto 85
+
+Entonces otra forma que ustedes van a encontrar en textos de diagramar esta especialización, generalización, porque claramente se puede identificar una generalización, cuando me dice que del empleado yo tengo que almacenar varios atributos, pero me dicen que del empleado yo también tengo empleados, que son contratados por horas y otros que son permanentes, el contratado por horas me dicen que va a tener ciertos atributos específicos y el otro que es permanente o también llamado asalariado tiene un sueldo fijo y otros activos, estamos ante una generalización, que es empleado que tiene atributos comunes, dos especializaciones.
+
+
+
+
+

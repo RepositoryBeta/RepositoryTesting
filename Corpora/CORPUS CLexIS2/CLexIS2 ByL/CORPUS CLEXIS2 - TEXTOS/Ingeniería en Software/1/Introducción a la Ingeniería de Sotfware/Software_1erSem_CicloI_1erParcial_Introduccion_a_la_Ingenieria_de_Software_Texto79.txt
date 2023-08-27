@@ -1,0 +1,7 @@
+texto 79
+
+ Problemas del modelo de cascada:
+
+ Inflexible división del proyecto en fase distinta hace que sea difícil responder las necesidades cambiantes de los clientes.
+
+ Por lo tanto, este modelo sólo es apropiado cuando los requisitos son bien entendidos y los cambios sean bastantes limitados durante el proceso de diseño.

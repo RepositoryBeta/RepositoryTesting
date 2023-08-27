@@ -1,0 +1,4 @@
+texto 69
+
+Si yo hago más chiquito el transistor, ¿Qué significa?, que en el mismo espacio, ¿Qué puedo hacer?, me sirve para colocar más transistores, tengo más o menos como un 60% de optimización, si yo reduzco el espacio, si yo hago menos nanómetros por cada transistor, yo al espacio lo dejo más libre, para colocar más transistores, y si coloco más transistores puedo colocar más cores y entonces es ahí donde viene el enriquecimiento de la arquitectura.
+

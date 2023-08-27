@@ -1,0 +1,9 @@
+texto 96
+
+ Problema DRA.
+
+ no todos los tipos de aplicaciones son apropiadas para DRA.
+
+ Sistema no puede  modularizar adecuadamente, la construcción de los componentes necesarios para DRA será problemático.
+
+ Que está en juego el alto rendimiento, y se va a conseguir el rendimiento convirtiendo interfase en componentes y sistemas, el modelo DRA  Puede que no funcione.

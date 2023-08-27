@@ -1,0 +1,5 @@
+texto 2
+
+Buses de computadora.
+En arquitectura de computadores, el bus o canal es un sistema digital que transfiere datos entre los componentes de una computadora. Está formado por cables o pistas en un circuito impreso, dispositivos como resistores y condensadores, además de circuitos integrados. Por el bus viaja la información en forma de 0 y 1. Cuando por un cable de luz hay corriente es un estado digital del mundo, cuando por un cable de luz no hay corriente en un estado digital 0, 8 bits viajando en un momento determinado, es un byte de información.
+

@@ -1,0 +1,11 @@
+﻿texto 75
+
+Gestionar control de cambios. 
+
+Realizar RTFs y auditorias de configuración de software. 
+
+Registrar y reportar información requerida para administrar items de configuración eficientemente. 
+
+Mantener un registro de cómo evolucionó el sistema y donde está el sistema en cualquier instante respecto a su línea base y acuerdos escritos. 
+
+Auditar los items de configuración.

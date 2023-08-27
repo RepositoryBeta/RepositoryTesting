@@ -1,0 +1,7 @@
+texto 60
+
+Mutex y variables condicionales 
+
+Los mutex y las variables condicionales son mecanismos especialmente concebidos para la sincronización de procesos ligeros. Un mutex es el mecanismo de sincronización de procesos ligeros más sencillo y eficiente. 
+
+Los mutex se emplean para obtener acceso exclusivo a recursos compartidos y para asegurar la exclusión mutua sobre secciones críticas. Sobre un mutex se pueden realizar dos operaciones atómicas básicas.

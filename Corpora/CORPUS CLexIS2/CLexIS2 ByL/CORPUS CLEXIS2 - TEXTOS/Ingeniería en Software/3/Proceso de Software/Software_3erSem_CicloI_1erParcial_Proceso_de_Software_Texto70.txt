@@ -1,0 +1,13 @@
+﻿texto 70
+
+Objetivos Asegurador de calidad 
+
+Velar porque el sistema que será entregado al cliente cumpla con los estándares de calidad de la compañía. 
+
+Velar por el cumplimiento del proceso de desarrollo de software que define la compañía.
+
+Actividades y metas Asegurador de calidad 
+
+Revisar los documentos de requisitos de usuario y de software. 
+
+Revisar el plan de administración del proyecto. 

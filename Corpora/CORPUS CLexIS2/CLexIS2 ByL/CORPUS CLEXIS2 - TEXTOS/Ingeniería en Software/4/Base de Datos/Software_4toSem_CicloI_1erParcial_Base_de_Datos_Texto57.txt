@@ -1,0 +1,3 @@
+texto 57
+
+Y después ya en la unidad número 3, vamos a poder ver y a aprender a trabajar con secuencias sql y en la unidad 4 sentencia sql para interactuar ya con la base de datos por eso les decía, muy importante esta unidad que estamos terminando el día de hoy que es la unidad número uno, que sirve para que ustedes tengan claro, ¿qué es una base de datos?, ¿qué es un dbms?, ¿cuáles son las características de dbms?, ¿qué es un dba?, ¿cuáles son las funciones del dba?, ¿qué lo diferencia de un ingeniero de software?, ¿qué lo diferencia de un usuario final de una base de datos?.

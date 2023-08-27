@@ -1,0 +1,3 @@
+﻿texto 86
+
+Y sí le pongo sexo entonces masculino o femenino, sigue siendo persona, eso no es parametrización hay dos tipos de clases: normal, la clase parametrizable que ustedes ya la conocen, y la clase genérica que aquí puede venir cualquier cosa básicamente es la lista, un ejemplo bastante básico es en la cual usted quiere una lista lo que le dé la gana, inclusive usted puede crear una lista ultra generico porque actua como objeto y es una clase parametrizable.

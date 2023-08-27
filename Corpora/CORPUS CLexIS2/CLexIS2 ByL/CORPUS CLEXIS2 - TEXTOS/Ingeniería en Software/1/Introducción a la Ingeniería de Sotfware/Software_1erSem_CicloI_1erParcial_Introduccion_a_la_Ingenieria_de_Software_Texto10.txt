@@ -1,0 +1,3 @@
+texto 10
+
+Otra metrica es, la facilidad de mantenimiento: en este caso es la sencillez con que un programa puede corregirse si encuentra un error, al adaptarse su entorno cambia o mejora los requisitos que quiere el cliente, y esto se mide de forma indirecta TMC (tiempo medio de cambio). Aquí básicamente es ver como nuestro software es capaz de corregirse o adaptarse a un nuevo entorno o a nuevos requisitos que tienen en sus clientes basicamente.

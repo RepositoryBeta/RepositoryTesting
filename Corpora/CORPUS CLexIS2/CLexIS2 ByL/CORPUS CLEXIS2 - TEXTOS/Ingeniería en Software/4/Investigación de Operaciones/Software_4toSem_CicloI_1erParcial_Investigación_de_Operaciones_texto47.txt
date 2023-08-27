@@ -1,0 +1,7 @@
+texto 47 
+
+Generalidades.
+
+Trata del problema de asignar recursos limitados entre actividades como en la mejor forma posible (óptima).
+
+La naturaleza de los problemas que la programacion lineal surge siempre que se deba seleccionar el nivel de actividades que compiten por recursos escasos pero necesarios para esas actividades.

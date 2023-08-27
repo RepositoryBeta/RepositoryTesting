@@ -1,0 +1,2 @@
+TEXTO 47
+Introducción a las memorias: ¿Qué son las memorias? Simplemente son una unidad de almacenamiento tanto para los datos, como para las instrucciones que nosotros le damos al computador, o le ingresamos al computador y ellos transforman esos datos en resultado. Cuando hacemos nuestras operaciones nosotros le decimos yo quiero saber cuántos estudiantes son aquí mayores de edad y las instrucciones, esa serie de instrucciones que él maneja su propio lenguaje mediante la combinación de ceros y unos para poder darnos los resultados.

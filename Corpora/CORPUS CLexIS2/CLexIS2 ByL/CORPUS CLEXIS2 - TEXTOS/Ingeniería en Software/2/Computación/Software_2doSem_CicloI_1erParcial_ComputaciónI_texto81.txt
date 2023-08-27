@@ -1,0 +1,7 @@
+﻿texto 81
+
+Los archivos eliminados iran a parar a la papelera de reciclaje.
+
+Otro modo sería haciendo clic sobre la carpeta o archivo a eliminar y sin soltar el botón izquierdo del ratón, arrastrando hasta la papelera de reciclaje y soltar.
+
+nota: Windows y los programas que instalamos en nuestro PC, crean una serie de carpetas que nunca debemos eliminar, por ello asegúrelos pies antes de borrarlos.

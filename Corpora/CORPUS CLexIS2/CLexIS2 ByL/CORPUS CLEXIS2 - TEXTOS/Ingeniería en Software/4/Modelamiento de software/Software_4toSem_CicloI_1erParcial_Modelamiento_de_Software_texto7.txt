@@ -1,0 +1,4 @@
+﻿texto 7
+
+Ya antes de empezar con la unidad 1 antes de empezar a hablar de conceptos de modelado, objetos, atributo, quiero empezar a hablar de modelo, el modelado en general.
+¿Qué es modelar? modelar un prototipo, el prototipo es un modelo, entonces quiere decir que el modelo es un producto de la de la acción modelar,pero hay un verbo interesante, crear, así que modelar es la creación, porque yo voy con el modelamiento voy a crear algo perfecto, ya acabamos de definir un poco todavía no cerramos el concepto pero ya tenemos una idea, al modelar nuestro fin es crear una cosa, de darle forma.

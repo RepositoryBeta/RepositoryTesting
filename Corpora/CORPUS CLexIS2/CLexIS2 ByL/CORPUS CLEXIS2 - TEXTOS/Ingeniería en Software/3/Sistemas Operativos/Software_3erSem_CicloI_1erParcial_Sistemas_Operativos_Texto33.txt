@@ -1,0 +1,11 @@
+texto 33
+
+Tareas e hilos.
+
+Unidad mínima de asignación: tarea.
+
+Unidad mínima de expedición: hilo.
+
+Dos hilos de una misma tarea (denominados hilos pares) comparten el segmento de código, el segmento de datos y un espacio de pila, es decir, los recursos asignados a la tarea.
+
+Podemos captar la funcionalidad de los hilos si comparamos el control de múltiples hilos con el control de múltiples procesos. 

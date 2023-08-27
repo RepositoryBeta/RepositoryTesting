@@ -1,0 +1,3 @@
+﻿texto 16
+
+Pero muchas veces no escuchamos al cliente, nos sentamos a hacer lo que nos dice nuestra creatividad y lo que nos dice nuestra efusividad y queremos siempre probar esa línea de código porque los desarrolladores que son apasionados enseguida empiezan a escribir su código y a ejecutar el código y muchas veces no hemos escuchado al cliente y mucho menos hemos analizado los problemas.

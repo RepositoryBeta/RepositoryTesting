@@ -1,0 +1,3 @@
+﻿texto 26
+
+Por supuesto cambia es la estructura o cambia el lenguaje, pero para un computacional como trabajo no se utiliza R, porque es un programa netamente estadístico para eso esta Python que es un programa computacional, aunque se le recomienda un estadístico que se convierte en un Data Science o un científico de datos o una persona del área de computación o el area de software que manejen también se convierte en un Data Science se les dice o se les pide que manejen los dos lenguajes.

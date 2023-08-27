@@ -1,0 +1,2 @@
+TEXTO 87
+Ciclos de captación y ejecución: Durante el ciclo de búsqueda, el opcode de las siguientes instrucciones es cargado en el IR (Registro de instrucciones), y la porción de direcciones cargada en el MAR (Registro de dirección de memoria), esta instrucción puede ser tomada del IBR (Registro de Buffer de memoria), o puede ser obtenido de la memoria cargando una palabra en el MBR y después al IBR, IR y MAR.

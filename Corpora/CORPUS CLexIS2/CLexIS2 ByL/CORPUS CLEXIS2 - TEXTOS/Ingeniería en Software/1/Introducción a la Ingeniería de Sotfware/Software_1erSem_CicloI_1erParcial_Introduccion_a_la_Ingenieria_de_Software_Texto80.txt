@@ -1,0 +1,5 @@
+texto 80 
+
+ Pocos sistemas tienen requisitos estables:
+
+ el modelo de cascada se utiliza sobre todo para los grandes proyectos de ingeniería de sistema, en que un sistema se desarrolla en varios lugares.

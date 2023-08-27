@@ -1,0 +1,3 @@
+﻿texto 72
+
+Yo voy a modelar, definir, documentar, modular pues cumplen la misma función el sentido que los diagramas de relación esto se parece mucho lo que usted va a haber en modelo entidad relacion ojo con esto hay una una nota importante una advertencia el hecho de que usted conozca cómo funciona UML, todo lo que tenga que ver con UML, pero en realidad hay una regla, hay gente que cree que UML es para adornar los modelos y los vuelve tan complejos que se hace imposible o difícil entenderlos un modelo que se necesita un modelo para poder entender el modelo.

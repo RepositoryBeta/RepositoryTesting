@@ -1,0 +1,5 @@
+﻿texto 83
+
+Perfecto es la abstracción de una persona, una persona tiene más información pero a mí sólo me interesa el nombre y apellido por eso se llama abstracta, ahora.
+¿qué son estas clases parametrizables?
+son clases doblemente abstracta, me gusta pensar así porque aparte de que son clases abstractas tienen un segundo nivel de abstracción, imagínense una lista de personas el objeto lista es una atracción que no sabe que va a contener y en ese momento está conteniendo una instancia de otro objeto abstracto que es persona.

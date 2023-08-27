@@ -1,0 +1,3 @@
+﻿texto 50
+
+Entonces aqui habla también de otros aspectos, el problema de asignar recursos limitados entre actividades competidoras es la mejor forma posible, para que ustedes entiendan a qué me refiero por ejemplo sí yo tengo una panadería y quiero hacer pan de sal y pan mixto, ahi podemos identificar de que se trataria la programación lineal que es de hacer un modelo matemático que me permita de acuerdo al costo del pan, otras variables que vamos a ver más adelante poder decidir cuántos panes de sal hacer.

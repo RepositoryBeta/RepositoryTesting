@@ -1,0 +1,8 @@
+texto 99
+
+ orientados a la reutilización.
+
+ el proceso tienda estructurarse en dos subproceso distintos y separados:
+
+ el desarrollo para reutilización: construcción de elementos reutilizables dentro de un dominio concreto,
+ el desarrollo con reutilización:  construcción de aplicaciones utilizando elementos reutilizables.

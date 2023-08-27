@@ -1,0 +1,5 @@
+texto 71
+
+La entidad (es) de bajo nivel cuentan (heredan), todos los atributos correspondientes. Para la representación de este tipo de interrelación, utilizamos un triángulo invertido, con la base paralela al rectángulo que representa el supertipo (Generalización) y conectado a éste y a los subtipos (Especialización). Las cardinalidades son siempre (1,1) en el supertipo y (0,1) en los subtipos.
+
+

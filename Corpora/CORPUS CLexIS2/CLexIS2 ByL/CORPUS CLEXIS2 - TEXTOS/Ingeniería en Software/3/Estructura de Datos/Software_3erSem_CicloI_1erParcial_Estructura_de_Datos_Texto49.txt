@@ -1,0 +1,5 @@
+texto 49
+
+Entonces podrá decirse que cada paréntesis a la derecha cierra una posibilidad. Entonces en algún punto particular de la expresión la cantidad de paréntesis abiertos y que no han sido cerrados en éste punto se le conocerá como PROFUNDIDAD DE EMBEBIMIENTO.
+
+Una pila se puede utilizar para registrar diferentes tipos de signos de agrupación; en cualquier momento que se encuentre un signo abriendo la expresión éste es empujado hacia la pila y cada vez que se encuentre el correspondiente signo terminal se examina la pila, si la pila está vacía quiere decir que el signo de agrupación terminal no tiene correspondiente de apertura. 

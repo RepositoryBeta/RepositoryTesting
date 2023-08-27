@@ -1,0 +1,5 @@
+texto 3
+
+Ahora, aquí viene, ¿Cuántos tipos de buses tenemos?
+Bueno, en los tipos de buses tenemos dos, hay una clasificación que contiene dos elementos, el primero es el bus serial. ¿Cuál es la diferencia entre el bus serial y el paralelo?, bueno, el serial es un bus que solamente es capaz de transferir los datos bit a bit. Es decir, que van en serie, en un camino a uno tras otro, el bus tiene un único cable que transmite la información. Es decir, que van en sincronismo.
+

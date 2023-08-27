@@ -1,0 +1,3 @@
+﻿texto 43
+Es importante destacar que µ es una cantidad fija mientras que el promedio de la muestra es variable puesto que diferentes muestras extraídas de la misma población tienden a tener diferentes medias, la media se expresa en la misma unidad que los datos originales: centímetros, horas, gramos, etc.
+Donde Y1 es el valor de la variable en la primera observación, Y2 es el valor de la segunda observación y así sucesivamente. 

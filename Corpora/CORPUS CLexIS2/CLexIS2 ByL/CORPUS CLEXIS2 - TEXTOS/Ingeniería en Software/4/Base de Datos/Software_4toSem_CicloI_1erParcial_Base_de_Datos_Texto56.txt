@@ -1,0 +1,4 @@
+texto 56
+
+Cuando veamos la unidad 3 y la unidad 4 de este curso, vamos a hacerlo de manera práctica, vamos a hacerlo accesando a la base de datos, utilizando la base de datos, ¿qué base de datos?, oracle. 
+Vamos a trabajar con la base datos que vamos a aprender en la unidad 2,  el modelo entidad relación y el modelo relacional, unidad número dos y vamos a poder interpretar cualquier problema de lenguaje real, un lenguaje natural y pasarlo por este modelo, para poder crearlo físicamente en el repositorio de base de datos. Entonces eso lo que vamos a ver en la unidad número 2.

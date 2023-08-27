@@ -1,0 +1,4 @@
+﻿texto 64
+
+Porque todavía faltan clases por definir y relaciones por colocar, entonces hay que aprenderse las estructuras, saberse las reglas y saber cómo funciona los operadores si no, van a fracasar en su modelado,
+tipos de modelado: de alto nivel, el modelo entidad relación, el modelo entidad relación extendido, estos dos van a ver ustedes en base de datos y acá vamos a ver el modelado de clases UML aplicado a otro tipo de diagrama que también se considera modelado.

@@ -1,0 +1,3 @@
+﻿texto 94
+
+entonces veamos, desmenuzamos la herencia, puedo ver a la herencia como una jerarquía de clases, una relación es una ley se le conoce por ejemplo un empleado es una persona, un estudiante es una persona, un preparador es un estudiante o un preparador es un empleado una manera de ver eso lo puedo ver como propiedades que tienen que le dará su súper clase, puedo decir que es rectángulo es una figura pero mejor puedo decir que lo que tenga la figura hereda del rectángulo y lo que tengan rectángulos hereda del cuadrado eso es la forma más básica.

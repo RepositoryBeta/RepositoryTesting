@@ -1,0 +1,11 @@
+﻿texto 61
+
+La arquitectura es simple, comportamiento común se obtiene a través de abstracciones y mecanismos comunes.
+
+Actividades y metas Diseñador 
+
+Descomposición de subsistemas. 
+
+Definir la administración de acceso a recursos globales. 
+
+Seleccionar una técnica de administración de almacenamiento de datos. 

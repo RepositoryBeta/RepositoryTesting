@@ -1,0 +1,2 @@
+TEXTO 72
+Dispositivos externos y funcionamiento del microprocesador: El procesador recibe órdenes, una orden es cuando damos enter, o cuando hacemos un clic, cuando queremos la ejecución de una reproducción de música o cuando solicitamos una reproducción de vídeo, cuando solicitamos la ejecución de un programa y él comienza a comunicarse con la memoria principal, para poder establecer el resultado que el usuario necesita.

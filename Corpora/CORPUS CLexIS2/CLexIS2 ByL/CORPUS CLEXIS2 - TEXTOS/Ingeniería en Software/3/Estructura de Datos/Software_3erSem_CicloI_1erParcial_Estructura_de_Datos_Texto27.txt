@@ -1,0 +1,4 @@
+﻿texto 27  
+
+Arrays
+Los arrays son una estructura que almacena los datos un elemento al lado del otro. En la mayoría de lenguajes de programación esta estructura de datos es de tamaño fijo y no puede guardar datos de diferentes tipos, es decir no puedo guardar valores numéricos y booleanos al mismo tiempo, aunque claramente hay excepciones.

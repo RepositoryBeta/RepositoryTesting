@@ -1,0 +1,4 @@
+texto 29
+
+Algo importantísimo saber que los buses nacen en el mainboard, que es la tarjeta que define de manera más primaria las especificaciones arquitectónicas de una configuración de computadora y bueno, tenemos que la velocidad de transferencia es equivalente al ancho por la frecuencia. A partir del 2003 empezó a ver una hibridación, muchos mainboard traían un puerto Sata y un puerto Ide, entonces todavía existía compatibilidad porque sobrevivían en el mercado.
+

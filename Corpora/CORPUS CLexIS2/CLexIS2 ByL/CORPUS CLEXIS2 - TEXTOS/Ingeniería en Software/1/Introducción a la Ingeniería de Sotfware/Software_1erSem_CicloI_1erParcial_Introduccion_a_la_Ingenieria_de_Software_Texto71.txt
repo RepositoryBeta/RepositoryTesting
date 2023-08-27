@@ -1,0 +1,10 @@
+texto 71
+
+ Instalación: entrega del sistema cliente y garantía de que es operativo.
+
+ Mantenimiento: reparación de la falla que aparece en el sistema.
+
+ El proceso de construcción de sistema informático se puede distinguir tres fases genéricas:
+ La definición,
+ El desarrollo, y
+ El mantenimiento.

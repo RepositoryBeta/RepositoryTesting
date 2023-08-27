@@ -1,0 +1,6 @@
+﻿texto 2
+
+Los parámetros y estimaciones.
+los parámetros es una cantidad numérica calculada a partir de los elementos de una población, como por ejemplo: la altura media de los individuos de un país, La idea es resumir toda la información que hay en toda población en unos pocos números(parámetros).
+
+ los estimadores estadísticos es una cantidad numérica calculada a partir de los elementos de una muestra, por ejemplo la altura promedio de los que estamos en esta aula, todos nosotros somos una muestra representativa de la población, un estadístico se usa para aproximar un parámetro, también se le puede llamar el estimador.

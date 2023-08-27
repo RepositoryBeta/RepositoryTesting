@@ -1,0 +1,9 @@
+﻿texto 67
+
+Puerto VGA
+
+Es el puerto estandarizado para conexión del monitor a la PC, es un puerto hembra con 15 orificios de conexión en tres hileras de 5.
+
+Puerto DVI
+
+Conector  de video diseñado para maximizar la calidad visual de los monitores digitales monitores de ordenadores y proyectores digitales LCD, tiene un conector macho y otro hembra, el del PC es hembra utilizado para conectar monitores digitales DVI.

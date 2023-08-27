@@ -1,0 +1,13 @@
+﻿texto 20
+
+Suponga que la matriz A es una matriz m × n se puede escribir como el producto de dos matrices:
+
+A = L U
+
+donde L es una matriz triangular inferior m × m y U es una matriz escalonada m × n. Entonces para resolver el sistema:
+
+A x = b,
+
+escribimos
+
+A x = (L U) x = L (U x).

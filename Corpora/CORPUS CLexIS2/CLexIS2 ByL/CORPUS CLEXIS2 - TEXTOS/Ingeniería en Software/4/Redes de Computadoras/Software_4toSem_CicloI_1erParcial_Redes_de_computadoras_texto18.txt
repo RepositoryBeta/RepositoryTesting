@@ -1,0 +1,3 @@
+﻿texto 18
+
+Digamos que eso viaje de forma satelital hasta Rusia entonces tiene que cambiar de formato para ir a ese satélite, cuando bajen de los satélites otra vez tiene que cambiar de formato para el internet, en el camino según los medios que se encuentre todo eso los datos pueden cambiar muchas veces de formato eso puede afectar la comunicación si lo mismo en el camino ahorita le puse ejemplo puede ser satélite varias veces lo que sea un mensaje pueden redirigir o redireccionarse por distintos caminos muchas veces es mas cuando ustedes manda un mensaje por internet no es un mensaje es Punto a Punto línea recta.

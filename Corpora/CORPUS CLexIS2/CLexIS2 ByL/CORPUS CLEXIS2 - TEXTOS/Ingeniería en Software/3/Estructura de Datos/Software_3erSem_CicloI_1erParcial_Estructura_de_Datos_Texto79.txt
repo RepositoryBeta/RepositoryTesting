@@ -1,0 +1,7 @@
+texto 79
+
+Grafo no dirigido
+
+Un grafo no dirigido (vea figura 10.1b) consta de un conjunto de vértices y un conjunto E de aristas tal que cada arista e queda asociada a un par no ordenado de vértices. Si existe una única lista e asociada con los vértices v y w, escribimos e = {v, w} ó e = {w, v}. en este contexto, {v, w} denota una arista entre v y w en un grafo no dirigido y no un par ordenado. 
+
+En conclusión, un grafo no dirigido es aquel en el cual sus aristas son direccionales, es decir, si una arista conecta dos nodos A y B se puede recorrer tanto en sentido hacia B como en sentido hacia A. Sus aristas son no dirigidas; es decir, un dígrafo está asociado a un par desordenado.

@@ -1,0 +1,4 @@
+texto 44
+
+En cuanto la organización física de los principales recursos de procesamiento de datos, sistema de información pueden ser de tipo;
+Procesos centralizados: los recursos se encuentran ubicados en un área física determinada, por lo que su acceso se realiza en las mismas instalaciones de lugares retirados, mediante líneas de comunicación de datos ( telefónicas, microondas, satélites, etc).

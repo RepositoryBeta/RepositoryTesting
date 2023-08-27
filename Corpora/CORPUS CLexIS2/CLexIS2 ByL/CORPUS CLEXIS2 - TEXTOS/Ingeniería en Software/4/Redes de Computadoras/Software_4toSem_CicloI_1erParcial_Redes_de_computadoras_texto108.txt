@@ -1,0 +1,7 @@
+texto 108
+
+ longitud de onda
+
+ es la distancia que recorre una onda en un determinado periodo de tiempo entre dos máximos consecutivos, se define la longitud de la onda  como la distancia entre dos puntos de igual fase en dos ciclos consecutivos.
+
+ supóngase que la señal se propaga a una velocidad y la longitud de la onda se puede relacionar con el período T que es el tiempo que recorre esa distancia.

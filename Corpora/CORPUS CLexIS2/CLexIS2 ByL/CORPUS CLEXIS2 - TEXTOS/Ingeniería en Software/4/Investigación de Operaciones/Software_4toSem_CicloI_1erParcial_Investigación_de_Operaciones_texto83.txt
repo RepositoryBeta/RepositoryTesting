@@ -1,0 +1,4 @@
+﻿texto 83
+
+Por cada cantidad de restricciones hayan, mas una fila con los con Los coeficientes de menos Z y las columnas como cantidad de variable haya o sea que es una columna por cada variable incluyendo las de holgura mas una columna del lado derecho de la desigualdad o en este caso de la igualdad.
+El lado positivo de la inecuación lado derecho lado derecho de la inecuación pues fíjense tantas filas como variables de holgura o como restricciones haya.

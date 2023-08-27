@@ -1,0 +1,3 @@
+﻿texto 51
+
+Entonces una matriz tendrá inversa si la matriz es cuadrada y si el determinante es diferente de cero entonces muchos de ustedes saben que el cálculo de este factor verdad, es el cálculo de la matriz adjunta puede llevarnos algo de tiempo, mientras lo hacemos entonces que deberíamos nosotros cuando nos piden calcular una matriz inversa lo primero que deberíamos hacerle es calcular el determinante si su determinante es igual a cero Entonces no seguimos con el cálculo.

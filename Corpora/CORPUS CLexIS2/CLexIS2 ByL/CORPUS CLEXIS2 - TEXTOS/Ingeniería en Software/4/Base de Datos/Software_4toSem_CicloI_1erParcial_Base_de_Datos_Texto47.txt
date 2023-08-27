@@ -1,0 +1,3 @@
+texto 47
+
+Lo que yo les decía en la transacciones, se hagan de manera completa y no queden desactualizaciones o de manera incompleta, va a traer archivos de control, redo logs, que son para recuperar las últimas transacciones que se ha hecho en la base datos y es un mecanismo que veníamos de recuperación de datos, si es que me falla lo va a hacer, yo lo primero o el deber del dba que conoces, tú lo primero que hace va a ver los archivos de redo logs y los va a tratar de recuperar si hay un fallo, y si hay fallo que son de días hacia atrás de lo histórico de los redo logs.

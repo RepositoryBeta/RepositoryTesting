@@ -1,0 +1,9 @@
+﻿texto 110
+
+Personalizar los documentos combinados:
+
+En el grupo de herramientas escribir e insertar campos podemos resaltar campos de combinación, editar el bloque de direcciones, la línea de saludo o insertar un campo de combinado.
+
+Vista previa de resultados se utiliza para revisar las comunicaciones generadas antes de imprimir o guardar un fichero.  este grupo reúne las herramientas buscar destinatario y comprobación de errores.
+
+Finalmente tenemos el grupo finalizar y combinar.

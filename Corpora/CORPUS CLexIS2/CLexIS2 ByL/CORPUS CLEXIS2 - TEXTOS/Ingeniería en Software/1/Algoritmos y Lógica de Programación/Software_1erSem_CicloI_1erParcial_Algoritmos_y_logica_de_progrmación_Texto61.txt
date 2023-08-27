@@ -1,0 +1,2 @@
+texto 61
+Tipo de datos ya vimos qué son enteros, reales, de tipo carácter y también hay otros que son de tipo cadena, pero lo importante de esto que nosotros tenemos para aprender hoy este dato es toda aquella información que se puede tratar en un programa informático, los datos de entrada, el sistema toma esos datos y sufren una transformación mediante esas líneas de código, el programa que ustedes escriben y ejecutan, esos datos se transforman para darnos datos de salida también llamados resultado.

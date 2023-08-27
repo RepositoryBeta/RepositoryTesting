@@ -1,0 +1,3 @@
+﻿texto 98
+
+Pues dependiendo de su lenguaje hay lenguajes que soportan herencia múltiple, que yo pueda tener más de un padre o lenguaje que no soporta, este chistesito de la herencia es una concepto es una regla que estoy diciendo o sea me está diciendo, por ejemplo en este gráfico me esta diciendo que un trabajador y un estudiante son personas y un preparador puede ser un trabajador puede ser una persona un trabajador es un estudiantes para la vez en preparador es una persona.

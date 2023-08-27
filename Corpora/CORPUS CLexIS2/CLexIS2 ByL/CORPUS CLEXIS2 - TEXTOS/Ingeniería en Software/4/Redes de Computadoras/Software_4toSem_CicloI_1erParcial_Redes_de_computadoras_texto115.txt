@@ -1,0 +1,5 @@
+ texto 115
+
+Banda VLF: en esta banda se produce la propagación por onda de superficie con baja atenuación, que permite realizar radioenlaces a gran distancia, tiene una baja tasa de transmisión y ancho de banda.
+Banda LF: similar a VLF ( poca atenuación, larga distancia y penetración en agua).
+Banda MF: se emplea en servicio de radioaficionados en el servicio de radiodifusión sonora en amplitud modulada AM.

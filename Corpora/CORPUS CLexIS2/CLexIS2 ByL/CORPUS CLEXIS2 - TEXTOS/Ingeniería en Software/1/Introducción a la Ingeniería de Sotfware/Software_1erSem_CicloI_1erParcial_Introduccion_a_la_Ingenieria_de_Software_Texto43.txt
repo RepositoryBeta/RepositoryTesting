@@ -1,0 +1,8 @@
+texto 43
+
+De acuerdo al elemento principal de proceso de la información, los sistemas de información pueden ser de tres tipos (manual, mecanizadas y bath):
+
+Manuales: Cuando el hombre auxiliado Por cierto equipo( máquinas de escribir, sumadoras, archivos, etc) realiza las principales funciones de recopilación, registro, almacenamiento, cálculo y generación de información.
+Mecanizadas: cuando cierta maquinaria realiza las principales funciones de procesamiento. Para los sistemas mecanizados que hacen uso de un computador, de acuerdo al tipo de interacción hombre-máquina, los sistemas de información pueden ser de dos tipos(bath y en linea);
+Bath: el usuario proporciona los datos necesarios para la ejecución de un proceso y espera a que el computador terminé la tarea para recibir los resultados.
+En línea: existe un diálogo directo entre el usuario y el computador durante la ejecución de un proceso.

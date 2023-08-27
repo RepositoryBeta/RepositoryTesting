@@ -1,0 +1,3 @@
+﻿texto 15
+
+Porque hace 10 años no existía la matriculación en línea así que seguramente el sistema a modelar sólo tenía ciertas características, ejemplos las secretarias, porque en la matriculación literalmente uno iba físicamente con su carpetita y dejaba los documentos en una ventanilla y la secretaría tenían que ingresarlo y que su modelamiento estaba enfocado al trabajo de la secretaria ahora como modelamiento de un sistema matriculación en línea hay una parte del usuario estudiante que se conecta y tienen su formularios y todo lo que tenga que llevar para su matriculación.

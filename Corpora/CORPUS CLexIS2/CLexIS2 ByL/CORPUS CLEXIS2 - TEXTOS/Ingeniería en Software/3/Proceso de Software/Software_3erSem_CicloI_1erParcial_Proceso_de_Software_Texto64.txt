@@ -1,0 +1,9 @@
+﻿texto 64
+
+Reducir el tiempo de codificación, aumentando la productividad del programador. 
+
+Disminuir el número de errores que ocurren durante el proceso de desarrollo. 
+
+Disminuir el esfuerzo de corregir errores en secciones del código que se encuentran deficientes, remplazando secciones cuando se descubren técnicas más confiables, funcionales o eficientes. 
+
+Disminuir los costos del ciclo de vida del software.

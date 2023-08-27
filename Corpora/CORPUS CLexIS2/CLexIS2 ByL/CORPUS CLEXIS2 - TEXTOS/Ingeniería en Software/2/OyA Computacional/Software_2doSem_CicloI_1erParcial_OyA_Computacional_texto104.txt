@@ -1,0 +1,4 @@
+texto 104
+
+Proceso de fabricación: Cuando hablamos de este término, como referencia el tamaño de sus transacciones (nm). Los transistores son, en esencia, el corazón del procesador, ya que son los encargados de realizar tareas de procesamiento a un nivel muy básico y son los que en suma determina la capacidad del trabajo de una cpu. El tamaño del transistor define no sólo la cantidad que caben en un bloque de silicio, sino también su capacidad para funcionar correctamente y alternar entre estado.
+

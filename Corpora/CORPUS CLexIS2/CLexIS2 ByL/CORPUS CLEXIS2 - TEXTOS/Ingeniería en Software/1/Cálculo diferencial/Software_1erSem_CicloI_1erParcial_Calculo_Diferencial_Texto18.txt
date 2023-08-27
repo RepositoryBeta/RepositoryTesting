@@ -1,0 +1,3 @@
+texto 18 
+¿Qué es factor integrante?
+El factor integrante de una ecuación diferencial es un acuerdo matemático, osea es como una fórmula que nos facilita la resolución de una ecuación diferencial. Cierto tipo de ecuaciones diferenciales requieren de un factor integrante particular para poder encontrar su solución general, este factor integrante es una fórmula qué usamos para poder encontrar una solución de una ecuación diferencial en pocas palabras es una ayuda.

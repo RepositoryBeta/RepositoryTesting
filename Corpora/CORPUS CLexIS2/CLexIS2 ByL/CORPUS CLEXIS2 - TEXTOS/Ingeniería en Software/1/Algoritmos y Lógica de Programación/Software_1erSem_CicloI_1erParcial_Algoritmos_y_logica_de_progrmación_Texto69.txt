@@ -1,0 +1,3 @@
+texto 69
+Por ejemplo de cadena de carácter, la dirección domiciliaria, La Alborada Mz 10, Villa 15, universidad en la que estudia, tipo de datos carácter porque es una combinación de letras, números, caracteres especiales universidad de Guayaquil, carrera en la que está estudiando, ingeniería en software, en fin, una variable lo que ya hemos venido viendo nosotros, ya prácticamente varias semana, es decir es un objeto de datos como nombre, un tipo y un valor asociado.
+

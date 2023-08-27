@@ -1,0 +1,2 @@
+TEXTO 77
+Los casos de uso definen las características requeridas por el sistema. Son nombrados usando una frase ósea un verbo, expresando la meta que debe cumplir el sistema. A pesar de que cada caso de uso soporta un proceso, éstos se centran en la meta, no en el proceso. La meta significa qué es lo que puedo llegar a hacer. Ejemplo: activación de cuenta, retiro en efectivo, retiro en cheque, depósito en efectivo,  compra de un producto. Son cosas que tienen que ver con los actores, automáticamente también tienen que ver con la persona que lo vaya a hacer.

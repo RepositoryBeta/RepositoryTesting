@@ -1,0 +1,4 @@
+texto 52
+Clasificacion de los puntos de equilibrio en sistemas lineales homogeneos.
+Se verá que la naturaleza y estabilidad del punto crítico queda caracterizada por los autovalores de la matriz (As) del sistema. Si (0 ; 0) es su único punto crítico, equivale a decir que |As| diferente 0 y por ello que los autovalores (landa 1) y (landa 2) son no nulos simultáneamente. 
+En función del comportamiento de las trayectorias en relación con el punto crítico aislado (0 ; 0).

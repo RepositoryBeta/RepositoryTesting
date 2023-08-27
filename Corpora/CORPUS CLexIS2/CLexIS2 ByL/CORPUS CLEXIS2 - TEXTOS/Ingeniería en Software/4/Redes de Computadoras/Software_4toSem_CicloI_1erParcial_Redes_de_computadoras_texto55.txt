@@ -1,0 +1,3 @@
+texto 55
+
+Redes de área amplia (WAN): se considera como WAN a todas aquellas que cubren una extensa área geográfica, requieren atravesar rutas de acceso público y utilizan, al menos parcialmente, circuitos proporcionados por una entidad proveedora de servicio de telecomunicación, entonces la wan es la red la de más cobertura de todo.

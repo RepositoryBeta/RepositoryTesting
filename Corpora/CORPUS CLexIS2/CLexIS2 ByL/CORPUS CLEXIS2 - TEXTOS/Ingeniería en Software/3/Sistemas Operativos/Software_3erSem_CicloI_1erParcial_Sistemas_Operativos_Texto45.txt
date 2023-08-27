@@ -1,0 +1,11 @@
+﻿texto 45
+
+Saltar a la instrucción adecuada que había quedado el proceso que se asigno a la CPU (registro program counter). El Planificador que corre en el despachador es el responsable de seleccionar el próximo proceso a ejecutarse.
+
+Esquemas de planificación Se invoca al planificador cuando: 
+
+Cuando un proceso cambia de ejecutando a bloqueado. 
+
+Cuando un proceso finaliza. 
+
+Cuando un proceso cambia de ejecutando a listo.

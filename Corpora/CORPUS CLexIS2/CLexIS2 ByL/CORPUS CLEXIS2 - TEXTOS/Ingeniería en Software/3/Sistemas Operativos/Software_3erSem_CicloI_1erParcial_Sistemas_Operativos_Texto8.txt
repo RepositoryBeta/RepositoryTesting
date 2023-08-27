@@ -1,0 +1,11 @@
+texto 8
+
+Sistemas operativos por Servicio
+
+Dependiendo de sus caracteristicas, un sistema operativo puede clasificarse segun:
+El numero de procesos simultaneos que permitia ejecutar: monotarea o monoproceso y multitarea
+La forma de interaccion con el usuario: interactivo o por lotes
+El numero de usuarios simultaneos: monousuario o personal y multiusuario o de tiempo compartido
+El numero de procesadores que pueda atender: monoprocesador y multiprocesador.
+Segun el uso: cliente, servidor, empotrado, de comunicaciones o de tiempo real.
+Segun la movilidad: fijos y moviles.

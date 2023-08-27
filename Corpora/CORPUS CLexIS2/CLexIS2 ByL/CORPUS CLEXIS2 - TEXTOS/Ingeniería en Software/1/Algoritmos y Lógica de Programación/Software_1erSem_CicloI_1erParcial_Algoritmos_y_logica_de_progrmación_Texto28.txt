@@ -1,0 +1,3 @@
+﻿texto 28
+
+Finalmente depurar y dar mantenimiento al programa, una vez que nuestra aplicación ya es puesta en uso definitivo viene una etapa de depuración en la que vamos a actualizar y mejorar el programa cada vez que sea necesario, de modo que podamos ir dando nuevas y mejoradas funcionalidades, así como ajustar mejor la aplicación a los requerimientos de los usuarios finales, lo del mantenimiento del programa jamás muere señores, si no, los desarrolladores nos moriríamos de hambre.

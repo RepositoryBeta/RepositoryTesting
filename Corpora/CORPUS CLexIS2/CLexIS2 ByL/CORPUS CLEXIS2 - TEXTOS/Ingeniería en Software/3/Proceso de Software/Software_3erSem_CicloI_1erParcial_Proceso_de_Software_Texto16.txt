@@ -1,0 +1,7 @@
+﻿texto 16
+
+De manera óptima, los productos son servicios o productos que cumplen o exceden el tiempo, la calidad o las expectativas de clientes de la organización. También pueden ser eventos que desencadenan otros procesos en la misma o en una organización diferente.
+
+MODELO DE PROCESO DE SOFTWARE
+
+Un modelo de procesos del software es una descripción simplificada de un proceso del software que presenta una visión de ese proceso.

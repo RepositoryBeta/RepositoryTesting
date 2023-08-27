@@ -1,0 +1,4 @@
+texto 86
+
+El CLK va marcando el ritmo o el compás si es que fuera un baile, él es el que se encarga de marcar el ritmo. Dentro de estos elementos de la unidad de control, también tenemos el contador del programa, el CP contiene la dirección de memoria de la siguiente instrucción que se va a ejecutar. Él ya tiene el itinerario, primero este, luego el de acá , luego el de acá y luego el de allá, para finalizar con el de acá.
+

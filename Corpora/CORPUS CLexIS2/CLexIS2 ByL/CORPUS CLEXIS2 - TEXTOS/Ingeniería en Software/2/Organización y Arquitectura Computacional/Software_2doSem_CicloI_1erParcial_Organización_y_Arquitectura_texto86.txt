@@ -1,0 +1,2 @@
+TEXTO 86
+Ciclos de captación y ejecución: Una vez leída la instrucción esta se ejecuta. Existe un tiempo de lectura, de decodificación y un tiempo de ejecución. Entonces, en este tiempo que realiza ese proceso de lectura mediante el ciclo de búsqueda y luego hace la interpretación ,ya la ejecución de ese opcode, generado por señales de control, para ingresar aquellos operandos que son requeridos y así mismo controlar la ejecución de las órdenes. 

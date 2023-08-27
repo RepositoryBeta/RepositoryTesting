@@ -1,0 +1,7 @@
+texto 117
+
+ aspectos a considerar para el espectro electromagnético según su frecuencia:
+
+ atenuación con la frecuencia:  con carácter general, a menor frecuencia menor atenuación de la señal Y por tanto mayor alcance o cobertura.
+
+ afectación de la climatología:  factores como lluvia, nieve, niebla, calor, etcétera,  no afectan por igual a las diferentes frecuencias del espectro.

@@ -1,0 +1,3 @@
+texto 65 
+
+Debugging:  el objetivo de esta etapa es garantizar que nuestro programa no contiene errores de diseño o codificación.  en esta etapa no deseamos saber si no podemos realizar lo que solicitó el usuario, esa tarea le corresponde a la etapa de implementación. Todos los programas contienen errores; encontrarlos es cuestión de tiempo lo ideal es encontrar la mayoría, si no todos, en esta etapa también se pueden agregar testeos de performance.

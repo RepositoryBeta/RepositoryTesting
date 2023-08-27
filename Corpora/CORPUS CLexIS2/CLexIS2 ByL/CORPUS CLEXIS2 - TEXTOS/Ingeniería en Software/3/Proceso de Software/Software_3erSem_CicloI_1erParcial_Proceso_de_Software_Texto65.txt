@@ -1,0 +1,13 @@
+﻿texto 65
+
+Actividades y metas Programador 
+
+Explorar los diferentes ambientes en que el sistema puede ser desarrollado.
+
+Interactuar con los analistas y diseñadores. 
+
+Explorar los diferentes lenguajes disponibles para el ambiente seleccionado.
+
+Interactuar con los diseñadores. 
+
+Explorar diferentes herramientas de desarrollo (compiladores, depuradores, etc.) disponibles para el lenguaje seleccionado. 

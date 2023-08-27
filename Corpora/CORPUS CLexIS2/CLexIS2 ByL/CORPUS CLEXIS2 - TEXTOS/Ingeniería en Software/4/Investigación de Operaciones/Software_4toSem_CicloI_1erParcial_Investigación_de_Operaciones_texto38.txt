@@ -1,0 +1,5 @@
+﻿texto 38
+
+Cuantitativo o numerico: Los resultados pueden tener un valor exacto, sigamos con el ejemplo de los 25 carros, este 5 como le decía son rojos o seis o negro etcétera.
+
+Determinista: No tiene incertidumbre, los valores son conocidos, básicamente es eso cuando en ese caso los datos los valores son conocidos a qué me refiero por ejemplo si nosotros si en una empresa determinada tienen o vende comida para hacer una comida x se necesita comprar unos ingredientes en especial ese dato se conoce  con exactitud y no por una probabilidad porque otra cosa es por probabilidad.

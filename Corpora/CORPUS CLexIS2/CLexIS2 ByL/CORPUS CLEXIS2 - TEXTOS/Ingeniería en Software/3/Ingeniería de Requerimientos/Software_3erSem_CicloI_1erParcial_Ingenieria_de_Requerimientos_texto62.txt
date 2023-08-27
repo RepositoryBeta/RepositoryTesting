@@ -1,0 +1,2 @@
+TEXTO 62
+Especificaciones matemáticas: Dichas anotaciones se basan en conceptos matemáticos como máquinas o conjuntos de estado finito. Aunque pan especificaciones sin ambigüedades pueden reducir la imprecisión en un documento de requerimientos, la mayoría de los clientes no comprenden una especificación formal. No pueden comprobar que representa lo que quieren y por ello tienen resistencia para aceptarlo como un contrato de sistema.

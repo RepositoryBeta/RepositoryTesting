@@ -1,0 +1,3 @@
+﻿texto 82
+
+Luego nos dice que se construye la tabla inicial simple, ustedes saben que la tabla está conformada por filas y columnas entonces nos dice que  va a tener esa tabla tantas filas como variables de holgura hayan también se puede decir como restricciones porque recordemos que aquí dijimos que está sabes que las vamos a declarar como variables de holgura van a ser una para cada restricción entonces lo mismo que digamos tantas filas como variables de holgura.

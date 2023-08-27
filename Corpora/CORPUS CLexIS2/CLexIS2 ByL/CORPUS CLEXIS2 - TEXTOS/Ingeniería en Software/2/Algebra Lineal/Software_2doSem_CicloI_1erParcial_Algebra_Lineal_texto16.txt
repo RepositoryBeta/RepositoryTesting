@@ -1,0 +1,7 @@
+﻿texto 16
+
+En la lectura, primeramente, consideraremos la factorización LU sin intercambio basada en matrices elementales y que es conocida como de Doolittle y posteriormente veremos el algoritmo que da la factorización PA = LU.
+
+DESCOMPOSICION LU
+
+Su nombre se deriva de las palabras ingles (Lower & quot) y (Upper). Estudiando el proceso que se sigue en la descomposición LU es posible comprender el por qué de este nombre, analizando cómo una matriz original se descompone en dos matrices triangulares, una superior y otra inferior.

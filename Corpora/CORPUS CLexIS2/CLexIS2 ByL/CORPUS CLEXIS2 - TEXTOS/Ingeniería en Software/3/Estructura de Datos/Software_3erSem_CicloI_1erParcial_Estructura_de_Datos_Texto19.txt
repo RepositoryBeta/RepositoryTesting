@@ -1,0 +1,6 @@
+﻿texto 19 
+
+Algoritmos de selección:
+En este tipo de algoritmos se SELECCIONA o se busca el elemento más pequeño (o más grande) de todo el conjunto de elementos y se coloca en su posición adecuada. 
+Este proceso se repite para el resto de los elementos hasta que todos son analizados.
+Entre estos algoritmos se encuentra el de SELECCION DIRECTA.

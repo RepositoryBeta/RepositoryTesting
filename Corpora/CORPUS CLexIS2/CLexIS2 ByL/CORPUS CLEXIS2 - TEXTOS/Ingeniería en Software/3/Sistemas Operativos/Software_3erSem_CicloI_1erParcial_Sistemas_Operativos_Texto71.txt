@@ -1,0 +1,7 @@
+texto 71
+
+Los sistemas operativos tienen técnicas para prevenir o evitar los interbloqueos mediante el uso de información adicional sobre los recursos que utilizarán los recursos durante su implementación. Algunos de los algoritmos más utilizados para esto son:
+
+Asignación de recursos: es un sistema que asigna de manera correcta los recursos a utilizarse por los distintos procesos, dicho sistema tiene un grado de asignación de recursos que evita los interbloqueos.
+
+Estado seguro: el sistema se encarga de asignar los recursos a los procesos en un orden determinado para que no se produzca un interbloqueo. 

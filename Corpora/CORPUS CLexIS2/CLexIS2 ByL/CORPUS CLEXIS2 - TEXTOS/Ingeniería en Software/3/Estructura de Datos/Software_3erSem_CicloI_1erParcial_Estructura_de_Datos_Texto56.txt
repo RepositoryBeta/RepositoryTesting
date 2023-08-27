@@ -1,0 +1,11 @@
+texto 56
+
+COLA
+
+Es una colección ordenada de elementos, a partir de la cual se pueden eliminar elementos de un extremo llamado FRENTE DE LA COLA y en la cual se pueden agregar nuevos elementos en el otro extremo llamado PARTE POSTERIOR O ATRÁS.
+
+ FUNCIÓN
+
+Las colas se utilizan en la computadora como un espacio de almacenamiento reservado temporalmente para contener información ya sea en la memoria o en sistemas operativos.
+
+ENTONCES, la cola se define como una línea de espera, utiliza la técnica FIFO (primeras en entrar, primeras en salir).

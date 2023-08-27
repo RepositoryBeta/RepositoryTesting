@@ -1,0 +1,3 @@
+﻿texto 16
+
+Seguimos acá el enfoque de la investigación de operaciones tenemos un sistema real, tenemos variables relevantes o sea básicamente el análisis del problema y recolección de datos, las variables del sistema asumido, cuáles son los sistema que se está asumiendo, dn las relaciones se hace un modelo, se modela como sería la solución, cual sería las alternativas, primero se tiene que hacer un modelo según el tipo de problema que hay, luego viene una solución al modelo juicio de expertos o sea siempre piensa que es la parte de evaluación y control, siempre tenemos que tener una evaluación luego se deben tomar las decisiones obviamente vamos a tener la solución al problema.

@@ -1,0 +1,3 @@
+﻿texto 73
+
+Entonces lo que me dice es, cuidado no utilice cosas que no sepa mejor usted lo básico y represente de la manera más basica vamos a hablar de dominio el dominio de una aplicación es en qué ámbito se representa están atañados a lo que sabe mi cliente lo que usa mi cliente y yo voy a tener que modelarlos y voy a representar en un diagrama de clases, clases, ¿Qué son las clases?, el concepto de una clase es la representación o implementación total o parcial de un tipo de dato abstracto.

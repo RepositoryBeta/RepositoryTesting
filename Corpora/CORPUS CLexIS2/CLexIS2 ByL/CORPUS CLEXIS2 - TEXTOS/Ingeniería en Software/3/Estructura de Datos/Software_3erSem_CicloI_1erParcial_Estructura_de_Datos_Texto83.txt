@@ -1,0 +1,3 @@
+texto 83
+En los grafos dirigidos el grado total de un vértice es la suma del grado entrante más el grado saliente. 
+En los grafos no dirigidos, el grado total de un vértice es igual al número de aristas que tiene el vértice. Por lo tanto, la suma de los grados de los vértices es igual al doble de las aristas del grafo.

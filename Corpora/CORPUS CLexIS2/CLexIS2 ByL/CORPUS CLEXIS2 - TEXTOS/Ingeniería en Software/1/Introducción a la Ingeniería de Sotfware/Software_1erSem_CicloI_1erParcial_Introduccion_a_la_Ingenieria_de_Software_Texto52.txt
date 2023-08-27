@@ -1,0 +1,3 @@
+texto 52 
+
+El ciclo de vida del Software usa el modelo de que un elemento software tiene vida, un elemento software tiene una fase de Concepción (una  idea en una mente de un usuario potencial), después de una fase de gestación (la fase de desarrollo del software) hacia una fase de madurez (la revisión y corrección de errores, o fase de mantenimiento), y finalmente la fase de retirada (Leany,  2004).

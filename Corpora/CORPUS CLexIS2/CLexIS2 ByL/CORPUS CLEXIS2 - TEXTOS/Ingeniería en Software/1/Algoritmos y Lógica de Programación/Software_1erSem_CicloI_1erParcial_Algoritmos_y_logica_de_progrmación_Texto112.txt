@@ -1,0 +1,3 @@
+texto 112
+
+Mientras, condición, hacer, Finmientras, pero el mientras me obliga a mí a especificar mi inicio, dice presentar los números del 100 al 1, asi que vamos a poner el  en inicio va a ser I Igual a 100(I=100) creo que I no lo estamos utilizando en otra parte, entonces mi condición iría, entonces mientras I sea mayor o igual a 1  ¿Qué es lo que voy a hacer? lo hicimos en antes verdad, escribir I y él va presentando todos los I antes de regresar al ciclo, tengo que incrementar o hacer el decremento.

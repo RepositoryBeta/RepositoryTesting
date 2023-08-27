@@ -1,0 +1,8 @@
+TEXTO 68
+
+Usuarios del documento de requerimientos: 
+Clientes del sistema: Especifican los requerimientos y los leen para comprobar que cubren sus necesidades. Los cliente especifican los cambios a los requerimientos. 
+Administradores: Usan el documento de requerimientos para planear una cotización para el sistema y el proceso de desarrollo del sistema. 
+Ingenieros del sistema: Usan los requerimientos para entender qué sistema debe desarrollarse. 
+Ingenieros de prueba: Usan los requerimientos para desarrollar pruebas de validación para el sistema. 
+Ingenieros de mantenimiento: Usan los requerimientos para comprender el sistema y las relaciones entre sus componentes.

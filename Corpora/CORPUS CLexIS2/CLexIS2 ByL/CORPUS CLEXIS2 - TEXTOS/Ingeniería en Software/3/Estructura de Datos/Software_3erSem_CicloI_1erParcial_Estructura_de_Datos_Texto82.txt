@@ -1,0 +1,5 @@
+texto 82
+Grado saliente de un vértice
+El grado saliente de un vértice corresponde al número de aristas que salen del vértice. 
+Grado de un vértice
+Se llama grado de un vértice v al número de aristas que lo tienen como extremo, (cada bucle lo cuenta dos veces). Se designa por d (v) y corresponde al número de aristas incidentes sobre el vértice v. Un vértice aislado tiene grado cero.

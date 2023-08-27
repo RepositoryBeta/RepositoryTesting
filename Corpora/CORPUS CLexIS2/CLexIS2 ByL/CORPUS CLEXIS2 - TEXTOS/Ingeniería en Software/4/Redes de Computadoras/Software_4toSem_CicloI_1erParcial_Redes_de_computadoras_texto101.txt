@@ -1,0 +1,9 @@
+﻿texto 101
+
+Suponen que se conmutan paquetes, esto significa que los paquetes individuales pueden usar rutas diferentes para llegar al mismo destino, las diferencias incluyen:
+
+TCP IP combina las funciones de la capa de presentación y decepción en la capa de aplicación.
+
+TCP IP combina la capa de enlace de datos y la capa física del modelo OSI en la capa de acceso de red.
+
+TCP IP parece ser más simple porque tiene menos capas.

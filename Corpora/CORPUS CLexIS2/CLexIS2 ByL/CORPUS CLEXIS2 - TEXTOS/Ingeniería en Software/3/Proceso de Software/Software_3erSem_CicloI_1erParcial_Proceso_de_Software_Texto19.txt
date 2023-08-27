@@ -1,0 +1,11 @@
+﻿texto 19
+
+MODELO TIPO SECUENCIAL
+
+Llamado algunas veces Ciclo de vida Básico o Modelo en Cascada, el Modelo Secuencial Lineal sugiere un enfoque Sistemático, Secuencial, para el desarrollo de software que comienza en un nivel de sistemas y progresa con el análisis, diseño, codificación, pruebas y mantenimiento.
+
+Características:
+
+Está compuesto por una serie de fases que se ejecutan secuencialmente
+
+Obtención de documentos como criterio de finalización de fase.

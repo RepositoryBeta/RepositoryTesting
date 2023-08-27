@@ -1,0 +1,5 @@
+﻿texto 1
+
+Ecuaciones diferenciales
+Una ecuación diferencial B se dice que es una ecuación matemática qué relaciona una función con su derivada o sea en la ecuación diferencial, tenemos función y derivadas vamos viendo ejemplos;
+aquí por ejemplo y^ + 2y^ = 3y (Y dos veces prima segunda derivada de Y, más dos veces la primera derivada de Y igual 3 Y) como aquí se ve esta relacionando la función con la derivada sí, entonces eso se llama ecuación diferencial en una ecuación diferencial debe haber el símbolo de igual.

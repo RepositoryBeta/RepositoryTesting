@@ -1,0 +1,17 @@
+﻿﻿texto 38
+
+OBJETIVOS.
+
+Establecer las mejores prácticas de Ingeniería de Software en los desarrollo de proyectos.
+
+Mejorar la productividad de los proyectos.
+
+Garantizar la Calidad del Software desarrollando, haciendo que este supere las expectativas del cliente. 
+
+CARACTERÍSTICAS XP
+
+Metodología basada en prueba y error
+
+Fundamentada en Valores y Prácticas
+
+Expresada en forma de 12 Prácticas, Conjunto completo, Se soportan unas a otras, Son conocidas desde hace tiempo. La novedad es juntarlas.

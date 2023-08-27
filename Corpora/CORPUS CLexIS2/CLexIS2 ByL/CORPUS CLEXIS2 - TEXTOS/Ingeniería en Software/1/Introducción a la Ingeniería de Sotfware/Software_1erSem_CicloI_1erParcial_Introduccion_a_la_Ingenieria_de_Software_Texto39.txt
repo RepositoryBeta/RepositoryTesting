@@ -1,0 +1,6 @@
+texto 39
+
+Tipos de sistema de información,
+los sistemas de información, de manera general se pueden clasificar de 3 formas:
+
+Según sus propósitos generales, en este sentido Peralta (2008) clasifica los sistema información en tres tipos fundamentales: (1) sistemas transaccionales; (2) sistemas de soporte a la toma de decisiones, sistema para la toma decisiones de grupo, sistema experto de soporte a la toma de decisiones y sistema de información para ejecutivos (3) sistemas estratégicos.

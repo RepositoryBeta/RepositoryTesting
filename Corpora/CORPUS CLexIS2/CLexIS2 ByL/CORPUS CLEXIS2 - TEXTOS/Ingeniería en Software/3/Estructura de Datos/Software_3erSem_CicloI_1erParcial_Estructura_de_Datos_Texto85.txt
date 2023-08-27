@@ -1,0 +1,9 @@
+texto 85
+
+Es decir, sean G1 = (V1, E1) y G2 = (V2, E2) grafos simples. Se dice G1 y G2 son isomorfos (la misma forma), si hay una función biyectiva f de V1 a V2 con la propiedad de que a y b son adyacentes en G1 si y solo si f (a) y f (b) son adyacentes en G2, para todo a y b en V1. Tal función f es llamada un isomorfismo.
+
+Grafos Planos
+
+Regiones de un grafo plano
+
+Se dice que G es un grafo plano si puede representarse gráficamente sin la intersección de sus aristas. Es decir, un grafo es plano si puede dividirse en regiones no acotadas.

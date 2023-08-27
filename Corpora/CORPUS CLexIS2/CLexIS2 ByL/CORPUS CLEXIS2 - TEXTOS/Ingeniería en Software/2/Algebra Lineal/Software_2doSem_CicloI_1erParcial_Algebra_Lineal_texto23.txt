@@ -1,0 +1,8 @@
+﻿texto 23
+
+vector
+
+El concepto de vector hace referencia a la idea de desplazamiento en el espacio desde un espacio inicial a un espacio final.
+
+La definición de vector puede ser incluso más sencilla: todo segmento de recta que está dirigido en el espacio. 
+Los vectores se definen con los puntos que ocupan su origen y extremo en los ejes de coordenadas. 

@@ -1,0 +1,6 @@
+texto 25 
+
+Visión general del proceso de ingeniería de software con independencia del área, tamaño o complejidad del proyecto, cualquier proyecto se encontraron al menos en uno de las siguientes fases:
+Definición - Análisis (del sistema, del software)
+desarrollo - diseño, codificación, prueba.
+mantenimiento.

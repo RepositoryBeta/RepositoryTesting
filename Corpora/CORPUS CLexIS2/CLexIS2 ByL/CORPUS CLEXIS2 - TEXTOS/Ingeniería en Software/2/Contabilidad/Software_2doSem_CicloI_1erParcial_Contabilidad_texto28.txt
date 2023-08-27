@@ -1,0 +1,5 @@
+﻿texto 28
+
+Ya está dividida la primera parte, vamos a poner el nombre de la cuenta en el lado izquierdo, voy a poner el debe en la parte derecha, voy a poner el haber, mi cuarta parte sería mi saldo donde igual vamos a ver más adelante en mi saldo se va a dividir en saldo adeudor, saldo acreedor y saldo nulo.
+
+Cuando digo que tengo un saldo deudor, entonces en el debe, que me dice este se realiza para poder diferenciar los movimientos que se producen en una cuenta a lo largo del ejercicio económico. 

@@ -1,0 +1,7 @@
+﻿texto 80
+
+Procedimiento:
+
+Para eliminar archivos o carpetas debemos seleccionar la carpeta o el archivo que queremos eliminar y pulsar con el botón derecho del ratón sobre ello seleccionamos la opción (eliminar).
+
+Ahora debemos aceptar la ventana que nos pregunta si estamos seguro de querer mover el archivo o carpeta.

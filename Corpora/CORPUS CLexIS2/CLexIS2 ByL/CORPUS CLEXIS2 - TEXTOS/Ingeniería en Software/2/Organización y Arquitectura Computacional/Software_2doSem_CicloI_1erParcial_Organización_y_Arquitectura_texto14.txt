@@ -1,0 +1,2 @@
+TEXTO 14 
+Estructura del bus: El bus de datos tiene una comunicación tanto con el procesador como con la memoria y acá lo más interesante es que los datos que viajan por estas líneas digitales, nos traen ya como salida esta información procesada y cualquier otro dispositivo que esté conectado en el, los datos cuando tenemos diferentes dispositivos como estos, que son el mouse, el teclado y los datos que ingresamos son los que ellos transportan hasta el CPU, luego se procesan y ya tenemos una salida de lo que queremos.

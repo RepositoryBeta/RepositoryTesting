@@ -1,0 +1,2 @@
+TEXTO 36
+Unidad central de proceso: Unidad aritmética lógica.- En computación, la unidad aritmética lógica o unidad aritmético-lógica también conocida como ALU, es un circuito digital que calcula las operaciones aritméticas (como suma, resta, multiplicación, etc.) y operaciones lógicas (si, y, o, no). Todas estas operaciones la realiza la unidad aritmética lógica, posterior a eso ella se comunica con la unidad de control para supervisar las tareas de lo que hay que hacer, si se necesita enviar hacia algún dispositivo en particular.

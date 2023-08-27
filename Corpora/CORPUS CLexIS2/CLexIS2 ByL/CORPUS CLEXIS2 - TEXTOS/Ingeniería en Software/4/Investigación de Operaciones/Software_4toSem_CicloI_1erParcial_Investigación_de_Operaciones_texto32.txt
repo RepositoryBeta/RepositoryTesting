@@ -1,0 +1,5 @@
+﻿texto 32
+
+Entonces ya empezamos, ya seguimos esas soluciones que deben encontrar normalmente se hace tomando en consideración la aplicación de modelos matemáticos que sean sencillos y que tengan capacidad, que tengas estructuras y relaciones que también hayan técnicas matemáticas que permiten aplicar esos modelos y qué haya aplicabilidad.
+
+Entonces aquí nos dice Las fases principales de la implementacion de la investigacion operacionales en la practica comprenden.

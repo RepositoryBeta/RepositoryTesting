@@ -1,0 +1,6 @@
+texto 63
+
+Por eso en el modelo relacional, en el modelo que nosotros nos encontramos actualmente, nuevo modelo final, es un modelo intermedio se puede decir, se denomina modelo lógico o conceptual, es un modelo físico, logico conceptual, tengo que interpretar o tengo que reconocer todos estos elementos, pero las entidades débiles, lo que se me dice okay, yo pinto la entidad débil y además, algo importante, las entidades débiles como ustedes saben que todo entidad tiene su llave en entidad débil, esa llave propia en aquella entidad, se llama llave parcial clave o llave parcial que la entidad o el identificador, el atributo identificador propio de la entidad.
+
+
+

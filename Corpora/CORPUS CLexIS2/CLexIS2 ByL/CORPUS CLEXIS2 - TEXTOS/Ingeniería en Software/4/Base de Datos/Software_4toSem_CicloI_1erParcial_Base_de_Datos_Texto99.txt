@@ -1,0 +1,3 @@
+texto 99
+
+Recordemos que estabamos viendo de las transformaciones del modelo entidad relación al modelo relacional, que ya es el modelo final, en la clase anterior hemos proyectado un ejemplo que se le recomendaba, que el ejercicio cuando tenga ganas, transformaciones, tratemos de hacer las transformaciones en herramienta que están utilizando en la cual manualmente nosotros hacemos la transformaciones como en word, como en visio, para que vayamos nosotros captando y entendiendo cada una de las transformaciones que se debe realizar la copia de las claves, las claves primarias, las claves foráneas.

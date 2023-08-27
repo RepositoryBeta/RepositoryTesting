@@ -1,0 +1,7 @@
+texto 3
+
+Que factores nosotros tenemos que tomar en cuenta cuando queremos medir la calidad del software.
+
+Pressman; Define o clasifica dos tipos de medidas:
+
+medidas directas: es una forma, una medida en la cual nosotros disponemos de un instrumento de medida que nos muestra un resultado (Generalmente numérico) por ejemplo nosotros podríamos medir o contar Cuántas líneas de código sabemos o no tenemos un dato numérico.

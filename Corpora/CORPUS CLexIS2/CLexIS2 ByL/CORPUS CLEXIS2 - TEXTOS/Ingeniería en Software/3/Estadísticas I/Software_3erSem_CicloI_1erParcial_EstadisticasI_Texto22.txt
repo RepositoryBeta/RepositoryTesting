@@ -1,0 +1,3 @@
+﻿texto 22
+
+Como seres humanos no podemos analizarlos para eso necesitamos de una herramienta, que es la parte computacional en la cual nosotros podemos a partir de esta herramienta computacional podemos hacer mejor nuestro trabajo, entonces ha creado un híbrido que se conoce con el nombre de Data science, un Data Science es una persona en la cual se dedica exclusivamente al estudio de lo que es el machine learning que es una rama de la Inteligencia artificial.

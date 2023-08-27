@@ -1,0 +1,4 @@
+texto 51
+
+Cuando hablamos de los núcleos del procesador, tenemos una caracterización de un procesador de un solo núcleo, single core highway, solamente un core, es decir que las tareas y los procesos, las instrucciones van una tras otras y se atienden, una a la vez, porque solamente hay un core o un núcleo que atienda los requerimientos. Acá tenemos un quad core, bastantes comerciales hoy en día, expressway, este de aquí significa que tengo varias carreteras, para mandar los diferentes procesos.
+

@@ -1,0 +1,11 @@
+texto 107
+
+ es la propagación simultánea de los campos eléctricos y magnéticos producidos por una carga eléctrica en movimiento,  las ondas electromagnéticas representan la propagación de un estado de perturbación del campo electromagnético.
+
+ características:
+
+ son tridimensionales:  se propagan a tres direcciones del espacio.
+
+ son transversales:  la perturbación se produce perpendicularmente a la dirección de propagación
+
+ no necesitan un medio para propagarse:  pueden propagarse en el vacío o en cualquier otro medio.

@@ -1,0 +1,5 @@
+﻿texto 88
+
+La otra parte de esta cuenta va a ser el saldo, aquí les decía que van a haber tres tipos de saldo, voy a tener saldo deudor, saldo acreedor y saldo, ¿Cuándo tengo saldo deudor? Cuando la suma es mayor a la suma del haber o como dicen cuando salga positivo valor, cuando el valor me salga positivo eso es saldo deudor. En cambio si es el saldo acreedor, es cuando la suma de mi haber es mayor a mí suma del debe.
+
+Al contrario el acreedor es cuando la suma del haber es mayor a la suma del debe y mi saldo nulo es 0 cuando las sumas son iguales.

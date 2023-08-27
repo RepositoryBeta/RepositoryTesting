@@ -1,0 +1,11 @@
+texto 69
+
+Esta representación es poco eficiente cuando el árbol no es completo, en vista del gran desperdicio de memoria que podría haber por las posiciones libres que quedarían en el vector.
+
+ Si k es la posición en un vector de un nodo de un árbol con n niveles, se tiene:
+
+El vector tendrá 2n+1 -1 posiciones.
+
+El padre estará en la posición k/2 (con k>1)
+
+El hijo izquierdo estará en la posición 2*I (con 2*k<n) y el hijo derecho en la posición 2*k+1.

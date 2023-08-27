@@ -1,0 +1,2 @@
+TEXTO 49
+Introducción a las memorias: Pese a que han ido evolucionando los computadores y esa cantidad de memoria o de almacenamiento ha ido también mejorando, seguían siendo medidos en cada modelo de su computador y para aquellos tiempos la capacidad de la memoria era muy pequeña. Antes las computadoras tenían que manejarlos así como especie de switch pero que su tamaño era muy gigante y su dispositivos electrónicos internos también muy grandes.

@@ -1,0 +1,4 @@
+texto 11
+
+No se debe porqué ver alterado, esto quiere decir que si el día mañana ustedes en la base de datos tienen una tabla llamada cliente, tiene un campo, si ustedes alteran ese campo, la aplicación, el software que tiene desarrollado tablas en php ya no tiene porqué verse alterado.
+Entonces, hay total independencia de la base de datos que está en aplicaciones, hay una total de independencia y eso me favorece porque yo puedo cambiar la base datos y mi aplicación no se ve alterada. 

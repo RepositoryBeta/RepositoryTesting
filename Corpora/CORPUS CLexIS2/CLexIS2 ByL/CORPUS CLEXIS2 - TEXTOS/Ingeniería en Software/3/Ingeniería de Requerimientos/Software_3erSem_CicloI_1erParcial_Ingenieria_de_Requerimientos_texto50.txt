@@ -1,0 +1,2 @@
+TEXTO 50
+El zoom utiliza el GPU, el Microsoft Edge también utiliza el GPU, lo que significa que está tomando los gráficos que usted tiene en ese lugar, toma los vídeos, los está poniendo para el procesador gráfico. Si yo no tuviera GPU obviamente todo usará el CPU. Son preguntas engañosas, todo Software que utiliza vídeo, todo Software que utilizan interfaz móvil como GIF o como tipo de imágenes móviles utiliza el GPU. Siempre la parte gráfica va a estar basada en la unidad gráfica.

@@ -1,0 +1,2 @@
+TEXTO 71
+Introducción a las memorias: La memoria semiconductora la utilizaban los primeros equipos. Este tipo de memoria semiconductora, obviamente cuya particularidad de los equipos antiguos tenía un gran tamaño, y ahora ese tipo de memorias han venido evolucionando hasta que nuestros equipos han llegado Memorias de mucha menor dimensión y de mucha mayor capacidad de almacenamiento, podemos medir nuestra memoria en gigabyte y almacenamiento secundario medirlo en terabytes.

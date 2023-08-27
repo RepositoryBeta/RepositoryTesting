@@ -1,0 +1,4 @@
+texto 63
+
+Acá nos informa que es un quad core, efectivamente lo es, vemos también que este mapa está diseñado a 22 nanómetros, con la tecnología trigate, de transistores en 3D, que fue lanzado en el 2011, les hablaba o les mencionaba respecto a que el microprocesador puede operar con una o más core, cuando hablamos de los core hablamos de los cpu, la unidad central de proceso, lo que pasa es que cpu es una palabra que la tenemos bastante coloquializada, porque cuando hablamos de cpu a ver si nos referimos a toda la torre o el case, con todos los elementos ahí incorporados.
+

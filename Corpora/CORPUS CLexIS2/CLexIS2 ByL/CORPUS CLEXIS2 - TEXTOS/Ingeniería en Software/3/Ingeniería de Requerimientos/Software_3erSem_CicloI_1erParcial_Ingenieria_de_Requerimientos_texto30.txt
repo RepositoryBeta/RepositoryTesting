@@ -1,0 +1,5 @@
+TEXTO 30
+Ejemplos para el sistema de control de maletas:
+1) El sistema debe manejar hasta 20 maletas por segundo
+2) Si el suministro de corriente falla, el sistema debe apagarse de manera ordenada en menos de 5 segundo.
+3) Cada usuario del sistema debe identificarse de manera única utilizando su número de empleado de 8 dígitos.

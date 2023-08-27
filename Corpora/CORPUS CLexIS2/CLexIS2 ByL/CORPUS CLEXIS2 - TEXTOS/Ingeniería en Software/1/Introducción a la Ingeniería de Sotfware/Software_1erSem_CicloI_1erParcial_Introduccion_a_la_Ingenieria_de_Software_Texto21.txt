@@ -1,0 +1,4 @@
+﻿texto 21
+
+Por que el  software es diferente a cualquier otro proceso de fabricación?
+el software se desarrolla, no se fabrica en el sentido clásico de la palabra. Actividades se dirigen a la construcción de un producto, pero los métodos son diferentes. Los costes del Software se encuentran en ingeniería, esto implica que los proyectos no se pueden gestionar como si lo fueran de fabricación.

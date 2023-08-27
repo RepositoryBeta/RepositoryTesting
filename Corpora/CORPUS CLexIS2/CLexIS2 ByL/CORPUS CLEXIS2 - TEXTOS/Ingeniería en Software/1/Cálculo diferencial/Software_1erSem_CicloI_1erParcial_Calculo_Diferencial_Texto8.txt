@@ -1,0 +1,4 @@
+﻿texto 8 
+
+¿Qué es la orden de una EDO?
+Ecuación diferencial ordinaria, una orden de una ecuación diferencial ordinaria dice que es el orden de la mayor derivada en la ecuación, la mayor derivada, recordemos que tenemos varias derivadas verdad, primera derivada, segunda derivada, tercera derivada, etc. Por ejemplo, aquí dos X generalmente la X es variable independiente mas y la prima qué significa este (prima); cuando hay una sola comillita o un solo apóstrofe significa primera derivada, + la primera derivada de Y = 0, (2x + y' = 0). 2 x 2 veces la variable independiente + Y prima, la primera derivada de igual 0, tiene orden 1 porque la mayor derivada de X es de Y prima quiere primera derivada.

@@ -1,0 +1,6 @@
+TEXTO 38
+Requerimientos del Dominio: Estos requerimientos se derivan del dominio de aplicación del sistema mas que delas necesidades especificas del usuario. Incluyen terminología especializada del dominio o referencias a conceptos del dominio. Pueden ser:
+1) Requerimientos funcionales nuevos.
+2) Restringir los existentes.
+3) Establecer como se deben ejecutar cálculos particulares.
+Si no se satisfacen puede ser que el sistema no funcione adecuadamente. Para redactarlos se requieren conocimientos especializados del dominio.

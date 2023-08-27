@@ -1,0 +1,2 @@
+TEXTO 19
+Distintos requerimientos, objetivos de sus requerimientos objetivo todavía no es un requerimiento los objetivos son utilizados por el proceso de IR. Pueden ser utilizados para identificar los diversos requerimientos. los objetivos son lo que usted va a llegar a hacer,  como el requerimiento se va a transformar en objetivos. ejemplo implementar un sistema de acceso a biblioteca que funcione en un dispositivo móvil. Es un objetivo en un requerimiento. Además los objetivos tienen un verbo en infinitivo.

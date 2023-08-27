@@ -1,0 +1,7 @@
+﻿texto 43
+
+Disco Duro
+
+Es el dispositivo de almacenamiento de datos que emplea un sistema de grabación magnética para almacenar archivos digitales.
+
+Se compone de uno o más platos o discos rígidos, unidos por un mismo eje que gira a gran velocidad dentro de una caja metálica sellada. Sobre cada plato, y en que cada uno de sus caras, se sitúa un cabezal de lectura y escritura que flota sobre una delgada lámina de aire generada por la rotación de los discos, es una memoria no volátil.

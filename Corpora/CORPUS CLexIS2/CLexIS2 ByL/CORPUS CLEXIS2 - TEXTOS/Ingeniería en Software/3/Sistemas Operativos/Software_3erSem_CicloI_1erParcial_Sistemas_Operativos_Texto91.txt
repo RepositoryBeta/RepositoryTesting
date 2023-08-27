@@ -1,0 +1,5 @@
+texto 91
+
+En este sistema operativo es común que los diferentes programas de aplicación comiencen por crear un directorio en el directorio raíz pongan ahi todos sus archivos, con objeto que no halla conflictos entre las aplicaciones.
+
+Directorios en UNIX: La estructura de directorios es extremadamente sencilla.Cuando se abre un archivo, el sistema de archivos debe tomar el nombre que se le proporciona y localizar sus bloques de disco.

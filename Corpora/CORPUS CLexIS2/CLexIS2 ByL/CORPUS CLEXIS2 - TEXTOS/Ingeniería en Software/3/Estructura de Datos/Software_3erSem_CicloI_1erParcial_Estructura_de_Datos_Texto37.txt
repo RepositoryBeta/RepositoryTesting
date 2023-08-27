@@ -1,0 +1,10 @@
+﻿texto 37
+
+ESTRUCTURA DE DATOS DINÁMICAS
+- Lineales
+ a) Pila
+ b) Cola
+ c) Lista.
+- No lineales
+ a) Árboles
+ b) Grafos.

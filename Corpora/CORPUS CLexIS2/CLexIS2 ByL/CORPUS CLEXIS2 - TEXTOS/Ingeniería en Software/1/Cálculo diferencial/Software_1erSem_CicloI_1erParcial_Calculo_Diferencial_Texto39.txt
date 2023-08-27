@@ -1,0 +1,4 @@
+texto 39
+Se sustituyen las constantes C1 y C2 por funciones; la solución particular de la ecuación completa que buscamos es de la forma yp (x) = C1 (x) y1 (x) + C2 (x) y2 (x). 
+Con el fin de simplificar los cálculos y que no aparezcan derivadas de segundo orden en C1 y C2, se añade la condición de que C1′ (x) y1 (x) + C2′ (x) y2 (x) = 0.
+Se deriva dos veces yp (x) y se sustituye en la ecuación diferencial, obteniendo una ecuación que liga C1′ (x) y C2′ (x) con y1′ (x) y y2′ (x); esta ecuación junto a la condición añadida forma un sistema en las dos incógnitas C1′ (x) y C2′ (x).

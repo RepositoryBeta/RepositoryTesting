@@ -1,0 +1,12 @@
+texto 78
+
+ Modelo de cascada
+
+  Las fases están identificadas por separado
+
+ El análisis y definición de requerimientos,
+ diseño del sistema de software,
+ prueba de implementación de unidades,
+ integración y prueba del sistema
+ operación y mantenimiento, y
+ el principal inconveniente del modelo de la cascada es la dificultad de comida de cambio después de que  está en marcha el proceso. En principio, una fase tiene que ser completada antes de que pasar a la siguiente fase.

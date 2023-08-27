@@ -1,0 +1,11 @@
+texto 70
+
+ Modelo general del proceso en ingeniería
+
+ Especificación: formalización de los requisitos y restricciones del sistema.
+
+ Diseño: elaboración de un documento con el modelo del sistema.
+
+ Fabricación: construcción del sistema.
+
+ Prueba: comprobación de que el sistema si cumple las especificaciones requeridas.

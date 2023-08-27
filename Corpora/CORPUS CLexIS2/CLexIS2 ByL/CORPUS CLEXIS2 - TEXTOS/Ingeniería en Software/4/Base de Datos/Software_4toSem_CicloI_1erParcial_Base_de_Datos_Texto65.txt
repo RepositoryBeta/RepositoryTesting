@@ -1,0 +1,8 @@
+texto 65
+
+Para reconocer que una entidad es débil y además que estamos considerando que para identificar si es entidad débil no basta únicamente con el número de carnet familiar, sino que yo de único el número de carnet del trabajador como llave o clave primaria, ¿alguna pregunta de estas entidades?.
+Relación o asociación recursiva
+Recursiva es cuando una entidad se puede relacionar consigo mismo, por ejemplo, ósea la persona que realiza se puede hacer una relación consigo mismo por ejemplo puede ser jefe o puede ser subordinado.
+
+
+

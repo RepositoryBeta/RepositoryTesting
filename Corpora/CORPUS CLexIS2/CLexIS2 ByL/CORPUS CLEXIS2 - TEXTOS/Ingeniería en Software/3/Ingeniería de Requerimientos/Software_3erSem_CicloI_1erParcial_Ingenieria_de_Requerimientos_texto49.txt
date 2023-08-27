@@ -1,0 +1,6 @@
+﻿TEXTO 49
+En el estudio de factibilidad tenemos un informe final, donde logramos apreciar distintos puntos. 
+1) Recomendación  para realizar o no el sistema.
+2) Proponer cambios en el alcance, presupuesto y agenda.
+3) Sugerir requerimientos adicionales.
+Normalmente todos estos puntos se tratan en una segunda reunión, en la primera todo correcto y en la segunda usted ya le puede presentar el estudio de factibilidad.

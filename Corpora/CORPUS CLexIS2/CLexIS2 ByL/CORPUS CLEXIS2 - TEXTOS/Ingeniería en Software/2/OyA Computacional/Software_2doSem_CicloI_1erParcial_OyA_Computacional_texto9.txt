@@ -1,0 +1,4 @@
+texto 9
+
+Mejor dicho, es el que permite que no haya colisión información en el sistema. Es decir, que esté organizado, es el administrador de transferencia, es un bus de control. Mientras que el bus de direcciones, hablamos de que esas direcciones se encuentran en la memoria RAM, la memoria RAM es una memoria de acceso rápido, de forma de que cada celda de memoria tiene su propia dirección o dirección única.
+

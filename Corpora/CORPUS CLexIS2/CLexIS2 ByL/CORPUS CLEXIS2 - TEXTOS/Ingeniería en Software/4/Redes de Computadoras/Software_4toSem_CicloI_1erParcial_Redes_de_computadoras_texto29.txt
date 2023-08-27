@@ -1,0 +1,3 @@
+texto 29
+
+acá tenemos que el éxito de una transmisión depende de la calidad de la señal que se está transmitiendo y por supuesto también depende de la característica del medio, vamos a ver sobre los medio de transmisión, hablamos del inalámbrico, si el de cable de red utp, si es coaxial, si es fibra,  dependiendo la calidad del medio de transmisión, las características también depende del éxito de las comunicaciones de la calidad de señal generada.

@@ -1,0 +1,3 @@
+﻿texto 8
+
+Vamos a analizar una variable observable y verdad que puede ser, en la cual nosotros podemos tomar decisiones rápidas y podemos nosotros decir automáticamente, ¿Qué es?, ¿De qué se trata?, verdad, es por ejemplo: el sexo de la persona, si nosotros vemos a alguien por ejemplo nosotros automáticamente definimos si es un hombre o una mujer y automáticamente nosotros definimos dentro de nuestra encuesta el sexo de la persona como variable.

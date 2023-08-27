@@ -1,0 +1,2 @@
+TEXTO 56
+Razones que dificultan el proceso de adquisición de requerimientos: El ambiente económico y empresarial donde ocurre el análisis dinámico. Puede cambiar la importancia de requerimientos particulares; o bien, tal vez surgen nuevos requerimientos de nuevos participantes a quienes no se consultó originalmente. Todos estos puntos indicados anteriormente son las razones que presentan dificultades en la adquisición de requerimientos.

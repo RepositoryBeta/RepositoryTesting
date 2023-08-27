@@ -1,0 +1,4 @@
+﻿TEXTO 40
+Problemas Relacionados con los Requerimientos del Dominio: 
+Comprensibilidad: Los requerimientos son expresados en el lenguaje del dominio de aplicación. Pueden no ser entendidos por los ingenieros de software que desarrollan el sistema. 
+Implicación y conocimiento tácito: Los especialistas del dominio entienden el área tan bien que no consideran necesario explicar los requerimientos del dominio. Las personas no están consientes del conocimiento tácito que poseen y no lo expresan a los otros. 

@@ -1,0 +1,8 @@
+Texto 86
+
+¿Qué es el empleado por hora? 
+Si el empleado asalariado o con sueldo fijo propios, atributos en algunos textos lo va a encontrar así y también se le suele denominar la entidad generalizada, supertipo y a las entidades especializadas se la suele denominar subtipos, también en algunos que nosotros estamos representando que le decía, es uniendo con una saeta o una flechita hacia la entidad generalizada, cuando yo tengo una generalización y especialización, esta línea no identifican relación especialización, generalización, porque si ponen un rombo se estaría especificando una asociación, una relación aquí sino que las líneas se unen directamente de las entidades especializadas con la generalizadas.
+
+
+
+

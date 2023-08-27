@@ -1,0 +1,4 @@
+texto 114
+
+Arquitectura: Es el diseño computacional y la estructura operacional fundamental de un sistema de computadora. Se diseña a manera conceptual y se lo hace estructuralmente de manera operativa. El ordenador recibe y envía la información a través de los periféricos por medio de los canales. La UCP es la encargada de procesar la información que le llega al ordenador. El intercambio de información se tiene que hacer con los periféricos y la UCP.
+

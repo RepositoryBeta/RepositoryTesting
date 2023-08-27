@@ -1,0 +1,8 @@
+Texto 88
+
+Entonces, ¿qué es lo que hago?, una agregación, como otros datos, ejemplo, el aniversario del matrimonio, la fecha del aniversario, la dirección donde recibe ese matrimonio, son otras entidades que yo necesito relacionar, no sólo con el nombre, no sólo con la mujer, sino con la agregación que es el matrimonio y yo me encuentro ante una agregación, cuando el ejercicio claramente me indica que yo necesito otras entidades, relacionar con esta especie de composición que es el matrimonio.
+
+
+
+
+

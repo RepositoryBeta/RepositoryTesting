@@ -1,0 +1,2 @@
+ TEXTO 86
+Casos de uso identificados: recibir producto, almacenar producto, llevar orden, localizar productos y embarcar orden. El Paso 4 define las asociaciones entre actores y casos de uso. El receptor recibe el producto, el encargado de inventarios almacena el producto, en el sistema de cuentas por pagar. Los otros, localizan el producto, llenan la orden y los encargados de embarques embarcan la orden. Estos dos últimos trabajan con el sistema de procesamiento de órdenes.

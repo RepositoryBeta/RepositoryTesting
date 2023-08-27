@@ -1,0 +1,3 @@
+﻿texto 81
+
+Por ejemplo aqui tengo mi clase persona hago mi instancia persona y este es mi objeto Pedro qué es persona, ¿Cuantos objetos por persona voy a tener?, lo que me dé la gana, entonces cuantas instancias voy a tener 10, 20  cuantos objetos voy a tener, uno por cada instancia, mucho ojo no sé me confundan la clase con el objeto y lo digo en el examen En vez de gráficar a la clase persona que es la clase me gráficar a pedro que es el objeto.

@@ -1,0 +1,2 @@
+texto 37
+esto es lo que nos pasa a nosotros porque no tenemos la destreza, fíjense si empezamos a hacer un proyecto y apenas estamos conociendo las primeras líneas de desarrollo, será imposible, un buen hábito y como buenos programadores es la de llevar una metodología para solucionar un problema por más mínimo que este sea, es por eso que esta vez vamos a ver algunos pasos que debemos seguir para resolver un problema en programación y básicamente la idea es convertirlo en un hábito cada vez que vayamos a programar.

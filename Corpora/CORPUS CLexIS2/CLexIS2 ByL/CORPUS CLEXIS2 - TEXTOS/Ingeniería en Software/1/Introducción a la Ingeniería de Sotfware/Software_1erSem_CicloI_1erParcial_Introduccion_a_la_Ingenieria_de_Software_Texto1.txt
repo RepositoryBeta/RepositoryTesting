@@ -1,0 +1,4 @@
+﻿texto 1
+
+Hemos mencionado que ingeniería de software se basa en tomar esos principios robustos de la ingeniería para crear un software de calidad. 
+Entonces vamos a ver que es la calidad: la calidad es un conjunto de propiedades y características que tiene un producto o tiene un servicio para satisfacer una necesidad explicita o implícita, entonces nuestro software tiene que tener esas características como tal, es un producto a pesar de que no se ve porque no se toca porque es intangible, tiene que tener características, un producto para satisfacer esas necesidades que tiene nuestro cliente , la cita que es la norma ISO 8402 que básicamente cita o menciona la definición de la calidad.

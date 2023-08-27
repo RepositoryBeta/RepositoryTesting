@@ -1,0 +1,5 @@
+texto 41
+
+Entonces ¿cómo funciona esto?, miren que hay muchos componentes, vemos que cuando un usuario que lo vemos acá, donde dice software de usuario, el usuario en lenguaje natural alquiler.
+Por ejemplo, consultar a un cliente que ha hecho una transacción el día de hoy, por ejemplo al cliente de apellido Pérez desea consultar una transaccion, el día de hoy es el lenguaje natural eso se transforma en un proceso, ahí ya está trabajando la arquitectura interna de oracle, ese requerimiento de usuario, que hace una consulta, ustedes van a conocer posteriormente que se denomina sql. 
+

@@ -1,0 +1,9 @@
+texto 78
+
+Gestión De Memoria Con Particiones Fijas Una forma de realizar la multiprogramación consiste en dividir la memoria física disponible en varias particiones y asignar cada una de las partes a un proceso. 
+
+El número y tamaño de las particiones se determinan según estos factores: 
+
+Capacidad de la memoria física 
+
+Grado multiprogración que se desee conseguir tamaños típicos de los procesos ejecutados.

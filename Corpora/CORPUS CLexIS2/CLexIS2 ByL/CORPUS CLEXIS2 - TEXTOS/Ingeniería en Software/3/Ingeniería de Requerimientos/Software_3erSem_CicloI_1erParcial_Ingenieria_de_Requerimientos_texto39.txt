@@ -1,0 +1,5 @@
+﻿TEXTO 39
+Ejemplo de RD para un sistema de biblioteca: Tenemos un requerimiento que dice 1) Deberá existir una interfaz de usuario estándar para todas las bases de datos que estará basada en el estándar Z 39.50.
+Así mismo tenemos un ejemplo para un sistema de control de trenes: La desaceleración del tren se calculará como: 
+D (tren) = D (control) + D (gradiente)
+Donde D (gradiente) es 9.81 ms2 * gradiente compensando alfa y en donde los valores de 9.81 ms2/alfa se conocen para diferentes tipos de trenes.

@@ -1,0 +1,7 @@
+﻿texto 82
+
+Cuestiones generales sobre la carpeta personal
+
+Para cada usuario del ordenador, Windows 10 crear una carpeta personal única en la que el usuario puede almacenar todos sus archivos como lo son los correos, las hojas de cálculos, fotos, música, etcétera.
+
+Con objeto de facilitar la gestión, Windows 10 crea, en esa carpeta personal, las subcarpetas especializadas, como son los contactos, el escritorio, los documentos, descargas, favoritos, vínculos, músicas, imágenes, juegos guardados, búsquedas, onedrive y videos.

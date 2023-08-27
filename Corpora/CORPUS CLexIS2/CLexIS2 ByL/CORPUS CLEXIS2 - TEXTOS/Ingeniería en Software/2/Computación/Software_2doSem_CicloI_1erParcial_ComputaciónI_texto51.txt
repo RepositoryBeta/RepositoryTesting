@@ -1,0 +1,3 @@
+﻿texto 51
+
+Me imagino que esta última parte la tenemos clara no el software es de ayuda enviar las instrucciones al Hardware para que a su vez el Hardware puede ejecutar las diversas tareas, ejemplo yo quiero que se emita un sonido, quiero obviamente escuchar música, el software me ayuda aquí en base a lo que el usuario desea que se realice, emite las codificaciones respondientes para hacer que se emita luego el sonido.

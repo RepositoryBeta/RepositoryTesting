@@ -1,0 +1,7 @@
+texto 66
+
+Relacion / asociación recursiva
+Un poco es el concepto, como bien lo dice su compañera, es una entidad que se debe relacionar consigo mismo, porque hay elementos o valores que yo voy almacenar en esa entidad que cumplen roles diferentes, a pesar de que tienen los mismos atributos van a cumplir roles diferentes, como por ejemplo la entidad persona en un sitio diseñado, un sistema para el departamento de talento humano de recursos humanos de una empresa, yo en una entidad pienso almacenar la personas que trabajan en esa empresa, ahí una persona va a cumplir el rol de jefe y yo el rol de subordinado.
+
+
+

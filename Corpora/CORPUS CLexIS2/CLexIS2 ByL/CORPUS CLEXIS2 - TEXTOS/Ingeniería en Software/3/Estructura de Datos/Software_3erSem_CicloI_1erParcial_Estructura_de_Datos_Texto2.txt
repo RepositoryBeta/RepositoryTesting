@@ -1,0 +1,6 @@
+﻿texto 2 
+
+clasificación/ tipos de memoria lineal:
+listas enlazadas simples.
+listas enlazadas dobles.
+lista circular.

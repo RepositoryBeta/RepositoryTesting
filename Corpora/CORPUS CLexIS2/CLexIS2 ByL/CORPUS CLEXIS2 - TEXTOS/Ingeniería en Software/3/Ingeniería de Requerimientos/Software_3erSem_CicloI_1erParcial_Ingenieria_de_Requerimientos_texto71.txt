@@ -1,0 +1,2 @@
+﻿TEXTO 71
+Casos de uso: Objetivo: En los casos de uso existe una diferencia. La diferencia entre los casos de uso y el diseño funcional es el foco. El diseño funcional documenta un proceso, los casos de uso la meta de proceso. Normalmente estos procesos que se llevan a cabo se basan en un verbo. Centrarse en procesos, a menudo reproduce sistemas existentes, ya que nos centramos en el (como) y no en el (porque) y en el (que).

@@ -1,0 +1,9 @@
+﻿texto 83
+
+Por defecto, usted no dispone de la autorización requerida para acceder a la carpeta personal de otros usuarios.
+
+El nombre de la carpeta personal de una cuenta local corresponde al nombre de usuario utiliza do para abrir la sesión en el ordenador.
+
+Windows 10 también al previsto una carpeta acceso público para los archivos que deseen compartir con otros usuarios del ordenador.
+
+Cada usuario puede crear libremente sus propias carpetas y subcarpetas.

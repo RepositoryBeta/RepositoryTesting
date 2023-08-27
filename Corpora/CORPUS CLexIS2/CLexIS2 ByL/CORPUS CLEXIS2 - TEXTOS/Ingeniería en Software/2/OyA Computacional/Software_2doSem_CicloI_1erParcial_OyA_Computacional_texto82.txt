@@ -1,0 +1,4 @@
+texto 82
+
+Ahora, hemos hablado de algunas partes del microprocesador. Vamos a entrar a detalle, unidad de memoria, esta unidad puede almacenar instrucciones, datos y resultados intermedios. Es una unidad que almacena. Proporciona información a las otras unidades de la computadora cuando sea necesario. Su tamaño afecta a: velocidad, potencia y capacidad. Así mismo tenemos funciones que se cumplen en la unidad de memoria.
+

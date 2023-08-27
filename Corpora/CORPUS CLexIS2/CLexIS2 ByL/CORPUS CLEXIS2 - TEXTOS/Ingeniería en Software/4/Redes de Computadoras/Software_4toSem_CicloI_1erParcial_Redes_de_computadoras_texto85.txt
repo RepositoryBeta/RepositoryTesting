@@ -1,0 +1,7 @@
+texto 85
+
+ capa de red:  permite el direccionamiento y la mejor ruta, aquí Tenemos los protocolos de
+
+IP:  protocolo que permite realizar la comunicación entre distintos dispositivos sin importar la tecnología de Howard mediante direccionamiento lógico
+
+P2P:  protocolo Punto a Punto, la información se transmite de forma física, cable, coaxial utp o fibra óptica.

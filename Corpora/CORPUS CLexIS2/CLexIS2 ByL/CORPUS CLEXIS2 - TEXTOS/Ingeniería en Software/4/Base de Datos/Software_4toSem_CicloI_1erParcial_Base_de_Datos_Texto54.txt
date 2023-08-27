@@ -1,0 +1,4 @@
+texto 54
+
+Una vez que los mata, corta el problema y la base de datos, vuelve a estar funcionando de manera normal, es un escenario en particular que les estoy mencionando de, ¿cómo trabajaría un deber con estos componentes?, y así hay muchos escenarios múltiples, escenario milenario, un espía tendrá que administrar y conocer y por eso les decía que el dba o el administrador conoce esta arquitectura inicial básica, como que fuera dos más dos, porque cada uno de estos componentes se generan o generan un sin número de escenarios que los conoce el administrador de base de datos. 
+

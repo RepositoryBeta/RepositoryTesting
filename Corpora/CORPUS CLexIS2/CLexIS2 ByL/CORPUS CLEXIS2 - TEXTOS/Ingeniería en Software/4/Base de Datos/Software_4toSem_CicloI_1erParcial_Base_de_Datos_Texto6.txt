@@ -1,0 +1,3 @@
+texto 6
+
+Yo necesito que tú desarrolles un sistema primero para captar clientes, para poder entregar las tarjetas de crédito, en esta captación de clientes yo voy a recopilar el nombre del cliente, su dirección, su salario, datos personales del cliente, para poder ofrecer una tarjeta de crédito, una vez que tenga la tarjeta de crédito yo necesito que el sistema también se interconecta con todos los sistemas bancarios para que el momento que el cliente vaya a una institución, a un comercio cualquiera y pague ese pago, se registra en nuestro sistema, eso es un lenguaje natural o es un lenguaje común.

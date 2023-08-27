@@ -1,0 +1,5 @@
+﻿texto 47
+
+ Veamos ahora qué significado e implicaciones tiene la ortogonalidad en las transformaciones lineales. 
+
+Una transformación lineal T de U en V se dice que es ortogonal si preserva el producto interno de los vectores; es decir, para todo u1,u2 ? U se cumple que hT (u1), T (u2)i = hu1,u2i. Proposición Si T : U ? V es ortogonal entonces preserva la longitud de los vectores: ||T(u)|| = ||u|| , para todo u U.

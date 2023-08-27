@@ -1,0 +1,3 @@
+﻿texto 41
+
+Esta línea tiene varios significados, en este caso significa una relación llamada clientela otros le llaman de pertenencia en donde la palabra le da el significado y su ubicación, ejemplo aqui el edificio está ubicado en una ciudad pero si yo no leo desde la derecha a la izquierda puedo decir que una ciudad tiene de uno a muchos edificios, luego vamos hablar mas adelante de las cardinalidades qué es lo que quiero que vean aqui, que nosotros los ingenieros de Software que trabajamos el modelamiento tenemos que aprender estos símbolos.

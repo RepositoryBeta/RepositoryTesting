@@ -1,0 +1,11 @@
+﻿texto 26
+
+El módulo de un vector es igual a la raíz de la suma de los cuadrados de sus componentes.
+
+Tipos de vectores en álgebra lineal
+
+Aquí podemos ver la clasificación de los vectores que te puedes encontrar dependiendo del grado de equivalencia:
+
+Vectores equipolentes: son dos vectores que poseen el mismo módulo, dirección y sentido.
+
+Vectores libres: es un grupo de vectores equipolentes. Es decir que comparten módulo, dirección y sentido.

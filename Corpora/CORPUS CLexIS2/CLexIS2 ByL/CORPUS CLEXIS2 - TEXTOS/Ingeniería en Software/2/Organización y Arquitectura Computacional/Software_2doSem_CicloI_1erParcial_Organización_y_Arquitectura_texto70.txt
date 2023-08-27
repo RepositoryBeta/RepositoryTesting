@@ -1,0 +1,2 @@
+TEXTO 70
+Introducción a las memorias: Es decir, a manera de confusión esta palabra (IAS), que simplemente es una denominación contiene instrucciones en combinaciones de dígitos de ceros y unos, que a su vez se van a ejecutar o almacenar en las memorias temporales que están en la unidad central de proceso, distribuidas en sus diferentes áreas tanto la unidad de control como la de unidad aritmética lógica.

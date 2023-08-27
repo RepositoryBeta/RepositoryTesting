@@ -1,0 +1,4 @@
+texto 49
+
+El símbolo de potencia para saber los resultados de dos elevado al cuadrado, dos elevado al cubo, en fin, mod es el residuo o también lo habíamos visto en algunas versiones que puede ser mod o en otras puede ser el porcentaje, el símbolo de porcentaje, lo cierto es que me da el residuo de la división de dos números.
+Tenemos las operaciones relacionales, para yo poder establecer una operación de relacional necesariamente necesito de estos operadores.

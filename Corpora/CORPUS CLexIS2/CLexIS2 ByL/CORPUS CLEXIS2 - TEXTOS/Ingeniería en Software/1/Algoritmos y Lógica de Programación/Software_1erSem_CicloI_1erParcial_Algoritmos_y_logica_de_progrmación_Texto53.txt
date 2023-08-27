@@ -1,0 +1,2 @@
+texto 53
+Entonces yo primero tengo que partir de mi algoritmo,  tengo que partir de este algoritmo que yo lo establezco con mi lenguaje natural y en la forma de que como yo puedo analizar y ver mi problema, mi primer paso siempre será el inicio, luego tengo que ingresar el número, después yo tengo que analizar el número, y es aquí donde yo puedo poner una condición y digo, cuando los números son positivos?, cuando es mayor a cero según la recta numérica, que pasa si es verdad,  decimos que el numero es positivo, según la recta numérica.

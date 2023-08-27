@@ -1,0 +1,4 @@
+texto 70
+
+La generalización permite que las entidades de nivel más bajo hereden los atributos de la entidad generalizadora de más alto nivel. La entidad general se llama superentidad y las otras subentidades. La superentidad normalmente tiene una clave principal distinta de las subentidades (éste sería el detalle más importante para diferenciarlas de las relaciones ISA de especificación).
+La generalización trata de eliminar la redundancia (repetición) de atributos, al englobar los atributos semejantes. 

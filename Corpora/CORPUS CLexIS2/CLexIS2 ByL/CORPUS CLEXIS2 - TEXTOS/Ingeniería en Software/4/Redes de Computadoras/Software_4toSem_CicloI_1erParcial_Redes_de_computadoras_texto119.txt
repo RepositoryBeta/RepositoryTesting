@@ -1,0 +1,4 @@
+texto 119
+comportamiento frente a las capas atmosféricas:  las distintas frecuencias no se comportan igual  en la ionosfera o en la tropósfera, e incluso hay ondas que se propagan por la superficie terrestre,  Existen así diversos modos de propagación de las ondas.
+Medios de transmisión.
+un canal de comunicación está compuesto físicamente de uno o más medios de  transmisión, en los sistemas de transmisión de datos en medio de transmisión ese camino entre el transmisor y receptor.

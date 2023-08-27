@@ -1,0 +1,7 @@
+﻿texto 49
+
+Algoritmos de planificación 
+
+FCFS (First come first served): Este algoritmo plantea que los procesos sean ejecutados en le orden en que llegan a la cola de procesos listos, por lo tanto el tiempo de espera, en general, es alto. La implementación es sencilla, con una cola FIFO (first in first out). Este algoritmo es no expropiativo.
+
+SJF (Shortest Job First): Este algoritmo asocia a cada proceso el largo de su próximo CPU burst, asignando al procesador cuando queda disponible, el proceso que tenga menor CPU burst. Para poder llevar a cabo este algoritmo, es necesario conocer los tiempos de ejecución que por lo general son desconocidos. 

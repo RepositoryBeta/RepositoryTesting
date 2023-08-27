@@ -1,0 +1,7 @@
+﻿texto 89
+
+Al igual que el método anterior, basta con guardar un solo entero en la entrada del directorio para poder localizar todos lo bloques.
+
+La desventaja principal de este método es que toda la tabla debe estar en la memoria todo el tiempo para que funcione.
+
+Nodos i: Consiste en asociar a cada archivo una pequeña tabla llamada nodo i (nodo indice), que lista los atributos y las direcciones en disco de los bloques del archivo.

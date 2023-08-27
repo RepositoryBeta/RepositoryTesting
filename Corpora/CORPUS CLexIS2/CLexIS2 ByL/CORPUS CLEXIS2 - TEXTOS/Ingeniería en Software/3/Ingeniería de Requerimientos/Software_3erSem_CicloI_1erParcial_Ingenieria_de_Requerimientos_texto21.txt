@@ -1,0 +1,3 @@
+
+TEXTO 21
+Ejemplos de requerimientos: 1) El sistema debe mantener una serie de registro de las búsquedas de material de la biblioteca, incluyendo libros, periódicos, revistas y discos compactos, realizadas por el usuario. 2) El sistema debe permitir que los usuarios busquen por título, autor o ISBN. 3) La interfaz de usuario del sistema debe ser implementado usando un navegador web. 4) El sistema debe mostrar información al usuario en menos de un minuto. 5) El sistema debe estar disponible en al menos tres sistemas operativos móviles existentes.

@@ -1,0 +1,13 @@
+texto 48
+
+Algunas actividades son:
+
+- Problemas de transporte.
+
+- Planificacion de agricultura.
+
+- Seleccion de patrones de embargue.
+
+- Planeacion de la produccion.
+
+- Localizacion y disposicion de plantas.

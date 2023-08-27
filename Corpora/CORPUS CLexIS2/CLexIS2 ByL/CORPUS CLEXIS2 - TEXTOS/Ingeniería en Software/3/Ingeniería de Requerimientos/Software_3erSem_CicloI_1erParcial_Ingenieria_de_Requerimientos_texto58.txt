@@ -1,0 +1,2 @@
+TEXTO 58
+Cómo último punto en la adquisición y análisis de requerimientos tenemos la especificación de requerimientos. En la especificación de requerimientos, los requerimientos se documentan e ingresan en la siguiente ronda de la espiral. Pueden producirse documentos de requerimientos formales o informales. Este último punto representa la última fase de la aquisicion y análisis de requerimientos para la elaboración de un software.

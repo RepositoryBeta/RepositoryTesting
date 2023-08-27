@@ -1,0 +1,9 @@
+texto 92
+
+Terminología de grafos
+
+Trayectoria o camino
+
+Corresponde a los vértices por los cuales hay que pasar para ir desde un vértice w hacia un vértice v. Es decir, un camino entre dos vértices es una lista de vértices que están conectados por una arista del grafo.
+
+ Para que un camino o trayectoria exista es condición necesaria que las aristas sobre la trayectoria existan sobre el conjunto de aristas que definen el grafo.

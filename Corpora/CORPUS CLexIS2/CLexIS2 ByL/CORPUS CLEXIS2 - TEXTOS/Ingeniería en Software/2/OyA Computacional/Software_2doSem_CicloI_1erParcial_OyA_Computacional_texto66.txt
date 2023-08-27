@@ -1,0 +1,4 @@
+texto 66
+
+Este core, dentro de este mapa tenemos un procesador gráfico, puntualmente cada core tiene su procesador gráfico, vemos cada core por separado, una memoria compartida l3 más adelante veremos qué es esto, también tenemos todos los componentes o los buses, el agente del sistema, el motor de display para vídeo, el controlador de memoria. Ahora, lo que yo decía es que esta tecnología de procesador ha sido construida con la arquitectura de 22 nm, que significan nanómetros.
+

@@ -1,0 +1,16 @@
+﻿texto 5
+
+El sistema de ecuaciones lineales debe tener igual numero de incógnitas que de ecuaciones, la matriz de los coeficientes del sistema de ecuaciones lineales debe tener inversa es decir, el determinante debe ser diferente de cero.
+
+Se llama matriz inversa de una matriz cuadrada A, y se expresa A-1, a la única matriz que cumple que: A * A-1 = I = A-1*A.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+﻿texto 50
+
+Ejemplo
+
+Si hace un mes compré una máquina en $2500 en el mercado, ahora lo cotiza a $1800 en la contabilidad debo tomar el menor valor del activo ósea $1800, no puedo registrar el mayor valor porque recordemos, luego vamos a tener que le preste activo, vamos a tener un sobrevalorado.
+
+Ese es activo y no nos va a cuadrar tampoco nuestro estado financiero, no sé, por eso es el principio de prudencia. 

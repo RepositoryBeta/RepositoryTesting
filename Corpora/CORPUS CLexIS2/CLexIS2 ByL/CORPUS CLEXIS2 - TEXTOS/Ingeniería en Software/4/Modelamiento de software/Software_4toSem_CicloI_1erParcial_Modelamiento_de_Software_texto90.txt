@@ -1,0 +1,3 @@
+﻿texto 90
+
+Hay personas que no lo ponen en cursiva, ¿y esta mal?, no, pero si la regla dice que los métodos en una clase abstracta lo tengo que poner en cursiva, hagalo, en una representación tan abstracta como es este rectangulito que lo que me representa mi modelo de la clase yo no sé cual está implementado no porque ninguno está implementado la única manera que usted me puede decir de que uno está implementado y otro no implementados es que lo ponga en cursiva es una regla base.

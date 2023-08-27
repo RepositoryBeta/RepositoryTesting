@@ -1,0 +1,2 @@
+TEXTO 64
+Glosario: Define los términos técnicos usados en el documento.	 No debe hacer conjeturas sobre la experiencia o la habilidad de lector. Definición de requerimientos del usuario: Aquí se representan los servicios que ofrecen al usuario. También, en esta sección se describen los requerimientos no funcionales del sistema. Esta descripción puede usar lenguaje natural, diagrama u otras observaciones que sean comprensibles para los clientes. Deben especificarse los estándares de producto y proceso que tienen que seguir.

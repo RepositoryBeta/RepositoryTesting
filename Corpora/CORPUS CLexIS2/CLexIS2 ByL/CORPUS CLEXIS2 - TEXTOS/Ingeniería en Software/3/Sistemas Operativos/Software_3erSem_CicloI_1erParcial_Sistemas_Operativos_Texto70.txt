@@ -1,0 +1,5 @@
+texto 70
+
+4) Condición de espera circular: debe existir un conjunto de procesos los cuales formen una cadena circular en la que cada uno de los procesos tiene   recursos   que   son   requeridos   por   los   siguientes   procesos del conjunto.
+
+Como se puede observar cada una de las condiciones son necesarias para que se de un interbloqueo, la existencia de una exclusión mutua debe implicar que se den el resto de las condiciones de manera simultánea. 

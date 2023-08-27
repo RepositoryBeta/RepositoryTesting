@@ -1,0 +1,3 @@
+﻿texto 49
+
+Yo lo que puedo saber es cuántos posiblemente hayan, pueden ser cero o pueden ser muchos pero con un modelo de datos, yo puedo soportar esa variación y esos cambios pero yo no lo puedo ver al día a día no es como un partido de fútbol que veo el minuto al no se puede hacer eso entonces aquí lo aquí lo dice es la representación estática de un del mundo real estático, no es dinámico, representa hechos existente en el mundo real y no la forma en que estas cosas cambian en su funcionalidad.

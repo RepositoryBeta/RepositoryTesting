@@ -1,0 +1,3 @@
+texto 19
+
+El dbms me va a traer muchas estructuras para yo poder accesar a los datos y un primer nivel de acceso es tener un usuario y una contraseña, cuando ustedes quieran ingresar el día de mañana una base datos del primer nivel de seguridad que tiene solicitarles a ustedes un usuario y una contraseña, pero no es el único nivel de seguridad hay otros niveles porque a esos usuarios se les asignan roles y privilegios ese es otro nivel de seguridad.

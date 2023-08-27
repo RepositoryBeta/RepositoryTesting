@@ -1,0 +1,11 @@
+﻿texto 27
+
+Vectores ligados: son vectores equipolentes, y que además se encuentran en la misma recta.
+
+Aquí puedes ver otros tipos de vectores:
+
+Vectores opuestos: los vectores opuestos tienen el mismo módulo, dirección, pero con distinto sentido.
+
+Vectores unitarios: son los vectores que su módulo es igual a 1.
+
+Vectores concurrentes: los vectores concurrentes comparten el mismo punto de origen.

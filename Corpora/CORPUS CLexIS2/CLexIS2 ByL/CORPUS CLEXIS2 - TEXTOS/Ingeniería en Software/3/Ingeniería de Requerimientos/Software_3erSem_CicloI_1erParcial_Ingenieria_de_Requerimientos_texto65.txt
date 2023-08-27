@@ -1,0 +1,2 @@
+TEXTO 65
+Arquitectura del sistema: Este capítulo presenta un panorama de alto nivel de la arquitectura anticipada del sistema, que muestra la distribución de funciones a través de los módulos del sistema. Hay que destacar los componentes arquitectónicos que sean de reutilización. Especificación de requerimientos de sistema: Debe los requerimientos funcionales y no funcionales con más detalles. Si es preciso, también puede tallarse más los requerimientos no funcionales. Pueden definirse las interfaces a otros sistemas.

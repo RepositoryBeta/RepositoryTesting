@@ -1,0 +1,4 @@
+texto 48
+
+Yo puedo tener dependiendo de la arquitectura, la organización, varios microprocesadores trabajando paralelamente. Es decir, co ayudando o co trabajando, colaborando en la misma tarea, eso se llama paralelismo. Ahora, los cores o núcleos, la palabra core significa núcleo, que en realidad representa una unidad central de proceso, que es la parte del microprocesador, chip que principalmente procesa la información en un computador.
+

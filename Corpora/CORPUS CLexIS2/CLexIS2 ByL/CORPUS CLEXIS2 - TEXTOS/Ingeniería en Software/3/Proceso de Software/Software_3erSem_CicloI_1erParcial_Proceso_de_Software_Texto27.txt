@@ -1,0 +1,13 @@
+﻿texto 27
+
+El Espiral puede verse como un modelo evolutivo que conjuga la naturaleza iterativa del modelo MCP con los aspectos controlados y sistemáticos del Modelo Cascada, con el agregado de gestión de riesgo.
+
+Tareas, para cada ciclo habrá cuatro actividades:
+
+Determinar Objetivos.
+
+Análisis del riesgo.
+
+Desarrollar y probar.
+
+Planificación.

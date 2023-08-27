@@ -1,0 +1,9 @@
+﻿texto 83
+
+Especificar el formato que será usado para elaborar la documentación. 
+
+Asegurarse que los documentos mantienen el estándar de documentación definido para el proyecto antes de incluirlos en el repositorio. 
+
+Durante las reuniones de revisiones, el documentador elaborará las actas de la reunión. Estos documentos serán usados luego por el ingeniero de validación y verificación. 
+
+Elaborar el manual de uso del sistema, MUS.

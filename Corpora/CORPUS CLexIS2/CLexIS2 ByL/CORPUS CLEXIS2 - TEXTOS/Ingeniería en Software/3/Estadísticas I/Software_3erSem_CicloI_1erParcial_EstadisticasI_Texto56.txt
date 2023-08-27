@@ -1,0 +1,3 @@
+﻿texto 56
+
+por ejemplo la altura media de los que estamos en el aula, tambien puede ser acá como población de los alumnos de la Universidad de Guayaquil y como estimador la media de los alumnos de la carrera de ingeniería en software entonces estamos hablando de que la universidad de Guayaquil aproximadamente tiene 16 facultades y solamente estamos tomando algunas y por supuesto cada facultad tiene sus carreras, nuestra facultad, por ejemplo tiene 5 carreras ingenieria de  sistemas, software, tecnología información, civil y la otra que creo que es networking.

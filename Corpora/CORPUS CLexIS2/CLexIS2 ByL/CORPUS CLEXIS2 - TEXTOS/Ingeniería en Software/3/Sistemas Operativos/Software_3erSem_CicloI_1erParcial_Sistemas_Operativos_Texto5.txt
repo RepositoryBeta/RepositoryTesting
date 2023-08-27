@@ -1,0 +1,19 @@
+﻿texto 5
+
+Segunda Generacion 1995 - 1965: Aparecen los transistores y sistema de procesamiento por lotes, se volvieron confiables los computadores y comenzaron a venderse.
+
+Hubo separacion entre diseñadores, constructores, operadores, programadores y personal de mantenimiento.
+
+Cobol Fortran
+
+Tercera Generacion 1965-1980
+
+Aparecen los circuitos integrados aparece OS 360 de IBM, mainframe de gran nombre y talla.
+
+Aparece la multiprogramacion: dividir la memoria en varias partes con un trabajo distinto en cada particion.
+
+Tecnica Spooling.
+
+Grandes calculos cientificos
+
+Tiempo compartido (variante multiprogramación).

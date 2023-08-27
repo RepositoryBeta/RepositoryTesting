@@ -1,0 +1,5 @@
+﻿texto 9
+
+Y ustedes después de esta materia van a ver una materia que se llama simulación, básicamente es cómo se simulan esto porque aquí nosotros no vamos a simular, aquí vamos a aprender todo manualmente, porque manualmente todos los escenarios tendríamos que llenar los cuaderno, entonces porque en simulación ahí ya sistemas hay paquetes que nos permiten hacer simulaciones con determinados este proceso resolver determinados problemas.
+
+La investigación de operaciones permite el analisis de la toma de decisiones teniendo en cuenta la escasez de recursos.

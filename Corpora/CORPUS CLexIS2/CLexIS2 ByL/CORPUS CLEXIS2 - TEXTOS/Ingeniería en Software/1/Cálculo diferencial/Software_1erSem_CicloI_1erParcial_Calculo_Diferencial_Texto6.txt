@@ -1,0 +1,3 @@
+﻿texto 6
+
+Continuemos, ¿Qué significa solución de una ecuación diferencial o las porque pueden haber más de algunas soluciones son una o varias funciones por lo tanto: resolver una ecuación diferencial es encontrar una función que junto con sus derivadas satisfagan la ecuación dada lo que nos piden en una ecuación diferencial, encontrar la función que junto con sus derivadas satisfagan la ecuación dada, el objetivo será encontrar la función por ejemplo bien aquí está solución ecuación diferencial (Y' (t) = dy/dt = 2).

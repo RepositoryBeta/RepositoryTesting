@@ -1,0 +1,3 @@
+﻿texto 5
+
+Y dentro de las variables cuantitativas también tenemos dos variables: las continuas y discretas, recordemos una variable cualitativa puede ser ordinal o una variable cualitativa puede ser nominal y una variable cuantitativa puede ser continua o una variable cuantitativa puede ser discreta, vamos a ver ejemplos sobre cada uno de estos tipos de variables, vamos a ver los de tipo ordinal, cuando nosotros trabajamos este tipo de variables solo tienen un orden de prioridad.

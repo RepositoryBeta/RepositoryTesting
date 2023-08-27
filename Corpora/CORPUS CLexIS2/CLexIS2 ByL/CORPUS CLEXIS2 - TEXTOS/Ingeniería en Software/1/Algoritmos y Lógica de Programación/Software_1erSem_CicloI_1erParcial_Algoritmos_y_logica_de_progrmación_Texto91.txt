@@ -1,0 +1,3 @@
+﻿texto 91
+
+Aquí tenemos nosotros que hacerlo tenemos que definir el inicio, todo ciclo tiene inicio y  tiene fin ojo acá, tenemos que definir el fin y además antes de regresar al ciclo incrementarlo eso no pasaba con el ciclo que nos define al inicio y fin, y el mismo nos realizaba el incremento qué es lo que en programación de lenguaje se conoce como el ciclo, es el más sencillo, pero mientras que en ese sería igual nosotros tenemos que especificar el inicio tal como está aquí, igual uno decirle hasta dónde va a llegar, cuál es su límite y antes de regresar el ciclo hacer el incremento en este caso de uno a uno, pero puede ser de dos en dos, de cinco en cinco, en fin. 

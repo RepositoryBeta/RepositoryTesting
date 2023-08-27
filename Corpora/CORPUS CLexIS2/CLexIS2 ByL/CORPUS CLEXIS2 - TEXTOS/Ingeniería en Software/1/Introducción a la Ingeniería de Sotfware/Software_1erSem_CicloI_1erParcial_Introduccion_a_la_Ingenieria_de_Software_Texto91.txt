@@ -1,0 +1,7 @@
+texto 91
+
+fases DRA:
+
+ Modelado de proceso:  los ojitos y datos definido en la fase de modelado de datos que han transformado para lograr el flujo de información necesarios para implementar una función de gestión. 
+
+ Las descripciones se crean para añadir, modificar, suprimir, o recuperar un  objeto de datos.

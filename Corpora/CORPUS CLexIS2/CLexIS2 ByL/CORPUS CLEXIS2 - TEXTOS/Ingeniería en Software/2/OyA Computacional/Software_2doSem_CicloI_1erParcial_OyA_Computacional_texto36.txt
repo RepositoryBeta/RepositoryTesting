@@ -1,0 +1,4 @@
+texto 36
+
+Tienes buses USB, que normalmente uno cree o le dice así al cable, pero es un bus externo, pero internamente también existe el bus USB, 2.0, 3.0, etc. Esa configuración, ese espacio donde se inserta o donde sale el dispositivo positivo, para que tú conectes lo que necesites conectar, la tarjeta de vídeo, la tarjeta de sonido, la capturadora, un GPS, porque también podría ser un GPS a una computadora, porque no lo tiene, todo eso dependiendo lo que necesites, puedes trabajar con una aplicación de geolocalización, entonces va a depender mucho de eso.
+

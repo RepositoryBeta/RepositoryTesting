@@ -1,0 +1,8 @@
+texto 34
+ECUACIONES DIFERENCIALES LINEALES 
+Una ecuación diferencial es lineal cuando sus soluciones pueden obtenerse de combinaciones lineales de otras soluciones. Si es lineal, tiene sus derivadas con máxima potencia de 1 y no existen términos en donde haya productos entre la función desconocida y/o sus derivadas. 
+Se dice que una ecuación es lineal si tiene la forma: 
+Es decir: 
+Ni la función ni sus derivadas están elevadas a ninguna potencia distinta de uno o cero.
+En cada coeficiente que aparece multiplicándolas sólo interviene la variable independiente. 
+Una combinación lineal de sus soluciones es también solución de la ecuación. No lineal.

@@ -1,0 +1,3 @@
+﻿texto 113
+
+Ningún colectivo antes citado puede redactar la especificación de requisitos de software en este caso ERS ya que, el cliente no suele conocer el proceso del diseño y desarrollo del software, y también los analistas no entienden completamente el problema de cliente dado ya que no dominan su área de trabajo la fase del análisis de requisitos se desglosa en tres grandes actividades lo que son definir los requisitos de software.

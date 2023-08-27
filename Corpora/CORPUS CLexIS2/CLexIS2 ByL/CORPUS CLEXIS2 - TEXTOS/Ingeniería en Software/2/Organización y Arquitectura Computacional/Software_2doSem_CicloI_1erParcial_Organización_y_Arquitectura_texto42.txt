@@ -1,0 +1,2 @@
+TEXTO 42
+Unidad central de proceso: Organización básica de computadoras. Habíamos visto que existen dos áreas bien importantes que son la unidad de control de la unidad y aritmética lógica. Pero, también tenemos una más que no deja de ser importante y que son los registros. Aquí es donde hay áreas de memoria que hacen que lo que él ha procesado, pueda realizarlo a altas velocidades, una particularidad de la unidad aritmética lógica es que pueda realizar las operaciones matemáticas y también lógicas.

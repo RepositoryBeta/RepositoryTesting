@@ -1,0 +1,4 @@
+texto 60
+
+Se trata de un dispositivo semiconductor que cierra o abre un circuito eléctrico o amplifica una señal. De esta forma, es como podemos crear unos y ceros, de manera que ese lenguaje binario sea entendible para el procesador. Entonces, transistores estamos hablando de un dispositivo semiconductor, que cierra o abre un circuito eléctrico, al cerrarse se hace un cero y al abrirse se hace un uno, y entonces va convirtiendo las señales en bits.
+

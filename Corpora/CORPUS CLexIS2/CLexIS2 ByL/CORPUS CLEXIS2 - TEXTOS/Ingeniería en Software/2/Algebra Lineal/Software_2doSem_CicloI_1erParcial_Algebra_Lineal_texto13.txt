@@ -1,0 +1,7 @@
+﻿texto 13
+
+En la columna del 1 principal de las filas de arriba y las de abajo sólo puede haber ceros (a no ser que sea la primera fila y por encima del 1 no hay ningún elemento).
+
+El uno principal de cualquier fila se sitúa más a la izquierda de los unos principales de las filas inferiores a ésta. 
+
+Si existen filas formadas únicamente por ceros, éstas son las inferiores.

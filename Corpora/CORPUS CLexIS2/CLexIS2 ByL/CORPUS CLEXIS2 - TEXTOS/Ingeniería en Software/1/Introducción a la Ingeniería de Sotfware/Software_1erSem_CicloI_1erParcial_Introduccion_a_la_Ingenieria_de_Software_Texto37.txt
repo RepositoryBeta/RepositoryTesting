@@ -1,0 +1,4 @@
+texto 37
+
+Almacenamiento de información: el almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad sistema puede recordar la información guardada en la sección o proceso anterior.
+Procesamiento de información: es la capacidad del sistema de información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecidas.

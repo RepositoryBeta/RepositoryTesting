@@ -1,0 +1,5 @@
+texto 82
+
+ Estructura del sistema tiende a degradarse a medida que se añaden nuevos incrementos.
+
+ A menos tiempo y dinero que se gasta en la refactorización para mejorar el software, cambio regular tiende a corromper su estructura. Incorporación de nuevos cambios de software se vuelve cada vez más difícil y costoso.

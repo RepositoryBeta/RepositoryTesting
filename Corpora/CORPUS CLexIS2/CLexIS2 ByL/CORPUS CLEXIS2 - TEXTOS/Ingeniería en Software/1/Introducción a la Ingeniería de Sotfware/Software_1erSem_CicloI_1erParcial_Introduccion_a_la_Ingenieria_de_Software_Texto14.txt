@@ -1,0 +1,3 @@
+texto 14
+
+Otro tipo de métrica son las métricas de productividad: en este tipo de métrica centro el rendimiento del proceso de la ingeniería de software, es decir que tan productivo va a ser el Software que voy a enseñar, estamos aquí mirando es más estamos haciendo como una visión qué tan productivo para hacer mi software qué se refiere a las características como tal del software.

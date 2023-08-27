@@ -1,0 +1,4 @@
+texto 31
+
+¿Qué se puede hacer de manera en caliente o en frío? 
+En caliente es cuando está la base de datos operativa ósea, esta siendo utilizada por todos los usuarios, imagínense de la base de datos de un banco, Guayaquil está siendo utilizada ya 9 o 10 de la mañana por todos los usuarios a nivel nacional, entonces en caliente un administrador de base datos a las 9 o 10 de la mañana puede sacar un respaldo eso se llama un backup en caliente, pero tambien el dbms le proporciona ideas para que pueda sacar un backup en frío. 

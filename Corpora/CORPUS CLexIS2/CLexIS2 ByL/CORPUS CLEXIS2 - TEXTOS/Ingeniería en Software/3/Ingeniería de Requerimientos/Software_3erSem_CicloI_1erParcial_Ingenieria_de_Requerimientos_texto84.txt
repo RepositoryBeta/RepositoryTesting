@@ -1,0 +1,3 @@
+
+TEXTO 84
+El siguiente paso es identificar a los actores. son un receptor, la persona que va a recibir, la persona de la bodega, que es el almacenista, la persona de inventario, que justamente es aquel que va diciendo que es lo que se va gastando, imagino que el surte el que va a enviar la mercadería, ósea digamos que eres el dueño del barco, el dueño del carro, el dueño de la moto, que va a surtir justamente los paquetes. Estos específicamente son roles en el sistema de los cuales tenemos tanto sistemas de cuentas por pagar y sistemas de procesamiento de órdenes.

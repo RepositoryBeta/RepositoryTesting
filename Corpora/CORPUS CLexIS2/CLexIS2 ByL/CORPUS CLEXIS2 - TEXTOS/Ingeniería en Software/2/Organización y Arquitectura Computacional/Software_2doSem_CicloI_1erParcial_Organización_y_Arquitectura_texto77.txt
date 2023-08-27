@@ -1,0 +1,2 @@
+TEXTO 77
+Instrucciones de máquina: Las direcciones de memoria están dadas en hexadecimal y cuando él tome un dato de la memoria que está en una dirección en hexadecimal, el procesador va a esa dirección toma el dato y lo guarda en el área correspondiente, si tiene que hacer operaciones lo enviará su área aritmética lógica, si tiene qué hacer un control, simplemente lo enviará a la unidad de control o si está procesando algo, que tiene que hacerlo de forma muy veloz, lo enviará a los registros correspondientes.

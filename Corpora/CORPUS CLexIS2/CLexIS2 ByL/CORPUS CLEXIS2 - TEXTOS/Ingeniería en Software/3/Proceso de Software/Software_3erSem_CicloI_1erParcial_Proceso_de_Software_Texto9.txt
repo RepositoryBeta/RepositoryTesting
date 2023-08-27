@@ -1,0 +1,15 @@
+﻿texto 9
+
+Los criterios para controlar el proceso:
+
+Se establece el control de gestión de los proyectos software.
+
+Establecimiento de hitos.
+
+Las posibles heurísticas.
+
+Facilita la gestión del proyecto.
+
+Establece una división del trabajo.
+
+Facilita la comunicación de los miembros del equipo.

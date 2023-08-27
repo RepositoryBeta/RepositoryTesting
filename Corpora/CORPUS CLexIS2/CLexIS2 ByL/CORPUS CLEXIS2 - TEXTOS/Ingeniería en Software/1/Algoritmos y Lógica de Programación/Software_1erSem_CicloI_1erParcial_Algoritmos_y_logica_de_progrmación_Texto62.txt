@@ -1,0 +1,2 @@
+texto 62
+Ejemplo si queremos calcular el valor a pagar por el consumo eléctrico, nosotros ingresamos los datos, ¿Qué datos debemos ingresar?  los kilobytes consumidos en el mes, el valor del kilovatio hora, en qué sector está el ubicado, porque también el valor del kilovatio difiere del sector en el que se encuentras, el sector sur no paga lo mismo que el sector norte, ni que el sector centro, entonces ya tienes tus datos de entrada, mediante estas líneas de programación estos datos van a ser transformado.

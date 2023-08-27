@@ -1,0 +1,4 @@
+texto 6
+
+Por ejemplo los puertos USB que tienen un bus USB, pueden también tener un rs232, un puerto serial, un puerto rj45, dependiendo. Ahora, los buses de computadora tienen una clasificación también de acuerdo a su función, recapitulemos, los buses son seriales y paralelos, por su ubicación física vamos a tener internos o externos, y por su función vamos a tener de acuerdo a las funciones básicas de una computadora. 
+

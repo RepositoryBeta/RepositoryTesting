@@ -1,0 +1,7 @@
+Texto 87
+
+Un rombo ya tiene otra interpretación, un ejemplo nos dicen que hay registrado hombre, mujer y la relación, está casado, acá si tengo una relación y ustedes saben que cuando tengo relaciones, debo tener también cardinalidades propias de la relación, entonces en el ejercicio nos indican que tengo eso, pero adicionalmente me indica que yo debería tratar de agrupar, agregar o reconocer que estas dos entidades forman lo que se denomina un matrimonio, lo que me da a entender eso porque yo del matrimonio necesito registrar en el diagrama datos ya correspondientes al matrimonio.
+
+
+
+

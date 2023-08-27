@@ -1,0 +1,3 @@
+texto 52
+
+Ahora vamos a ver según su topología que tenemos las redes en: Estrella, anillo, bus, jerárquicas y las híbridas, para empezar la topología se refiere a la manera cómo van estar interconectados los equipos, la estructura, la manera cómo está diseñado, que puede estar conectado a manera de anillo se imaginarán sea algo cerrado, a manera de estrella que hay un punto central y salen todos los nodos del punto central, etc.

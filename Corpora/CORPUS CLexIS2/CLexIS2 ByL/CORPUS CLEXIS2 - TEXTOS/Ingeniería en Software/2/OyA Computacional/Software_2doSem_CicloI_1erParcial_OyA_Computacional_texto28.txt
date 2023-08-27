@@ -1,0 +1,4 @@
+texto 28
+
+Entonces, velocidad = ancho x frecuencia, para poder entender las características de los buses, recapitulando los buses son cables que contienen elementos conductivos o también son puertos o pistas en un circuito impreso. Cuando hablamos de los tipos de buses hablamos de los serie y paralelos, por su ubicación son internos y externos, por su función son de control, de direcciones o de datos. Ya hemos definido cada uno. Y por su forma vimos el Ide o Ata y la siguiente versión que es Sata.
+

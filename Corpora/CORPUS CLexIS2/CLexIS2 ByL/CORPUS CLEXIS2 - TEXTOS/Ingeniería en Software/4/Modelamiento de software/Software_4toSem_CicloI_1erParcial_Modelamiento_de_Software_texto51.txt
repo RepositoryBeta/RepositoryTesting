@@ -1,0 +1,3 @@
+﻿texto 51
+
+Los rectángulos podrian ser las entidades, las palabras porque el nombre de la entidad, las líneas que tienen algún tipo de relación entre ellos, los numeritos y los asteriscos afuera en la forma en que se relacionan, entonces yo puedo leerlo una biblioteca asterisco muchos significa y libros el asterisco significa mucho, tiene muchos libros si yo leo al contrario yo digo que un libro está dentro de una biblioteca, un libro no puede estar físicamente en la biblioteca el mismo porque no se puede desdoblar pero una biblioteca si puede tener muchos libros.

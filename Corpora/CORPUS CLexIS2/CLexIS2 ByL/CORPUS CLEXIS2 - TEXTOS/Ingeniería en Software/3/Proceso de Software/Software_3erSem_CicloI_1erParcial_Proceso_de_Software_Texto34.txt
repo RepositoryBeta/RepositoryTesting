@@ -1,0 +1,11 @@
+﻿texto 34
+
+Fases del patrón de desarrollo:
+
+Product backlog:
+
+Durante esta fase se escribirán los requisitos en el documento de forma priorizada. Dicho documento puede ser actualizado en cualquier punto del desarrollo salvo durante los sprint.
+
+Sprint:
+
+Duración: 1 a 4 semanas.

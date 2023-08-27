@@ -1,0 +1,2 @@
+texto 44
+La documentación decíamos que era muy fundamental, porque es lo que otros programadores, otros desarrolladores, otros ingenieros en software van a tomar lo que deje los programadores que se van, en fin, y esa documentación es muy precisa para la gente que va quedando en esos puestos, la documentación definitivamente están en los manuales de usuario de diseño, los manuales del sistema está especificado todo el sistema, y son las consideraciones que el programador nuevo o el que va ayudar necesita estar empapado.

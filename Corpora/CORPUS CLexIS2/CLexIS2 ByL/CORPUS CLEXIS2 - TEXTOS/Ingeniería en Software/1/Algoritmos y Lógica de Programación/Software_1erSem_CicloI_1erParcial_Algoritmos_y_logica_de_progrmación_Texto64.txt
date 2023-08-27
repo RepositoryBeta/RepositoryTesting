@@ -1,0 +1,3 @@
+texto 64
+
+Un dato dentro de un programa se caracteriza por llevar asociados un identificador, un tipo y un valor, es cierto si nosotros tenemos vamos a suponer, la edad de una persona 18 entonces ahora si, tenemos un dato pero este dato va acompañado de una característica, un dato se caracteriza por llevar asociado un identificador, un tipo y un valor, entonces los datos, ¿Cómo yo los puedo representar?, ¿Cómo represento todo esto?.

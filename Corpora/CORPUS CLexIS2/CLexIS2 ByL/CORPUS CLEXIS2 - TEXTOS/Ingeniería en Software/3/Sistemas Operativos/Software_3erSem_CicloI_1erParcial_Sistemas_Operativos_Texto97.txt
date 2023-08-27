@@ -1,0 +1,9 @@
+texto 97
+
+¿Qué es un sistema operativo en la nube?
+
+Como comentábamos arriba, los sistemas operativos tradicionales como Windows, Linux, Macos, e incluso los vinculados a los smarthpones, como Android o IOS, se ejecutan en nuestro dispositivo.
+
+Por el contrario, los sistemas operativos en la nube corren en un servidor remoto. Esto implica que para interactuar con ellos debemos conectarnos a este dispositivo a través de una conexión a Internet y abrir una interfaz, que en la mayoría de casos será un navegador web o una app específica. 
+
+por ejemplo, en la posibilidad de acceder a vuestro escritorio de Windows desde cualquier ordenador, con los mismos archivos y programas. 

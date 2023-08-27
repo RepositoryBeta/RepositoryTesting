@@ -1,0 +1,3 @@
+﻿texto 37
+
+Hace muchos años hubo un investigador el Señor Von Neumann de alguna manera planteó o plasmó una arquitectura general que deben tener las computadoras, esto fue hace muchos años atrás, y el planteó que una computadora debía tener un dispositivo de entrada, un dispositivo de salida y debe haber algo como un procesamiento, ese procesamiento debe tener algunos componentes, debe tener una memoria que ayude a trabajar todo este procesamiento y de la mano con unas unidades de almacenamiento.

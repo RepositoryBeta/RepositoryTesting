@@ -1,0 +1,3 @@
+texto 5
+
+Por ejemplo, lo que vimos hace un ratito, hemos visto que en este bus transmite 8 bits simultáneos o un byte, entonces seriales y paralelos son tipos de buses. Ahora, con respecto a la ubicación física, esto es más intuitivo, tenemos buses internos que están ubicados junto a la tarjeta madre, el que acabamos de ver en un bus interno porque está pegado al mainboard. Permite trasladar los datos entre los componentes internos del procesador. Y los externos que ya permiten conectar los periféricos.

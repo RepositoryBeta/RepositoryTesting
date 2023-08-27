@@ -1,0 +1,5 @@
+﻿texto 47
+
+Otra operación será determinar el elemento superior de la pila sin retirarlo, esto será con la operación stacktop.
+
+Es necesario utilizar siempre empty ya que debemos asegurarnos que la pila está vacía de lo contrario si pedimos que nos diga cuál es el elemento superior (stacktop) nos marcaría un error de underflow.

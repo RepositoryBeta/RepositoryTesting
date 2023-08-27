@@ -1,0 +1,6 @@
+texto 77
+
+Y así mismo, me dicen debo registrar la cancha, las dimensiones de la cancha, el tipo de cesped que tiene la cancha, en qué lugar, ubicación, está la cancha y yo tengo una relación entre arco de fútbol y cancha de fútbol, finalmente en el ejercicio adicional a poder haber identificado esas entidades adicionalmente me dice bueno, yo esta entidad necesito por si relacionar las dos en conjunto con otra entidad, me dicen eso que yo tengo que interrelacionar a estas dos en conjunto con otras. Entonces yo ahí las agrego y marco en una se puede decir en una entidad que vamos a llamar estadio.
+
+
+

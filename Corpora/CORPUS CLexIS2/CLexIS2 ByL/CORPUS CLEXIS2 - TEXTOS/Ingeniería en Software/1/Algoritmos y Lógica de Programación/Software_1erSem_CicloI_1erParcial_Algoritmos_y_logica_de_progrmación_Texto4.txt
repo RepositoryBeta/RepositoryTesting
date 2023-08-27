@@ -1,0 +1,6 @@
+﻿texto 4
+
+A veces pensamos que estamos en una asignatura de programación y que estamos en la carrera de desarrollo de software y tenemos que de una sentarnos a crear el código de software para cualquier propuesta de problema que nos han hecho y eso es totalmente incorrecto,
+¿Qué es programar?
+Programar es un proceso para resolver un problema usando una computadora.
+Para lograr esto necesitamos hacer básicamente tres cosas: analizar y entender bien a fondo el problema que queremos resolver, definir bien cuáles son los requerimientos del problema: entradas, salidas, proceso, etcétera y finalmente diseñar una solución para el problema.

@@ -1,0 +1,10 @@
+﻿texto 31
+
+De forma abreviada, diremos que V es un espacio vectorial. 
+A los elementos de V lo llamamos vectores y a los de R, escalares.
+
+Subespacios vectoriales
+
+Sea (V,+,*) un K espacio vectorial y F una parte no vacía de V, diremos que F es un subespacio vectorial de V si y solo si (F,+,*) en un K-espacio vectorial.
+
+Teorema: Caracterización de los subespacios vectoriales.

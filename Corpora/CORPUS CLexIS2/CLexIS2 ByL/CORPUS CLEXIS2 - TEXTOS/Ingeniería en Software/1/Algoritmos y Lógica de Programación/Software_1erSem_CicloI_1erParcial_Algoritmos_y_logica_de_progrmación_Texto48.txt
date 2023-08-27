@@ -1,0 +1,2 @@
+texto 48
+Dentro de esas estructura de control, hay dos clases: condicionales y repetitivas, las condicionales es ésta, qué es, la SI-Entonces y la de Selección múltiple y las repetitivas que son los ciclos que los vamos a ver mas adelante, los operadores matemáticos y los operadores relacionales, operadores matemáticos ya vimos algo de esto y ustedes lo van a tener que utilizar también en sus programas, suma, resta, multiplicación con el asterisco, el símbolo de la división para la parte del cociente de la división de dos números.

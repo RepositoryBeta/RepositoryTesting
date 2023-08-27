@@ -1,0 +1,9 @@
+texto 79
+
+Gestión De Memoria Con Particiones Fijas. 
+
+La planificación de cada cola se hace por separado, y como cada cola tiene su propia partición, no hay competencia entre las colas por la memoria. 
+
+La desventaja de este método se hace evidente cuando la cola de una partición grande está vacía y la cola de una partición pequeña está llena
+
+Gestión De Memoria Con Particiones Fijas. 

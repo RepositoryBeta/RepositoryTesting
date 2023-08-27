@@ -1,0 +1,4 @@
+texto 85
+
+Con esta premisa yo ya puedo ir a mi herramienta de trabajo qué voy a hacer Bueno pues fíjense que de acuerdo a lo que hoy vimos el ciclo mientras tiene esta sintaxis dice mientras hacer mientras condición hacer fin mientras estas líneas de instrucciones que están dentro del ciclo tengo que empezar todo ciclo como habíamos dicho, cual es mi condición, ¿Cómo yo sé que voy a utilizar un ciclo? ya sabemos que la particularidad del ciclo es que tiene inicio y tiene fin.
+

@@ -1,0 +1,3 @@
+﻿texto 78
+
+Recuerden que el método simplex nos dice que nosotros debemos estandarizados o sea convertir esa inecuación en una ecuación, como dijo la compañera tenía que sumarle el 3 para poderle quitar el de la desigualdad y que nos quede como igual, sí yo les muestra entonces ahora ya no va a ser vamos a quitárselo pero ya no va a ser menor o igual sino que va a ser igual si lo mismo ocurre acá yo tengo una expresión verdad una ecuación a la cual le debo sumar un valor que desconozco porque no lo sé a simple vista sumar un valor que me permita quitar el signo de desigualdad y mantener el signo de igualdad.

@@ -1,0 +1,7 @@
+texto 93
+
+fases DRA:
+
+ Prueba y entrega: como el proceso DRA  enfatiza la reutilización, ya se han comprobado mucho de los componentes de los programas.
+
+ Esto reduce tiempo de prueba. Sin embargo, se deben probar todos los componentes nuevo y se deben  ejercitar todas las interfaces a fondo.

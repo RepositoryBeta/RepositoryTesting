@@ -1,0 +1,11 @@
+﻿texto 71
+
+Revisar el plan de testeo. 
+
+Revisar la fase de diseño arquitectónico. 
+
+Revisar la fase de diseño detallado. 
+
+Revisar las políticas de control de cambios, control de errores y control de la configuración. 
+
+Revisar la documentación.

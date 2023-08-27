@@ -1,0 +1,2 @@
+TEXTO 2
+Es muy malo que el cliente defina los requerimientos nosotros como ingenieros debemos definir los requerimientos y para eso nosotros debemos conocer un poco más que el cliente. normalmente lo que se hace es realizar una investigación pero previo a este investigación siempre hay un contacto con el cliente para definir una cita. puede ser una llamada donde normalmente uno tiene escasos segundos o minutos para poder entablar una conversación con el cliente agendar una cita y poder preguntarle qué es lo que exactamente busca con el software.

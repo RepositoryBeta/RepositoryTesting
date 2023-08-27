@@ -1,0 +1,3 @@
+texto 68
+
+la topología de anillo está unido todo de extremo a extremo, las estaciones están unidas unas con otras formando un circulo o un circuito cerrado por medio de un cable común, las ventajas tiene que el acceso a las redes está asegurado en un tiempo máximo definido, la red siempre tendrá la misma distancia asegurando que tiene que ir de extremo a extremo entonces hay un tiempo fijo definido.

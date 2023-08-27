@@ -1,0 +1,9 @@
+
+texto 66
+
+ventajas:
+
+escalabilidad, seguridad, fácil detección de nodos con radios, direccionamiento entre nodos sencillo, soporta múltiples protocolo
+
+desventajas: sólo en el caso de que en un nodo central en este caso de que el switch esté dañado puede caerse toda la red.
+

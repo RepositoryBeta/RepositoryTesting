@@ -1,0 +1,18 @@
+texto 66
+
+Contiene tres campos, uno para la información y los dos restantes funcionan como apuntadores o bien, contienen la dirección de los dos nodos de ambos lados, esos dos campos se denominan LEFT y RIGHT.
+    <-- [ LEFT | INFO | RIGHT] --> 
+
+b) Las listas doblemente encadenadas se pueden presentar en tres formas:
+
+- LISTA LINEAL DOBLEMENTE ENCADENADA
+
+ //--[ |    | ]<-->[ |     | ]<-->[ |     | ]--//  .
+
+- LISTA CIRCULAR DOBLEMENTE ENCADENADA
+
+-> [ |  | ]<-->[ | | ]<-->[ | | ] <-->[ | | ] <-.
+
+- lista CIRCULAR DOBLEMENTE ENCADENADA CON NODO DE ENCABEZAMIENTO
+
+-> [ |//////|]<--> [ | B |]<--> [ | 1 |] <--> [ | C |] <-.

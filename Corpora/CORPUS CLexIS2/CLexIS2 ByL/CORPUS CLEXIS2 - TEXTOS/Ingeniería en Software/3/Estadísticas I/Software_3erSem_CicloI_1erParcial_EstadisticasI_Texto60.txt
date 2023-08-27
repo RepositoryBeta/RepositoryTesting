@@ -1,0 +1,3 @@
+﻿texto 60
+
+y un ejemplo de una variable cualitativa, por ejemplo puede ser el sexo, puede ser tambien el tipo de sangre, dentro de las variables cuantitativas tenemos como dijimos la edad, el tiempo en años está dentro la carrera el semestre que está ahorita estudiando esa puede ser una variable cuantitativa, ahora la variable cualitativa y la variable cuantitativa tienen su propia clasificación, entre las variables cualitativas nosotros tenemos las ordinales y nóminales.

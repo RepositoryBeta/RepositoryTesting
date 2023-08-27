@@ -1,0 +1,3 @@
+texto 86
+
+Entonces yo veo que esa particularidad está presente en este problema tengo inicio y tengo fin y además tengo la secuencia, voy a ir incrementando aunque también puedo ir disminuyendo, pero en este caso en particularidad va incrementando y de uno en uno, entonces se que voy a utilizar ciclo asi que yo voy a mi herramienta y que tengo que hacer, tengo del 1 hasta el 100, no me puedo pasar de 100, bueno yo tengo que establecer este inicio en una variable cualquiera, yo puedo ponerle cualquier nombre a mi variable puede ser I puede ser J, etc.

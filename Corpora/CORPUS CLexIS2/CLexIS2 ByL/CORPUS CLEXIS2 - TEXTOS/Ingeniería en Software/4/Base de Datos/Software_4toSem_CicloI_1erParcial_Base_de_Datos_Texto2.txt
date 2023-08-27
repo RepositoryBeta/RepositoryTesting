@@ -1,0 +1,5 @@
+texto 2
+
+Cada una de estas características debe corresponder a algún elemento de la arquitectura interna que ustedes están trabajando, ósea esa arquitectura interna técnica que ustedes están revisando, nos va ayudar a que el dbms pueda cumplir estas características o funciones, entonces. 
+¿A qué nos referimos con abstracción de los datos?.
+Hay una presentación de DBMS, ahorran a los usuarios detalles acerca del almacenamiento físico de los datos, da lo mismo si una base de datos ocupa 1 o cientos archivos, este hecho se hace transparente al usuario. 

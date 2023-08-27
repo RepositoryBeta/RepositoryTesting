@@ -1,0 +1,17 @@
+﻿texto 86
+
+Revisar y aprobar documentos en forma responsable. 
+
+Difundir el estado del proyecto al resto de su ámbito de trabajo.
+
+Actividades y metas Cliente 
+
+Entregar los recursos necesarios para la realización del proyecto. 
+
+Escribir o participar en la elaboración del manual de usuario del sistema (MUS). 
+
+Determinar y alertar del impacto del proyecto en otras áreas de la organización. 
+
+Realizar la capacitación del sistema a sus usuarios. 
+
+Construir el plan de pruebas de aceptación del sistema y aplicarlo al final del proyecto, aceptándolo.

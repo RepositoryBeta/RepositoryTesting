@@ -1,0 +1,11 @@
+﻿texto 72
+
+Administrador de la configuración 
+
+Identificar y documentar las características funcionales y físicas de items de configuración.
+
+Auditar los items de configuración para verificar cumplimiento de especificaciones, control de interfaces y documentos, así como otros requisitos adicionales que pueda definir el contrato. 
+
+Controlar cambios a los items de configuración y su documentación relacionada.
+
+Mantener el repositorio del proyecto actualizado con las últimas versiones de todos los entregables del proyecto. 

@@ -1,0 +1,2 @@
+TEXTO 25
+División binaria.-  Al igual que la suma la resta y la multiplicación la división binaria también maneja una tabla a seguir para la realización de la operación,  esta tabla nos indica que  0 / 0 = 0, 0 / 1 = 0, 1 / 0 = irresoluble y 1 dividido para 1 = 1. Así mismo, como las divisiones normales si tenemos tres dígitos en el divisor tomamos tres dígitos del dividendo y se las compara. Un método más rápido para poder realizar la división es haciendo la comparación del divisor con el dividendo y realizando su posterior resta.

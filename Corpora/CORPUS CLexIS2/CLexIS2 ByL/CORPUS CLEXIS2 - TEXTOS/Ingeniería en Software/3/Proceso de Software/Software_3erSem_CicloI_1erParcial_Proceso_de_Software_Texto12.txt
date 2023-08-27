@@ -1,0 +1,11 @@
+﻿texto 12
+
+Un proceso de software efectivo habilita a la organización a incrementar su productividad al desarrollar software:
+
+Permite estandarizar esfuerzos, promover reuso, repetición y consistencia entre proyectos.
+
+Provee la oportunidad de introducir mejores prácticas de la industria.
+
+Permite entender que las herramientas deben ser utilizadas para soportar un proceso.
+
+Establece la base para una mayor consistencia y mejoras futuras.

@@ -1,0 +1,11 @@
+texto 33
+
+3. Cada módulo se codifica utilizando las tres estructuras de control
+
+   básicas: 
+
+     a) Secuencia.
+
+     b) Selección.
+
+     c) Repetición.

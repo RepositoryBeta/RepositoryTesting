@@ -1,0 +1,3 @@
+﻿texto 4
+
+Ahora ¿Cuál es el objetivo principal de las comunicaciones? Es transmitir un mensaje o intercambiar información entre dos entidades, recuerden que serian esas dos: emisor y receptor para que haya comunicación necesitamos uno que transmite y otro que recibe, en un momento el mismo es el que transmite y recibe hacemos los dos papeles verdad transmisor y receptor no es que mandaron un mensaje al aire intercambiar un mensaje o transmitir un mensaje entre dos entidades.

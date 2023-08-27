@@ -1,0 +1,7 @@
+texto 57
+
+La CPU y su funcionamiento.
+La CPU o unidad central de procesamiento en español, es un circuito electrónico capaz de ejecutar las tareas instrucciones que contiene un programa. Estas instrucciones están muy simplificadas, y se reducen a:
+1) Cálculos aritméticos básicos (sumas, restas, multiplicaciones y divisiones).
+2) Operaciones lógicas (AND, OR, NOT, NOR, NAND).
+3) Control de entrada y salida (Input and Output) de los dispositivos.

@@ -1,0 +1,6 @@
+﻿texto 76
+
+¿Qué es una variable de holgura?
+
+Es una variable que debemos sumar y que nos complementa para poder quitarle ese signo de desigualdad entonces recuerde que nos dice, menor o igual.
+Es decir que yo tengo que complementar mi variable con algún artificio matemático que me permita quitar el menor vamos a hacerlo con un número para que yo me pueda explicar todas formas incomprendido por ejemplo nosotros tenemos podemos decir que cinco es menor o igual que 8.

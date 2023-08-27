@@ -1,0 +1,2 @@
+TEXTO 70
+Casos de uso: Es una colección de diagramas y textos que juntos documentan como los usuarios esperan interactuar con el sistema. Los casos de uso se centran en los factores críticos de éxito, en términos de funcionalidad de que los usuarios necesitan para interactuar con el sistema. Normalmente esto se basa en como yo puedo participar en el sistema. qué es lo que hace el sistema con diferentes personajes que trabajan en un programa. normalmente los personajes se basan en roles. como supervisor, operador, etc.

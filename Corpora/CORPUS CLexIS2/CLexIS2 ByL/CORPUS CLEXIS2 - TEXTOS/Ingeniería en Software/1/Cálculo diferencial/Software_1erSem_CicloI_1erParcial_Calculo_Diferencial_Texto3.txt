@@ -1,0 +1,4 @@
+﻿texto 3
+
+En las matemáticas aplicadas las funciones usualmente representan cantidades físicas, las derivadas representan sus razones de cambio, y la ecuación define la relación entre ellas, en la ecuación diferencial tenemos funciones u y tenemos derivadas.
+Otro concepto: una ecuación diferencial es una relación entre una función y su derivada, como en el ejemplo verdad, las derivadas son estas las que tienen prima (Y).

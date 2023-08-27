@@ -1,0 +1,4 @@
+texto 14
+
+Esto no se debería dar en la base de datos, nomás el dato yo no debería tener datos repetidos. Como ves ahí en esta figura yo tengo el nombre del cliente repetido dos veces y el sueldo del cliente repetido, eso en una base de datos no se debería dar porque la base de datos me va a traer técnicas, no trae por detrás técnicas que me ayudan a no tener datos duplicados o eliminar las redundancias. 
+Y ustedes ya lo van a ver cuando ya estemos trabajando el modelo entidad-relacion y cuando ya estemos trabajando en las bases de datos que eso va a ser en la unidad 3 y unidad 4. 

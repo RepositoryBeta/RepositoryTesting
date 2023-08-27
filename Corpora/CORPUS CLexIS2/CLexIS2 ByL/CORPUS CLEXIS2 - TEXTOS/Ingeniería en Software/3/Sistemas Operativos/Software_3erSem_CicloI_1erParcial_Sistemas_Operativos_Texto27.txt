@@ -1,0 +1,13 @@
+texto 27
+
+Estados en los que puede estar un proceso.
+
+Listo. Tiene todo lo necesario para ejecutarse excepto el procesador.
+
+Suspendido. No está en memoria principal.
+
+Bloqueado. Está esperando un evento.
+
+Bloqueado y suspendido.
+
+Listo y suspendido.

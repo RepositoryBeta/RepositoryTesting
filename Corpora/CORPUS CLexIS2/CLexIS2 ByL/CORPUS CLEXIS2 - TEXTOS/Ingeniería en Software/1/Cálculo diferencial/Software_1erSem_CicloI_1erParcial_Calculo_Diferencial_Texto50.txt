@@ -1,0 +1,5 @@
+texto 50
+
+Si bien el análisis se puede hacer para un sistema de n ecuaciones, dado que interesa utilizar características gráficas de la solución, el tratamiento se hará para sistemas con dos incógnitas.
+
+Hasta ahora, el estudio de las ED y SED se ha centrado en el problema de obtener analíticamente las soluciones exponiendo algunos métodos de resolución de ciertos tipos de ecuaciones y sistemas.

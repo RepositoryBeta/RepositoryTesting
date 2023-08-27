@@ -1,0 +1,2 @@
+texto 52
+Quiero decir que cuando ustedes vayan a escribir su código si la redacción plantea que deben hacer algo por caso contrario, deben colocarlo, entonces vamos a ver nuestro primer pseudocódigo, fíjate, como dice determinar si un número es positivo o negativo para esto tenemos primero que plantear nuestro algoritmo el que hacemos en el papelito y qué líneas nosotros pondríamos para determinar si un número es positivo o negativo.

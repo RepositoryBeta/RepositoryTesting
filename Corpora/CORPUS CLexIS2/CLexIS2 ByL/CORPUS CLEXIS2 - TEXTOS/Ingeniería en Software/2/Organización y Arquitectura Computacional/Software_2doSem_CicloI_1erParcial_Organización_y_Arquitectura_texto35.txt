@@ -1,0 +1,2 @@
+TEXTO 35
+Unidad central de proceso: Memoria primaria.- Todo lo que abrimos para poder trabajar va a ser temporalmente almacenado en la memoria principal. Por eso, podría llegar un momento en el que si la memoria no es suficientemente amplia o no tiene una capacidad bastante grande, podría colapsar la ejecución de cualquiera de esos programas, puede automáticamente bloquear el equipo y tendríamos que reiniciarlo.

@@ -1,0 +1,3 @@
+texto 54
+
+Según su cobertura: básicamente existen dos grandes familia de redes, redes de área local (LAN), redes de área amplia (WAN) las diferencias entre estas dos categorías son cada vez más difusas tanto en terminos tecnológicos cómo de posibles aplicaciones,  una Lan es una red de comunicaciones que interconecta varios dispositivos y proporciona un medio para el intercambio de información entre ellos.

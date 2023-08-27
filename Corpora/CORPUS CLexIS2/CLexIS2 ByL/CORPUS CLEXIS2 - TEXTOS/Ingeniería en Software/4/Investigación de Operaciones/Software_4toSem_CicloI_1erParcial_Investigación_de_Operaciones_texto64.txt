@@ -1,0 +1,6 @@
+﻿texto 64
+
+Ahora vamos a seguir trabajando con programación lineal pero en este caso vamos a trabajar esos mismos ejercicios que hicimos en las clases anteriores a través del método gráfico pero ahora lo vamos a hacer A través del método simplex.
+
+Entonces ¿Qué es el método simplex?
+Es un procedimiento iterativo en este método vamos a trabajar con matrices, las iteraciones la vamos a hacer a través de matrices tratando de optimizar.

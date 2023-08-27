@@ -1,0 +1,3 @@
+texto 56
+
+Entonces como primera diferencia que podemos decir: que la LAN puede ser la de una empresa, entonces los dispositivos de la red los switch, los conmutadores, el cableado, el router les pertenece a la empresa  pero la WAN hablamos de internet por ejemplo queremos enviar un mensaje de aquí a la china a lo mejor tiene que ir por muchísimas rutas se cubre una extensa área geográfica por muchas rutas, por muchas redes, a lo mejor distintas redes que no son propias de la empresa que está mandando el mensaje.

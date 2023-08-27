@@ -1,0 +1,4 @@
+texto 110
+
+Al estar tan alejada del procesador las latencias era muy elevadas y el rendimiento resultados muy pobre. La integración de la memoria caché en un encapsulado del procesador ha permitido saltos de rendimiento muy grandes, y hoy es algo tan básico que una cpu sin caché l3 puede perder bastante rendimiento en aplicaciones exigentes frente a otro idéntico que se integré dicha memoria. La memoria caché se divide en tres grandes niveles: L1, L2 y L3.
+

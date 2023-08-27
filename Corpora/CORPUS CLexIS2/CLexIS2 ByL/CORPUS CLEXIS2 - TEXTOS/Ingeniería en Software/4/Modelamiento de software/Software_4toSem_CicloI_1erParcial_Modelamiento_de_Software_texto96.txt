@@ -1,0 +1,3 @@
+﻿texto 96
+
+Obviamente porque tengo algún modificador de visibilidad que no me deja, no me lo van a dar pero en este caso me estaré dando estos métodos abstractos públicos me toca implementar ahí hay leyes de la herencia personal en la programación aunque deberiamos saberlo, estamos viendo que la herencia ya estamos entrando en modelado aquí ya debemos modelado un diagrama de clases estamos en un puesto en rectángulos las clases, atributos y las acabamos de unir por medio de una línea y un triángulo en blanco.

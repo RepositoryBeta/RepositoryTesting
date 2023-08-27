@@ -1,0 +1,5 @@
+texto 41
+
+Estructura del bus.
+El bus de sistema en donde se conectan el procesador, la memoria y los dispositivos de entrada y salida, líneas está constituido, usualmente, porque entre 50 y 100 líneas. Cuando ustedes abren una computadora y ven un mainboard, te dice aquí el disco duro, luego te dice estas son las ranuras de las RAMS, te dice DDR4 donde podrás colocar tus tarjetas, luego te dirá la PCI X, ahí podrás poner una capturadora de sonido.
+

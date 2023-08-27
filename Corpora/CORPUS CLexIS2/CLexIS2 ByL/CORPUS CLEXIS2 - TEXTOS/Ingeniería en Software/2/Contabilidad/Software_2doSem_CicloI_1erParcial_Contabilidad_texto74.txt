@@ -1,0 +1,11 @@
+﻿texto 74
+
+NIIF 10 Estados financieros consolidados.
+
+NIIF 11 Acuerdos conjuntos.
+
+NIIF 12 Información a revelar sobre participaciones en otras.
+
+NIIF 13 Medición del valor razonable.
+
+NIIF 14 Cuentas de diferimientos de actividades reguladas.

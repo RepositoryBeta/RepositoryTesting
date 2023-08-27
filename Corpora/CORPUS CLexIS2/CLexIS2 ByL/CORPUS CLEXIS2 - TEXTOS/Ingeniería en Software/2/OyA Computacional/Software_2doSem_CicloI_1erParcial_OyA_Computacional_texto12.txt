@@ -1,0 +1,4 @@
+texto 12
+
+Entonces la cantidad de información que se va serializar, Entonces estamos hablando de un 2 a la n. Ejemplo, para direccionar una memoria de 256 bits, son necesarias al menos 8 líneas, pues 2 a la octava, es igual a 256. Adicionalmente pueden ser necesarias líneas de control para señalar cuando la dirección está disponible en el bus. Esto depende del diseño del bus. Hay otros buses que tienen una arquitectura distinta, un poco más enriquecida.
+

@@ -1,0 +1,3 @@
+texto 23 
+
+En el software, el recurso principal son las personas. No es siempre posible acelerar la construcción de software añadiendo personas porque la construcción de software requiere un esfuerzo en equipo. El equipo tiene que trabajar de forma coordinada y compartir un objetivo de proyecto común, se necesita comunicación efectiva dentro del equipo.

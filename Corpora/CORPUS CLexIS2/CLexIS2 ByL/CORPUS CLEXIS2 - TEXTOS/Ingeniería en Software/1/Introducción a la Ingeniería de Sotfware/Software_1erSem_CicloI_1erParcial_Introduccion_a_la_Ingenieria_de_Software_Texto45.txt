@@ -1,0 +1,3 @@
+﻿texto 45
+
+Proceso distribuido: los recursos se encuentran diseminados en diversos lugares de una zona territorial ( ciudad, país, continente, etc), por lo que el procesamiento se realiza en el propio lugar de dónde se origina los datos, existiendo la posibilidad de compartir información entre las diversas instalaciones, mediante la información de una red de comunicación.

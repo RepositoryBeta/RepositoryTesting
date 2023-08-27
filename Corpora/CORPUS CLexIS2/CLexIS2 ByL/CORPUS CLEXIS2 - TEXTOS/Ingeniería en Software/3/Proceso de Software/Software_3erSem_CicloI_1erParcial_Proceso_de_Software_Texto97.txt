@@ -1,0 +1,7 @@
+﻿texto 97
+
+Implementar una herramienta de software que soportara el modelo.
+
+Nuevas Mejoras
+
+Proveer un marco analítico cuantitativo y un conjunto de herramientas y técnicas que evaluaran el impacto de las mejoras tecnológicas de software sobre los costos y tiempos en las diferentes etapas del ciclo de vida de desarrollo.

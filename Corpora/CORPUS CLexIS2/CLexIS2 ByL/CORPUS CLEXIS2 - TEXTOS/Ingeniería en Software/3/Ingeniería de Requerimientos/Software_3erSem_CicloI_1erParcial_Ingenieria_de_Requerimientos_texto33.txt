@@ -1,0 +1,2 @@
+TEXTO 33
+Los requerimientos no funcionales tenemos los requerimientos del producto en el cual tenemos el requerimiento de eficiencia que a su vez tiene requerimientos de rendimiento y requerimientos de espacio También tenemos requerimientos de usabilidad de confiabilidad y de seguridad. en los requerimientos de la organización tenemos requerimientos ambientales operacionales y de desarrollo. los requerimientos externos tenemos los regulatorios, los éticos y los legales que se derivan en los requerimientos contables y los requerimientos de protección y seguridad.

@@ -1,0 +1,9 @@
+texto 46
+
+Cuando el proceso cambia de bloqueado a listo. 
+
+Cuando se crea un nuevo proceso. 
+
+Cuando ocurren los dos primeros casos, el planificador es invocado debido a que el proceso en ejecución libera el procesador. Los últimos tres casos se dan solamente cuando el planificador es expropiativo, ya que puede quitar el procesador a un proceso que estaba ejecutando para dárselo a otro.
+
+Planificadores no expropiadores y expropiadores.

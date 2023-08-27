@@ -1,0 +1,15 @@
+texto 65
+
+LISTA DOBLEMENTE ENCADENADA.
+
+ A pesar de que las listas lineales y circulares son bastante eficientes tiene dos desventajas: 
+
+ - No se puede atravesar la lista circular o lineal en dirección contraria.
+
+ - Es necesario buscar el nodo (p) dado para realizar alguna operación.
+
+Para eliminar estas desventajas existen las listas doblemente encadenadas, las cuales tienen las 
+
+siguientes características:
+
+a) Como cualquier lista encadenada no vacía está formada por nodos, pero la configuración de estos es diferente. 

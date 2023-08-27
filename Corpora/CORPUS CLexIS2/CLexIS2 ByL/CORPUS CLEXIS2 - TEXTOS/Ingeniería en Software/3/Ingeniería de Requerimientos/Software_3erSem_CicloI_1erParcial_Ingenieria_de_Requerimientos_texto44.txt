@@ -1,0 +1,2 @@
+TEXTO 44
+Requisición de requerimiento se basa en obtener los requerimientos, las especificaciones cuando usted ya los escribe, los estándares, los hace reglas, los hace que sea necesario para que usted pueda desarrollar el software. Los redacta un documento y cuando usted hace las reglas se da cuenta si realmente va a funcionar o no va a funcionar, si le sirve cliente o no le sirve cliente, y la validación se basa en coste tiene que determinar las reglas en cuanto a todo lo que está definiendo. Al final sale un documento que es de requerimientos del sistema.

@@ -1,0 +1,3 @@
+﻿texto 62
+
+Si usted me entrega esto como un modelo final de sistema yo le entiendo y luego ya sé lo que quieres hacer pero yo todavía no puedo tirar código porque no sé qué va o qué atributos tiene el préstamo de un libro o el carnet de membresía y es lo que haría falta, entonces para modelar datos la primera instancia del modelamiento yo voy a necesitar estructuras básicas, los rectángulos, las línea, hay reglas, restricciones van a tener que aprender y operadores que permiten el cambiar el estado de lo que esté haciendo en este caso la base de datos.

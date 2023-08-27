@@ -1,0 +1,9 @@
+﻿texto 116
+
+Banda HF: Esta banda depende considerablemente las condiciones climáticas,  por ello existen las diurnas (14 y 30 Mhz), nocturnas (3 y 10 Mhz) e intermedias ( 10 y 14 Mhz).
+
+Banda VHF: Para para comunicaciones terrestre de corta distancia ( servicio de radiodifusión FM, televisión VHF).
+
+Banda UHF: Propagación con línea de vista ( servicios móviles,  CDMA 450, UHF, TDT, Wifi).
+
+Banda SHF: Se emplean en radares, enlaces ascendentes y descendentes de satélites y Wifi 802.11 n.

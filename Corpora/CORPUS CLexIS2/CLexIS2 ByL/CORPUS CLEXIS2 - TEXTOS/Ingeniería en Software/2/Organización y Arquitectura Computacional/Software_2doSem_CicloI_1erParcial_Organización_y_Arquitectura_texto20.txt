@@ -1,0 +1,2 @@
+TEXTO 20 
+Sistema hexadecimal:  El sistema hexadecimal es un sistema de numeración posicional de base 16, los símbolos que se usan en este sistema son 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f, teniendo en cuenta que 10 es A, 11 es B, 12 es C, 13 es D, 14 es E y 15 es F. Este sistema hexadecimal en el computador nos da la dirección de memoria, las direcciones de memoria en RAM están dado  por la combinación de dígitos en hexadecimal.

@@ -1,0 +1,2 @@
+TEXTO 6
+En los sistemas intensivos en software también se encuentran los sistemas intensivos en software embebidos. donde dice que en este sistema el software es sólo una parte, aunque importante del sistema. este software está integrado el Hardware. debe existir una comunicación entre ambos para que el sistema funcione. por ejemplo el alcoholímetro trabaja con sensores de alcohol y automáticamente la envía para usted por medio de un software cuántos grados de alcohol, obviamente siempre existe la comunicación entre ambos para que todo funcione.

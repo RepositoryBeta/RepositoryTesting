@@ -1,0 +1,9 @@
+texto 74
+
+ Tipos de protocolos 
+
+Protocolos Abiertos: son protocolos escritos a estándares del mercado públicamente conocidos.
+
+Protocolos Específicos:  son privados y desarrollados por diferentes fabricantes para poder ser utilizados en entornos específicos.
+
+Una arquitectura de protocolo es una estructura en capas de elementos hardware y software  qué facilita el intercambio de datos entre sistemas y posibilita aplicaciones distribuidas comercio electrónico y la transferencia de archivos.

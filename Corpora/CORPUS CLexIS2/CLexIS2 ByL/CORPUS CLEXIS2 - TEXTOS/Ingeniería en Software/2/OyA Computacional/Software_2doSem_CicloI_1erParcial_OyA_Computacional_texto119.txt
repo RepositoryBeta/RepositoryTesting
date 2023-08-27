@@ -1,0 +1,4 @@
+texto 119
+
+El entorno operativo, entorno que se convierte en fuente y destino de los datos, cuando hablamos del entorno operativo nos referimos al SO, el SO se conecta con un sistema de transferencia de datos, el cual va a tener una comunicación de dos vías con el SO, esa comunicación de dos vías se va a dar a través de un sistema de transferencia de datos, del sistema de transferencia de datos ,los datos o las instrucciones que vienen de un entorno, del exterior, pasan a un mecanismo de control, ese mecanismo de control recibe y envía información, desde y hacia los recursos de almacenamiento y los recursos de procesamiento de datos.
+

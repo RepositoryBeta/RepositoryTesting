@@ -1,0 +1,2 @@
+TEXTO 40
+Unidad central de proceso: A través del bus se comunican los resultados de regreso para que puedan ser visualizados a través de los dispositivos de salida, por medio de interfaces de salidas. Estas interfaces son simplemente el entorno de trabajo del usuario, también este sistema debe llevar a esos datos para que puedan ser almacenados en memorias externas como ya algunos debemos conocer se pueden almacenar los datos en el disco duro. Cuando los grabas o algún dispositivo almacenamiento externo como los USB los flash Memory. 

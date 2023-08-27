@@ -1,0 +1,2 @@
+TEXTO 51
+Introducción a las memorias: Si un equipo tiene 8 gigas de memoria el equipo puede responder de una forma inmediata y mucho más rápida. Como conocemos existen de diferentes capacidades y así mismo existen de diferentes nombres, tenemos la RAM, SRAM, todo esto depende de la arquitectura interna del computador. Así mismo, depende del fabricador, así como vamos avanzando de generación, los modelos de memoria también van evolucionando, conjunto a las tabletas de memoria.

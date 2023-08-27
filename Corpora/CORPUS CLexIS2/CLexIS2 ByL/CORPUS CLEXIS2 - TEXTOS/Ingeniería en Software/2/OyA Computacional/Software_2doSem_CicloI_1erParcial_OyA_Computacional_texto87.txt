@@ -1,0 +1,4 @@
+texto 87
+
+Siguiendo con los elementos de la unidad de control, nos encontramos con el registro de instrucciones, el RI guarda la instrucción que se está ejecutando, porque la tiene que devolver a quién lo solicitó para la transcripción. Y finalmente como elementos de la unidad de control tiene un secuenciador y un decodificador. Es decir que interpreta, eso hace el decodificador y ejecuta, eso lo hace el secuenciador, las instrucciones a través de órdenes. Eso hace el decodificador: interpretar y el secuenciador: ejecutar.
+

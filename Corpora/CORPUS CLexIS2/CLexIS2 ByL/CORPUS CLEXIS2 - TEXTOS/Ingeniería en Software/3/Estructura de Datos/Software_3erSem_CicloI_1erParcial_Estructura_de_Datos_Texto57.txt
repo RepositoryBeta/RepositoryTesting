@@ -1,0 +1,15 @@
+texto 57
+
+EXISTEN TRES OPERACIONES BÁSICAS QUE PUEDEN SER APLICADAS A LAS COLAS:
+
+- INSERT (q, x)
+
+La cual adiciona un elemento (x) en la parte posterior de la cola.
+
+- X <--remove (q)
+
+La cual retira un elemento del frente de la cola y coloca en (x) su contenido.
+
+- EMPTY (q)
+
+La cual retorna el valor de falso o verdadero dependiendo si la cola contiene algún elemento o está vacía.

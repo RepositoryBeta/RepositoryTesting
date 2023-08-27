@@ -1,0 +1,3 @@
+texto 39
+
+Tenemos elementos de las comunicaciones, ya cuando hablamos de elementos de una red para empezar como ven también tenemos un mensaje, el mensaje que viaja en la red tenemos el medio por el que viajan mensaje puede ser cable, puede ser inalámbrico o lo que sea,  y tenemos los dispositivos, recuerden tenemos dispositivos, mensajes, medio, pero en una red tenemos también las reglas.

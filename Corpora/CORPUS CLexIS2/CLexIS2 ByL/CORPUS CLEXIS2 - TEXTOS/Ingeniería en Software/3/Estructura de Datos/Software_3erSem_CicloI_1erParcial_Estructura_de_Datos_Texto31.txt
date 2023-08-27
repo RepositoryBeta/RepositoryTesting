@@ -1,0 +1,9 @@
+﻿texto 31
+
+CONCEPTO
+Es una colección de datos organizada de un modo particular.
+Las estructuras de datos pueden ser de dos tipos:
+ESTRUCTURAS DE DATOS ESTÁTICAS Y ESTRUCTURAS DE DATOS DINÁMICAS.
+ESTRUCTURAS DE DATOS ESTÁTICAS
+Son aquellas en las que se asigna una cantidad fija de memoria cuando se declara la variable. 
+En grandes ocasiones se necesitan colecciones de datos que crezcan y reduzcan su tamaño en memoria a medida que el programa progrese. Esto se logra implementando las estructuras dinámicas.

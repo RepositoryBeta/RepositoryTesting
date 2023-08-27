@@ -1,0 +1,4 @@
+﻿texto 69
+
+Cuando estamos ante una variable continua o discreta con muchos valores distintos, los datos los tenemos agrupados en intervalos de la misma amplitud. 
+La representación gráfica que se utiliza normalmente para representar la distribución estadística o implementar la información de la tabla es el denominado Histograma, la construcción de este gráfico es muy parecida al diagrama de barras de variable discreta.

@@ -1,0 +1,4 @@
+texto 4
+
+Este lenguaje, y poder extraer de ese documento ciertos elementos y llevarlo a un modelo llamado modelo conceptual, entonces ustedes van a aprender ya cuando lo veamos en modelo entidad relación, y hay elementos qué se llaman entidades, hay elementos que se llaman relaciones, hay elementos que se llaman atributos. 
+Entonces yo estoy identificando del nivel externo del problema real en lenguaje natural, estoy identificando y lo estoy llevando, al modelo conceptual que va a tener estos elementos entidades relaciones atributos.

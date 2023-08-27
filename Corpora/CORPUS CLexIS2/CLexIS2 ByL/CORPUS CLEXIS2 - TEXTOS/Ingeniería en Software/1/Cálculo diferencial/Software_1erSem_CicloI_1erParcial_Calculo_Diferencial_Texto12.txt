@@ -1,0 +1,4 @@
+﻿texto 12 
+
+¿Qué significa esto?
+Cómo ustedes ya recordarán en una ecuación tiene que haber el signo de igual (=) a la izquierda unos términos y a la derecha otros términos, entonces dice que esto de variables separables significa que a la izquierda del signo igual voy a poner. Unas variables todo lo que tenga que ver con ejemplo con (y) y a la derecha voy a poner todo lo que tiene que ver con x ósea es separado. A este método también se le llama (separación de variables).

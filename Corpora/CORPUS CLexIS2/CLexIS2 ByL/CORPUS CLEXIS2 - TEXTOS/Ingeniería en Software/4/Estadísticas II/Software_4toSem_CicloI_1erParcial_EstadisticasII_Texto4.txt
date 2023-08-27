@@ -1,0 +1,3 @@
+texto 4
+
+recordemos el concepto de par ordenado es decir, analizamos esto podemos decir, si al par ordenado Omega, L  donde L es el espacio de eventos donde L recordemos que es un subconjunto de Omega hasta ahorita lo que hemos analizado solo es la simbología,  pero vamos a ver lo que dice el concepto, Sea este par ordenado el espacio muestral de un experimento estadisticos y sea X, Esto es lo nuevo que va aparecer, la variable aleatoria que no aparece en lo que es en probabilidades.

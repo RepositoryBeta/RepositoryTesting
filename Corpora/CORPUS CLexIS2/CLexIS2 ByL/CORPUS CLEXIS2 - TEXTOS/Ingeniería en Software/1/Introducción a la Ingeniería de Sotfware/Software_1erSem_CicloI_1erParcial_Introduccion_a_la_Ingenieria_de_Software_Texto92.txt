@@ -1,0 +1,6 @@
+texto 92
+
+fases DRA: 
+
+ Generación de aplicaciones: El DRA  asume la utilización de técnica de cuarta generación. 
+En lugar de crear software con lenguaje de programación de tercera generación, el proceso DRA trabaja para volver a utilizar componentes de programas ya existentes (cuando es posible) o a crear componentes reutilizables (cuando sea necesario) en todos los casos se utilizan herramientas automatizadas para facilitar la construcción del software.

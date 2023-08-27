@@ -1,0 +1,3 @@
+﻿texto 39
+
+Para poder hacer este proceso informático completo deben haber existen cinco componentes esenciales que vienen o se desprenden de su estructura su arquitectura de Von neumann que vimos al inicio aquí están los componentes del procesador los dispositivo de entrada salida, si vemos la arquitectura básica identificamos los dispositivos entrada, salida, la memoria RAM, unidad de procesamiento y disco duro, todo esto permite tener o dividir lo que es el Hardware y sus componentes.

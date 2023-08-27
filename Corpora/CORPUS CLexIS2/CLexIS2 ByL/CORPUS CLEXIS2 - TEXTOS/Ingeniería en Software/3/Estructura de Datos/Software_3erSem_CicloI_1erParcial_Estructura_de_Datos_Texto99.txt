@@ -1,0 +1,5 @@
+texto 99
+
+ Ciclo de Hamilton. Un ciclo de una gráfica G es Hamiltoniano, si cada vértice del grafo G conexo aparece exactamente una vez, excepto por el vértice inicial y final (que aparece dos veces).
+
+ Teorema 11.3 (también llamado teorema de ORE, que hace memoria a Oystein Ore en 1960). Un grafo conexo G de n vértices para n ≥ 3 tal que deg (u) + deg (v)≥ n siendo u y v cualquier par de vértices no adyacentes del grafo G, entonces contiene un ciclo Hamiltoniano.

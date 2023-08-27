@@ -1,0 +1,13 @@
+﻿texto 17
+
+PASOS PARA RESOLVER UN SISTEMA DE ECUACIONES POR EL MÉTODO DE DESCOMPOSICIÓN LU
+
+Obtener la matriz triangular inferior (L) y la matriz triangular superior (U).
+
+Resolver Ly = b (para encontrar y).
+
+El resultado del paso anterior se guarda en una matriz nueva de nombre (y).
+
+Realizar Ux = y (para encontrar x).
+
+El resultado del paso anterior se almacena en una matriz nueva llamada (x), la cual brinda los valores correspondientes a las incógnitas de la ecuación.

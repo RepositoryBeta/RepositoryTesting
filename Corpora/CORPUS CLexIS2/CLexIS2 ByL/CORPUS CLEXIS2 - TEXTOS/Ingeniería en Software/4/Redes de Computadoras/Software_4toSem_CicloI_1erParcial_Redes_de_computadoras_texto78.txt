@@ -1,0 +1,13 @@
+texto 78
+
+Modelo básico de 3 capas 
+
+Aplicación 
+
+Transporte
+
+Acceso a la red
+
+ En terminos muy generales, loquita refleja se puede afirmar que  las comunicaciones involucran a tres agentes aplicaciones computadoras y redes.
+
+ Las aplicaciones se Ejecutan  en computadoras que, generalmente, permiten múltiples aplicaciones simultáneas. Los computadores se conectan a redes y los datos a intercambiar se transfieren red de un computador a otro.

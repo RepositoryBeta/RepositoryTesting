@@ -1,0 +1,11 @@
+﻿texto 5
+
+Cada actividad del proceso tiene criterios de entrada y de salida de modo que se conoce cuando comienza y cuando termina una actividad. 
+
+Las actividades se organizan en secuencia de modo que resulta claro cuando una actividad se realiza en orden relativo a otras actividades.
+
+Todo proceso tiene un conjunto de principios orientadores que explican las metas de cada actividad.
+
+Las restricciones o controles pueden aplicarse a una actividad, recurso o producto.
+
+Comprensión Esta definido y es comprensible.

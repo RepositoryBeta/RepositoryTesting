@@ -1,0 +1,13 @@
+﻿texto 41
+
+- El producto es ley de composición externa.
+
+Si estas condiciones se cumplen entonces el conjunto es un subespacio vectorial.
+
+hablaremos de transformaciones lineales entre espacios vectoriales.
+
+La idea de esta entrada es:
+
+Dar la intuición y definición de transformaciones lineales en general.
+
+Probar propiedades básicas de las transformaciones lineales.

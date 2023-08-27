@@ -1,0 +1,3 @@
+﻿texto 52
+
+Entonces simplemente decimos la matriz no tiene inversa porque su determinante es 0 entonces las dos condiciones que debe tener una matriz para que para que tenga inversa es que debe ser cuadrada es decir que el número de filas debe ser igual número de columnas y que el determinante debe ser diferente de cero entonces también está matriz inversa tiene la particularidad de que al multiplicar la la matriz original por la inversa nos da la matriz identidad.

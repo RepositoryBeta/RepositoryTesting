@@ -1,0 +1,3 @@
+﻿texto 3
+
+Desde que doy clases les digo esta frase mis estudiantes: chicos el caso de uso es algo tan fácil pero tan fácil, yo ahora lo doy en requerimientos, caso de uso y se lo vuelve a dar acá en modelado, y les digo es tan facil que la gente no le para bola pero ahorita, la gente dice ay esto es tan fácil, tan fácil que existen normas básicas de hacer un caso de uso, bueno Cómo ponerle el nombre al caso de uso, normas básicas de caso de uso, como decir mis casos tienen que tener nombres únicos no pueden tener nombres repetidos son reglas sencillas.

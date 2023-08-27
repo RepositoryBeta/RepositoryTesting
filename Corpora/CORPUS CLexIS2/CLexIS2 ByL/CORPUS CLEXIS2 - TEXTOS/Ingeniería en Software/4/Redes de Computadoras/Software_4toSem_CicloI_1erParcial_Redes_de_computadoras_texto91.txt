@@ -1,0 +1,5 @@
+texto 91
+
+ prácticamente en todos los protocolos, los datos son transferidos en bloques, llamados unidades de datos del protocolo (PDU,  Protocol Data Unit),  cada PDU contiene no sólo datos sino también información de control.
+
+Ciertamente, algunos PDU constan únicamente de información de control sin datos algunos,  la información de control se puede clasificar en tres categorías generales.

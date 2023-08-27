@@ -1,0 +1,8 @@
+﻿texto 1
+
+Población objetivo: conjunto bien definido de elementos que son sujetos a alguna medición.
+
+Unidad de investigación: también llamado individuo, es el elemento de la población objetivo a los que se les efectuó alguna medición, ejemplo: una persona o un elemento.
+
+La muestra: subconjunto de n unidades de investigación tomadas a partir de la población objetivo.
+Hasta ahora hemos trabajado, hemos hablado sobre población y eso es lo que nosotros tenemos en nuestra mente.

@@ -1,0 +1,11 @@
+﻿texto 30
+
+- Existe e, V tal que: e + v = v + e = v, v, V (elemento neutro).
+
+- Para cada v, V existe w tal que: v + w = w + v = e (elemento opuesto).
+
+- (µv) =(µ)v, v V, µ R (seudo-asociativa).
+
+- (u+v) = u+v y (µ) v = v +µv, u, v  V y, µ  R (distributiva).
+
+- 1v = v, v V (unimodular).

@@ -1,0 +1,2 @@
+texto 71
+Pero, las variables sufren una variación, a lo largo de la ejecución de un programa toman valores diferentes lo que no ocurre con las constantes, las constantes como tal, son valores que no se modifican a lo largo del programa, por ejemplo si vas a calcular necesitas el valor de pi 3.14, vamos a hacer un modulo de ventas, ah ya, primero se calcula el valor de la compra y el valor final tienes que añadir el artículo, sí es que este artículo vale $100 pero no incluye impuestos, perfecto entonces ahora tengo que calcular el IVA.

@@ -1,0 +1,3 @@
+texto 56 
+
+El periodo de tiempo que comienza cuando se consigue un producto software y finaliza cuando el producto pierde su utilidad, el ciclo de vida del Software incluye las siguientes fases: fase de requisitos, fase diseño, fases de realización, fase de pruebas, fase de instalación y aceptación, fase de operación y mantenimiento, y algunas veces, fases de retirada.

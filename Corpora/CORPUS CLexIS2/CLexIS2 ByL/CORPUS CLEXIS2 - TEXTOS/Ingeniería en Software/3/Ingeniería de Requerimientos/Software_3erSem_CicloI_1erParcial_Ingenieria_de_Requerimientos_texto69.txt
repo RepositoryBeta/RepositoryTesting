@@ -1,0 +1,2 @@
+TEXTO 69
+Validación de requerimientos: Es el proceso de verificar que los requerimientos definan realmente lo que el cliente desea. Esta etapa es muy importante, ya que resulta muy costoso corregir errores en el sistema implementado. Debe realizarse en cada etapa del proceso para asegurarse que lo que se está realizando se está haciendo bien. Durante el proceso de validación debe realizarse varias comprobaciones: Comprobaciones de validez, comprobaciones de consistencia, comprobaciones de totalidad, comprobaciones de realismo, verificabilidad.

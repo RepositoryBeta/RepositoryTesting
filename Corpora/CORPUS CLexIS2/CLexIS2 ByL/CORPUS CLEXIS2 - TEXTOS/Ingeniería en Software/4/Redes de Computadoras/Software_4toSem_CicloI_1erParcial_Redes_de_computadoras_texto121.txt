@@ -1,0 +1,4 @@
+textos 121
+hay una serie de factores relacionados con el medio de transmisión y con la señal que determinan tanto la distancia como la velocidad de transmisión:
+el ancho de banda: Si todos los otros factores se mantienen constantes al aumentar el ancho de banda de la señal la velocidad de transmisión se puede incrementar.
+dificultades en la transmisión:  Como por ejemplo la atenuación, limitan la distancia, en los medios guiados, el par trenzado sufre la de mayores adversidades que el cable coaxial que, a su vez, es más vulnerable que la fibra óptica.

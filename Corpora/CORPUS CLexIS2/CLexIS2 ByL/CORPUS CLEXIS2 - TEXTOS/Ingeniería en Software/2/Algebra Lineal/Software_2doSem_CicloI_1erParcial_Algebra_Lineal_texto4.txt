@@ -1,0 +1,17 @@
+﻿texto 4
+
+- Si una matriz cuadrada es triangular (superior o inferior), su determinante es igual al producto de los elementos de su diagonal principal. 
+Consecuencia: Si es la matriz identidad su determinante vale 1
+
+- El determinante de un producto de matrices (de órdenes iguales) es igual al producto de sus determinante.
+
+Regla de Cramer
+
+La regla de Cramer utiliza determinantes para resolver sistemas de ecuaciones lineales.
+
+
+
+
+
+
+

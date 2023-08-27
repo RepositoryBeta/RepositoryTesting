@@ -1,0 +1,2 @@
+TEXTO 84
+Ciclos de captación y ejecución: Tenemos un tiempo en que la unidad de proceso tarda para ejecutar esa orden. Este ciclo ya lo hemos visto, que se ejecuten los pasos que es el de lectura y el de ejecución. El de lectura que se denomina fetch y el de ejecución que se denomina execution. Las IAS operan repitiendo un ciclo de instrucción, que a su vez consiste en dos subciclos: el ciclo de búsqueda y ciclo de ejecución.

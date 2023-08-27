@@ -1,0 +1,3 @@
+﻿texto 53
+
+Y esa relación de clientela pues tiene una característica de pertenencia o de algo que contiene a otro, yo puedo decir que la biblioteca tiene asterisco varios libros o un libro está dentro de una biblioteca, un libro puede ser prestado por cero a muchos miembros o sea un libro es tan malo que nunca nadie lo prestó, un libro es tan bueno que siempre está prestado, eso quiere decir que a lo largo del tiempo ojo este modelo es estático no me representa un tiempo en particular.

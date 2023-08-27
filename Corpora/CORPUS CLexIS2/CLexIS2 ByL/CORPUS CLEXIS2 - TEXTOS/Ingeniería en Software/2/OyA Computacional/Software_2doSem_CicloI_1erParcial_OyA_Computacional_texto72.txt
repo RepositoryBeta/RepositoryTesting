@@ -1,0 +1,9 @@
+texto 72
+
+Entonces, una cpu está constituida por cuatro cosas:
+1) Registros de memoria que se encuentran en caché.
+2) Una unidad de control.
+3) Una unidad aritmético lógica.
+4) Una unidad de cálculo en coma flotante.
+De esta forma están compuestos los core, para el ejemplo tuvimos un procesador Intel quad core de cuarta generación y con arquitectura de 22 nanómetros, trigate, 3D, hablando de los transistores.
+

@@ -1,0 +1,5 @@
+﻿texto 29 
+Grafo.
+Consiste en un caso diferente o especifico de grafo.
+Se encuentra en la aplicación de los ciclos que no se permiten, dispone de un camino a partir de un nodo hasta otro nodo.
+El nodo de partida se conoce como raíz presenta una colección de árboles el cual es comúnmente conocida como bosque.

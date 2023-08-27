@@ -1,0 +1,3 @@
+﻿texto 59
+
+por eso se lo conoce como variable cualitativa y una variable cuantitativa por supuesto se representa a partir de un valor numérico, esa es la gran diferencia de estadística nosotros tenemos tanto variables cualitativas como variables cuantitativas, es decir cuando nosotros queremos hacer una encuesta normalmente dentro de la encuesta tenemos dos tipos de variantes cualitativas y cuantitativas, por ejemplo una variable cuantitativa puede ser la edad.

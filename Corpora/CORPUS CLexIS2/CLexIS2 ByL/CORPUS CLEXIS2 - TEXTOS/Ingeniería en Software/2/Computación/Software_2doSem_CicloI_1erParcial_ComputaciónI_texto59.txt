@@ -1,0 +1,7 @@
+﻿texto 59
+
+Mainframe
+
+Es una súper computadora capaz de realizar millones de instrucciones por segundo (MIPS), su tiempo estimado de estar corriendo sin necesidad de apagarse por cualquier razón qué tal es de un 99,99%, la clave de esto es la capacidad de redundancia en una pieza de Hardware por la forma en que fue diseñado.
+
+Pueden ocupar espacios de gran tamaño, como pueden ser, por ejemplo una habitación, hoy en día son menos utilizados.

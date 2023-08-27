@@ -1,0 +1,9 @@
+﻿texto 72
+
+Funciones básicas del sistema operativo
+
+Administrar los recursos del ordenador, sistema operativo determina que aplicaciones se deben ejecutar en qué orden y cuánto tiempo.
+
+Gestionar intercambio de memoria interna entre múltiples aplicaciones.
+
+Se ocupa de entrada y salida desde y hacia los dispositivos de hardware conectados.

@@ -1,0 +1,7 @@
+﻿texto 46
+
+Dispositivo de entrada y salida.
+
+Es aquel tipo de dispositivo periférico de un computador capaz de interactuar con los elementos externos a ese sistema de forma bidireccional, es decir, que permite tanto que sea ingresada información desde un sistema externo, como emitir información a partir de ese sistema.
+
+Un periférico de entrada y salida es aquel que utiliza para ingresar datos a la computadora, y luego de ser procesada por la unidad de control de procesamiento, genera la salida de información.

@@ -1,0 +1,4 @@
+texto 29
+
+Y ustedes normalmente, la hacen cuando desarrollan o programan sus aplicaciones en un lenguaje de programación, pero la novedad acá es que el dbms también me trae esa validación, yo cuando creo mi base de datos también puede ir este campo, sólo me va a permitir almacenar datos carácter este otro campo.
+Por ejemplo, el campo edad sólo me va a permitir almacenar datos tipo numérico, esas validaciones me traen los dbms, también para proveer integridad edad, otra de las funciones o características de los dbms y que utilizan los demás.

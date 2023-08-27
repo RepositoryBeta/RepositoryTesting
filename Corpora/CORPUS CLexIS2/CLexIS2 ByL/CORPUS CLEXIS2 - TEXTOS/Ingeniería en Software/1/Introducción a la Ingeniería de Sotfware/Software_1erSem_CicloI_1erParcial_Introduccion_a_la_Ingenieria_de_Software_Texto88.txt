@@ -1,0 +1,7 @@
+texto 88 
+
+ Desarrollo rápido de aplicaciones(DRA)
+
+ Es un modelo de proceso del ciclo de vida clásico que enfatiza un ciclo de vida desarrollo extremadamente corto.
+
+ El modelo DRA  es una adaptación de alta velocidad del ciclo de vida clásico en el que celebran desarrollo rápido utilizando un enfoque de construcción basado en componentes. Si se comprende bien los requisitos y límites la invitó al proyecto, el proceso DRA  permite al equipo de desarrollo crear un sistema completamente funcional dentro de periodos cortos de tiempo.

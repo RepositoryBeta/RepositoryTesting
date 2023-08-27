@@ -1,0 +1,5 @@
+﻿texto 84
+
+Para cambiar el nombre, mover, eliminar un archivo o una carpeta de su carpeta persona o de una carpeta compartida, deberá acceder a ella mediante el explorador de archivos también llamado explorador  de Windows.
+
+El explorador de archivos le  permite administrar todas estas carpetas.

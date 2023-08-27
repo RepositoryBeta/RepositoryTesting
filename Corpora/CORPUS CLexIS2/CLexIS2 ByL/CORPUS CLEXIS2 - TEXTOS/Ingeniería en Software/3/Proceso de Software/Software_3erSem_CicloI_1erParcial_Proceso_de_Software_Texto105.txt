@@ -1,0 +1,9 @@
+﻿texto 105
+
+Analogía
+
+El coste de un proyecto se calcula por comparación con proyectos similares en el mismo dominio de aplicación. Es aplicable cuando otros proyectos en el mismo dominio de aplicación se han completado. Se estima el costo de un nuevo proyecto por analogía con estos proyectos completados.
+
+Análisis d e puntos de Función (FPA)
+
+La técnica de puntos de función fue introducida por Albrecht y su propósito es pedir el software cualificando la funcionalidad que proporciona externamente, basándose en el diseño lógico del sistema.

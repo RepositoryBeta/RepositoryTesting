@@ -1,0 +1,7 @@
+texto 98
+
+ orientado a la reutilización
+
+ esta aproximación se basa en la existencia de un número significativo de elementos reutilizables.  El proceso de desarrollo se centra en la integración de los elementos en un sistema, en lugar de desarrollarlo desde cero.
+
+ Incorpora muchas características del modelo en espiral, es evolutivo por naturaleza.

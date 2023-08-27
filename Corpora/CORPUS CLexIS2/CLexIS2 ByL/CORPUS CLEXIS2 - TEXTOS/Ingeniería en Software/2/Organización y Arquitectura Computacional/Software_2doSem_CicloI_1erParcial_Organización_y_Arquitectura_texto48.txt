@@ -1,0 +1,2 @@
+TEXTO 48
+Introducción a las memorias: Hay diferentes tipos de memorias, diferentes presentaciones y en diferentes capacidades, ¿Qué pasaba con la capacidad de memoria de almacenamiento principal en los computadores antiguos? Aquel computador tenía de 2 a 4 KB, ese era el tamaño de la memoria,  Imagínate querer consultar las matrículas de los 70,000 promedios de estudiantes que están en la universidad resulta que esos KB van quedando cortos.

@@ -1,0 +1,9 @@
+texto 93
+
+Camino Simple
+
+Existe camino simple cuando todos sus vértices, excepto tal vez el primero y el último, son distintos.
+
+Longitud de una trayectoria
+
+La longitud de una trayectoria corresponde al número de lados de la trayectoria para ir de un vértice a otro.

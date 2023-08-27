@@ -1,0 +1,3 @@
+﻿texto 6
+
+Sí ya andamos en más detalles viéndolo como sistema tenemos tres elementos el sistema origen, tenemos el sistema destino, el sistema que transmite el mensaje, en el sistema origen tenemos la fuente, cómo destino tenemos lo que recibe y el destino como tal por ejemplo cuando ustedes cogen el teléfono el que escribe son ustedes pero quien transmite es el teléfono.

@@ -1,0 +1,3 @@
+﻿texto 70
+
+Primero mi modelo, mi diagrama de clases y lo que me represente una estructura estática yo no sé cómo van a cambiar las clases y me va a representar objetos y clases, ustedes ya saben que son objetos y clases e independientemente del tiempo es un modelado, es un modelo de datos y como vimos en las diapositivas anteriores los modelos de datos son independientes de tiempo, me van a presentar lo que va a pasar hoy o va pasar en un futuro o en todos los futuros posibles.

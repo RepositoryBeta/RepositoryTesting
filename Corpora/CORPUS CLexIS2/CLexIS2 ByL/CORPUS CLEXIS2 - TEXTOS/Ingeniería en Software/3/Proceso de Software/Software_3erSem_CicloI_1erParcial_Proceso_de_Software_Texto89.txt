@@ -1,0 +1,7 @@
+﻿texto 89
+
+Técnicas de estimación de software
+
+Estas técnicas de estimación son una forma de resolución de problemas en donde, en la mayoría de los casos, el problema a resolver es demasiado complejo para considerarlo como una sola parte. Por esta razón, descomponemos el problema, re caracterizándolo como un conjunto de pequeños problemas. Las estimaciones están asociadas con el esfuerzo, costo y el tiempo de las actividades identificadas del proyecto. 
+
+El objetivo de la estimación de proyectos es reducir los costos e incrementar los niveles de servicio y de calidad.

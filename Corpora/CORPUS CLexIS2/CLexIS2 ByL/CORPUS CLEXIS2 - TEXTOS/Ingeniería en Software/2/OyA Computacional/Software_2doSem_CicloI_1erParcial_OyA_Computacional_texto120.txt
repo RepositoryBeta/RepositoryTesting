@@ -1,0 +1,4 @@
+texto 120
+
+El computador debe ser capaz de transferir datos entre él mismo y el mundo exterior. El entorno de operación del computador se compone de dispositivos que sirven como fuente y origen de los datos. Cuando se llevan datos a un dispositivo que está conectado directamente al computador, el proceso se lo conoce como entrada y salida, y el dispositivo toma el nombre de periférico. El proceso de transferir datos a largas distancias, desde o hacia un dispositivo remoto, recibe el nombre de comunicación de datos.
+

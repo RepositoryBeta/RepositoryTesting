@@ -1,0 +1,3 @@
+﻿texto 45
+
+Entonces esto es parte del desarrollo, es tan importante esto que debería estar bien para que lo que usted construya a nivel de código esté de acuerdo con lo que está puesto acá porque si esto está mal y tu código está bien es que usted lo hizo al ojo, qué se puede hacer el ojo, si y pero y como me garantiza de que está bien o está mal vuelvo a usar el ejemplo del diseñador del Titanic que tenía los planos reales pudo hacer sus cálculos y salvar ciertas vida.

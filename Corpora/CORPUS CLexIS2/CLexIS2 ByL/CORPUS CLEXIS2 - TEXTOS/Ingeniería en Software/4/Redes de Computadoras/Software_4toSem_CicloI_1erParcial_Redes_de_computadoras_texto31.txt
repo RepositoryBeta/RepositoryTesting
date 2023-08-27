@@ -1,0 +1,3 @@
+texto 31
+
+Bueno aca nos hablaba de qué es la fuente, un poquito del transmisor del sistema de de transmisión por donde viajan los datos, el receptor y el destino, algunos conceptos básicos como para enumerarlos como para señalarlos cómo están afectadas las comunicaciones, factores externos como la ruta que sigue, el número de veces que ese mensaje tiene que cambiar de ruta, etc.

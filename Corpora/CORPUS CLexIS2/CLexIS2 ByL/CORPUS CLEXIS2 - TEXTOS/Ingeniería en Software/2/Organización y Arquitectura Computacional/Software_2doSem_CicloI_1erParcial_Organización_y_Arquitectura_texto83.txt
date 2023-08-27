@@ -1,0 +1,2 @@
+TEXTO 83
+Ciclos de captación y ejecución: Es el periodo de tiempo, pero no sólo depende de eso, también depende del hardware, esto depende a veces de un computador de limitadas capacidades, cuando queremos instalarle la última versión de las aplicaciones que estamos utilizando, de pronto aquel computador qué tiene tres o cuatro años de comprado, queremos meterle la última versión de sistema operativo que ha salido, pero ahí le estás dando una carga de trabajo, que seguramente puede procesar pero de forma muy lenta.

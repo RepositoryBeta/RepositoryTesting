@@ -1,0 +1,4 @@
+texto 35
+
+La ranura en donde se inserta la tarjeta, se la conoce como bus. Pero, obviamente no solamente podrías llamarlo bus, sino puerto. Hay unos que la conocen como puertos, otros como ranura misma, realmente el nombre genérico o estándar es bus. Por ejemplo, tienes un bus serial, tienes un bus paralelo, tienes un bus pci, tienes un bus pci express, tienes un bus ide, tienes un bus sata, tienes diferentes tipos de buses.
+

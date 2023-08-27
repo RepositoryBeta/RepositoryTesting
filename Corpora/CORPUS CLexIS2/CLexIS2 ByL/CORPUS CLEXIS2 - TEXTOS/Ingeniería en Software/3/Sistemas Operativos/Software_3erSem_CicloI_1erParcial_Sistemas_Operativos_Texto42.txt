@@ -1,0 +1,7 @@
+texto 42
+
+Planificación 
+
+La planificación es la base para lograr la multiprogramación. En un sistema multiprogramado, generalmente en un determinado instante existirán varios procesos que requieren el procesador al a vez (aquellos que están en estado pronto). 
+
+Entonces, cuando este esté disponible ¿Cómo elegimos cual de los procesos ejecutará a continuación? el componente del SO que realiza esta tarea es el planificador. 

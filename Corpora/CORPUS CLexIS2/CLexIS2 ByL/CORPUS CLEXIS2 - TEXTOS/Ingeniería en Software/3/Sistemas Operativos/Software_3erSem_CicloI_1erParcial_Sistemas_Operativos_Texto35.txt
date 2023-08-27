@@ -1,0 +1,9 @@
+texto 35
+
+Un hilo tendrá lo siguiente:
+
+Estado.
+
+Contexto del procesador. Punto en el que estamos ejecutando, la instrucción concretamente en la que nos hallamos.
+
+ Es útil a la hora de reanudar un hilo que fue interrumpido con anterioridad, puesto que al guardar el contexto, guardamos la ultima instrucción que ejecutamos, y así podemos conocer por donde tenemos que continuar la ejecución del hilo.

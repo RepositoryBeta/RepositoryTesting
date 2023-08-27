@@ -1,0 +1,3 @@
+﻿texto 79
+
+Un atributo en nuestros datos primitivos y no dentro de mi clase tiene como atributo, otro tipo abstracto quiere decir que estoy creando un tipo de vínculo entre esa clase uno depende del otro, uno contiene el otro y los métodos son pues las acciones de mi clase, reglas del modelado, sencillas, paquete visibilidad privado paquete producir público, símbolos para cada uno luego vienen dos puntos el nombre del atributo si es un atributo de multiplicidad como el caso de los vectores si es un atributo que tiene motivo de valor por defecto lo pone.

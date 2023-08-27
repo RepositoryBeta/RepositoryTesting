@@ -1,0 +1,7 @@
+texto 59
+
+El estándar POSIX define dos tipos de semáforos: 
+
+Semáforos sin nombre. Permiten sincronizar a los procesos ligeros que ejecutan dentro de un mismo proceso o a los procesos que lo heredan a través de la llamada fork. 
+
+Semáforos con nombre. En este caso, el semáforo lleva asociado un nombre que sigue la convención de nombrado que se emplea para archivos. Con este tipo de semáforos se pueden sincronizar procesos sin necesidad de que tengan que heredar el semáforo utilizando la llamada fork.

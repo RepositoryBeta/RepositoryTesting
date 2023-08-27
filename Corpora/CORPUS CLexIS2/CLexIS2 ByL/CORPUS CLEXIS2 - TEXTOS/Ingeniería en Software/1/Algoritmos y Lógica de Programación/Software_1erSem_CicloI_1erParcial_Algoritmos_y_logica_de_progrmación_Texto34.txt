@@ -1,0 +1,2 @@
+texto 34
+entonces ¿Cuál es la forma adecuada para resolver el problema en programación?  ya veníamos diciendo que lo primero no es sentarse a escribir las líneas de código, o a que las ideas vayan saliendo y la creatividad se va sumando, y esto es bonito, y ahora esto sale, y si le pongo esto, etc., no, ayer dijimos que lo primero que tenemos que hacer es poder hacer un análisis, luego plantear las ideas para poder llegar a esa solución, eso es lo que vimos ayer verdad.

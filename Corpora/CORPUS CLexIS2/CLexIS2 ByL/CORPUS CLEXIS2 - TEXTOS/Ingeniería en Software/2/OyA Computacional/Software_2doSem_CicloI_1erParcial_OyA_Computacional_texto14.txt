@@ -1,0 +1,4 @@
+texto 14
+
+Recapitulemos nuevamente, tenemos acá que los buses son aquellos elementos, que en el sistema, me permiten transferir datos entre los distintos componentes de la computadora y está formado por cable o pistas en un circuito impreso electrónico, tenemos dos tipos de buses normalmente son seriales o paralelos, por su ubicación física son internos o externos y por su función son de control que controla o administra el flujo de datos.
+

@@ -1,0 +1,3 @@
+texto 111
+
+Si el ejecuta el numero2 se va a ejecutar el de acá, si escribe el 3 ejecuta esto, si escribe 4 no tengo, y si escribe 5 vamos a salir, vamos a hacer le mas sencillito, si escribe 5 vamos a decirle: gracias por visitarnos,  de otro modo para que no se junte todo y no se haga un champú de cosas,  recordemos que dice presentar los números del 1 hasta el 5, así que puedo aplicar ciclos verdad, vamos a aplicar el ciclo, hoy aprendimos el ciclo Mientras, voy a aplicar el mientras.

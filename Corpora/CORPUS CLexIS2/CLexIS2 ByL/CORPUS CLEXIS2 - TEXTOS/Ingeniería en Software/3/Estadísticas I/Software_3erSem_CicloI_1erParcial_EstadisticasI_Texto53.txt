@@ -1,0 +1,5 @@
+﻿texto 53
+
+Moda en datos agrupados
+Si la variable es de tipo discreto la moda o modo será al valor de la variable (Yi) que tenga la mayor frecuencia absoluta. 
+En los datos de la tabla 1 el valor de la moda es 3 ya que este valor de variable corresponde a la mayor frecuencia absoluta = 16, mas adelante veremos un ejemplo integrado para promedio, mediana, varianza y desviación estándar en datos agrupados con intervalos.

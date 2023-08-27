@@ -1,0 +1,8 @@
+texto 97
+
+Como punto final si yo programo en asembler este pequeño código.
+mov ah, 01h
+int 21h
+El carácter leído (5) se guardan el registro AL.
+Como resultado final de este código lo que voy a tener es un carácter.
+

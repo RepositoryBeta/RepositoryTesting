@@ -1,0 +1,6 @@
+texto 74
+
+Entonces cuando nos da datos adicionales de cada uno de ellos y además nos indican datos generales que yo debo almacenar de cada uno de ellos, yo estoy ante una generalización que este caso sería la entidad persona y especialización que en este caso sería dirigente técnico y obrero.
+Entonces las entidades especializadas como ven y se unen por medio de esta flechita a la entidad generalizada, que es persona y eso quiere decir que cuando yo tengo una generalización y especialización los atributos de la entidad generalizada son heredados, pero esos atributos comunes son heredados por cada una de las entidades especializadas.
+
+

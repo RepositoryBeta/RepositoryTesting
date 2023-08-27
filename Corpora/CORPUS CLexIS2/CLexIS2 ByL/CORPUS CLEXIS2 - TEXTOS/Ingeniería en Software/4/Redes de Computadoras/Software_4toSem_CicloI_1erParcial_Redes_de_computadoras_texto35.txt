@@ -1,0 +1,3 @@
+texto 35
+
+Cuando decimos medio de transmisión me refiero a que es por dónde viajan los datos, puede ser un cable la fibra, un coaxial, puede ser incluso en el aire como medio inalámbrico, entonces ese el medio de transmisión por el cuál viajan los datos, las características o calidades medio también garantiza una buena comunicación.

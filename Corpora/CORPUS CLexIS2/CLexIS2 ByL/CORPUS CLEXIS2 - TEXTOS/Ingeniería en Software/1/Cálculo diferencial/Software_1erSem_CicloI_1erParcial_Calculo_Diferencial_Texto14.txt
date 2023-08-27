@@ -1,0 +1,5 @@
+﻿texto 14 
+
+Procedimiento para encontrar la solución de la ecuación diferencial por el método de variables separables.
+Escribir la ecuación en la notación de Leibniz, es decir usando dy, dx, por ejemplo: en vez de (y), escribiremos dy/dx. 
+Todos los términos que tengan (y), lo vamos a escribir de lado izquierdo de la ecuación y aquellos que tengan (x) los vamos a escribir al lado derecho de la ecuación, ejemplo el que está dividiendo en el lado izquierdo pasa al lado derecho multiplicando, si está sumando en el lado izquierdo pasa al lado derecho como resta, eso es transposición de términos.

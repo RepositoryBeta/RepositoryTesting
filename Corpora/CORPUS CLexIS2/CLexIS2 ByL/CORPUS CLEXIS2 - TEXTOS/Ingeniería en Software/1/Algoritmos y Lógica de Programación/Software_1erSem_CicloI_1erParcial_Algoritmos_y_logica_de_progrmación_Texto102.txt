@@ -1,0 +1,2 @@
+texto 102
+Seguimos con el tema de selecciones múltiples, yo ya lo realizo con instrucciones ahora cuando nosotros decíamos si es uno, hagamos algo, si  es 2 haga esto, ahora sí necesito la selección múltiple, pero quizas usted no recuerde cómo es la sintáxis, entonces podemos ir a la ayuda de PsInt ponemos estructuras de control, y sabemos que es de selección múltiple y él nos dice: ah mira según la variable, hacer, de otro modo cuando tienes errores que no están dentro de esos números y finsegún.

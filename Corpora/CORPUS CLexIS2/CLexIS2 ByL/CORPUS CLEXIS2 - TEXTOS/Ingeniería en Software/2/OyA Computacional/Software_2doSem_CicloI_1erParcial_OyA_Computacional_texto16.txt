@@ -1,0 +1,4 @@
+texto 16
+
+Acuérdense que antes de todo, son bits los que viajan, son informaciones electrónicas y una vez que estos datos, esa información electrónica es procesada, pues recién ahí pasa a ser datos. Como tenemos en el ejemplo, están los bus de memoria, bus ata, bus pci, bus agp y bus fsb. Ahora, los buses tienen una forma, Ata que es tecnología avanzada adjunta, también se lo conoce como un bus ide.
+

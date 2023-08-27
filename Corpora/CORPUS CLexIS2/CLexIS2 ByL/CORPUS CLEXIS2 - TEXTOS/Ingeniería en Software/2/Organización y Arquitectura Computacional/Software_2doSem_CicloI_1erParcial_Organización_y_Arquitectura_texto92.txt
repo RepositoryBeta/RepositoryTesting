@@ -1,0 +1,2 @@
+TEXTO 92
+Organización del procesador: El CPU, posee una función como la de lectura, de codificación, ejecución y escritura. Son las tareas que la CPU ejecuta en su funcionamiento, para lo que se basa en el lenguaje binario con ceros y unos. En una primera fase, procesador lee los datos para luego procesarlos, después de analizarlos y de acuerdo con las instrucciones recibidas, se decodifican, ejecutan y escriben acabando por devolver los resultados a la memoria del ordenador.

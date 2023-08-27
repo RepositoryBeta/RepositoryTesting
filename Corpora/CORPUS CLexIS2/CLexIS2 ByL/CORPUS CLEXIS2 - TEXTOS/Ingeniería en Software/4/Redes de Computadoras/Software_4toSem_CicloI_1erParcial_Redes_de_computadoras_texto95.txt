@@ -1,0 +1,11 @@
+﻿texto 95
+
+IP utiliza direcciones que son series de cuatro números octetos (byte) con un formato de punto decimal, por ejemplo: 69.5.163.59, el modelo TCP IP estructura problema de la comunicación en cuatro capas relativamente independientes entre sí:
+
+Capa de acceso a la red.
+
+Capa de internet.
+
+Capa de transporte extremo a extremo.
+
+Capa de aplicación.

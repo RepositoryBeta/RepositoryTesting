@@ -1,0 +1,5 @@
+texto 10
+
+Las direcciones son un número que selecciona una celda de memoria dentro de la memoria principal o en el espacio de direcciones de la unidad de entrada y salida. 
+¿Qué hace el bus de direcciones?
+El bus de direcciones es un canal del microprocesador totalmente independiente del bus de datos (porque el bus de datos es para almacenamiento lectura o escritura), donde se establece la dirección de memoria del dato en tránsito.

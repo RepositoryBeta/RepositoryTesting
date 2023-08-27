@@ -1,0 +1,4 @@
+texto 106
+
+Pero, debemos tener en cuenta que reducir el tamaño de un transistor puede hacer que éste no sea capaz de cambiar de estado de forma efectiva, y que al bloquear el paso de electricidad sufra fugas que afecten a su funcionamiento. Este es uno de los problemas más importantes cuando nos acercamos al límite teórico del silicio (10 nm e inferiores). Los hilos son subprocesos que aprovechan los tiempos de espera que se producen en cada núcleo cuando se trabaja con procesos determinados.
+

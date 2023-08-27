@@ -1,0 +1,3 @@
+﻿texto 71
+
+Para que sean de ese tipo cuando se habla de estándarizacion también se nos dice que debemos quitar ese signo de desigualdad y mantener un signo de igualdad es decir llevar esas restricciones o funciones de desigualdad inecuaciones a la forma de ecuaciones o igualdad, determinar cuál o cuáles eran las variables de decisión definir cuál era nuestra función objetivo y las restricciones es posible que así se ve y él es la mejor forma para que ustedes sean capaces de poder extraer esa funciones objetivos y esas inecuaciones.

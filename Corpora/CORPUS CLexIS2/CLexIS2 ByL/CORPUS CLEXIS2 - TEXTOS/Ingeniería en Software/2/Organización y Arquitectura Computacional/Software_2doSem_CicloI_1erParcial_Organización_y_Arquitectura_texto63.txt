@@ -1,0 +1,2 @@
+TEXTO 63
+Introducción a las memorias: La memoria MAR almacena direcciones de memoria, estás direcciones de memoria son medidas en sistema hexadecimal. Él guarda la dirección de memoria de la palabra que va a ser escrita, esa palabra es una instrucción o una orden que se le ha dado. Toda esa comunicación entre la MBR la MAR y la memoria principal, para decidir si la instrucción debe ir a la impresora, con este formato, con este modelo, mientras la unidad de control supervisa todas las acciones que se van a llevar a cabo mientras ellos se comunican.

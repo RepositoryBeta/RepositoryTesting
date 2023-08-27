@@ -1,0 +1,7 @@
+texto 97
+
+Ciclos y Caminos Especiales
+
+Camino de Euler. Se dice que un grafo G conexo tiene camino de Euleriano si su trayectoria incluye todas las aristas una y solo una vez.
+
+ Ciclo o circuito de Euler. Un grafo G conexo tiene al menos un ciclo Euler si se recorren todas las aristas del grafo G exactamente una vez, excepto la arista inicial y la final (que son las mismas). Es decir, un grafo G tiene un circuito de Euler, si puede pasar por todas las aristas sin repetir arista.

@@ -1,0 +1,5 @@
+texto 60
+
+La de bus es una sola línea miren que no están cerrados es como un bus que tiene un inicio y un fin a cuál se interconectan los dispositivos y en la estrella todos los dispositivos se conectan a un punto central.
+
+La de bus ya muy poco se usa ahora dice una estación transmite señales que viajan en ambas direcciones a lo largo de un solo segmento de transmisión que es el bus central que nunca se une el principio con el fin nunca se unen hay un bus central.

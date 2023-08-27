@@ -1,0 +1,2 @@
+TEXTO 31
+Unidad central de proceso: Esta unidad central de proceso está conformada por otras áreas, está conformada por la unidad de control y la unidad aritmética lógica, también hay otras áreas más pequeñas que son una memoria de acceso muy veloz, pero las dos áreas más importantes son la unidad de control y la de aritmética lógica, que se comunican con la memoria local que es aquí donde hay una memoria de alta velocidad para poder realizar en conjunto las operaciones.

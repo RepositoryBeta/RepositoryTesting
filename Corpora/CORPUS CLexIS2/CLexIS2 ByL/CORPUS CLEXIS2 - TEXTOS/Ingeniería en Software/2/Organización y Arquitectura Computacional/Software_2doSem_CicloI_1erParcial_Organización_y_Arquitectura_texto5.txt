@@ -1,0 +1,2 @@
+TEXTO 5 
+Estructuras de interconexión: El computador es una entidad que interactúa de alguna manera con su entorno externo. Todas sus conexiones con el entorno externo pueden ser clasificadas como dispositivos periféricos o líneas de comunicación. El computador es el que interactúa con todos los dispositivos que están interconectados en el a través de una placa la cual Nosotros llamamos como placa madre o  sale  mainboard. Ella es la gran base donde se interconectan todos los dispositivos que van a empezar a funcionar en este gran equipo.

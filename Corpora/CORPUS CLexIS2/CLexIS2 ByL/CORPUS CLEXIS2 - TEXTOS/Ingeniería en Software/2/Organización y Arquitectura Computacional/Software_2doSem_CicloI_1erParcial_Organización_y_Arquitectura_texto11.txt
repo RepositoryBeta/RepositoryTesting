@@ -1,0 +1,2 @@
+TEXTO 11 
+Interconexión con buses:  Qué son los buses el buzo canal es un sistema digital que transfiere datos entre los componentes de una computadora. Está formado por cables o pistas en un circuito impreso dispositivos como resistores y condensadores además de circuitos integrados. Existen dos tipos de buses el bus serial y el bus paralelo, la diferencia recae sobre la cantidad de bits el bus serie sólo es capaz de transferir datos de bit a bit,  el bus paralelo permite transferir varios bits simultáneamente por ejemplo transfiere 8 bits.

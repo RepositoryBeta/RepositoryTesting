@@ -1,0 +1,4 @@
+﻿texto 91
+
+Las relaciones de una clase, ustedes ya conocen las relaciones hay las mas básica es la herencia 
+¿Qué es la herencia? en realidad tiene varias perspectivas dependiendo, teniendo como usted lo miren no es una herencia como tal sino que es una jerarquía, es una generalización o es una herencia ya me imagino que la herencia es lo primero que a uno le enseña en programación orientada a objetos y es una relación bastante buena bastante usada.

@@ -1,0 +1,3 @@
+﻿texto 21
+
+Ejemplo el error esta en esta consulta y gracias a mi modelo y yo puedo cambiarlo es igual, voy a hacer este cambio en mi base de datos para que se mejore, en ese cambio y no necesitan meter un solo mega más de RAM con el mismo Hardware mejora brutalmente la situación, pero yo no podría predecir esto si no tengo los modelos hechos, insisto cuando si usted puede ser que cuando construya un sistema asi sea chiquito que no necesita hacer un modelo porque es lo más chiquito y bla bla bla.

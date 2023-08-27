@@ -1,0 +1,7 @@
+texto 61 
+
+Objetivos de cada etapa:
+
+En cada una de las etapas de un modelo de ciclo de vida, se pueden establecer una serie de objetivos, tareas y actividades que lo caracterizan.
+
+Expresión de necesidades: esta etapa tiene como objetivo el armado de un documento en el cual se reflejan a los requerimientos y funcionalidades que ofrecerá al usuario del sistema a implementar (qué, y no cómo, se van a implementar).

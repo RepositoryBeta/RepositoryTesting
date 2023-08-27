@@ -1,0 +1,15 @@
+texto 6
+
+Cuarta Generacion (1980 - 1990)
+ 
+LCI (Circuitos Integracion)
+
+Se habla de estaciones de trabajo
+
+Mucho mas amigables con los usuarios finales
+
+RISC
+
+Sistemas operativos en red y distribuicion
+
+Con la invencion de los circuitos integrados a gran escala (LSI) chips que contienen miles de transistores en un cm de silicio.

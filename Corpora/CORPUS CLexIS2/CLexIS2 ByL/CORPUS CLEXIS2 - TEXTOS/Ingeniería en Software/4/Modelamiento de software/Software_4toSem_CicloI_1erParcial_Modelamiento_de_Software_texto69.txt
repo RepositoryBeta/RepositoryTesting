@@ -1,0 +1,4 @@
+﻿texto 69
+
+Yo creo que prefiero millón veces restructurar mi código, reconstruir mi código porque cambié la relación una clase pero cuando me entero que me toca cambiarlas base de datos es horrible ahí es cuando la gente dice, no lo voy a solucionar simplemente voy a querer unos adaptadores
+¿Qué es un parche temporal? es el que al final termina explotandoles en la cabeza sí no la hacen bien y por eso es que es bueno modelar por lo menos para tener una ligera idea de qué es lo que se le viene en el futuro son las bases.

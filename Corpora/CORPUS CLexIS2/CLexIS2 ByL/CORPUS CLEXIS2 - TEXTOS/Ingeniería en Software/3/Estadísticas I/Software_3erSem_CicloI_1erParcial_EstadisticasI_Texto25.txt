@@ -1,0 +1,3 @@
+﻿texto 25
+
+Ahora el Data Science también tiene que ver en la última parte en la parte tecnológica también tiene que ver por ejemplo, si un Data Science es una persona solamente salido de una rama computacional el programa que se adapta recuerde que en ciencia de datos manejamos dos tipos de programas, que es R y Python son programas netamente científicos por eso es que ya el Data Science cuando viene de un área de programación, entonces los algoritmos tanto para R y para Data Science son los mismos.

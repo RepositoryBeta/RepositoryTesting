@@ -1,0 +1,5 @@
+texto 8
+
+Ese modelo entidad relación, al modelo interno llamado modelo relacional que va a ser entendido por la base de datos de manera física, de eso se trata la fracción de las bases de datos, me traen estas facilidades.
+Por eso yo le decía el Excel, no me trae estas facilidades de Microsoft Access.
+Posiblemente, no me trae esta facilidad de poder yo atraerlos, esto de extracción de los datos es una característica, es una función que debe cumplir todo sistema manejador de base de datos, mysql server y tiene poder atraerlos.

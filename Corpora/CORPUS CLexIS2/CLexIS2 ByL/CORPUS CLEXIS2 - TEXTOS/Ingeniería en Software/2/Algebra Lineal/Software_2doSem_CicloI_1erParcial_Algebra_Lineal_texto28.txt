@@ -1,0 +1,9 @@
+﻿texto 28
+
+Vectores de posición: poseen su punto de origen en el punto 0 de coordenadas
+
+Vectores paralelos: estos vectores se encuentran en rectas paralelas del plano.
+
+Vectores ortogonales: son los vectores perpendiculares. Su producto escalar es cero.
+
+Vectores ortonormales: son dos vectores unitarios (módulo = 1), cuyo productos escalar de estos vectores es 0. Es decir dos vectores unitarios y perpendiculares.

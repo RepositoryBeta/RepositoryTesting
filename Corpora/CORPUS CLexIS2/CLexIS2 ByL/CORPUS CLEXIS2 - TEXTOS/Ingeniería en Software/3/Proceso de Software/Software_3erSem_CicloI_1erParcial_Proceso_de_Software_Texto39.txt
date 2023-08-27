@@ -1,0 +1,7 @@
+﻿texto 39
+
+Tipos de software y su desarrollo
+
+Para realizar una tarea en una computadora, es necesario darle instrucciones a través del software. Software es el nombre asignado a las aplicaciones o programas que se ejecutan en la computadora.
+
+El contenido y el determinismo de la información son factores importantes a considerar para determinar la naturaleza de una aplicación de software.

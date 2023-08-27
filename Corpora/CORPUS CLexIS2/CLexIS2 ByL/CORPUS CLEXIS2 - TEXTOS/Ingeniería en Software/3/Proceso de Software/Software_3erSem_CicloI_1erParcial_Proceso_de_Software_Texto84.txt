@@ -1,0 +1,9 @@
+﻿texto 84
+
+Cliente 
+
+Se suele confundir los términos cliente, usuario y usuario final. 
+
+Un cliente es aquella persona responsable de llevar a cabo el buen desempeño del proyecto, por parte de la empresa que contrata el desarrollo, también llamada mandante. 
+
+Los usuarios corresponden a las personas que están operando día a día un sistema de software. Es la persona que conoce el problema, y utiliza la herramienta computacional para apoyar su trabajo. Un cliente y un usuario no siempre son lo mismo, ya que es posible que el cliente no opere el sistema de información. 

@@ -1,0 +1,2 @@
+TEXTO 89
+Procesamiento en cascada de las instrucciones: Es una actividad, tras otra, en la ejecución de esa orden, que ha llegado al procesador. Recuerden que todas las aplicaciones en primera instancia ocupan un área en la memoria virtual y luego son trasladadas hasta el procesador para que puedan allí ejecutar las órdenes, en las diferentes áreas que el procesador contiene tanto la unidad aritmética lógica como la unidad de control y los registros que son memorias de alto rendimiento.

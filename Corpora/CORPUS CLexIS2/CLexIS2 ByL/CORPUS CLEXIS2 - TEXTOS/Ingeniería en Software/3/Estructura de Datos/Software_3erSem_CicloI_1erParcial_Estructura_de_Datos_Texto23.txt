@@ -1,0 +1,5 @@
+﻿texto 23   
+
+búsqueda secuencial indexada:
+Los elementos en el índice y en el array deben estar ordenados. El método consta de dos pasos: Buscar en el array índice el intervalo correspondiente al elemento buscado y restringir la búsqueda a los elementos del intervalo que se localizó previamente.
+Un método popular para superar las desventajas de los archivos secuenciales es el del archivo secuencias indexado; pero implica un aumento en la cantidad de espacio requerida.

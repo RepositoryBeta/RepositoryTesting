@@ -1,0 +1,4 @@
+
+texto 64
+
+topología estrella: los dispositivos se une en un único punto central o concentrador, switch lo conocemos ahora  el cual se encarga de monitorear el tráfico de red y detectar colisiones, Entonces ahora usamos los switches que es el punto central, vienen de 8, 16, 24 puertos, etc.  Y todos los dispositivos se conectan en el switch central, el hecho de que tengamos un router que conecta inalámbrico sigue siendo estrella, porque la señal inalámbrica está conectado también al switch.

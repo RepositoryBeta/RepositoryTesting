@@ -1,0 +1,3 @@
+﻿texto 55
+
+ la inversa de la inversa es igual a la matriz original es decir la inversa de la matriz inversa es la matriz inicial y también tenemos acá que cuando si multiplicamos dos matrices la multiplicación la inversa de la multiplicación de dos matrices va a ser igual a la multiplicación pero invertida fíjese que aquí yo tengo a * b inversa va a ser igual a b inversa por a inversa y que también podemos decir que el determinante de la matriz inversa es como si dividieramos 1 sobre el determinante de la matriz original.

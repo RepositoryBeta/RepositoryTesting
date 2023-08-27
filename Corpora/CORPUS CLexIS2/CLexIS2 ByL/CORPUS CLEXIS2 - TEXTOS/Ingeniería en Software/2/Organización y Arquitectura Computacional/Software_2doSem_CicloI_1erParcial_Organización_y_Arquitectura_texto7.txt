@@ -1,0 +1,2 @@
+TEXTO 7
+La unidad de procesamiento:  Como también se lo conoce, CPU o frecuentemente se le llama simplemente procesador. Controla el funcionamiento del computador y lleva a cabo sus funciones de procesamiento de datos. Si el procesador es quitado de la tarjeta madre el computador se queda sin su cerebro electrónico y el computador no tiene la capacidad de procesar, el procesador es un componente electrónico donde se realizan los procesos lógicos.

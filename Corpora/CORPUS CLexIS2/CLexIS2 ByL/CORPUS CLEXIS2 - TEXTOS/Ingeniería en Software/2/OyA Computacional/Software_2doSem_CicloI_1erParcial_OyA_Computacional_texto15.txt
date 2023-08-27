@@ -1,0 +1,4 @@
+texto 15
+
+Tenemos el de direcciones para poder alocar o alojar esas direcciones físicas que se encuentran en la memoria RAM previo al procesamiento de instrucciones por el microprocesador y de datos para poder conocer o saber qué datos se transfieren a escritura ó a lectura. El bus de control administra, el bus de direcciones es un canal del microprocesador que trabaja con la ram, la ram tiene sus celdas de memoria que tienen sus propias direcciones y esto va a depender de 2 a la n, esa es la fórmula, y el bus de datos que permite el intercambio de los datos entre la cpu y el resto de unidades.
+

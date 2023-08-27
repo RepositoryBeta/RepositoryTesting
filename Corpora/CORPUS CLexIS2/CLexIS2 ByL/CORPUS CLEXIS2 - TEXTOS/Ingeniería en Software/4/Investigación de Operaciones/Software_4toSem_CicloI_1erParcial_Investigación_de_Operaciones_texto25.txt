@@ -1,0 +1,3 @@
+﻿texto 25
+
+Entonces también dentro de las organizaciones la investigación de operaciones se usa para optimizar recursos financieros, recursos humanos, planes de marketing, procesos de producción, distribución de producción, asignacion de recursos y de hecho la primera parte investigación operaciones que vamos a ver, nos vamos a ubicar en la fábrica pero eso vamos a ver en la siguiente clase como se fijan en una organización tenemos una materia prima, tenemos proveedores, tenemos fabricantes y mas.

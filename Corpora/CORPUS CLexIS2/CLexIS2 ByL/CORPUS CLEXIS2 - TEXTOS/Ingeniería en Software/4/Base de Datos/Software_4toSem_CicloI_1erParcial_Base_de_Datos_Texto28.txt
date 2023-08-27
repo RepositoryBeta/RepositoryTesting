@@ -1,0 +1,4 @@
+texto 28
+
+Pero así como hay estas fuentes de error, los dbms me proveen también de técnicas y una que es la técnica de validación de datos así como cuando ustedes programan.
+Por ejemplo en un lenguaje Java, php, ustedes ponen un campo y en ese campo dicen, en este campo y pongo nombre sólo, me va a poder ingresar el usuario, datos de tipo carácter, eso ya es una validación porque así ya no le dejan ingresar datos, de tipos de datos numéricos, te ingresen, corrijan este tipo de dato para este campo, va a ser sólo carácter ya es una validación.

@@ -1,0 +1,3 @@
+texto 98
+
+Por lo que la principal diferencia entre los sistemas operativos tradicionales y los sistemas operativos en la nube es el ámbito donde se ejecuta cada uno. Un ejemplo para exponer esta distinción lo encontramos en el uso de la aplicación de calculadora. En un SO tradicional como Windows, abriríamos la app correspondiente, introduciríamos una operación, nuestro ordenador realizaría el cálculo y mostraría el resultado en pantalla. En el caso de un sistema operativo en la nube, nos conectaríamos al mismo a través de una conexión a Internet, enviaríamos la petición de abrir la app de la calculadora y realizar una operación, el servidor remoto realizaría el cálculo y nos enviaría de vuelta el resultado.

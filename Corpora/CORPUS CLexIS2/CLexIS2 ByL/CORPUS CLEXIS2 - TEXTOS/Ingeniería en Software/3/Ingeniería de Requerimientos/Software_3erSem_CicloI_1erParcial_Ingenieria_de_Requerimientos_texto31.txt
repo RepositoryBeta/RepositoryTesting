@@ -1,0 +1,2 @@
+﻿TEXTO 31
+Requerimientos No Funcionales (De calidad, Pohl): Los requerimientos no funcionales no se refieren directamente a las funciones específicas que proporciona el sistema, sino a las propiedades emergentes de éste como la fiabilidad, el tiempo de respuesta y la capacidad de almacenamiento.  De forma alternativa, definen las restricciones del sistema como la capacidad de los dispositivos de entrada salida y las representaciones de datos que se utilizan en las interfaces del sistema.

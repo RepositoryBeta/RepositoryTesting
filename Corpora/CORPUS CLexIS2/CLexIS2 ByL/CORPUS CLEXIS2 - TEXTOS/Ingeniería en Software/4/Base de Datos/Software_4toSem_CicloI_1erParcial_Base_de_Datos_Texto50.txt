@@ -1,0 +1,4 @@
+texto 50
+
+¿Qué son los archivos que maneja oracle? 
+Esa es la arquitectura interna en ella, en estos momentos ustedes debieron haber complementado ahí un poco más, de pronto de la investigación que hicieron de la tarea ,que hicieron el foro pero en sí, ese es el funcionamiento, entonces miren la importancia del administrador de la base datos de conocer esto, yo les decía como conocer, ¿cuánto es dos más dos?, y esa sí es mi, primeramente así con experiencia, lo va haciendo esa forma porque el administrador de base de datos para tener la experiencia que si ocurre un problema de lentitud.

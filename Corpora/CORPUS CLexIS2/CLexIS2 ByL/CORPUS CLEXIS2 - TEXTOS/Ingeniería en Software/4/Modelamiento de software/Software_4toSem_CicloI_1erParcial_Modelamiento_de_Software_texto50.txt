@@ -1,0 +1,4 @@
+﻿texto 50
+
+Entonces por aquí estan en rojo algunas palabras que me gustan, por ejemplo la estructura estático hecho estado son sustantivos y objetos por ejemplo hechos, estados, en cambio las funcionalidades son los verbos que hacen con ellos cambien, pertenecen etcetera, un ejemplo de modelado de una biblioteca ya me estoy adelantando full pero es la única manera de ir aprendiendo, esto es la abstracción de una biblioteca los rectángulo,
+¿Qué significan entidades? no estoy hablando de clases todavía no hay atributos, es como una abstracción súper facil de aspectos de las clases de una entidad.

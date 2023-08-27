@@ -1,0 +1,6 @@
+﻿texto 17
+
+La cantidad de mensajes adicionales que se transmite simultáneamente en la red de comunicación.
+
+La cantidad de tiempo asignado para una comunicación exitosa.
+Entonces algunos factores externos, aquí están nombrados, la cantidad de veces que un mensaje tiene que cambiar de formato miren por ejemplo mi voz tiene que cambiar, el computador lo cambia de formato digitalizandolo para conectarse tiene que cambiarlo para qué desde la red inalámbrico hasta el router y el tiene que cambiarlo otra vez este formato para que viaja a través del internet.

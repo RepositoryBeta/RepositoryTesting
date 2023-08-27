@@ -1,0 +1,3 @@
+texto 59
+
+Habíamos dicho que la especialización y generalización van de la mano, tratarlo como un solo elemento especialización, generalización y dentro el concepto de especialización, generalización, ingresan los cubrimientos que tiene la generalización y especialización, el otro elemento eran las agregaciones, el cuarto elemento y el quinto elemento era la clase membresía, si todos estos elementos nosotros debemos ya empezar en los ejercicios que tengamos a identificar.

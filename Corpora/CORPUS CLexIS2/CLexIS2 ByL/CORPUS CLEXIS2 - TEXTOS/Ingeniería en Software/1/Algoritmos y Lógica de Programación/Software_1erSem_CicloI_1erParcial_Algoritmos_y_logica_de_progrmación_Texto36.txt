@@ -1,0 +1,3 @@
+texto 36
+
+Esto nos sirve para nosotros que recién vamos a empezar a programar, por lo tanto no podemos decir que vamos a ir analizando el problema y escribiendo nuestro código, analizando el problema y escribiendo nuestro código, no, a veces pensamos que con hacer las cosas directamente vamos a ganar más tiempo, pero en realidad no es así, muchas de las veces el tiempo que se lleva programando un problema directamente sin haber hecho un análisis previo, es el doble o triple que si hubiésemos hecho previamente un análisis, por lo general se cometen muchos errores, que a la larga podemos perder tiempo.

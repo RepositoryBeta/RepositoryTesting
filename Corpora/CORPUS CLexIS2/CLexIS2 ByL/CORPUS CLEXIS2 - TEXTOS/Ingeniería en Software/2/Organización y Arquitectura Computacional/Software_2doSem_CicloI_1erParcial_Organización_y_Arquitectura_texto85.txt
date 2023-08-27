@@ -1,0 +1,2 @@
+TEXTO 85
+Ciclos de captación y ejecución: La acción de leer una instrucción en la CPU y prepararla para su ejecución se denomina, ciclo de búsqueda. Para completar una instrucción la CPU decodifica el opcode, opcode es simplemente la instrucción, la orden que ya viene dada en lenguaje de máquina para poderla ejecutar, genera las señales de control que se necesitan para introducir los operandos requeridos y controla la ejecución de la instrucción.

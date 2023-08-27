@@ -1,0 +1,4 @@
+texto 21 
+Procedimiento para cambiar el orden de integración:
+determinar la región de integración R, de la integral inicial  qué quiere decir esto de región de integración, aquí en la region de integración están los límites, de 0 a 1, de (y) a raiz de (y) estos son los límites de integración y eso constituyen la región de integración con la letra R.
+Elaborar la tabla de valores de la función, osea en esta tabla de valores se le da valor a la (x)  y se obtiene el resultado de la (y).

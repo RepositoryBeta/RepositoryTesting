@@ -1,0 +1,4 @@
+texto 49
+
+El área memoria, donde suben todos los procesos de servidores, cada vez que un usuario intenta hacer un requerimiento hacia la base de datos, se creó un proceso usuario y su respectivo proceso servidor que lo va a atender, eso va a estar en una memoria de la base datos llamada memoria pga no sé si el día mañana viene otro usuario haciendo un requerimiento se crea un proceso usuario y un proceso servidor y ellos empiezan a interactuar con los componentes de memoria sga de oracle, procesos en background que ven aquí de Oracle y con los archivos de datos, archivos de control, archivos redó log, archivos de backup. 
+

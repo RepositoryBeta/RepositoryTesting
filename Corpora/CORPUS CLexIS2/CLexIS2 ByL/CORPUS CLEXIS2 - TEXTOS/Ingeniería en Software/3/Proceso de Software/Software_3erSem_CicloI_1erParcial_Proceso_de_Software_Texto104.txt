@@ -1,0 +1,13 @@
+﻿texto 104
+
+Ventajas
+
+Hay menos probabilidad de una estimación negativa. 
+
+Está basado en valores históricos. 
+
+Desventajas
+
+Requiere de expertos para que hagan la estimación
+
+No define un proceso a seguir cuando se está estimando.

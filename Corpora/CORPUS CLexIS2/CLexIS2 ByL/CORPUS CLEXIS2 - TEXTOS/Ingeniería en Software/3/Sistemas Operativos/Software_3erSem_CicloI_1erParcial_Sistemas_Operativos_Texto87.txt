@@ -1,0 +1,11 @@
+texto 87
+
+Implementación de Archivos
+
+Se emplean diversos métodos en los diferentes sistemas operativos. Algunos de ellos son:
+
+Asignación Continua: El esquema de asignación mas sencillo es almacenar cada archivo como un bloque contigua de datos en el disco. Este esquema tiene dos ventajas importantes:
+
+- La implementación es sencilla porque para saber donde estan los bloques de un archivo basta con recordar un número, la dirección en disco del primer bloque.
+
+- El rendimiento es excelente porque es posible leer todo el archivo del disco en una sola operacion.  

@@ -1,0 +1,7 @@
+﻿texto 24   
+
+Búsqueda binaria.
+Se llama también dicotonámica.
+Se utiliza cuando el vector en el que queremos determinar la existencia de un elemento está previamente ordenado. 
+Este algoritmo reduce el tiempo de búsqueda considerablemente, ya que disminuye exponencialmente el número de iteraciones necesarias.
+Está altamente recomendado para buscar en arrays de gran tamaño.

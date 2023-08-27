@@ -1,0 +1,7 @@
+﻿texto 76
+
+Ingeniero de validación y verificación 
+
+Validación se refiere al proceso de evaluación del software al final de su proceso de desarrollo para asegurarse que está libre de fallas y cumple con sus requisitos. Una falla se define como un comportamiento incorrecto del producto. 
+
+El objetivo principal del proceso de V & V es el de analizar y testear el software en forma completa durante el desarrollo para determinar que el software ejecute sus funcionalidad correctamente, asegurarse que no ejecute funciones no definidas, y proveer información sobre su calidad y confiabilidad.

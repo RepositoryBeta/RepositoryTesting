@@ -1,0 +1,5 @@
+texto 49
+
+Clasificación de las redes
+
+Las redes se clasifican por su cobertura, por su topología y por su relación funcional, no es que sean cosas distintas, simplemente son maneras de verlas y para clasificarlas cuando escuchen cobertura se refiere al alcance hay redes que tienen o que cubren más áreas que otra, la red más pequeña que conocemos en la lan, local area Network, red de área local  esa la red en teoría más pequeña en cuanto a cobertura.

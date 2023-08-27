@@ -1,0 +1,9 @@
+﻿texto 64
+
+Si otro cliente llega, no podrá hacer nada hasta que el primero haya liberado a mutex. 
+
+El cliente verifica entonces si el número de clientes que esperan es menor que el número de sillas. Si esto no ocurre, libera a mutex y sale sin su corte de pelo.  
+
+Si existe una silla disponible, el cliente incrementa la variable entera waiting, que es una replica de customer. 
+
+Después realiza un levantamiento en customer, con lo que despierta al barbero.

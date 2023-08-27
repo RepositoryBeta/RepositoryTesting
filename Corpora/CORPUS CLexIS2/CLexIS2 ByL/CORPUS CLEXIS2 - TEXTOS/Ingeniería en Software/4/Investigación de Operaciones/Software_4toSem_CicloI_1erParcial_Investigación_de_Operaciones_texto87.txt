@@ -1,0 +1,3 @@
+﻿texto 87
+
+Si mi matriz identidad estuviera de un lado y la matriz inversa estuviese del otro lado de esa manera nosotros no teníamos una matriz inversa básicamente es el mismo procedimiento se da aca el mismo procedimiento que vamos a trabajar con esto, entonces nosotros tenemos acá una matriz verdad con valores, la matriz que tenemos acá una matriz identidad, entonces en que va a consistir este metodo matemáticamente porque ya dijimos el método consiste en alcanzar valores óptimos de la función objetivo.

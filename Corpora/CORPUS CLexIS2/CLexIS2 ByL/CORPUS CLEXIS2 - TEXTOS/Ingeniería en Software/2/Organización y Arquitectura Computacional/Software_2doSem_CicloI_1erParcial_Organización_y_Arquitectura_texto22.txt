@@ -1,0 +1,2 @@
+TEXTO 22
+Cambio de base 16 a base 10:  Mi base 16 que puede ser un número que tenga combinaciones de dígitos entre 0 y hasta la letra f, para realizar la posterior conversión se debe cada dígito ir multiplicando por la base correspondiente que es el número 16. Así mismo, esa base 16 va a estar elevada acorde a  la numeración de todos los dígitos en base 16. Finalmente, se suman todos los productos y el resultado será el número equivalente en base 10.

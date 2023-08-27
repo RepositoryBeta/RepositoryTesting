@@ -1,0 +1,3 @@
+﻿texto 95
+
+Hay herencias totales, herencias parciales, por ejemplo una persona puede ser profesor o estudiante puede ser estudiante solamente puede ser el profesor el estudiante veamos el tema en código, ¿Cómo funciona la herencia? la herencia de una clase en una figura y mi clase rectángulo extiende de figura en código extend significa yo soy tipo de esta, yo soy una subclase de esta ó heredó de esta, cuando heredo automáticamente heredo todo lo que me deje.

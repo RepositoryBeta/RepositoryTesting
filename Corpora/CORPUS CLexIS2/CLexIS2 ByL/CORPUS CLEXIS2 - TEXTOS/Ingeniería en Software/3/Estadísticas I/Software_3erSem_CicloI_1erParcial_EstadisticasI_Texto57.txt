@@ -1,0 +1,3 @@
+﻿texto 57
+
+pero de toda la población que yo puse en este caso población objetivo porque estoy hablando de estudiantes de todos los estudiantes la población sería todo los estudiantes de la universidad de Guayaquil, ahora como variable yo le podría decir o sea ¿Cuál es la edad promedio las personas que estudian en la universidad de Guayaquil? y un estimador sería la edad promedio de las personas que estudian en la carrera de software de la facultad de ciencia matemática y física de la Universidad de Guayaquil.

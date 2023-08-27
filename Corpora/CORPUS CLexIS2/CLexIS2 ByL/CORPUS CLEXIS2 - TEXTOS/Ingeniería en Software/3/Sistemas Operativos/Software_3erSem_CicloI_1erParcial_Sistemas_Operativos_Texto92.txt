@@ -1,0 +1,11 @@
+texto 92
+
+Administración del Espacio en Disco
+
+Es de interés primordial para los diseñadores de sistemas de archivos. Hay dos posibles estrategias para almacenar un archivo de n bytes: asignar n bytes consecutivos de espacio en disco, o dividir el archivo en varios bloques (no necesariamente)
+
+contiguos.
+
+Tamaño de bloque  
+
+Una vez que se ha decidido almacenar archivos en bloques de tamaño fijo, surge la pregunta de qué tamaño deben tener los bloques. 

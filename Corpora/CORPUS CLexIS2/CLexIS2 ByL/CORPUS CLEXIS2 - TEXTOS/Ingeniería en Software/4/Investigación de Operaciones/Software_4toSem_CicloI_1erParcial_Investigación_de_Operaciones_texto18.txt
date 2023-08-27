@@ -1,0 +1,13 @@
+﻿texto 18
+
+Algunos campos de acción:
+
+- Control y prediccion del crecimiento economico.
+
+- Planeacion urbana.
+
+- Diseño y optimizacion de cadenas de abastecimiento.
+
+- Planeacion agregada de la produccion.
+
+- Tratamiento optimo de tumores cancerosos.

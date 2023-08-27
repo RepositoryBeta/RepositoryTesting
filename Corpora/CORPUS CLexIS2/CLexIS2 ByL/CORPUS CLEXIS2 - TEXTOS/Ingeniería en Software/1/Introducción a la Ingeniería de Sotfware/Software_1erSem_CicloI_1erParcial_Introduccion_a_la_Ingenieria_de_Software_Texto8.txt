@@ -1,0 +1,4 @@
+texto 8
+
+Entonces las métricas del software nos proporcionan una indicación de cómo se ajusta el software a los a los requisitos implícitos y explícitos del cliente.
+Corrección: es el grado en que el software desempeña la función para la que fue creada y se mide en defectos por KLDC (miles de lineas de codigo).

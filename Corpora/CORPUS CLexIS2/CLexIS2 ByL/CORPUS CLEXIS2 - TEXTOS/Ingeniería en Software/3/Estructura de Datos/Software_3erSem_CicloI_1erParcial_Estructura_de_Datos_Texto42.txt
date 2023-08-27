@@ -1,0 +1,7 @@
+texto 42
+
+ ARREGLOS UNIDIMENSIONALES
+
+ Un array de una dimensión (vector o lista), es un tipo de datos estructurado compuesto de un número de elementos finitos, tamaño fijo y elementos homogéneos. Finitos indica que hay un último elemento, tamaño fijo significa que el tamaño del array debe ser conocido en tiempo de compilación, homogéneo significa que todos los elementos son iguales, es decir, del mismo tipo.
+
+Los elementos del array se almacenan en posiciones contiguas de memoria, a cada una de las cuales se puede acceder directamente.

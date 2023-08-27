@@ -1,0 +1,4 @@
+Texto 92
+
+Ejemplo: Se requiere almacenar información del empleado, de los proyectos en los cuales trabajan los empleados, pero aparte, información de las máquinas disponibles, los empleados están asignados a uno o varios proyectos, no para los que realizan un trabajo en concreto, se dice, se requiere incluir el número de horas de utilización de cada máquina para cada trabajo en concreto. Entonces la relación entre empleado y proyecto que yo necesito trabajar o trabajo en concreto que yo necesito agrupar o agregar es porque necesito identificar cada trabajo en concreto de la agrupación de empleado con proyecto, yo no necesito relacionarlo con que en ese trabajo en concreto qué máquinas se utilizan y cuál es el número de horas de utilización.
+

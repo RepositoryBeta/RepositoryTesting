@@ -1,0 +1,7 @@
+texto 11 
+En una lista circular:
+No existe algún elemento que apunte a NULL.
+Se integra una estructura tipo anillo.
+Solo hay una cabeza.
+La cabeza siempre será el siguiente enlace para algún nodo.
+Se pueden llegar a crear recorridos en bucles infinitos.

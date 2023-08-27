@@ -1,0 +1,3 @@
+texto 80
+
+Este círculo me representa la opcionalidad, por eso que va relacionado o articulado o en relación con la cardinalidad mínima que es cero, siempre que tenga cero, entonces la participación de la entidad opcional, en cambio cuando la cardinalidad mínima es uno se da la participación de la entidad en las relaciones obligatorias y yo la represento trazando esa línea que ustedes ven ahí, de ese lado, ejemplo la participación de la entidad, empleado va obligatorio, va de la mano con la cardinalidad mínima que es uno, la participación de este proyecto dentro de esta relación es opcional y va de la mano con la cardinalidad mínima que es 0.

@@ -1,0 +1,9 @@
+﻿texto 94
+
+Tipos de proyectos COCOMO
+
+Los modelos COCOMO están definidos para tres modos de desarrollo:
+
+Proyectos Orgánicos: El equipo de desarrollo es pequeño y experimentado, en un ambiente familiar y con aplicaciones conocidas.
+
+Proyectos Semiconectados (Semilibres): El equipo de desarrollo está formado por personal experimentado y novato con algo de experiencia en la tecnología y la aplicación. Suelen tener interacciones con otros sistemas.

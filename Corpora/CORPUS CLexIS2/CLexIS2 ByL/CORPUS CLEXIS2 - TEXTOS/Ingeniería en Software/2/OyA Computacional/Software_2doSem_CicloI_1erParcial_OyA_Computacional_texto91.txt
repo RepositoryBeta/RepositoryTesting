@@ -1,0 +1,4 @@
+texto 91
+
+Se encarga de almacenar las instrucciones que hacer al inminentemente usadas por el procesador. La memoria caché de los procesadores actuales está integrada en el mismo DIE del procesador, cuando hablamos del DIE, hablamos de la pastilla del cpu. Es decir, la electrónica que uno ya tiene en sus manos, cuando ustedes tienen un cpu sacan la pastillita de la caja, ese elemento completo se llama DIE, que se dividen en un total de 3 niveles, l1, l2 y l3.
+

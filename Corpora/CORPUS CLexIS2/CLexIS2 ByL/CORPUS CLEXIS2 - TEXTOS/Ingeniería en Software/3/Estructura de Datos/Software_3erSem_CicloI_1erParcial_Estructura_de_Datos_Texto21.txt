@@ -1,0 +1,3 @@
+﻿texto 21   
+
+Un algoritmo de búsqueda es aquel que está diseñado para localizar un elemento con ciertas propiedades dentro de una estructura de datos. Una búsqueda normalmente devuelve True o False según el ítem esté o no presente, respectivamente. En ocasiones, el algoritmo se puede modificar para devolver la posición donde se encuentre el ítem. Para nuestros propósitos, simplemente nos ocuparemos de la pregunta sobre la membresía.

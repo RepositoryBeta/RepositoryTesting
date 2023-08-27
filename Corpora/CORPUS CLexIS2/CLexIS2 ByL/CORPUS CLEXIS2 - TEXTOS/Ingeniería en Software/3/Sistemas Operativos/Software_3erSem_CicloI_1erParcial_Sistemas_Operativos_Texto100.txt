@@ -1,0 +1,10 @@
+﻿texto 100
+
+Dependencia de la red: necesitaremos una conexión a Internet para poder acceder un sistema operativo en la nube. 
+En algunos casos, contaremos con un modo offline, limitado a funcionalidades básicas.
+
+Ubicuidad: podremos utilizar nuestro SO en la nube en cualquier ámbito, ya sea desde nuestro puesto de trabajo, en una reunión en las oficinas de un cliente, de viaje o en casa.
+
+Virtualización: el sistema operativo Cloud Computing se ejecuta en un entorno virtual. Esto implica que estaremos protegidos ante una posible caída de un servidor, ya que nuestro SO podrá ponerse en marcha de nuevo en otro contenedor virtual.
+
+Reducción de costes: se reduce la inversión en nuevo Hardware y la actualización de equipos actuales, ya que la potencia de ejecución se traslada al entorno virtual alojado en la nube.

@@ -1,0 +1,5 @@
+﻿texto 35
+
+Algunas empresas hoy día tal vez sí porque saben que tiene que estar revisando constantemente sobre todo porque los cambios son rápidos, hoy se trata un problema de una forma y ya mañana se incorpora una nueva variable al problema, y ya es otro problema y hay que resolver, entonces acá esa parte yo se lo voy a pasar rapidito.
+¿En qué consiste la definición del problema? 
+La construcción del modelo, la solución modelo, van a estar revisando en la presentación, la validación del modelo y la implementación entonces algunos modelos matemáticos.

@@ -1,0 +1,5 @@
+texto 87
+
+capa de sesión: nos permite la comunicación entre hosts, establece, administra y termina sesiones entre aplicaciones.
+
+capa de presentación: muestra la representación de los datos, permite garantizar que los datos sean legibles para el sistema receptor, nos da un formato de los datos, una estructura de los datos, negocia la sintaxis de transferencia de datos para la capa de aplicación.

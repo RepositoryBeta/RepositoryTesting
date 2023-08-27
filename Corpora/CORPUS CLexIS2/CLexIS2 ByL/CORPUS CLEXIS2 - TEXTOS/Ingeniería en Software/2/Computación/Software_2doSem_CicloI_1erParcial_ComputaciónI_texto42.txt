@@ -1,0 +1,7 @@
+﻿texto 42
+
+Memoria RAM
+
+Es el lugar adonde van a ejecutarse y a permanecer activos los diversos programas, desde el propio sistema operativo hasta las aplicaciones que utilicemos, dice que es una memoria de trabajo, es una memoria que me va a permitir justamente que mis programas se puedan ejecutar, se puede activar para poder realizar todo lo que tengo que hacer en máquina.
+
+También es llamada Random Access Memory por eso sus siglas RAM o memoria de acceso aleatorio.

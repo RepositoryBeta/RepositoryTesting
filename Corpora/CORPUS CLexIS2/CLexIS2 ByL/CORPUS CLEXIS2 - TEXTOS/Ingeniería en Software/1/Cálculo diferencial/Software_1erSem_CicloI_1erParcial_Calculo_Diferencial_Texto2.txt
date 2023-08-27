@@ -1,0 +1,3 @@
+﻿texto 2
+
+En cualquier ecuación a la izquierda, tiene lo que se llama el miembro de la izquierda y el miembro de la derecha entonces aquí esta los términos de la izquierda y los término de la derecha, en estas ecuaciones encontramos derivadas y función en este caso la variable Y se llama ecuación diferencial por eso en el concepto dice ecuación matemática que relaciona una función con sus derivadas, osea donde existen en una ecuación donde encontramos funciones y derivadas a eso se llama ecuación diferencial.

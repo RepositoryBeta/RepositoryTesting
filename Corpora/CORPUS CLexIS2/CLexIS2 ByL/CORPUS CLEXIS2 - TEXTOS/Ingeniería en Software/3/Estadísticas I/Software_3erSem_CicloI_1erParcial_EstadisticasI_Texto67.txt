@@ -1,0 +1,3 @@
+﻿texto 67
+Diagrama de Pareto
+también se lo conoce en economía como curva cerrada o distribución A - B - C organiza los datos en orden descendente de izquierda a derecha, representados por barras, asignando así un orden de prioridades. Además, el diagrama incorpora una línea curva que representa la frecuencia acumulada de las categorías de la variable. Esto permitía inicialmente explicar el principio de Pareto, que viene a decir que hay muchos problemas sin importancia frente a unos pocos que sí son importantes, con lo que resultaba muy útil para la toma de decisiones.

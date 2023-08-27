@@ -1,0 +1,11 @@
+﻿texto 22
+
+Evolucionan a través de un proceso iterativo
+
+Tienen un costo bajo de desarrollo
+
+MODELO DE DESARROLLO RAPIDO DE APLICACIONES (RAD)
+
+El modelo de desarrollo rápido de aplicaciones, modelo de la caja de tiempo surgió como Application Development o modelo de la caja de tiempo surgió como respuesta al modelo formal y al ciclo en espiral.
+
+Enfatiza un ciclo de desarrollo extremadamente corto.

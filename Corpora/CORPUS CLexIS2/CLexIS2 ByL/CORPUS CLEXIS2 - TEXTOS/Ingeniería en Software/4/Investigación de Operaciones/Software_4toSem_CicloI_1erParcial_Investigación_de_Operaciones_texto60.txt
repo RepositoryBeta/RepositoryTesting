@@ -1,0 +1,3 @@
+﻿texto 60
+
+Cuando se resuelve el problema, cuando lo voy resolviendo normalmente voy a hacer esto una zona fácil, entonces qué significa que a partir de esta zona que está aquí sombreada, que es un triángulo extraño, es algo asi como un polígono, entonces nosotros vemos acá que todo lo que está acá sombreado de gris, sólo lo que está en gris representan soluciones a mi problema cuando yo estoy desarrollando el problema representan soluciones al problema.

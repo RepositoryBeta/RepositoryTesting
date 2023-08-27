@@ -1,0 +1,3 @@
+﻿texto 92
+
+Vamos a observar los consulados y los de la fila Z quise decir es que entra la base la variable de la columna en la que este sea el menor valor les pregunto vamos precio de las Z de estos, de los 0 no nada que ver, cual de esto sera el menor valor, en este ejemplo -10, -15, -8, 11 vamos a tomar ese menor valor, vamos a elegir entonces hemos elegido de esta manera a la variable entrante fíjense que nos dice elección de la variable que entra.

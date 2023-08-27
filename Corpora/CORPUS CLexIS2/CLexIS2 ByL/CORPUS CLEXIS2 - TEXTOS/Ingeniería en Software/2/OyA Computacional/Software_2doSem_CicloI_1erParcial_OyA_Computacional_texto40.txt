@@ -1,0 +1,4 @@
+texto 40
+
+Hay distintos niveles dentro de la jerarquía del sistema, el bus que conecta los componentes principales del computador, el procesador, memoria, dispositivos o periféricos de entrada y salida se denomina bus del sistema, las estructuras de interconexión más comunes dentro de un computador están basadas en el uso de uno o más buses del sistema. Ahora, los buses tienen una estructura, vamos a colocar la estructura del bus y el esquema de interconexión.
+

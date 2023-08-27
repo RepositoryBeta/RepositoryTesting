@@ -1,0 +1,4 @@
+texto 67
+
+Esta tecnología de 22 nanómetros, trabaja con la arquitectura trigate de transistores 3D. Ahora, ¿Qué significan los 22 nanómetros?, bueno, 22 nanómetros, estamos hablando de que un nanómetro, es una longitud que es equivalente a una mil millonésima parte de un metro, o a la millonésima parte de un milímetro, la millonésima parte de un milímetro es bastante pequeño, estamos hablando que en las 22 millonésimas partes de un milímetro hay un transistor. Por eso, es que se cuentan 1.4 billones de transistores aquí.
+

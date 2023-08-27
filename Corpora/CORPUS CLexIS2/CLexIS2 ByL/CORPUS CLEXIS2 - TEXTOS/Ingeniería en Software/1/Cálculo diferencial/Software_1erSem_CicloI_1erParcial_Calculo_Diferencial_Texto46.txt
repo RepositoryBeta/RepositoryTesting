@@ -1,0 +1,3 @@
+texto 46
+
+Normalmente esos sistemas aparecen en modelos que involucran determinar más de una función de la misma variable independiente, la que normalmente suele ser el tiempo. Por ejemplo, determinar la posición de un móvil sujeto a un campo de velocidad conocido, o determinar la concentración de un químico en distintos tanques comunicados entre sí. En esta sección se asumirá como variable independiente a (t) y como funciones incógnita a x1,(t); x2 (t) (en general, xi (t); aunque, para facilitar la notación, se omitirá indicar la dependencia de (t), nombrando las funciones incógnita como (x1) y (x2).

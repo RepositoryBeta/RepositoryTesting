@@ -1,0 +1,2 @@
+TEXTO 12
+Estructura del bus: físicamente su descripción es un conjunto de hilos físicos utilizados para la transmisión de datos entre los componentes de un sistema informático (es la interconexión de todos los dispositivos). Un bus está compuesto por conductos o vías, que permiten la interconexión de los diferentes componentes principalmente con la cpu y la memoria. los buses son los encargados de llevar y traer la información.

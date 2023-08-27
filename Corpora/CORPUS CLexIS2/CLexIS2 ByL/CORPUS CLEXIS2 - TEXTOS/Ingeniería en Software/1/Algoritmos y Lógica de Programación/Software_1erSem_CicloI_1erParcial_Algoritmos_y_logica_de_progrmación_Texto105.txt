@@ -1,0 +1,3 @@
+texto 105
+
+Pero, que pasa si él se equivocó en los ingresos, ejemplo el ingresó el valor 8, o valores que no son de los que yo he planteado en el menú, entonces va a ir de otro modo y le voy a decir que aquí hay un error,  el más sencillito no, voy buscando los caminos más sencillos, lo que ahorita puedo ir resolviendo es que le ponga un mensaje y le diga error en el ingreso de datos, le puedo decir específicamente que coloque valores entre entre uno y cinco.

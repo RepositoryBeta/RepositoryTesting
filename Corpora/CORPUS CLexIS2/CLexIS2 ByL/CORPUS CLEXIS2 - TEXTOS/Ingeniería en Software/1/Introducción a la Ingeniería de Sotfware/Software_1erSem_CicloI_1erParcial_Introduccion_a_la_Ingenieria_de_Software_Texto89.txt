@@ -1,0 +1,5 @@
+texto 89
+
+ Cuando se utiliza principalmente para aplicaciones de sistema de información, el enfoque DRA comprende las siguientes fases:
+
+ Modelo de gestión: el flujo de información entre las funciones de gestión se modela de forma que responde las siguientes preguntas. ¿Qué información conduce el proceso de gestión?, ¿Qué información se genera? ¿A quién la genera? ¿A dónde va la información? ¿Quién la procesa?.

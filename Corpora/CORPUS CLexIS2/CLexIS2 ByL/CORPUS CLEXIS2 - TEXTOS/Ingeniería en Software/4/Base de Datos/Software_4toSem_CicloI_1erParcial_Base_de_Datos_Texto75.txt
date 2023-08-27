@@ -1,0 +1,10 @@
+texto 75
+
+Y ahí hay un ejemplo, recuerden que estos elementos como ustedes están haciendo ejercicios basados en enunciados, si el enunciado claramente específica y yo lo identifico lo debo graficar.
+
+Agregación
+Es un concepto de abstracción, para construir objetos compuestos a partir de sus objetos componentes.
+Permite combinar entidades entre las que existe una interrelación y formar una entidad de más alto nivel. Es útil cuando la entidad de más alto nivel se tiene que interrelacionar con otra entidad.
+
+
+

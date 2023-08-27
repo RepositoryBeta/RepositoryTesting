@@ -1,0 +1,6 @@
+texto 35
+ORDEN DE LA ECUACIÓN 
+Las ecuaciones diferenciales se describen por su orden, determinado por el término con derivadas de mayor orden. 
+Ecuación diferencial de primer orden: y' + y (z) = f (x).
+Ecuación diferencial de segundo orden: y'' + 4y = 0.
+Ecuación diferencial de tercer orden: xy''' - 2xy'' + 4y' = 0.

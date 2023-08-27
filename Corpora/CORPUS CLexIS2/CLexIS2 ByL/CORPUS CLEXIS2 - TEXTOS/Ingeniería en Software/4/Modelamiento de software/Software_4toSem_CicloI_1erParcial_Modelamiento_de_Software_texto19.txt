@@ -1,0 +1,3 @@
+﻿texto 19
+
+La idea del modelado esque usted ya vaya diseñando algo, cuando ustedes modelan algo La idea es que ustedes lo puedan revisar una, dos, tres veces ya que de ahí viene la siguiente materia que es el diseño y arquitectura que les va a ayudar, van a ver patrones de diseño, patrones de arquitectura, piensen en la industria de los autos donde siempre siempre sacan autos concepto, que no salen a la venta, los autos como medio futurista nunca salen a la venta porque son modelos, ponen a prueba y se dan cuenta de que chuta este auto que hicimos mata a los pasajeros asi que no, no este no va.

@@ -1,0 +1,5 @@
+﻿texto 47
+
+Los SO con planificadores no expropiadores (non preemptive) son los que asignan el recurso procesador a un proceso, y hasta que este no lo libere, ya sea porque finaliza su ejecución o se bloquea, no se vuelve a ejecutar el planificador. 
+
+Los SO con planificadores expropiadores (preemptive) son los pueden quitarle el procesador a un proceso cuando otro entra en el estado pronto (ya sea porque es nuevo o porque se desbloqueó) o porque se le impone un limitante de tiempo para ejecutar.

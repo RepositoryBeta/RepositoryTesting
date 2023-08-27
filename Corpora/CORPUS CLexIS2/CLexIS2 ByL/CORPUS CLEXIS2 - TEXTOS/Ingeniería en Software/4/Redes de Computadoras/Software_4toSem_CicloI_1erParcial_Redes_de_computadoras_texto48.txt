@@ -1,0 +1,2 @@
+texto 48
+en la transmisión simplex las señales se transmiten solo en una única dirección, siendo una estación la emisora y otra la receptora, una estación emite y la otra recibe nada mas, half-dúplex ambas estaciones pueden transmitir pero no simultáneamente, full-dúplex: ambas estaciones pueden Igualmente transmitir y recibir pero ahora simultáneamente, comunicación en ambos sentidos y si al mismo tiempo.

@@ -1,0 +1,2 @@
+TEXTO 67
+Introducción a las memorias: Hay un contador del programa que es el PC, es parte de la unidad de control. Él es el que contiene la dirección de la próxima pareja de instrucciones que van a ser captadas de la memoria. Entonces, ellos siguen comunicándose para poder dar paso a través de instrucciones, a través de todas estas áreas, que componen la unidad central de proceso, divididas en la unidad aritmética lógica, la unidad de control para poder ejecutar las acciones.

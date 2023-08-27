@@ -1,0 +1,9 @@
+texto 94
+
+El primero consiste en usar una lista enlazada de bloques de disco, en la que cada bloque contiene tantos números de bloques de disco libres como quepan en él.
+
+El mapa de bits. Un disco con n bloques requiere un mapa de bits con n bits. Los bloques libres se representan con unos en el mapa, y los bloques asignados con ceros (o viceversa).
+
+Confiabilidad del Sistema de Archivos
+
+Respaldos Es importante respaldar los archivos con frecuencia.

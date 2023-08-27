@@ -1,0 +1,3 @@
+﻿texto 100
+
+El polimorfismo es como por ejemplo, un objeto puede pasar por otro puede cambiar de forma polimorfo preparador puede ser un trabajador y también puede ser una persona hablamos de sobrecarga de escritura y yo puedo heredar cosas de mi padre y y puedo cambiarle el también un tipo de polimorfismo en realidad cambiarle su significado de acuerdo a lo que yo vaya a hacer todo esto ya lo saben porque en el momento que usted diseña o pone una línea de herencia sabe que se le va a desencadenar polimorfismo de sobreescritura, sobrecarga etcétera.

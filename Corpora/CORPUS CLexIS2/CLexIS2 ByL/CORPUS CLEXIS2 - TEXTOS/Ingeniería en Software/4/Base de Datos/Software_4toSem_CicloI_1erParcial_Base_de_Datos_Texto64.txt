@@ -1,0 +1,7 @@
+texto 64
+
+Pero las entidades débiles cuando ya la reconocemos, además interviene un nuevo concepto que es la clave o llave primaria. Entonces esta llave o esta clave primaria, llave primaria va a estar conformada por el número de carnet del trabajador, que es el identificador de la entidad fuerte, más el propio identificador de la entidad, esto deben tenerlo claro, muchas veces se lo interpreta, otras veces aquí mismo se le suele poner los dos atributos el número de carnet del trabajador y el número de carne del familiar.
+
+
+
+

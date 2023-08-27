@@ -1,0 +1,5 @@
+texto 15
+
+Como ejemplos de sistemas con estructura de micronúcleo podemos nombrar AIX, Amigaos, Minix, Symbian (aunque en algunos textos aparece como monolítico con carga dinámica de módulos) y Nextstep (aunque a veces lo encontramos entre los sistemas con núcleo híbrido).
+
+De cualquier modo, el que probablemente despierte más interés, a pesar de que aún no se ha presentado en el momento de escribir este documento, sea Harmonyos, el nuevo sistema operativo de Huawei diseñado para dispositivos móviles.

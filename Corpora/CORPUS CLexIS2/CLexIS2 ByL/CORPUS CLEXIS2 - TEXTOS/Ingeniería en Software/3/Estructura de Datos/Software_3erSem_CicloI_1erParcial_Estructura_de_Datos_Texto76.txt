@@ -1,0 +1,7 @@
+texto 76
+
+ Para crear un árbol binario de búsqueda a partir un listado de datos, asuma que el primer dato es la raíz del árbol; los demás se ubican en el árbol así: los menores como hijos izquierdos y los mayores como hijos derechos.
+
+Concepto de grafo
+
+Sea V el conjunto no vacío de vértices o nodos y E el conjunto de lados o aristas (pares de vértices); se dice que G es un grafo, si G = (V, E) es una estructura de datos compuesta por esos dos conjuntos V y E que forman un conjunto de pares ordenados o desordenados de vértices o nodos. Los pares de vértices van entre paréntesis y los pares desordenados, pondrán entre llaves.

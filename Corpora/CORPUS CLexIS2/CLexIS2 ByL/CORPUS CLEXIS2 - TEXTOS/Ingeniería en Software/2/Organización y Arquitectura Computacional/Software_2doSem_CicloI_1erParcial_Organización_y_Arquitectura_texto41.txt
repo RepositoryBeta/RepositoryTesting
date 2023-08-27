@@ -1,0 +1,2 @@
+TEXTO 41
+Unidad central de proceso: Almacenar esa información en dispositivos externos y puede ser nuevamente cargada a la unidad de control si es que yo quiero desde allí llevarla para que se procese algo y trabajarlo externamente sin tener que guardarlo en mi disco duro y enviar, yo puedo volver a cargarlo y procesarlo o también directamente desde el disco duro se lo puede cargar y procesar, y el regreso de esa información se puede dar mediante los buses que retornan hacia la memoria externa. Aquel proceso se lo puede repetir varias veces.

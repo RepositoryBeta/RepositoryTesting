@@ -1,0 +1,4 @@
+texto 118
+comportamiento frente obstáculos: importante para cubrir grandes distancias y para ubicar repetidores, esta capacidad disminuye al aumentar la frecuencia.
+costes de los equipos: en general, a frecuencias más altas, mayor es el corte de los equipos de emisión, recepción y tratamiento de la señal.
+capacidad de transmisión: el  ancho de banda es fundamental en comunicaciones, a frecuencias bajas al menos espectro disponible para compartir y además la tasa de transmisión son muy bajas.

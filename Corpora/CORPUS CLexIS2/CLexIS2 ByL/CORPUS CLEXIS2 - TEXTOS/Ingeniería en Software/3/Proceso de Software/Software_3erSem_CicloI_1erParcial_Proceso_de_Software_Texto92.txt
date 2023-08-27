@@ -1,0 +1,9 @@
+﻿texto 92
+
+Fases del modelo COCOMO
+
+Diseño del Producto (PD) Se define la arquitectura del hardware, software y las estructuras de datos y control. También se desarrolla un bosquejo del manual del usuario y los planes de aceptación y testeo.
+
+Diseño Detallado (DD)
+
+Codificación y Testeo de Unidades (CT) En estas dos fases el diseño global de la fase anterior es implementado, creando las componentes de software, que son testeadas y evaluadas individualmente.

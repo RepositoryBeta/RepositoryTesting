@@ -1,0 +1,4 @@
+texto 88
+Grafo disconexo. Un grafo G es disconexo, si dos o más de sus nodos no están conectados por caminos simples 
+Grafo regular. Es un grafo G conexo cuyos vértices tienen el mismo grado.
+Grafo completo. Un grafo G dirigido o no dirigido (simple) es completo si cada vértice es adyacente a los demás vértices del grafo. 

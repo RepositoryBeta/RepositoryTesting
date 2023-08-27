@@ -1,0 +1,6 @@
+﻿texto 6
+
+para qué sirve la estadística
+Es la ciencia que se ocupan en general de fenómenos observables, la ciencia se desarrolla observando hechos, formulando leyes que les explican y realizan experimentos para validarlos y rechazar dichos leídos.
+los modelos: que crea la sensación de tipo determinístico o aleatorio (estocásticos).
+Estadísticas se utilizan como  tecnología al servicio de las ciencias donde la variabilidad y la incertidumbre forman parte de su naturaleza.

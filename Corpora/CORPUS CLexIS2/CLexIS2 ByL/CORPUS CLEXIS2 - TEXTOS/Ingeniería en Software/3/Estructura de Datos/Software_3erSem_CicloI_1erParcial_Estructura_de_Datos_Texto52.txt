@@ -1,0 +1,11 @@
+texto 52
+
+Sin embargo, aunque un arreglo no puede ser una pila éste si puede ser un recipiente de ella, en donde tendrá las siguientes características:
+
+- Un extremo del arreglo será el fondo fijo de la pila.
+
+- Una parte superior estará cambiando constantemente.
+
+- Un campo adicional, el cual durante la ejecución en cualquier momento llevará registro de la parte superior de la pila.
+
+Se tomará en cuenta que la pila tendrá un límite en cuanto a tamaño; si por ejemplo la pila puede tener de 0 a 100 y el valor de stacktop igual a 100 la pila estará llena, en cambio si stacktop = 0 la pila estará vacía.

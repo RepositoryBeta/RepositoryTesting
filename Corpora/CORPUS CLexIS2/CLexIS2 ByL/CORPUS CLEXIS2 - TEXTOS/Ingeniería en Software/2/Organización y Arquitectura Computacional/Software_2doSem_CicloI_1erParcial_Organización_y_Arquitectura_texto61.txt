@@ -1,0 +1,2 @@
+TEXTO 61
+Introducción a las memorias: Según los fabricantes los primeros serán para un código, luego los otros se van para una dirección de área de memoria. Si necesitamos ahora almacenar dos instrucciones, que viajen a la vez y poder tener una mayor respuesta, entonces vamos a ir combinando de tal manera que mi formato lleve esas instrucciones en combinaciones, porque ese es el lenguaje que maneja el computador. Existen este tipo de memoria que es una memoria para poder intercambiar instrucciones y que proceden de la memoria y van a la memoria.

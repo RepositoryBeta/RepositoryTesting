@@ -1,0 +1,4 @@
+texto 43
+
+En donde un servidor podría tener hasta 256 gigabytes de memoria RAM, eso ya es una locura y lo utiliza Google, eso ya no cuesta $1000 sino que cuestan $300,000, eso es una arquitectura ya enriquecida. Y obviamente los dispositivos entrada y salida por ejemplo una capturadora de sonido podría ser un dispositivo de entrada, una tarjeta de vídeo podría ser un dispositivo de salida, una capturadora de vídeo todo lo que captura se convertiría en entrada.
+

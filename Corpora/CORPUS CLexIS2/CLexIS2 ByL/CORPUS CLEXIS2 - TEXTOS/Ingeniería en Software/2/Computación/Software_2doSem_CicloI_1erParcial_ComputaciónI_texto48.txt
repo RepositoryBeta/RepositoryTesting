@@ -1,0 +1,5 @@
+﻿texto 48
+
+En esencia los dispositivos de entrada salida son un componente esencial importante en el proceso como tal informático que queremos realizar.
+
+Y por último dentro este proceso informático sin ser menos importante obviamente está el software algunos quizás solo lo conocen a veces por los términos, tal vez habrá escuchado el software es lo intangible y el hardware es lo tangible.

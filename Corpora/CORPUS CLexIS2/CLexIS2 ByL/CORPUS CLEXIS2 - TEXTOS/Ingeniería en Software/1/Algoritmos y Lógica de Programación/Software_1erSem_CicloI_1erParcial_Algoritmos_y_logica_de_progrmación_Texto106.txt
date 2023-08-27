@@ -1,0 +1,3 @@
+texto 106
+
+Estamos definiendo lo más sencillo, ahora, ¿Qué pasa si el usuario ingresó el 3? dice: presentar el residuo de la división de dos números, pero para esto yo ya tengo que empezar todo mi código de programación, tengo que pedir que ingrese el primer número de ahí tengo que leer la primera variable en este caso num1, pero el ejercicio me dice dos números, entonces hago la misma copia y mi segunda variable será num2.

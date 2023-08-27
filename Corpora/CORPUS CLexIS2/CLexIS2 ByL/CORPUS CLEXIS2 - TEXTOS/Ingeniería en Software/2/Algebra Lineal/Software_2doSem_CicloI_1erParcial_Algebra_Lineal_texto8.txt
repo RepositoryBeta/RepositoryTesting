@@ -1,0 +1,12 @@
+﻿texto 8
+
+Como curiosidad, si una matriz es rectangular (distinto número de filas y de columnas), puede tener matrices inversas por uno u otro lado.
+
+Llamaremos operaciones elementales fila (sobre una matriz) a las siguientes operaciones:
+
+Multiplicar una fila por un número distinto de 0.
+
+Sumar (o restar) a una fila, el múltiplo de otra fila.
+
+Intercambiar el orden de las filas.
+

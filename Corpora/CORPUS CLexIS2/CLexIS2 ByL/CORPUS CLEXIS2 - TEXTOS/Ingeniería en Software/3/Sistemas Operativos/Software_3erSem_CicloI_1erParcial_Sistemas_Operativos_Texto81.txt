@@ -1,0 +1,5 @@
+texto 81
+
+El SO mantiene una tabla que indica qué partes de la memoria están disponibles y cuáles están ocupadas. Inicialmente, toda la memoria está disponible. Cuando llega una tarea que requiere memoria, se busca un bloque disponible suficientemente grande. 
+
+Si se encuentra, se asigna sólo la cantidad que se necesita, manteniendo el resto disponible para satisfacer futuras demandas. Cuando se gestiona la memoria existen distintas alternativas una de ellas es la de Sistemas Asociativas.

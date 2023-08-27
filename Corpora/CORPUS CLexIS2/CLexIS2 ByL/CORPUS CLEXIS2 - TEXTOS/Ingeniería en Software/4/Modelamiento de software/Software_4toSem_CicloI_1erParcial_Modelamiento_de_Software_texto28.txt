@@ -1,0 +1,3 @@
+﻿texto 28
+
+Tendrían que estudiar absolutamente cómo funciona todo el transbordador para empezar a trabajar en realidad quizá les dejo una capa super abstracta de objetos que se pueden usar, llamar, vincular, activar y con eso resuelve ese puntual problema para lo que fueron contratadas, la gente que trabaja en proyectos gigantes mega gigantes estoy hablando proyectos como una nave espacial, el desarrollo de un sistema operativo y hay muchas capas que implican iniciar.

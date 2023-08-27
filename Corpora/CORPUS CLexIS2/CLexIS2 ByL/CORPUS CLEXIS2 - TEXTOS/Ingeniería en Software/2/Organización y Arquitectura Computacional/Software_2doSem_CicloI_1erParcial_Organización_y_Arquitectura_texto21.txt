@@ -1,0 +1,2 @@
+TEXTO 21
+Cambio de base decimal a hexadecimal: La conversación es de la misma forma, nuestro número decimal tal cómo está, para llevar a la base 16, tomamos nuestro número y dividimos para 16 sucesivamente. ¿Hasta cuándo? Hasta cuándo ya no se pueda seguir dividiendo mas el cociente. Entonces ¿Cuál es mi número decimal? Será siempre el cociente final y todos los residuos que van desde el último hacia el primero.

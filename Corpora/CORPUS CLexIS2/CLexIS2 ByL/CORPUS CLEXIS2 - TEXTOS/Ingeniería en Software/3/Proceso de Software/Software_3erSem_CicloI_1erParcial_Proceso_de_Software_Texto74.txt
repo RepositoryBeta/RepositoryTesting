@@ -1,0 +1,7 @@
+﻿texto 74
+
+Actividades y metas Administrador de la configuración 
+
+Preparar el Plan de Administración de la Configuración de Software de acuerdo al estándar en uso. 
+
+Identificar las líneas base que serán usadas en el proyecto, y los items que serán parte de cada línea base. Este proceso se llama identificación de la configuración. En el sentido de la administración de la configuración, una línea base es un documento, o un conjunto de ellos, formalmente designados y fijados en el tiempo. 

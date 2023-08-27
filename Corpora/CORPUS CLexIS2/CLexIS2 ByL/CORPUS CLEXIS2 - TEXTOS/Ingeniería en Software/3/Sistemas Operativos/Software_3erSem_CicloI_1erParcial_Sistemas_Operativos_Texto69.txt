@@ -1,0 +1,9 @@
+texto 69
+
+Un   interbloqueo   se   da   cuando   se   cumplen  cuatro   condiciones indispensables de manera simultánea:
+
+1) Exclusión mutua: esto se cumple cuando un recurso es no compartido y solamente un recurso lo puede usar.
+
+2) Condición de espera: los procesos pueden ser retenidos por el uso de recursos o por el pedido de otros recursos adicionales que están siendo usados por otros procesos.
+
+3) Sin desalojo: los recursos no pueden ser desalojados o arrebatados a los   procesos   que   están   haciendo   uso   de   ellos,   solamente   serán liberados cuando el proceso haya finalizado su uso.

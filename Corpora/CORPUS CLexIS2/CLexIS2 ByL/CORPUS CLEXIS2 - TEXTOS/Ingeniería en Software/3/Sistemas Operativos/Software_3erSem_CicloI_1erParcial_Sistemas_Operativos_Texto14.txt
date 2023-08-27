@@ -1,0 +1,7 @@
+﻿texto 14
+
+De esta forma, es más difícil que un error de programación en uno de los módulos afecten al funcionamiento del resto (haciendo que el sistema sea más fiable). Además, los módulos se pueden programar, compilar y cargar por separado.
+
+En inglés, también recibe el nombre de microkernel o kernel.
+
+Sin embargo, pueden presentar dificultades en la sincronización de sus componentes, pueden ocasionar una mayor complejidad del código resultante y puede ofrecer un bajo rendimiento por las continuas llamadas entre módulos y los constantes cambios en el modo de ejecución.

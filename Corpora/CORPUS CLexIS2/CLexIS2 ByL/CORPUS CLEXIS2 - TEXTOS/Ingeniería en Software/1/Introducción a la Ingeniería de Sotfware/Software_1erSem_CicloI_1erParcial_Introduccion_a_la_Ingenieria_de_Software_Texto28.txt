@@ -1,0 +1,7 @@
+texto 28 
+
+Mantenimiento
+Comienza una vez construido el sistemas se centra en el cambio.
+El software es sometido a reparaciones y modificaciones cada vez que se detecta un fallo o se necesita cubrir una nueva necesidad del usuario.
+En esta fase recaer mayor porcentaje del costo de un sistema.
+Un buen sistema no es sólo un conjunto de programas que funcionan bien, sino más bien debe ser fácil de mantener.

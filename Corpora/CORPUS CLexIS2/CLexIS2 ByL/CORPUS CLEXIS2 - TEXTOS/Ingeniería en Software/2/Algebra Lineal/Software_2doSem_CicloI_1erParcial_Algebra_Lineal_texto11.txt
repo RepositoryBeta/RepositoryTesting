@@ -1,0 +1,7 @@
+﻿texto 11
+
+Metodo de Gauss Jordan
+
+El método consiste en aplicar operaciones elementales de fila, es decir, cualquier fila se puede multiplicar por cualquier número (distinto de cero) o se le puede sumar o restar cualquier otra fila multiplicada o no por cualquier número. 
+No se puede restar una fila a ella misma. 
+También puede intercambiarse el orden de las filas (por ejemplo, intercambiar las dos primera filas).

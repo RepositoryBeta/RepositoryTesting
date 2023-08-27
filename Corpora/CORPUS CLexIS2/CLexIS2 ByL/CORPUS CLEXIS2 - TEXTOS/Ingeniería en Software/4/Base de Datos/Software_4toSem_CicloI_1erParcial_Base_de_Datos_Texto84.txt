@@ -1,0 +1,7 @@
+Texto 84
+
+Tener esos seis elementos y ahora entidades, relaciones, atributos, cardinalidades mismo, tener esos seis elementos y ahora entidades, relaciones, atributos, cardinalidades y entidades del que ya son seis elementos básicos que deben tener cualquiera, y adicionalmente ustedes saben que hay otras 13 extensiones del enunciado, del ejercicio, del requerimiento, encontremos y está bien puede ser que no sea para un ejercicio necesario, por ejemplo las entidades o asociaciones recursivas o puede ser que no sea necesario la generalización, especialización o puede ser que no sea necesario la agregación de cualquiera de esas tres.
+
+
+
+

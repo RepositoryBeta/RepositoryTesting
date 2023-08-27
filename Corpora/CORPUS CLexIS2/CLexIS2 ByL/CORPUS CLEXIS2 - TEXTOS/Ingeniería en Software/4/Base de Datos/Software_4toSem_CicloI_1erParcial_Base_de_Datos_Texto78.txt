@@ -1,0 +1,3 @@
+texto 78
+
+Esto es lo que se denomina agregación, porque de esa manera el estadio, como esta yo lo puedo relacionar con cualquier otra entidad de mi diagrama, yo voy a poder relacionar las entidades arco de fútbol, porque es una entidad, la voy a poder juntar con cualquier otra entidad de cancha de fútbol, la voy a poder relacionar también con cualquier otra entidad, porque es una entidad y estadio que agrupa estas dos, yo lo voy a poder relacionar con otra entidad cuando el ejercicio me da clara noción de que eso es lo que se desea, yo lo que hago es agregar o hago una composición de las entidades, en este caso se necesitan agrupar esa es la agregación.

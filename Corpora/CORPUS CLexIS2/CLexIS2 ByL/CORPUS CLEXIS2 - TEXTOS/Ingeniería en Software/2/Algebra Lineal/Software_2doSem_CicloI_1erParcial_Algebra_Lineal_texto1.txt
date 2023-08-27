@@ -1,0 +1,9 @@
+﻿texto 1
+
+Determinante
+El determinante de una matriz es un escalar que solo se puede calcular si se trata de una matriz cuadrada, es decir, aquella en el que el numero de filas y de columnas coincide.
+
+Para denotarlo se precede el nombre de la matriz por (det) o se incluye dicho nombre entre dos barra verticales (| |), su estudio se justifica en cuanto que simplifica la resolución de sistemas lineales y el calculo de la matriz inversa, entre otras aplicaciones.
+
+
+

@@ -1,0 +1,4 @@
+﻿texto 10 
+
+¿Por qué utilizar una estructura Circular?.
+En una lista simplemente enlazada, el movimiento siempre fluirá desde la cabeza en dirección hacia el final de la lista, pero ¿qué ocurre cuando desde el último nodo se necesita operar con el primero?, este es el punto diferencial de una estructura abierta y una cerrada.

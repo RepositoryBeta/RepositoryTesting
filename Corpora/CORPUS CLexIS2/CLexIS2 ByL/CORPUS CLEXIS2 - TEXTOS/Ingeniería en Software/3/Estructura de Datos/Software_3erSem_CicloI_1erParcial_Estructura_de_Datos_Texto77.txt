@@ -1,0 +1,7 @@
+﻿texto 77
+
+Clasificación de los grafos
+
+Grafo dirigido
+
+Un gráfico dirigido G, también llamado dígrafo o digrafo, consta de un conjunto V de vértices y un conjunto E de aristas tales que cada arista e se asocia con un par ordenado de vértices. Si existe una única arista e asociada con el par ordenado (v, w) de vértices, escribimos e = (v, w) lo cual denota una arista de v a w. En conclusión, se puede afirmar que un grafo dirigido es aquel que tiene uniones unidireccionales que suelen dibujarse con una flecha.

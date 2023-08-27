@@ -1,0 +1,11 @@
+﻿texto 29
+
+Espacio vectorial
+
+Un espacio vectorial es una terna (V, +, *), donde V es un conjunto no vacío y +, * son dos operaciones del tipo +: V × V R, *: R × V, V a las que llamaremos ’suma de vectores’ y ’producto por escalares respectivamente 
+
+con las siguientes propiedades: denotando +(u, v) = u + v y * (v) = v,
+
+- u + (v + w) = (u + v) + w,u, v, w V (asociativa).
+
+- u + v = v + u,u, v V (conmutativa).

@@ -1,0 +1,4 @@
+texto 24
+
+Estas ranuras indican la denominada arquitectura de sistema, puertos ide, puertos sata y puertos pci express, puertos agp, puertos usb 2.0, puertos usb 3.0, puertos firewall, etc. Los buses de datos sirven para instalar las placas controladoras que realizan funciones específicas, como por ejemplo, la tarjeta de video, controladora de disco, placa de sonido, tarjetas de expansión, tarjetas de red, etc. Esos son los buses, buses internos.
+

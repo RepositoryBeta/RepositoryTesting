@@ -1,0 +1,4 @@
+texto 109
+
+A la frecuencia de trabajo debemos añadir otros elementos como la memoria caché, las latencias, el número de núcleos e hilos, la arquitectura, las instrucciones que integra y otros elementos que pueden afectar en mayor o menor medida a la potencia bruta del procesador. La memoria caché en un elemento fundamental en cualquier procesador. En la etapa más temprana de la informática de consumo ésta estaba integrada en la placa base, algo necesario por las limitaciones técnicas en la época y por razones de costes.
+

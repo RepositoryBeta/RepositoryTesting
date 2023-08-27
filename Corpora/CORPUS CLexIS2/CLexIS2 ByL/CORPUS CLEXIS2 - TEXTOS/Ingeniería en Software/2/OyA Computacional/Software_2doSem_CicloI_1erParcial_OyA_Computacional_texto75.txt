@@ -1,0 +1,5 @@
+texto 75
+
+¿Cuántas caché tiene el procesador?
+Tiene 3 niveles, para el ejemplo, aquí tenemos la primera, es la más rápida de todos, esta es un cañón, cuando ésta se llena va a la siguiente que es menos rápida, estamos hablando de la l2 caché y obviamente es más grandecita, es mucho más corpulenta, pero es más lenta que la l1, sin embargo ésta l2 que es la level 2, es más rápida que la l3 caché, que la caché de instrucciones, entonces la l1 es la más rápida, de ahí sigue la l2 y de ahí la l3.
+

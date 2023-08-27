@@ -1,0 +1,3 @@
+texto 3
+
+recordemos que Omega que era la era la letra griega representa mi espacio muestral y espacio muestral eran todos los posibles resultados del experimento, habíamos visto un par de ejemplos habías visto el de la moneda donde quedaban dos tipos dos posibles resultados, cara o sello o habíamos visto también el del dado de los posibles resultados que me daban es decir mi espacio muestral es decir Omega matemáticamente hablando era 1, 2, 3, 4, 5 y 6  porque son los posibles resultados que podían salir de a lanzar mi dado.

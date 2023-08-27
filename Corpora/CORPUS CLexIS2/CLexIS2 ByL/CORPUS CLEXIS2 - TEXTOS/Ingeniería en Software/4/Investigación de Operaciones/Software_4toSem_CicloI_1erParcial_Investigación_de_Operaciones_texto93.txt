@@ -1,0 +1,4 @@
+﻿texto 93
+
+La primera parte elegimos de Z  elegimos el menor valor el orden del valor absoluto sea mayor entre los negativos entonces ahora vamos a elegir la variable que sale va a salir de  h1 o h2 o h3.
+Entonces nos dice que a esa variable que sale de la base también se le llama fila pivote o variable saliente una vez obtenida la variable entrante se determina que sale de la base la variable que se encuentra en aquellas fila cuyo cociente B / para los coeficientes de X u n sea el menor de los estrictamente positivo.

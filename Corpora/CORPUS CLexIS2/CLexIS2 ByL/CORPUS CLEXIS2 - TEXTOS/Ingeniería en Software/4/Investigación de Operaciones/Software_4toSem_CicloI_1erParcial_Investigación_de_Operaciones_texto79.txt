@@ -1,0 +1,3 @@
+﻿texto 79
+
+Entonces a cada una de las inecuaciones a cada una de las restricciones vamos a sumarle una variable, pero va a ser una variable a la primera, una variable a la segunda y una variable la tercera y así una variable al cuarto restricciones y así por cada una de las restricciones, porque una variable diferente porque recordemos que acá tenemos después podemos tener una situación muy diferente a la de la otra reflexión entonces no podemos garantizar que sea la misma variable que tenemos que sumarle para colocarle a todos.

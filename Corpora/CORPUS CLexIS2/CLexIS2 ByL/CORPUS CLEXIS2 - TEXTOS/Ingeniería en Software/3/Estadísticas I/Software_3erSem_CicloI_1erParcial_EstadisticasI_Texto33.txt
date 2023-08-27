@@ -1,0 +1,3 @@
+﻿texto 33
+
+y la variabilidad es la distancia que hay entre los puntos es decir en este caso yo tengo solamente entre 5 a 6 platos diarios con respecto a la media, la variabilidad en este caso es bien grande porque si antes yo vendía 40 platos y ahora vendo 5 diario, de lo que yo vendo ahora a lo que yo vendía 40 diario, entonces hay una variabilidad demasiada grande, es demasiado amplia la variabilidad estoy perdiendo porque porque ya no estoy vendiendo los 40 platos que era mi media anteriormente ahora estoy vendiendo es decir cinco platos.

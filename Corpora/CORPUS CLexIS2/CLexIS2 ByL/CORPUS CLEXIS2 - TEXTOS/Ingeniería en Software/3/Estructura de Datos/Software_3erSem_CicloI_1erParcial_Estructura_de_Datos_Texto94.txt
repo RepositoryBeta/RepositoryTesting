@@ -1,0 +1,5 @@
+texto 94
+Ciclos
+Un ciclo (también llamado circuito) es un camino simple de longitud mínimo 1 que empieza y termina en el mismo vértice; es decir, es una trayectoria simple en la cual el primero y el último vértice son el mismo.
+Distancia entre dos vértices
+Sea G un grafo conexo. La distancia entre un par de vértices v y w es la longitud mínima de un camino entre esos vértices y se denota d (v, w). 

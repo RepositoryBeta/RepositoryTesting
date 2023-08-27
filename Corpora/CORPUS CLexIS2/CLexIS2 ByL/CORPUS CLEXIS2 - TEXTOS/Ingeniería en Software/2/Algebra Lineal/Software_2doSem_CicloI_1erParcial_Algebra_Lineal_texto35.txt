@@ -1,0 +1,11 @@
+﻿texto 35
+
+Dimensión 
+
+La dimensión de un espacio es el número máximo de vectores linealmente independientes que este contiene.
+
+Si el número de vectores es finito, la dimensión es un número natural y se dice que la base es finita. 
+
+De lo contrario se llama base infinita del espacio. 
+
+Todas las bases tienen la misma cantidad de elementos.

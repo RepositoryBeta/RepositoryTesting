@@ -1,0 +1,3 @@
+texto 80
+
+El menú de opciones es una forma muy interesante de trabajar en programación porque yo puedo realizar varias, varias tareas propuestas, este ciclo mientras ejecuta una secuencia de instrucciones mientras una condición sea verdadera, la sintaxis la tenemos aquí, esto es muy sencillito de comprenderlo lo tomé desde la herramienta PSEINT, porque ahí lo explica de una forma muy sencilla, la sintaxis tiene el mientras luego aquí tenemos la condición, tiene hacer y el fin del mientras. 

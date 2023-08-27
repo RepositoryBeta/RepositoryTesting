@@ -1,0 +1,5 @@
+texto 38
+
+Eso queda inconsistente, porque en un lado va a quedar actualizado y en otro lado no, en otra tabla va a quedar desactualizada, este manejo de transacciones me asegura que la base de datos en dbms reconozca todos estos comandos como una sola transacción y en el caso que en la mitad de ellos ocurra un error o una falla, entonces reversa todo, porque lo maneja como transacción, estos manejan normalmente los dbms no cuando se denomina transacciones atómicas.
+
+

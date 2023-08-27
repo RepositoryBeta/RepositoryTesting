@@ -1,0 +1,9 @@
+﻿texto 98
+
+Composición de aplicación
+
+Indicado para proyectos construidos con herramientas modernas de construcción de interfaces gráficos para usuario.
+
+Diseño Temprano
+
+Se utiliza en las primeras etapas del desarrollo en las cuales se evalúan las alternativas de hardware y software de un proyecto. En estas etapas se tiene poca información, lo que concuerda con el uso de Puntos Función, para estimar tamaño y el uso de un número reducido de factores de costo.

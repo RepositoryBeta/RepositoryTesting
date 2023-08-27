@@ -1,0 +1,5 @@
+texto 80
+
+Incluso dentro de una misma línea de productos de un fabricante dado, los diferentes modelos pueden comunicarse de forma diferente.
+
+Los estándares son necesarios para promover la interoperatividad  entre las entre los distintos equipos de fabricantes, así como para facilitar economía de gran escala. 

@@ -1,0 +1,7 @@
+﻿texto 104
+
+Control de líneas viudas y huérfanas
+
+Para mantener una prensa atractiva y contenido legible, es posible que tenga que mantener la primera o la última línea de un párrafo de aparecer sólo en la página.
+
+Word proporciona opciones para mantener las líneas de texto juntas y evitar líneas individuales de texto en la parte superior o inferior de una página.

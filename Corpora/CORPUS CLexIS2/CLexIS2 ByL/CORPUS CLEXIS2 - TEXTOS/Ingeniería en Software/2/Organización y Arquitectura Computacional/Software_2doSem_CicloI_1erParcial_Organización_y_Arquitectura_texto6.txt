@@ -1,0 +1,2 @@
+TEXTO 6
+Los dispositivos periféricos: Son todos aquellos que podemos conectar al computador y que nos van a dar la salida para que nosotros podamos ver los datos, pero ya en un formato de salida. Podemos ver los datos de pronto, a través de una impresora, como la pantalla, también otra salida de datos lo tenemos a través de los parlantes, los datos solamente no son textos, sino que tienen muchas formas de ser representada como voz, video, audio y texto.

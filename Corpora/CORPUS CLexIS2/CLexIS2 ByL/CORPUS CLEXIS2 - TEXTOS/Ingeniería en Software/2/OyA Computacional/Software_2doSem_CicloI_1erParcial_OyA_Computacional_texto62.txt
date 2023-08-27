@@ -1,0 +1,4 @@
+texto 62
+
+El coprocesador matemático auxilia a la alu, la unidad aritmética lógica, es su soporte. Registros de memoria entonces, unidad de control, la alu y la unidad de coma flotante, por ejemplo un procesador de cuarta generación Intel, tenemos un mapa de dragado, y lo que podemos ver aquí en el agente del sistema, el motor de pantalla y los controladores de memoria, aquí encontramos el display, puertos pci y dmi. Tenemos controladores de memoria de entrada y salida, memoria compartida de caché l3, observamos los 4 core y por último vemos un procesador gráfico.
+

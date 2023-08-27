@@ -1,0 +1,2 @@
+texto 66
+Entonces para eso es el identificador, me representa ese dato, si yo veo edad yo pienso rápido que se trata de la edad de una persona, y yo sé que este dato obedece a un tipo, es un dato tipo entero, ahí ya tenemos esas características y dice que el valor será un elemento determinado, tenemos los tipos de datos y ámbito de las variables, tipos de datos lo que ya hemos venido aprendiendo.

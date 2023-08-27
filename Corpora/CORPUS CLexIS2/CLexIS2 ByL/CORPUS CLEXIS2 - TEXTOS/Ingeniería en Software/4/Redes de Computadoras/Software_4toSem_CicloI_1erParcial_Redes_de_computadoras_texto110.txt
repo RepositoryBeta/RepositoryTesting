@@ -1,0 +1,5 @@
+ texto 110
+
+  estas ondas correctamente tratada y moduladas pueden ser utilizadas para transmisión de información, denominada telecomunicaciones.
+
+ modulación es variar de forma controlada la amplitud, fase y/o frecuencia de la onda original, las ondas electromagnéticas podrán transmitir información en diferentes frecuencias, ya sea por medios guiados y no guiados.

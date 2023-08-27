@@ -1,0 +1,3 @@
+﻿texto 51
+
+Interesa ahora dar otro enfoque, esto es obtener información (cualitativa) sobre el comportamiento de las soluciones. Se usarán ejemplos para caracterizarlo. La solución buscada será interpretada como líneas de flujo de campos de velocidad. Los ejemplos, aún teniendo enunciados similares, arrojarán soluciones muy distintas entre sí. Luego, los resultados obtenidos serán motivo de análisis en la subsección 4.2.

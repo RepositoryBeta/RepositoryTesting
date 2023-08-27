@@ -1,0 +1,9 @@
+texto 76
+
+- El sistema fuente de información debe activar un camino directo de datos o bien debe proporcionar a la red identificación del sistema de destino deseado.
+
+- El sistema fuente debe asegurarse de que el destino está preparado para recibir datos.
+
+- La aplicación de transferencia de archivos en el origen debe asegurarse de que el programa gestor en el destino está preparado para aceptar y almacenar el archivo para el usuario determinado.
+
+ Es evidente que debe haber un alto grado de cooperación entre computadores involucrados.

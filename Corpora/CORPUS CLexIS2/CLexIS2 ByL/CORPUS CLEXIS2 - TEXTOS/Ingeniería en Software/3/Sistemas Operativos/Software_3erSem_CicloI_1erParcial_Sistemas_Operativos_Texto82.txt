@@ -1,0 +1,5 @@
+texto 82
+
+Paginación Permite que la memoria de un programa no sea contigua, de forma que siempre que se disponga de espacio, aunque éste no sea adyacente, se pueda asignar a un programa. MarcosDePagina La memoria se divide conceptualmente en un número de bloques de tamaños fijos Paginas Los procesos que se van a ejecutar se dividen en bloques de tamaño fijo, del mismo tamaño que los marcos de página.
+
+Segmentación La segmentación es una técnica de gestión de memoria que pretende acercarse más al punto de vista del usuario. Los programas se desarrollan, generalmente, en torno a un núcleo central (principal).

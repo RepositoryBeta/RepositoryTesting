@@ -1,0 +1,11 @@
+texto 63
+
+Cuando una lista contiene un nodo de encabezamiento y está vacía se representa así:
+
+   List --> [/////|] --//
+
+También un campo info de un nodo de encabezamiento puede contener un puntero este puede apuntar a cualquier otro nodo.
+
+    List --> [ |] --> [ % |] --> [ * |] --> [ # |] --//
+
+Así se puede utilizar una lista como cola pues se maneja un puntero externo que apunta al primer nodo y en el campo info del nodo de encabezamiento tienen la dirección del último nodo evitando así los punteros rear y front.

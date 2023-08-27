@@ -1,0 +1,11 @@
+﻿texto  74
+
+Se deben pedir antes de necesitarlos 
+Predicción. 
+Asegura que no ocurre basándose en conocimiento de necesidades futuras de los procesos. 
+
+Dificultad de conocer futuro 
+
+Coste de algoritmo, Infrautilización de recursos, Ignorar el problema: Utilizada por la mayoría de los sistemas operativos. 
+
+Dada la baja probabilidad de que ocurra y el coste que conlleva evitarlo (infrautilización yo coste de algoritmos).

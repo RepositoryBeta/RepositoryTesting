@@ -1,0 +1,5 @@
+texto 36
+GRADO DE LA ECUACIÓN: Es la potencia de la derivada de mayor orden que aparece en la ecuación de no ser así se considera que no tiene grado
+(y')^2 + y''' + sen (x) =0.
+Orden: 3.
+Grado: 1.

@@ -1,0 +1,3 @@
+texto 60 
+
+Puesta en producción: nuestro proyecto entrena tu estadía en la definición, allí donde se lo presentamos al cliente o usuario final, sabiendo que funciona correctamente y responder los requerimientos solicitados en su momento. Esta etapa es muy importante no sólo por representa la aceptación o no del proyecto por parte del cliente o usuario final sino por las múltiples dificultades que suele presentar en la práctica, alargándose excesivamente y provocando costos no previsto.

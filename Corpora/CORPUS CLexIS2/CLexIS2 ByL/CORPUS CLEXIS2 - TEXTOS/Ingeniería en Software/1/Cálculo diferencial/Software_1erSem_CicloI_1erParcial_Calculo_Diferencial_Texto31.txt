@@ -1,0 +1,5 @@
+texto 31
+Definición y Terminología. 
+Incluye expresiones o términos que involucran a una función matemática incógnita y sus derivadas.
+Y' = 2xy + 1 La notación (') prima se usa para denotar el numero de la derivada usada hasta tres prima (''') de ahí en delante se utiliza notación numérica. 
+Es la derivada de Y con respecto a X. Y' = dy/dx.

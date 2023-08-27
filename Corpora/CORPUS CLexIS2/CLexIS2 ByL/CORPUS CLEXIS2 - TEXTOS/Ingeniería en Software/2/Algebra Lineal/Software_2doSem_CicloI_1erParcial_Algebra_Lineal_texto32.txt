@@ -1,0 +1,11 @@
+﻿texto 32
+
+Sea F una parte no vacía del K espacio vectorial V, F es un subespacio vectorial de V, con las operaciones + y * inducidas por V, si y solo si se verifican las dos condiciones siguientes:
+
+1) Para cualesquiera a, b su suma a + b  F(x) . 
+
+Es decir, la operación interna en V es una operación cerrada en F.
+
+2) Para cualesquiera K, a Fr el producto a Fr . 
+
+Es decir, la operación externa en V es una operación cerrada en F.

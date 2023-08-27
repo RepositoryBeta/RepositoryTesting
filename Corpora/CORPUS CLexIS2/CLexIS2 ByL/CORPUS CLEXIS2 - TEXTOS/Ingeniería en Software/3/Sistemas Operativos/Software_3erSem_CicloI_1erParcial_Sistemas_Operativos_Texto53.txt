@@ -1,0 +1,15 @@
+﻿texto 53
+
+Multilevel Feedback Queue: Este algoritmo se diferencia con el anterior en que los procesos si pueden cambiar de nivel, dependiendo del uso del CPU que tengan. 
+
+La cola de más alta prioridad corresponderá a los Input Output bound, la mas baja a los CPU bound. Un algoritmo así se define por: 
+
+Cantidad de colas. 
+
+Algoritmo de cada cola. 
+
+Criterio para subir de nivel un proceso. 
+
+Criterio para bajar de nivel un proceso. 
+
+Criterio para asignar un proceso nuevo a una de las colas.

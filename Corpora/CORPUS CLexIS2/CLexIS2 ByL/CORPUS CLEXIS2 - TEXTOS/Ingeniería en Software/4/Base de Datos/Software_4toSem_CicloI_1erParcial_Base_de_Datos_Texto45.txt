@@ -1,0 +1,5 @@
+texto 45
+
+Pero entonces, hace la consulta, se levantó un proceso de usuario hay el proceso de servidor, que lo está atendiendo y ¿dónde va a buscar primero? va a buscar a la memoria y va a encontrar ahí las transacciones que hizo el cliente Pérez yo les preguntó. 
+¿Va a encontrar ahí?, efectivamente si las va a encontrar ahí, porque ya antes alguien hizo la consulta, los archivos físicos y subió esa información, ¿en dónde?, en la memoria y la subió aquí donde dice el caché, aquí en el caché de datos y ya no va a tener que hacer un acceso a disco sino que sólo en la memoria ya tiene la información. 
+

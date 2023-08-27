@@ -1,0 +1,11 @@
+texto 3
+
+Así se define varios niveles abstracción.
+¿Cuáles son esos niveles de abstracción que me trae un motor de base de datos? 
+Son los niveles que ustedes ya vieron de la arquitectura ANSI-SPARC.
+1) Nivel externo.
+2) Nivel conceptual. 
+2) Nivel interno.
+¿Qué es la extracción? 
+La extracción es poder yo descifrar o leer un documento, un requisito en lenguaje natural en el lenguaje de nosotros.
+

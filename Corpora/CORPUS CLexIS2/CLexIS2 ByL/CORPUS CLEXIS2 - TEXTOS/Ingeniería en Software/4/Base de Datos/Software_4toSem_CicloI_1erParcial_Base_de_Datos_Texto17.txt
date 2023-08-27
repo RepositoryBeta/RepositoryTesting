@@ -1,0 +1,6 @@
+texto 17
+
+Por ejemplo yo digo, aquí Juan Pérez y abajo imagínense está Juan Pérez con S con la letra S ya es un dato diferente y ahí ya hay una inconsistencia de datos en la base de datos de DBMS me va a traer técnicas, primero para tratar: 
+1) Minimizar la redundancia los datos duplicados.
+2) En caso de que no pueda eliminar toda la redundancia de datos duplicados.
+Me va a traer el dbms técnicas que me van a asegurar que los datos sean consistentes sean igual.

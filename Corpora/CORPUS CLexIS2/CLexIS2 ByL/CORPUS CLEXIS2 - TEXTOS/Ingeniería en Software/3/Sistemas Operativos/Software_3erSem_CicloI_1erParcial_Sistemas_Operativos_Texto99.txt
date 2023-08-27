@@ -1,0 +1,7 @@
+texto 99
+
+Características de los sistemas operativos en la nube
+
+Los sistemas operativos basados en la nube cuentan con unas características definitorias únicas, originadas en su mayoría por su vinculación al Cloud Computing. Algunas de las más importantes son:
+
+Independencia del dispositivo: el acceso a un sistema operativo de Cloud Computing es posible desde cualquier ordenador con conexión a Internet. En la mayoría de casos, sólo bastará un navegador web para empezar a trabajar a distancia con este tipo de software. Esta características también nos permite realizar complicadas acciones desde un ordenador básico, ya que será el servidor que aloje el SO en la nube quien ejecute los procesos y operaciones.

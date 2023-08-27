@@ -1,0 +1,3 @@
+﻿texto 7
+
+Luego definir bien cuáles son los requerimientos y finalmente digo, Bueno, aquí es necesario un aplicativo móvil, aquí en necesario un aplicativo web, aquí mi aplicativo de escritorio es suficiente, es mas económico, es más sencillo, mucho más económico que en un dispositivo móvil, en fin, pero después de analizar y entender bien el problema, las computadoras no entienden el español, ni el inglés, ni el japonés ni ningún otro de esos lenguajes humanos tan complicados.

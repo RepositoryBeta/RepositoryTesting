@@ -1,0 +1,3 @@
+texto 7
+
+por ejemplo x puede ser 1, 2, 3, 4, etc, recuerden el objetivo es poder determinar la probabilidad como siempre nos hemos dicho ahora cuando vimos probabilidades nosotros estabamos definiendo los primeros pasos los primeros pininos entonces. Nosotros determinabamos la probabilidad de un evento cualquiera, y aquello estaba definido, estaba clasificado a través de una fórmula que se le llamaba la fórmula clásica de probabilidad.

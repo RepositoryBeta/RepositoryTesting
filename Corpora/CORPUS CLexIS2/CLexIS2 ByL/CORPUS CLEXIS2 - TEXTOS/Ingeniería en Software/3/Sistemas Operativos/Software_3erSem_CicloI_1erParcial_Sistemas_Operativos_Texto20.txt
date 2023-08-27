@@ -1,0 +1,5 @@
+﻿texto 20
+
+En el siguiente nivel de privilegios se ubica a los procesos del sistema para la gestión de procesos y memoria; en otro nivel a los procesos de gestión de entrada salida incluyendo los drivers y en el nivel de menos privilegio, se ejecutan el resto de los procesos de aplicación. Esto por supuesto, no siempre es así y pueden existir muchísimas variantes en la implementación. 
+
+Una práctica común es ubicar los procesos y componentes de entrada salida en los dos primeros niveles, para acelerar su ejecución. Lo relevante en esta arquitectura es que se necesitan realizar restricciones en cuanto a las llamadas al sistema que puedan ejecutar los procesos de determinados niveles. 

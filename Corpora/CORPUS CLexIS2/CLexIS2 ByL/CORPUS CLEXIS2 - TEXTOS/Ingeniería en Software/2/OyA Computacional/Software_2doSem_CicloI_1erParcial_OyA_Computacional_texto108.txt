@@ -1,0 +1,4 @@
+texto 108
+
+Los Mhz quedaron cortos y hoy trabajamos a Ghz. Es decir, 1000 ciclos por segundo. Esto quiere decir que un procesador a 3,800 Mhz (3,8 Ghz) es capaz de realizar tres mil ochocientos millones de operaciones por segundo, ya sean sumar, restar. multiplicar o dividir. Siempre ha existido el mito de que a más Mhz más potente es un procesador y si, es una unidad de medida que nos sirve para determinar el potencial de una cpu, pero no es el único.
+

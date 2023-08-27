@@ -1,0 +1,3 @@
+﻿texto 46
+
+Entonces queda claro la importancia de modelado y que es un modelado, bueno esto es simbolización, aprender a tirar líneas pero qué esas líneas tengan sentido porque si yo no le doy sentido correcto una línea me puede cambiar todo el significado, bueno entonces qué vamos a modelar, la materia se llama modelamiento de software voy a empezar por modelamiento de datos es lo primero y ya después vamos a modelas cosas más grandes.

@@ -1,0 +1,4 @@
+texto 13
+
+Como por ejemplo, de que en cada bus, van dos líneas y entonces multiplica la posibilidad de conmutar direcciones. Bueno, y el bus de datos permite el intercambio de datos entre la cpu y el resto de las unidades. El bus de datos, almacenamiento. Veamos, tenemos en la imagen el bus de memoria, bus ata, bus pci para tarjetas, bus agp para vídeos y bus fsb para el procesador, como vemos tenemos diferentes tipos de buses.
+

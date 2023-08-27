@@ -1,0 +1,7 @@
+texto 56
+
+El flujo de datos en la comunicación empleando tuberías es unidireccional y FIFO, esto quiere decir que los datos se extraen de la tubería (mediante la operación de lectura) en el mismo orden en el que se insertaron (mediante la operación de escritura).
+
+Semáforos 
+
+Un semáforo es un mecanismo de sincronización que se utiliza generalmente en sistemas con memoria compartida, bien sea un monoprocesador o un multiprocesador. Su uso en un multicomputador depende del sistema operativo en particular.

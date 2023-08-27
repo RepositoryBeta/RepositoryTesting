@@ -1,0 +1,3 @@
+texto 25
+
+se necesita una confirmación de que el mensaje se recibió y pudo ser comprendido correctamente ¿Cómo sabe el transmisor, una red o lo que sea, que llegó bien el mensaje? o sea un computador lanza datos y nada más ¿Cómo hace una computadora, el internet, un servidor o lo que sea, que el mensaje que envió llego bien? porque se necesita una confirmación de qué el mensaje llegó bien y se comprendió y sucede cuando hablamos también, esperamos un asentimiento, una respuesta de la otra persona.

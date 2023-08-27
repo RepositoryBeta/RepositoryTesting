@@ -1,0 +1,3 @@
+﻿texto 19
+
+Una de las cosas que necesitamos analizar debemos conocer perfectamente esto, la lógica del negocio, cómo se están estableciendo los cálculos, cuáles son las prioridades, cuántos empleados tiene, cuánto se les está pagando por hora, si el valor hora es el mismo para todos, cuántos están trabajando horas extras, ¿Cúal es esa lógica del negocio para yo poder plantear una solución? después de que hayamos analizado el problema tenemos que diseñar un algoritmo.

@@ -1,0 +1,3 @@
+texto 73
+
+Algunos compiladores y algunas calculadoras como por ejemplo, la Hewlet Packard evalúan las expresiones en POSORDEN usando la notación posfija (o notación polaca inversa) donde el operador aparece después de sus operandos; por ejemplo, AB indican que A debe dividirse por B. Observe que la notación posfija tiene ventajas sobre la notación infija debido a que la notación posfija no necesita paréntesis ni tiene que predeterminar un orden de prioridad para sus operadores (lógicos o aritméticos); es por tal razón que una expresión se evaluará sin ambigüedad.

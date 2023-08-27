@@ -1,0 +1,8 @@
+﻿texto 5 
+Aplicaciones informáticas de la lista simple:
+una lista de estudiantes,
+una agenda de contactos,
+una lista de productos para manejar el inventario de la empresa.
+una lista de cronograma de actividades diarias.
+una lista para emitir turnos de atención.
+un sistema de espera en el aeropuerto.

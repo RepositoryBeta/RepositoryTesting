@@ -1,0 +1,19 @@
+﻿texto 2
+
+Propiedades
+
+- El determinante no varia si se traspone la matriz. Es decir det A = det A^t. (esta propiedad permite enunciar las demás solo para filas o columnas).
+
+- Si se permutan entre si dos filas (o columnas) el determinante cambia de signo.
+
+- Si multiplicamos (o dividimos) una fila o columna por un numero el determinante queda multiplicado por dicho numero (esta propiedad sirve para poder sacar el factor común en un determinante).
+
+- Si todos los elementos de una fila (o columna) son nulo, el determinante también lo es.
+
+
+
+
+
+
+
+

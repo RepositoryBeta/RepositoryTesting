@@ -1,0 +1,5 @@
+﻿texto 67
+
+Entonces el proceso concluye cuando no es posible continuar mejorando dicho valor es decir irse alcanzado la solución óptima (el mayor o menor posible,según el caso para el que se satisfacen todas las restricciones) Entonces ya vemos que el método simplex es un método iterativo que nos permite obtener una solución óptima.
+
+Entonces una propiedad general del método simple es que resuelve la programación lineal en iteraciones.

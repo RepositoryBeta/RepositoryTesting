@@ -1,0 +1,5 @@
+texto 83
+
+La idea de permitir la ejecución de procesos que puedan no estar cargados completamente en memoria, e incluso que sus tamaños supere a la memoria física disponible, da lugar al concepto de memoria virtual. Memoria Virtual La memoria virtual es una técnica de gestión de la memoria que permite que el sistema operativo disponga, tanto para el software de usuario como para sí mismo, de mayor cantidad de memoria que esté disponible físicamente. 
+
+La memoria virtual es una técnica para dar la ilusión de tener mas memoria que la memoria principal.

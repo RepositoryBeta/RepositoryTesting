@@ -1,0 +1,8 @@
+﻿texto 62
+
+Diagrama de sectores
+Hay tres formas de calcular el área de cada sector. La más sencilla es multiplicar la frecuencia relativa de cada categoría por 360°, obteniendo los grados de ese sector.
+La segunda es utilizar la frecuencia absoluta de la categoría, según la siguiente regla de tres:
+Frecuencia absoluta / Frecuencia total de datos = Grados del sector / 360°.
+Por último, la tercera forma consiste en utilizar las proporciones o porcentajes de las categorías:
+% de la categoría / 100% = Grados del sector / 360°.

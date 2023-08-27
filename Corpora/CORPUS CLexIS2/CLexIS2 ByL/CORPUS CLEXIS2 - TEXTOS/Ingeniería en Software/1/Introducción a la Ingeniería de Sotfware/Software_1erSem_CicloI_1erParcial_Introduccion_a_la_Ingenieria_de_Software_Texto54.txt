@@ -1,0 +1,5 @@
+texto 54 
+
+Estas fases pueden ser
+Temporales: forman una secuencia en el tiempo.
+Lógicas: cuando representan pasos o etapas que no constituyen una secuencia temporal.

@@ -1,0 +1,10 @@
+﻿texto 16
+
+¿Qué factores pueden afectar nomás la comunicación? 
+Algunos factores tanto los factores internos como externos, los factores externos tenemos:
+
+La calidad de la ruta entre emisor y receptor.
+
+La cantidad de veces que mensaje tiene que cambiar de destino.
+
+La cantidad de veces que el mensaje tiene que ser redireccionado o redirigido.

@@ -1,0 +1,7 @@
+texto 68
+
+Representación de árboles binarios
+
+Los árboles binarios pueden representarse en un vector o en una lista ligada. Nuestro interés se centrará en los vectores.
+
+ Para representar a un árbol binario en un vector se escriben por niveles los nodos del árbol de manera ordenada, de izquierda a derecha (hijo izquierdo — hijo derecho).

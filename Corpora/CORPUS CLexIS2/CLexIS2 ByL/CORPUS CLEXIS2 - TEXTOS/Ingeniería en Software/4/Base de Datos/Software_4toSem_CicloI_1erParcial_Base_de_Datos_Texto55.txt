@@ -1,0 +1,3 @@
+texto 55
+
+Le quería preguntar por ejemplo, estos procesos son procesos de control de transacciones, para los archivos redo log, proceso que van de acuerdo a los archivos de proceso para control de transacciones, procesos para archivos de datos, procesos para los redo logs y  procesos de monitoreo y acá son los procesos de archivos, de los archivos de logs estos procesos trabajan, vuelvo y repito con los archivos o la parte física de la base de datos que ustedes ven acá en la parte inferior.

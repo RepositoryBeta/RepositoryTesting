@@ -1,0 +1,3 @@
+﻿texto 76
+
+Lo voy a representar con esos datos primitivos y agrupando esos tipos primitivos sumando con un tipo de dato abstracto creamos un concepto mucho más grande por ejemplo, un tipo dato primitivo son enteros, String no es un tipo primitivo pero lo voy a meter por ahora en este en esta sacó de tipo dato primitivo, porque no es un tipo de dato primitivo, es una clase y yo puedo decir que una persona tiene número de cédula entero, nombre String, apellido String.

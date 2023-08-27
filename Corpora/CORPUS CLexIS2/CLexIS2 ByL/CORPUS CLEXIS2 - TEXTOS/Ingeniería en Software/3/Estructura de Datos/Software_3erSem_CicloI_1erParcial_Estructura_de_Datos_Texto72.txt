@@ -1,0 +1,7 @@
+texto 72
+
+Tipos de árboles binarios
+
+Árboles de expresión
+
+Son árboles binarios que se utilizan para almacenar en la memoria de una computadora expresiones lógicas, aritméticas o algebraicas. Este proceso lo realizan los compiladores de los lenguajes de programación. Los PC y las calculadoras comunes utilizan el recorrido INORDEN usando la notación infija para evaluar las expresiones, al igual que los seres humanos. El recorrido PREORDEN utiliza la notación infija o polaca.

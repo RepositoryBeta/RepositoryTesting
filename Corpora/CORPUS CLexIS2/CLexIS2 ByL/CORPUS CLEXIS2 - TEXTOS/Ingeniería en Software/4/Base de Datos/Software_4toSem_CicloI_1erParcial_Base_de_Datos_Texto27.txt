@@ -1,0 +1,4 @@
+texto 27
+
+No hay base de datos perfectas, ustedes piensan que el día de mañana se van a encontrar con una base datos con cero errores, eso no existe, la base datos normalmente tiene un porcentaje de error, un porcentaje de inconsistencias, porque la base de datos recuerden, los datos son ingresados a través de aplicaciones y las aplicaciones proveen campos y los usuarios o personas normales como nosotros, son los que ingresamos los datos y puede ser que por algún error humano, algún error humano se ingresa un dato incorrecto y eso ya genera una inconsistencia en la base de datos.
+

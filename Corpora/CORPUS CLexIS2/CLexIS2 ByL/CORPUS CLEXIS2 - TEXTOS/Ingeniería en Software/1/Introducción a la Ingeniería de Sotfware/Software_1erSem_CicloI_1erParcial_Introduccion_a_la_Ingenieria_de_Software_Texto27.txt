@@ -1,0 +1,8 @@
+texto 27 
+Desarrollo
+¿Cómo construir un sistema?
+Se diseñan las estructura de los datos y los programas.
+¿Cómo se caracterizan las interfaces?
+¿Cómo realizar el paso del diseño a lenguaje de programación?
+¿Cómo hacer realizarse la prueba?
+Se escriben y documentan los  programas y se prueba el software construido.

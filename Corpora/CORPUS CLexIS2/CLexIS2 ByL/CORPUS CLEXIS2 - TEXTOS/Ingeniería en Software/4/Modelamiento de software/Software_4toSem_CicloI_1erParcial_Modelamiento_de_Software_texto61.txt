@@ -1,0 +1,3 @@
+﻿texto 61
+
+Pero mi carnet membresía debería venir con fecha de inicio de membresía, fecha de caducidad no tiene que venir con fecha de préstamo, fecha de devolución, estado de devolución nos cuenta que este concepto abstracto está incompleto nos sirve para identificar la relación nos sirve para representar el concepto si no sirve inclusive hasta para hablar con mi cliente en el caso que estén levantando requerimiento pero esto le sirve para modelar el sistema, no, todavia no.

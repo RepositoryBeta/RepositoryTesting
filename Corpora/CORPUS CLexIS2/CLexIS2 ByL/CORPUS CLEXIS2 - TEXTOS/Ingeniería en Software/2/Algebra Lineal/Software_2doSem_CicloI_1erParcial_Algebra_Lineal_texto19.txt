@@ -1,0 +1,7 @@
+﻿texto 19
+
+Este factor multiplicado por -1 se multiplica luego por el pivote y a ese resultado se le suma el valor que se encuentra en la posición a cambiar (el valor en la posición que se convertirá en cero).
+
+PASOS PARA ENCONTRAR LA MATRIZ TRIANGULAR INFERIOR (MATRIZ [L])
+
+Construir una matriz de igual orden que la matriz original con unos en la diagonal principal y ceros para los elementos que cumplan j > i. Como los elementos debajo de la diagonal principal se ubican el múltiplo de Gauss usado en la descomposición para conseguir el (cero) en la posición correspondiente.

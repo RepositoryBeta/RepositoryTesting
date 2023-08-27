@@ -1,0 +1,3 @@
+
+TEXTO 53
+Introducción a las memorias: Hay también otras memorias que son internas y que ayudan a acelerar los procesos, hay registros internos, hay memoria caché, está la memoria central que es la principal, hay otro tipo de memorias que son expandidas, la memoria secundaria que no es otra memoria, simplemente que es la que se almacena ya de forma permanente. Como por ejemplo, en el disco duro.

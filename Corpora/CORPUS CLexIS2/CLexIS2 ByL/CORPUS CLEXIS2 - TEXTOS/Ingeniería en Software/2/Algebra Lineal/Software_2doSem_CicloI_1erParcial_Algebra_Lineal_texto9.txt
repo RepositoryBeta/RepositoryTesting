@@ -1,0 +1,7 @@
+﻿texto 9
+
+Recuerden que, si una matriz cuadrada es regular, entonces podemos realizar un número finito de operaciones elementales de la fila para transformar la matriz en la matriz identidad.
+
+En el método de Gauss se realizan las mismas operaciones sobre la matriz identidad, transformándose así en la matriz inversa de A.
+
+

@@ -1,0 +1,3 @@
+texto 33
+
+Hay algunos sistemas que no envían una confirmación por ejemplo como la radio, la telefonía y los sistemas de cámara de vigilancia que ellos simplemente envían información, la televisión ella envía la información y nosotros la receptamos y la vemos, pero en ningún momento en la comunicación y en sentido contrario señal de confirmación lo mismo la radio o con los sistemas de cámaras de seguridad.

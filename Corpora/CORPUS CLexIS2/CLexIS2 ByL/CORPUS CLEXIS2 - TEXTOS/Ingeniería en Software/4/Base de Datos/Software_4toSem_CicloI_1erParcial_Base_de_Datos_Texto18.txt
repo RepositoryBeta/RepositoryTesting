@@ -1,0 +1,4 @@
+texto 18
+
+Si están repetidos, la poca porción de datos que sean iguales que no se generen inconsistencias o datos incorrectos esa es otra característica que me trae el dbms.
+Otra característica es la seguridad los datos almacenados en una base de datos pueden llegar a tener un gran valor null, los dbms deben garantizar que estos datos se encuentran seguros frente a usuarios malintencionados que intenten leer datos privilegiados.

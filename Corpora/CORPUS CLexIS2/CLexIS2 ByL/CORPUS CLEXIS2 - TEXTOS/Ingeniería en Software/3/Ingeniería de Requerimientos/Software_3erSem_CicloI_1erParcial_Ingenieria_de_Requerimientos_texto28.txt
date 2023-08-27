@@ -1,0 +1,2 @@
+TEXTO 28
+Clasificación de requerimientos: Tipos: Otra clasificación de los requerimientos: Funcionales, No Funcionales y Del Dominio. Requerimientos funcionales: Son declaraciones de los servicios que debe proporcionar el sistema, de la manera en que éste debe reaccionar a entradas particulares y de cómo se debe comportar en situaciones particulares. En algunos casos, los requerimientos funcionales de los sistemas también pueden declarar explícitamente lo que el sistema no debe hacer. Representación:: Lenguaje natural, modelos visuales, métodos formales.

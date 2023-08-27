@@ -1,0 +1,4 @@
+texto 12
+
+Puedo cambiar mi aplicación y mi base datos no se va a alterar, hay total independencia, no hay dependencia, la dependencia aquí era un problema que se manejaba anteriormente cuando se manejaban archivos.
+Recuerden, que yo les comentaba que cuando es archivos, el manejo de archivo y los sistemas que manejaban archivos traían estos inconvenientes, había mucha dependencia, en cambio acá en la base datos ya soluciona ese inconveniente y hay total independencia de los datos y de las aplicaciones no hay dependencia.

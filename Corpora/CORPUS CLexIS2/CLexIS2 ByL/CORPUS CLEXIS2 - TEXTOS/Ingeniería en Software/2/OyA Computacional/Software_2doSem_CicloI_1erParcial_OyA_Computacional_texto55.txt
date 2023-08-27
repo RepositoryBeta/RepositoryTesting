@@ -1,0 +1,4 @@
+texto 55
+
+Ahora, hablando de los core o núcleos, al contar con un procesador multinúcleo, el SO puede ejecutar varias tareas a la vez, ya que se reparte el trabajo entre cada uno de los núcleos. Obviamente si el uno está ocupado, el segundo va a entrar en acción y etc., dependiendo de cuántos núcleos tiene. Así, un núcleo puede estar ocupado al 100% con procesos complejos, mientras que el resto queda libre para los diferentes requerimientos del sistema.
+

@@ -1,0 +1,11 @@
+﻿texto 59
+
+Diseñador 
+
+Generar el diseño arquitectónico y diseño detallado del sistema, basándose en los requisitos
+
+Generar prototipos rápidos del sistema (con analistas y programadores) para chequear los requisitos. 
+
+Generar el documento de diseño arquitectónico de software (DDA), y mantenerlo actualizado durante el proyecto. 
+
+Velar porque el producto final se ajuste al diseño realizado (funciones de téster).

@@ -1,0 +1,11 @@
+texto 79
+
+ La capa de acceso a la red está relacionada con el intercambio de datos entre el computador y la red a la que se está conectando.
+
+ La capa de transporte es una que concentra los procedimientos de intercambio de datos de manera fiable.
+
+ La capa de aplicación contiene la lógica necesaria para admitir varias aplicaciones de usuario.
+
+modelos normalizados
+
+ Los distintos fabricantes pueden hacer uso de distintos formatos y protocolos de intercambio de datos.  

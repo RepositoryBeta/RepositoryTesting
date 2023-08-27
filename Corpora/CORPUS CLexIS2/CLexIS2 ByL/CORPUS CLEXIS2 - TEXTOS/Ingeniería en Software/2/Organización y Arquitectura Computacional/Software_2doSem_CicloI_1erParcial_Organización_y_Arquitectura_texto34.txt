@@ -1,0 +1,2 @@
+TEXTO 34
+Unidad central de proceso: Memoria primaria.- También llamada memoria principal, memoria central o memoria interna, es la memoria de la computadora, donde se almacenan temporalmente tanto los datos como los programas, que la unidad central de procesamiento (CPU) está procesando o va a procesar en un determinado momento. La memoria principal es donde se almacenan las aplicaciones que nosotros vamos requiriendo, es una memoria volátil, es una memoria temporal.

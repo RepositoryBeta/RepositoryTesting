@@ -1,0 +1,2 @@
+TEXTO 95
+Organización de los registros: Los registros del procesador se pueden clasificar en 6 tipos diferentes: registro del segmento, registro del propósito general, registro de apuntadores, registros de banderas, registro de punteros de instrucción y registros de pila. Recuerden que estos registros son simplemente espacios de memoria que permiten un almacenamiento temporal. Son muy pequeños y su capacidad varía dependiendo del procesador.

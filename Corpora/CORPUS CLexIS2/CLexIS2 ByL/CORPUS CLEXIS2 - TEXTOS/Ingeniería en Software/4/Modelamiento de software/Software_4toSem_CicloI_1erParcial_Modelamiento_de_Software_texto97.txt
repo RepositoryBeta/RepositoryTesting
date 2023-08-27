@@ -1,0 +1,3 @@
+﻿texto 97
+
+El triángulo en blanco significa la herencia, el triángulo va a reposar debajo de la clase, la superclase iba a ir hacia abajo con la subclase significa que la clase de arriba es la clase padre y la clase de abajo es la clase hija, padre e hijo no son términos técnicos algo que me gustaba hablarlo porque es más fácil digerir lo que ya se conoce como superclase y subclase Cuántos niveles deben se puede tener lo que le da la gana hay reglas en la herencia, sí.

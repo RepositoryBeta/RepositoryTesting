@@ -1,0 +1,7 @@
+﻿texto 13
+
+Sistemas operativos con estructura de micronúcleo
+
+En este tipo de sistemas, el núcleo sólo contiene la implementación de servicios básicos como el soporte de acceso a memoria de bajo nivel, la administración de tareas y la comunicación entre procesos (también conocida como IPC, del inglés, Inter Process Communication).
+
+En este tipo de arquitectura, el micronúcleo es el único componente que se ejecuta en modo privilegiado. El resto de las funciones del sistema, como los controladores de dispositivos (drivers), el sistema de archivos, la gestión de entrada salida, etc, se ejecutan en modo usuario.

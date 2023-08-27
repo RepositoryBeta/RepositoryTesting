@@ -1,0 +1,3 @@
+texto 11
+
+Por ejemplo sabemos que nuestra página web se ejecuta en un navegador pero imaginémonos que Chrome funciona bien pero yo vengo yo utilizo el explorer o el edge de Microsoft estamos instalado integridad.

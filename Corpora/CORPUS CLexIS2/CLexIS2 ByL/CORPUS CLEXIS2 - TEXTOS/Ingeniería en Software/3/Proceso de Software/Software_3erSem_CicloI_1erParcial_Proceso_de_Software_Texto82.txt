@@ -1,0 +1,11 @@
+﻿texto 82
+
+Elaborar, almacenar y permitir la recuperación de las actas y registros generados durante las reuniones de revisión, los que constituyen parte del proceso de documentación. 
+
+Construir el manual de usuarios del sistema, MUS, que contempla los aspectos de uso del sistema.
+
+Actividades y metas Documentador 
+
+Diseñar y construir un repositorio de información compartido, donde se almacenará la documentación. 
+
+Mantener actualizado el repositorio de información. 

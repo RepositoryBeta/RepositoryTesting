@@ -1,0 +1,19 @@
+texto 63
+
+Entonces maximizar una función objetivo con solucion unica.
+Pasos.
+-  Planteamiento del problema:
+
+	Tabla con los datos del enunciado.
+
+	Expresamos con ecuaciones e inecuaciones lineales la informacion concreta.
+
+-  Resolvemos el problema usando el metodo analitico:
+
+	Representamos las restricciones.
+
+	Calculamos las coordenadas de los puntos de la region factible.
+
+	Sustituimos estos puntos en la funcion objetivo para ver la solucion.
+
+	Region factible acotada usando el metodo analitico.

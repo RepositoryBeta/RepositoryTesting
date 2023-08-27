@@ -1,0 +1,3 @@
+texto 25
+Entre los elementos tenemos:
+(a) un punto 0 del plano, a qué se llama origen 0 y (b) una recta dirigida que pasa por 0, llamada eje polar. Todo punto P del plano corresponde a un par ordenado (r) donde r es la distancia de P al origen y es el angulo formado entre el eje polar y la recta dirigida OP que va de 0 a P,  el eje polar es la  recta horizontal, entonces en coordenadas polares necesitamos saber el ángulo la distancia, un ejemplo  en donde se utiliza esto es en la navegación por qué se necesita saber la distancia y ellos se manejan con millas y también con el ángulo  nos ayuda a localizarlos.

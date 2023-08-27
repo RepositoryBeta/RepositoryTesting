@@ -1,0 +1,9 @@
+texto 81
+
+ Desarrollo incremental
+beneficios:
+
+Más rápida entrega y despliegue de software de utilidad para el cliente es posible.
+Los clientes pueden usar y obtener valor a partir del software anterior qué es posible con un proceso de cascada.
+ Problemas:
+ el proceso no es visible: los gerentes necesitan entrega regulares para medir el progreso, sí se reían rápidamente de los sistemas, no es rentable para producir documentos que reflejen todas las versiones del sistema.

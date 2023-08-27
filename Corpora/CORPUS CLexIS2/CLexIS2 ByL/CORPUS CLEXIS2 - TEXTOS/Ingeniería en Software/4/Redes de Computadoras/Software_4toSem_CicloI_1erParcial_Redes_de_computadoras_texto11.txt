@@ -1,0 +1,3 @@
+﻿texto 11
+
+Eso es lo que quiere decir normalmente los datos generados no viajan igual cómo se genera regularmente, se codifica para poder transmitir, esa la función del transmisor que puede ser un modem o lo que sea, codificar los datos para poder ser transmitidos por eso necesitamos de un transmisor, peor si es inalámbrico por ejemplo tiene que codificarse para que trabaje, el inalámbrico depende del medio también ya vamos a ver después de eso.

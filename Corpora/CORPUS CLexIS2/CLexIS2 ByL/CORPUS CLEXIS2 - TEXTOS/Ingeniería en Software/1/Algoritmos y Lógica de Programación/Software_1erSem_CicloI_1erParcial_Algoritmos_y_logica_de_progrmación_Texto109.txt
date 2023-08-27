@@ -1,0 +1,3 @@
+texto 109
+
+¿Qué pasa si num1 es mayor a num2?  vamos a poner en el primer resultado, el mayor es num1, sino que cosa, si num2 es mayor a num1, se muestra el resultado que el mayor es el num2, o caso contrario escribir que los números ingresados son iguales, se lo puede hacer de tal forma que yo que pueda ver, Si, Si No, Finsi, esto pasa si escogió el numero 1, pero que pasa si escoge el numero 2, el ejercicio dice: sumar dos números pares.

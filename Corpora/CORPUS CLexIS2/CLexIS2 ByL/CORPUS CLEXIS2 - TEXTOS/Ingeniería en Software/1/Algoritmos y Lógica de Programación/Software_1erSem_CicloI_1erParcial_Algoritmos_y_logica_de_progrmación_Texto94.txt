@@ -1,0 +1,2 @@
+texto 94
+Igual o menor a 1000 y aumentarle de 5 en 5, yo ya veo inicio y veo fin incremento de 5 en 5 por lo tanto entonces tengo mi inició tengo el fin. Y ahora quiero pares desde el 100 hasta el 2, va a ser el pie voy a llegar hasta el 2 y voy a ir ya no con incrementos si no que bajando y aquí tendría yo que cambiar la condición no mientras sea mayor o igual 100, 100 es mayor o igual que 2 luego a ese sabemos que es mayor o igual que 2 y y así sucesivamente.

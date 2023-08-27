@@ -1,0 +1,13 @@
+﻿texto 1
+
+¿Qué es la introducción a los fundamentos de la programación estructurada? 
+Estos son los temas que vamos a tratar introducción y lógica de programación, fases para la resolución de un problema, el análisis del problema propiamente a través de sus fases de entrada, proceso y salida. 
+También en esta unidad vemos el diseño de algoritmo mediante técnicas de pseudocódigo y diagrama de flujo, esto es interesante porque ya en esta parte nosotros empezamos a interactuar con herramientas  de software.
+
+
+
+
+
+
+
+

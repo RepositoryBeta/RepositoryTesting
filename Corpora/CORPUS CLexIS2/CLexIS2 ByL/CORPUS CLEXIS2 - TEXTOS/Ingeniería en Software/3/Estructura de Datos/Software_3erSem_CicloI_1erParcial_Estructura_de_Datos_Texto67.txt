@@ -1,0 +1,7 @@
+﻿texto 67
+
+Concepto de árbol
+
+Un árbol T es un grafo simple que cumple que entre los vértices v, w existe un único camino simple.
+
+Observe que para ir de un vértice cualquiera a otro siempre se tiene un camino simple; por ejemplo, para ir del vértice d al vértice n, basta con recorrer el camino.

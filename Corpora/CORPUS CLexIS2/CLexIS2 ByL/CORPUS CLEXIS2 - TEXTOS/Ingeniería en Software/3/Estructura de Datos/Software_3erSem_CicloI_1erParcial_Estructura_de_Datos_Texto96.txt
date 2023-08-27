@@ -1,0 +1,7 @@
+texto 96
+
+Matriz de Incidencia.
+
+Dado un grafo simple G = (V, E) con n=|V| vértices {v1, vn} y m=|E| aristas {e1, em}, su matriz de incidencia es la matriz B de orden nxm, B (G) = (bij), donde bij=1 si vi es incidente con ej y bij=0 en caso contrario.
+
+Si la matriz de incidencia sólo contiene ceros y unos (matriz binaria). Como cada arista incide exactamente en dos vértices, cada columna tiene exactamente dos unos. La cantidad de unos que aparece en cada fila es igual al grado del vértice correspondiente. Una fila compuesta sólo por ceros corresponde a un vértice aislado.

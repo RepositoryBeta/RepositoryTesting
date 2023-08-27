@@ -1,0 +1,2 @@
+TEXTO 13
+La IR posee algunas actividades donde tenemos la concepción de requerimientos que son obviamente las preguntas y la forma en la que usted va al cliente, el desarrollo de requerimientos que se divide en la elicitación análisis especificación y verificación cuatro partes son realmente importante para saber si el requerimiento es real es decir si realmente se lo necesita y por último los mantenimientos de requerimientos Que obviamente es para saber si se deben hacer actualizaciones o se deben hacer cambios.

@@ -1,0 +1,9 @@
+texto 69
+
+Eso es lo principal y adicional, si complementariamente ustedes pudieran identificar si es una relación recursiva reflejada o si es una relación recursiva jerárquica, mucho mejor, mucho mejor relación recursiva ahí teníamos unos ejemplos.
+Con la especialización yo le decía, especialización y generalización lo vamos a ver como un solo elemento.
+
+Generalización
+Es una relación contenida que existe entre el conjunto de nivel más alto (superclase) y uno o más conjuntos de entidades de nivel más bajo (subclase). 
+
+

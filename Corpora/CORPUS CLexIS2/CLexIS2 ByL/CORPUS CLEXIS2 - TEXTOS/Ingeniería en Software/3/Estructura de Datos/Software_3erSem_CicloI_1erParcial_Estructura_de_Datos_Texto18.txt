@@ -1,0 +1,6 @@
+﻿texto 18 
+
+Algoritmos de intercambio:
+En este tipo de algoritmos se toman los elementos de dos en dos, se comparan y se INTERCAMBIAN si no están en el orden adecuado. 
+Este proceso se repite hasta que se ha analizado todo el conjunto de elementos y ya no hay intercambios.
+Entre estos algoritmos se encuentran el BURBUJA y QUICK SORT.

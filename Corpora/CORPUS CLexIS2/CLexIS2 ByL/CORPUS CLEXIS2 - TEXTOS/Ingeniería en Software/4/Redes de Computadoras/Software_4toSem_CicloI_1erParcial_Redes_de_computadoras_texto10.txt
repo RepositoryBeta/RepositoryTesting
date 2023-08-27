@@ -1,0 +1,3 @@
+﻿texto 10
+
+Al contrario el transmisor transforma y codifica la información generando señales electromagnéticas susceptibles  de ser transmitidas a traves de un sistema de transmision, por ejemplo un modem convierte las cadenas de bits generadas por un computador personal y las transforam en señales analogicas que pueden ser transmitidas a traves de la red de la telefonia, lo que yo estoy hablando no viaja como sonido el computador lo están recetando lo está convirtiendo a digital y lo manda través del internet todo eso para llegar ustedes.

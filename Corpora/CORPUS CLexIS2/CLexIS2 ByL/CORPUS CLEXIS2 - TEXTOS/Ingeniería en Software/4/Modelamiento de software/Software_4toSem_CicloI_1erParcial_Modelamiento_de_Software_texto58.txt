@@ -1,0 +1,3 @@
+﻿texto 58
+
+Los ingenieros de software tenemos estos símbolos para representar conceptos universales, el problema es que a diferencia de los símbolos de las calles de las señales de tránsito que tienen un significado y ahí muere acá con estos símbolos yo tengo que crear un nuevo significado y de paso esos significados son abstractos por ejemplo ahorita yo estoy hablando si es cierto de la biblioteca es un edificio o puede ser una biblioteca virtual.

@@ -1,0 +1,3 @@
+﻿texto 80
+
+Como en el ejemplo numérico que nosotros podemos tener que 5 es menor igual a 8, pero si nosotros nosotros tenemos un 2 verdad que podemos decir que 2 es menor o igual a 9, a esta a esta expresión para poderle llevar a su forma estándar o canónica debemos sumarle 7 ya no es 3 sino 7, por esa razón es que no podemos decir que estas variables que acá estamos sumando h1 y h2 y h3 y Hn deben ser la misma.

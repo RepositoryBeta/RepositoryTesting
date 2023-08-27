@@ -1,0 +1,4 @@
+texto 59
+
+Pero, luego hubo una evolución se inventaron los transistores, y entonces todo se empezó a reducir, e hizo que la tecnología se hiciera más alcanzable para todos, hablemos sobre transistores, los procesadores no existirían, al menos tan pequeños, serían muy grandes, si no fuera por los transistores. Son la unidad básica de todo procesador y circuito integrado. Son las pistas electrónicas que ustedes observan en la imagen.
+

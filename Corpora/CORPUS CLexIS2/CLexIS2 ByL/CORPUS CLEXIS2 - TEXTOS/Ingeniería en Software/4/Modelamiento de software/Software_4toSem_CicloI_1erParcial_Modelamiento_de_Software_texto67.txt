@@ -1,0 +1,3 @@
+﻿texto 67
+
+Ya depende de cada persona, yo prefiero hacer primero el diagrama de clases pensar en mí modelo por lo menos un modelo básico me gusta pensar en los posibles problemas que yo tenga futuro con el modelo que estoy definiendo, me gusta dibujar mi modelo en un papel, en una pizarra pensar todo lo que puede pasar y solucionarlo desde el punto de vista de modelo antes de empezar a tirar código en base de datos les van a enseñar a diagramar y luego pasarla ya a la base de datos.

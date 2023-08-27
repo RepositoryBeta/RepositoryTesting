@@ -1,0 +1,11 @@
+﻿texto 73
+
+Administrar el software utilizado para el control de versiones. 
+
+Definir y controlar perfiles de acceso a los archivos del proyecto. 
+
+Velar por la completitud y exactitud del repositorio del proyecto.
+
+Objetivos Administrador de la configuración 
+
+Administración efectiva del ciclo de vida del sistema de software y la evolución de su configuración. En otras palabras, corresponde al establecimiento y manutención de los productos de software del proyecto a través del ciclo de vida del software.

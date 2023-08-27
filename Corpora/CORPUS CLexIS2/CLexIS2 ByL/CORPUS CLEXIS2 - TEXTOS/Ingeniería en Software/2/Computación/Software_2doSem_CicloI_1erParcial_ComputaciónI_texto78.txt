@@ -1,0 +1,9 @@
+﻿texto 78
+
+Procedimiento para crear una carpeta
+
+Pulsamos con el botón derecho del ratón sobre el escritorio o la zona donde queremos crear la carpeta.
+
+Hacemos clic sobre la opción (nuevo) y una nueva ventana que nos mostrará, hacemos clic con el botón izquierdo del ratón sobre (carpeta).
+
+Nos creará la carpeta con el nombre nueva carpeta parpadeando el cursor, en este momento podemos sustituir los por el nombre que le queramos dar.

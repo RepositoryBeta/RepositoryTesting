@@ -1,0 +1,4 @@
+﻿texto 7
+
+¿Qué es una ecuación diferencial ordinaria?
+Ecuación diferencial ordinaria se abrevia (EDO) que la E quiere decir ecuación, la D diferencial, la O ordinaria, es una ecuación que involucra una variable independiente X, una función de Y (x) y una o varias derivadas de Y (x). Una ecuación diferencial ordinaria tiene una sola variable independiente sí, no tiene la variable independiente Z no tiene otras variables, y Y es la variable dependiente y una función Y (X) es la variable dependiente y una o varias derivadas de Y (X), en conclusión, una ecuación diferencial ordinaria es cuando solamente tiene una variable independiente. 

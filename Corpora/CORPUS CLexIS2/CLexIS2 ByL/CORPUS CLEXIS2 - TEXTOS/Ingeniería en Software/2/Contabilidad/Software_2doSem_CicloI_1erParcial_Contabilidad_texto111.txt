@@ -1,0 +1,14 @@
+﻿texto 111
+
+Mi patrimonio va a estar compuesto por mí capital
+
+Entonces con esto, nosotros tenemos que para realizar mi estado situación inicial vamos a contar con la siguiente estructura. 
+
+¿Qué va en el encabezamiento? 
+
+En el encabezamiento va la razón social o nombre de la empresa, va a estar el nombre del documento. 
+
+¿Qué quiero decir con nombre del documento? 
+
+El nombre de estado situación inicial porque la estructura va a ser para todos los estados financieros, ejemplo si hablamos del libro diario, mi nombre del documento sería libro diario.
+

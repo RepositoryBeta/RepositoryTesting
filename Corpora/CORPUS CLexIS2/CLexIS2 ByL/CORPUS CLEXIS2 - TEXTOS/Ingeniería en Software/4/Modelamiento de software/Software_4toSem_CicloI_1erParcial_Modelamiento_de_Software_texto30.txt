@@ -1,0 +1,3 @@
+﻿texto 30
+
+Por ejemplo la gente que da mantenimiento por ejemplo a las maquinarias ellos son abstractos porque ellos entienden hasta el momento en que trabaja cierta pieza y usan esas abstracción para resolverlo, pongamos el mismo ejemplo quién ha arreglado una PC, ¿Alguien de aquí ha tenido la suerte de abrir una computadora y arreglarlo?, dentro de un disco duro nosotros nos imaginamos que existe un volumen defectuoso o existe un pedacito de un cilindro dañado etc.

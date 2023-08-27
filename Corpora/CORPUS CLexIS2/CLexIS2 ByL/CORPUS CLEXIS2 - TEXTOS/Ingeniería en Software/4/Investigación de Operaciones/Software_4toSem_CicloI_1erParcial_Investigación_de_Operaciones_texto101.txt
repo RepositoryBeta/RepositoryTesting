@@ -1,0 +1,3 @@
+﻿texto 101
+
+Aquí empieza empezamos a notar una diferencia básicamente que tiene una de las diferencias que tiene el método simplex Dual con el método simplex en el método simplex a pesar de que el método simple resuelve no solamente ejercicios de maximización sino también de minimización nosotros lo estamos lo pintamos para ejercicio de maximización y ahora en contraparte vamos a utilizar el método simplex Dual para ejercicios de minimizacion.

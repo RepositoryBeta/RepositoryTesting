@@ -1,0 +1,2 @@
+TEXTO 60
+Los usuarios expresan en lenguaje natural. Estos incluyen requerimientos funcionales y no funcionales. Los requerimientos del sistema describen el comportamiento del sistema, pueden requerir diferentes técnicas de presentación. Enunciados en lenguaje natural: Los requerimientos se describen al usuario enunciados numerados en lenguaje natural. Cada enunciado debe expresar un requerimiento. Lenguaje natural estructurado: Los requerimientos se escriben en lenguaje natural en una forma o plantilla estándar.

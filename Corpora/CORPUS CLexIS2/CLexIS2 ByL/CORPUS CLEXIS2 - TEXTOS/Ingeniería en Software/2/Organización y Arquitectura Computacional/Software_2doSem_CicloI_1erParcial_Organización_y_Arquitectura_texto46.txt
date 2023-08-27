@@ -1,0 +1,2 @@
+TEXTO 46
+Introducción a las memorias: Los equipos obviamente antes ocupaban grandes salas porque eran de mayor dimensión y de un tamaño muy grande, pero no así la capacidad de memoria, realmente eran bastante pequeña pese a ser equipos de tamaño muy grandes, porque venían utilizando y evolucionando en esos dispositivos internos que formaban parte de la arquitectura de estos computadores.

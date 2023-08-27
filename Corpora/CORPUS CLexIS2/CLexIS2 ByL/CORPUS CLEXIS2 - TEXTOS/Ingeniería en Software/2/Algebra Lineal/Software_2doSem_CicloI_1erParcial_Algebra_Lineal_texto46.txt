@@ -1,0 +1,11 @@
+﻿texto 46
+
+Comenzamos introduciendo algunos resultados. Teorema Sea A una matriz m × n con columnas ortonormales y sean v y w elementos de R n. Entonces: 
+
+1) ||A v|| = ||vk||. 
+
+2) {A v, A w} = {v, w}.
+
+3) {A v, A w} = 0 si y sólo si {v, w} = 0. 
+
+Las propiedades 1) y 3) dicen que la transformación lineal asociada a A, v 7 A v, conserva la longitud y la ortogonalidad; además, la propiedad 2) garantiza que también se conserva el ángulo.

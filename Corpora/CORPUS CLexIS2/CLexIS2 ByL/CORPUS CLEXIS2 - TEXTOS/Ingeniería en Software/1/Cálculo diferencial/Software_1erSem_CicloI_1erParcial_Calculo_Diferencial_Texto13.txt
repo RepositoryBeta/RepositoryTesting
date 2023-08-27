@@ -1,0 +1,3 @@
+﻿texto 13 
+
+Se recomienda utilizar la notación Leibniz, es decir la que se usa dy, dx: {d^2y/dx^2}-{2dy/dx} = 3 y miren en este ejemplo la y está en el numerador la x en el denominador ahí no están separado numerador y, denominador (x) y de ahí a la derecha el igual la (y) aquí están mezclados entonces no cumple con variable separables, entonces vamos a aprender cómo hacer que esta ecuación diferencial se convierte en una ecuación diferencial con variables separables. La ecuación diferencial con variables separables es aquella en la cual a la izquierda del igual tengo que escribir todo lo que tenga que ver con un variable ejemplo la (y) y a la derecha del igual todo lo que tiene que ver con la otra variable por ejemplo la (x).

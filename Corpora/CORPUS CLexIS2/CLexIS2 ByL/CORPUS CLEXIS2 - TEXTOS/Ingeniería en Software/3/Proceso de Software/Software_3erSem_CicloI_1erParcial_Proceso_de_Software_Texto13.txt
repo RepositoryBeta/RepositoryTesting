@@ -1,0 +1,9 @@
+﻿texto 13
+
+Un proceso de software mejora los esfuerzos de mantenimiento y soporte:
+
+Define cómo manejar los cambios y liberaciones a sistemas de software existentes.
+
+Define cómo lograr la transición del software a la operación, y cómo ejecutar los esfuerzos de operación y soporte.
+
+Necesitamos un proceso de software cuya funcionalidad esté probada en la práctica, y personalizado para que cumpla con nuestras necesidades específicas.

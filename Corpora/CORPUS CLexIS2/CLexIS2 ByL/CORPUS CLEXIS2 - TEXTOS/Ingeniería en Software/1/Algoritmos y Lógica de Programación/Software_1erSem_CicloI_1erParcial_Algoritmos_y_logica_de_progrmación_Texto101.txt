@@ -1,0 +1,3 @@
+texto 101
+
+Ya he resuelto esta parte porque simplemente nos vemos pasado en escriba escriba y escriba, que lindo y maravilloso seria, si asi fuera la programación verdad, hasta allí no hemos hecho nada solo tenemos divisado una buena parte, qué más tengo que hacer, entonces tengo que ejecutar, tengo que presentar el residuo de la división de dos números, si el usuario tiene que sumar dos números y eso es lo que tenemos que hacer con la instrucción respectiva.

@@ -1,0 +1,5 @@
+texto 6
+
+Entre las métricas de software tenemos las siguientes:
+
+Métricas técnicas: éstas se centran en las características del software, aquí medimos complejidad lógica, y el grado de modularidad del sistema, cuando hablamos de modularidad nos referimos a que son las pequeñas parte de códigos que están  independientes y que luego se integran por sí solas al igual recordemos que cuando uno programa, no simplemente programa de largo, uno puede programar en ciertas porciones de códigos y esas porciones del código las podemos denominar módulos, metodos, ejecuciones y esos pequeños módulos los podemos reutilizar en otro lado entonces a eso nos referimos con modularidad,  también las métricas técnicas miden la  estructura del sistema, así como está hecho el sistema, ¿Cuántos métodos tenemos?, ¿Cuántas variables tenemos?, ¿Cuántos resultados por pantalla le hacemos?.

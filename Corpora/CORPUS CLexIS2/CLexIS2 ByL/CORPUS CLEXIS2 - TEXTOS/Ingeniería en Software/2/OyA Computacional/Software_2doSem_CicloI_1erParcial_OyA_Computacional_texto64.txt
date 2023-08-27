@@ -1,0 +1,4 @@
+texto 64
+
+Realmente, ya nos acostumbramos a decirle así, pero no es que ese sea el cpu, luego decimos cpu al procesador y el procesador es realmente lo que tiene cpu, que son los core. Ahora, este mapa es de un procesador Intel, quad core de cuarta generación, la cuarta generación salió en el 2013 y se siguió comercializado hasta el 2014. Esto va más o menos así. La primera generación salió en el 2010 y se siguió comercializando hasta el 2011, entonces como que va un años más atrás, la cuarta generación fue en el 2013 y se comercializó hasta el 2014.
+

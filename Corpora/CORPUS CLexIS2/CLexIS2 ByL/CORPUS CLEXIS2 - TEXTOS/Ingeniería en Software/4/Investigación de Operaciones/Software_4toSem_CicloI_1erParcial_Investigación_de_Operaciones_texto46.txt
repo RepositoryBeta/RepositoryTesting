@@ -1,0 +1,3 @@
+﻿texto 46
+
+Entonces también aquí empiezan a manejarse algunos aspectos que ya lo habíamos visto en la investigación de operaciones y por eso que esta técnica está ligada íntimamente con la investigación de operaciones porque el objetivo de la programación lineal es maximizar o minimizar funciones lineales y aquí vamos a tratar con varias variables de decisión con restricciones y confusión.

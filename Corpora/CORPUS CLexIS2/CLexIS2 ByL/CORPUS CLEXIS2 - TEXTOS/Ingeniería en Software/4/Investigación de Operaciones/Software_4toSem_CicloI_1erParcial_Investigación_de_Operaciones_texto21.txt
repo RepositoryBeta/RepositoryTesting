@@ -1,0 +1,11 @@
+texto 21
+
+- Optimizacion de procesos asociados a refinerias
+
+- Distribucion de fuerzas navales y aereas
+
+- Planeacion y control de proyectos
+
+- Politicas de control optimo de inventarios
+
+- Manteniento y reemplazo de equipos.

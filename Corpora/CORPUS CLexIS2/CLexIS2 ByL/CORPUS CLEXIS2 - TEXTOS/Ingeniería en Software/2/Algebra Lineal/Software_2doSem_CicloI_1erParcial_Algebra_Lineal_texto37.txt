@@ -1,0 +1,7 @@
+﻿texto 37
+
+A esta base se le llama base canónica o de Rn. Las bases canónicas generan todo el espacio vectorial de acuerdo el número de elementos que tenga R.
+
+DIMENSION DE UN ESPACIO VECTORIAL 
+
+La definición de dimensión es la misma para un espacio vectorial que para un subespacio de Rn: el número de vectores en una base para el espacio. 

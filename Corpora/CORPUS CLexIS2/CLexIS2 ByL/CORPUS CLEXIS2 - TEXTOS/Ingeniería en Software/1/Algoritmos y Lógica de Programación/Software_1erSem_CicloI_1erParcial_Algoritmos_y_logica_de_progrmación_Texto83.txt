@@ -1,0 +1,3 @@
+texto 83
+
+Veamos un ejercicio dice: obtener los números del 1 al 100 aplicando ciclo mientras yo no puedo ir a mi herramienta de trabajo mientras no haga mi algoritmo, entonces vamos a abrir el algoritmo la hojita de trabajo y vamos allí a poner el algoritmo que es lo más básico desde dónde puedo empezar para poder analizar el problema, si ustedes no pasan valga la redundancia no van a poder realizar con éxito ese programa.

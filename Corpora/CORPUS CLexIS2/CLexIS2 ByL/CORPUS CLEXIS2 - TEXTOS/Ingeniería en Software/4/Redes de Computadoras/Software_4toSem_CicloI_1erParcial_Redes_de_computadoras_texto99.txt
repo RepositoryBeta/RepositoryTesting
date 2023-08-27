@@ -1,0 +1,3 @@
+texto 99
+el protocolo para el control de transmisión, TCP es el más utilizado para proporcionar esta funcionalidad,
+la capa de aplicación contiene toda la lógica necesaria para posibilitar las distintas aplicaciones del usuario para cada tipo particular de aplicación, como por ejemplo, la transferencia de archivos, se necesitará un módulo bien diferenciado.

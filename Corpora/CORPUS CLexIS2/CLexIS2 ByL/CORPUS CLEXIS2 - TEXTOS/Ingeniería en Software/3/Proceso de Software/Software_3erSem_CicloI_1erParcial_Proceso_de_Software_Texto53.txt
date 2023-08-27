@@ -1,0 +1,9 @@
+﻿texto 53
+
+Administrador de proyecto 
+
+Controla y administra los recursos del proyecto con el fin de cumplir el plan y objetivo definido. 
+
+Puede dirigir más de un proyecto. 
+
+El administrador no es dueño de nada, es sólo un administrador temporal de los recursos. Como no es dueño de nada, debe dejarlos en la misma o mejor condición de cómo los recibió. Por ello, el foco de una buena administración debe estar en el control y coordinación de los diferentes eventos y actividades de un proyecto.

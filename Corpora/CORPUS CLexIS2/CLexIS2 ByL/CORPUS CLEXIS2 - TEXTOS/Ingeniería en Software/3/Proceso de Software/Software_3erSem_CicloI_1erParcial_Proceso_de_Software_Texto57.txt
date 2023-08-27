@@ -1,0 +1,11 @@
+﻿texto 57
+
+Debe manejar un acuerdo sobre la forma de hacer las especificaciones de manera que el resto del equipo encuentre sentido en su labor.
+
+Objetivos Analista 
+
+Llevar al equipo el conocimiento necesario para el entendimiento y ejecución del software.
+
+Usar metodologías de análisis que permitan especificar el problema. 
+
+Los analistas deben identificar las necesidades del cliente, a través de reuniones con el cliente o su representante. Estas necesidades deben pasar de un lenguaje que domina el cliente a un lenguaje que domina el equipo.

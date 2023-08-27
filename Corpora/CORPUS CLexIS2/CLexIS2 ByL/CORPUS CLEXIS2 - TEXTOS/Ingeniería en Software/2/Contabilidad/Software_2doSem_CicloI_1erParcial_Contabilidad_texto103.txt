@@ -1,0 +1,7 @@
+﻿texto 103
+
+El ciclo contable
+
+Para conocer el estado de la empresa se supone que la actividad se detiene durante un momento, para así medir en este instante su situación en instantes.
+
+La vida de la empresa se dividirá en períodos de tiempo más pequeños, habitualmente de un año. Es decir, por lo menos deben realizar el análisis de eso o la presentación de los estados financieros, por lo menos una vez al año, pero esta información la pueden pedir las veces que sea necesario los dueños, los accionistas o los gerentes de cada una de las instituciones.

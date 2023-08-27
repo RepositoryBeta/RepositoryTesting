@@ -1,0 +1,2 @@
+TEXTO 66
+Modelos del sistema: Pueden incluir modelos gráficos del sistema que muestren las relaciones entre componentes del sistema, el sistema y su entorno. Ejemplos de posibles modelos son los modelos de objeto, modelos de flujo de datos o modelos de datos semánticos. Evolución del sistema: Describe los supuestos fundamentales sobre los que se basa el sistema, y cualquier cambio anticipada debido a la evolución de Hardware, cambio de las necesidades del usuario, etc.

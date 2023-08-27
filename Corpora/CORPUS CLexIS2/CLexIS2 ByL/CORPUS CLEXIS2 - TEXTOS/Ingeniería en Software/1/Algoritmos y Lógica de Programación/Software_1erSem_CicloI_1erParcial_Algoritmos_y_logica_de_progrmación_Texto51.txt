@@ -1,0 +1,2 @@
+texto 51
+Entonces cuando yo quiero representar una condición utilizó este símbolo que está aquí, qué es un rombo, para poder plantear la condición y además determino que va a pasar por verdadero, y que va a pasar por falso, ejemplo si decimos si termina la pandemia vamos a hacer esto, caso contrario seguimos en confinamiento, pero tiene que ver necesariamente una acción, si pasa la pandemia voy al cine, pero no puedo plantear nada por caso contrario porque ya sé que voy a quedarme en la misma situación.

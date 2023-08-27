@@ -1,0 +1,3 @@
+texto 24 
+
+El software no sé estropea, pero se deteriora. Durante su vida, el sufre sufre cambios (mantenimiento), conforme se hacen los cambios, es bastante probable que se introduzcan nuevos efectos, lo que hace que el software se vaya deteriorando debido a sus cambios. 

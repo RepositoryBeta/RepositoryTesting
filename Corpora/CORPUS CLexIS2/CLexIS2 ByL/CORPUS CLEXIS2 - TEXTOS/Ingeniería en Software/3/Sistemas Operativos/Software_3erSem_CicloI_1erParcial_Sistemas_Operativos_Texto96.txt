@@ -1,0 +1,7 @@
+texto 96
+
+La lectura de un bloque de un disco duro puede tardar 50 microsegundos. La técnica más común empleada para reducir los accesos a disco es el caché de bloques o el caché de buffer (la palabra caché proviene del verbo francés cacher, que significa esconder).
+
+Sistemas de Archivos Estructurados por Diario
+
+Los cambios tecnológicos están ejerciendo presión sobre los sistemas de archivos actuales. En particular, las CPU cada vez son más rápidas, los discos cada vez son más grandes y económicos (pero no mucho más rápidos), y el tamaño de las memorias está creciendo exponencialmente.

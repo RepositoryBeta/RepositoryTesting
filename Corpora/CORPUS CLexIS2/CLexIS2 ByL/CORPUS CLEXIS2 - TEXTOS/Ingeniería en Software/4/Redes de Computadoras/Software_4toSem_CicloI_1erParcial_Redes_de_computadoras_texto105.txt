@@ -1,0 +1,11 @@
+texto 105
+
+ simbología de red
+
+ es muy importante conocer cada uno de los diferentes símbolos de los dispositivos de una red, Cisco son reconocidos mundialmente y generalmente aceptados como estándar para las  topologías de red.
+
+ usted puede utilizarlas libremente pero no puede alterarlas.
+
+ espectro de ondas electromagnéticas
+
+las ondas son una perturbación en un medio de propagación, ejemplo el agua, el Metal, etcétera.

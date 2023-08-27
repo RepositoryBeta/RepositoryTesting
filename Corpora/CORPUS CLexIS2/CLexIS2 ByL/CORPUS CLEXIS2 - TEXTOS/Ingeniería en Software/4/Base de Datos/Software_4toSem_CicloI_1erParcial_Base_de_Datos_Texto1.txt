@@ -1,0 +1,9 @@
+texto 1
+
+Las características que se ven en la extracción de datos:
+1) Independencia de los datos.
+2) Consistencia de los datos.
+
+El segundo grupo de características
+1) Seguridad de los datos de equidad de los datos respaldo y recuperación de los datos.
+2) Control de concurrencia y manejo de transacciones.

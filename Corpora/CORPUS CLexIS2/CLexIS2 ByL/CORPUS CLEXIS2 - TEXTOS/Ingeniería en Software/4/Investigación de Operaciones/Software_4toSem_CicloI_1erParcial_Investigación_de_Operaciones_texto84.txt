@@ -1,0 +1,3 @@
+﻿texto 84
+
+Entonces nosotros acá vamos a tener tantas filas, por ejemplo yo aquí lo limite de una a tres restricciones solamente para poderle explicar la tabla simplex va a tener tantas filas verdad como variables de holgura ya como restricciones hay a decir que tenemos una fila para h1 una fila para h2 y una fila para h3 Y también vamos a tener una fila dónde vamos a tomar a Z pero con los coeficientes de la función objetivo negativos recordemos que nos dan Z que es la función objetivo y la Z está conformada por unos coeficiente y las mismas variables de decisión que ya se han definido de inicio.

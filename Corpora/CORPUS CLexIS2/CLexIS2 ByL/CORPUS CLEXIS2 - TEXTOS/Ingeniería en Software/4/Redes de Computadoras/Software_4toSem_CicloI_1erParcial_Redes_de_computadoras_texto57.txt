@@ -1,0 +1,3 @@
+texto 57
+
+En el ejemplo anterior en la LAN todo le pertenece a la empresa éticamente, pero para la WAN en un mensaje que se vaya de aquí a la china pasa por múltiples redes y todo esas redes de afuera no pertenecen a la empresa que está enviando el mensaje, por eso dice que requieren atravesar rutas de acceso público y que utilizan al menos parcialmente o sea un circuito proporcionados por otra entidad proveedora de servicios, porque al menos el mensaje tiene que salir a lo mejor por CNT para viajar de aquí a la china.

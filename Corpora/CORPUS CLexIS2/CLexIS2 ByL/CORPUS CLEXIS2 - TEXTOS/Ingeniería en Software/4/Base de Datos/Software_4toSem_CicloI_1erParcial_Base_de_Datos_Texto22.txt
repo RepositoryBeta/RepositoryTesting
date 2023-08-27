@@ -1,0 +1,4 @@
+texto 22
+
+Todo DBMS tiene una arquitectura interna otra característica es la integridad.
+Es adoptar las medidas para garantizar la validez de datos almacenados, es decir trata de proteger los datos ante fallos de Hardware, datos introducidos por usuarios descuidados, estos fallos son capaces de corromperlos y ahí hay un ejemplo, de cuáles son fuentes de error, para que los datos incorrectos, datos no integrados es la falla de Hardware el que se daña el disco donde yo tengo almacenadas, era por eso que me va a corromper los datos, a que los datos queden no íntegros o tengan actualizaciones incompletas.

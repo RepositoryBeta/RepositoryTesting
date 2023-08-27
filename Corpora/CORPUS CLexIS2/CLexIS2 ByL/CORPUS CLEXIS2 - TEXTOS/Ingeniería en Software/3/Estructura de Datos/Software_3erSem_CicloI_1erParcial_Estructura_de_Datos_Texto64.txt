@@ -1,0 +1,5 @@
+texto 64
+
+LISTA CIRCULAR CON NODO DE ENCABEZAMIENTO
+
+Supongamos que deseamos recorrer una lista circular, esto se puede hacer mediante la acción repetitiva de p = next (p), donde p es inicialmente un puntero al comienzo de la lista, sin embargo como es lista circular no sabemos cuándo se había recorrido a menos de que exista el puntero list y se efectúe la condición p = list, otro método de solución es el de agregar un nodo de encabezamiento, así la porción de info contendrá información de referencia, es decir no será similar a la información de nodos que preceden al nodo de encabezamiento, de ésta forma el puntero p se irá recorriendo hasta llegar al nodo de encabezamiento.

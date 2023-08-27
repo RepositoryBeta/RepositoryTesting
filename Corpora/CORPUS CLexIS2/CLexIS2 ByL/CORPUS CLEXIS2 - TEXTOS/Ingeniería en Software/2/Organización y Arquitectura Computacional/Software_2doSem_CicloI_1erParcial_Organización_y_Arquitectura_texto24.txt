@@ -1,0 +1,2 @@
+TEXTO 24
+Multiplicación binaria.- La multiplicación binaria base, tiene su propia tabla que se parece mucho a la base 10 que nosotros utilizamos. Esta tabla nos indica que 0 * 0 = 0, 0 * 1 = 0, 1 * 0 = 0 y 1 * 1 = 1,  resumiendo diríamos que cualquier multiplicación dónde se encuentra el cero, su resultado inmediato será cero lo cual genera una similitud con nuestra tabla en base a 10. En la multiplicación binaria no existe el llevando.

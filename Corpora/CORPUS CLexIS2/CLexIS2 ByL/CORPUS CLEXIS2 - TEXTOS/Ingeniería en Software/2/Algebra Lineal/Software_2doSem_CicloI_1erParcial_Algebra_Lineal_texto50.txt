@@ -1,0 +1,3 @@
+﻿texto 50
+
+Con respecto a la matriz adjunta y pues el cálculo es también por cofactores porque al final son los cofactores y el adjunto lo vamos a calcular de cada elemento esta parte es dónde podemos llevarnos un poquito más de tiempo Pero igualmente ambos tanto determinante como matriz adjunta ya la hemos calculado y por supuesto la transpuesta sede saben que ella sí es bien más sencilla que es Convertir las filas a columnas en mi siguiente matriz.

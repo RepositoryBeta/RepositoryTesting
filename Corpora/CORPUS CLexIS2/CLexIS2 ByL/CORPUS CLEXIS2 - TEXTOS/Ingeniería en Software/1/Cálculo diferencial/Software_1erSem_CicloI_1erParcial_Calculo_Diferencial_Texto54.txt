@@ -1,0 +1,4 @@
+texto 54
+Punto de silla.
+El punto crítico es un punto de silla si los autovalores landa 1  y landa 2 son reales y de distinto signo. Las órbitas, cuando t -> + infinito, se presentan como trayectorias que se acercan al origen al principio y luego se separan de él.
+Esto permite concluir que todo punto de silla es inestable.

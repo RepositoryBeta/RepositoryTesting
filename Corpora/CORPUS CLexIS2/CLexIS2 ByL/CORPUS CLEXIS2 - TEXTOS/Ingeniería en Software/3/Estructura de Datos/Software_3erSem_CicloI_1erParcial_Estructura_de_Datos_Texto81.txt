@@ -1,0 +1,6 @@
+texto 81
+Vértices adyacentes
+Son aquellos que conforman un lado o arista. Todo lado conformado por dos vértices se dice que es incidente sobre esos vértices. Si un vértice no tiene otro adyacente se dice que es aislado.
+Grado en grafos
+Grado entrante de un vértice
+El grado entrante de un vértice es el número de aristas que llegan al vértice.

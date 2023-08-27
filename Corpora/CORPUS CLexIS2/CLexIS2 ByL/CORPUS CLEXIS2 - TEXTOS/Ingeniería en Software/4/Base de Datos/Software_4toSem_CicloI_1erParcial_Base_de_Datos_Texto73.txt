@@ -1,0 +1,11 @@
+texto 73
+
+Características:
+Generalización:
+1) Énfasis en las similitudes.
+2) Cada instancia del supertipo es también una instancia de alguno de los subtipos.
+
+Especialización:
+1) Énfasis en las diferencias.
+2) Alguna instancia del supertipo puede no ser instancia de ningún subtipo.
+

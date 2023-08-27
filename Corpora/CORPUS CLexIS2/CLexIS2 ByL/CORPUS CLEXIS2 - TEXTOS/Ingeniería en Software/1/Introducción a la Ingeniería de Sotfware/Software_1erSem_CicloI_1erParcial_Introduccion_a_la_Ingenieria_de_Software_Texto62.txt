@@ -1,0 +1,5 @@
+texto 62
+
+Especificaciones: formalizamos los requerimientos; el documento teniendo una etapa anterior se tomará como punto de partida para esta etapa.
+
+Análisis: Se deben a los elementos que intervienen en el sistema ha desarrollar, su estructura, relaciones, evolución temporal, funcionalidades, tendremos una descripción clara de qué producto vamos a construir,qué funcionalidades aportara y qué comportamiento tendrá.

@@ -1,0 +1,7 @@
+﻿texto 68
+
+Puerto HDMI
+
+El puerto HDMI es la interfaz multimedia de alta definición actualmente es muy usada debido que permite la conexión entre diversos aparatos en alta calidad.
+
+El HDMI transmite audio y video con un único cable desde la computadora a pantallas.

@@ -1,0 +1,4 @@
+﻿texto 44
+
+En general, con (n) observaciones, Yi representa el valor de la i - ésima observación de aquí se desprende la fórmula definitiva del promedio:
+Desviaciones: Se define como la desviación de un dato a la diferencia entre el valor del dato y la media,ejemplo de desviaciones, una propiedad interesante de la media aritmética es que la suma de las desviaciones es cero.

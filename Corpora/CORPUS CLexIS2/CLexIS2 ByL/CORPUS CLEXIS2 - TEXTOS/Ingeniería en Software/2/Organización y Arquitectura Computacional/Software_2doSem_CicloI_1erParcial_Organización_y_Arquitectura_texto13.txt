@@ -1,0 +1,2 @@
+TEXTO 13
+Estructura del bus: Tenemos el bus que transfiere los datos también existen buses que transfieren direcciones, pero hablamos de direcciones de memoria con una notación hexadecimal, el bus de datos está conectado con la CPU, porque ahí es donde se procesan los datos y la memoria principal está conectada con  el bus de dirección, luego hay otros buses también como el de sincronización, el de control, de la dirección, el bus de datos para realizar la conectividad con los diferentes periféricos.

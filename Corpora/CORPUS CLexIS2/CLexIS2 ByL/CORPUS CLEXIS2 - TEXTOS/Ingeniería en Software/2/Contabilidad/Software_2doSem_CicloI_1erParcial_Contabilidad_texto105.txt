@@ -1,0 +1,3 @@
+﻿texto 105
+
+Aquí voy a registrar las transacciones que realizó diariamente, por eso se llama libro diario, transacciónes, luego de esto yo voy a realizar o a sacar mi saldo de cada una de esas cuentas. Aquí voy al realizar mi libro mayor, aquí voy a establecer saldos de cuentas, luego establezco mis saldos, las voy a comparar, los voy a determinar si es que me están cuadrando o no esos saldos y es que estoy haciendo mis operaciones, bien eso se va a llamar balance de comprobación, en algunos otros textos o vídeos puede llamarse también como un borrador, porque voy a analizar si he realizado bien mi saldo de las cuentas de donde nace mi saldo en las cuentas en el libro diario.

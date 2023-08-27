@@ -1,0 +1,3 @@
+﻿texto 6
+
+Después la unidad 3: modelamiento y verificación formal y normales para el modelamiento y el último vamos a ver modelo de procesos, esto de aquí nosotros ya lo conocemos por procesos aquí lo que vamos a ver es como modelamos nuestro proceso, vamos a ver la identificación de tareas, patrones, procesos ya un poco más en la práctica, en la clase de procesos lo vimos un poquillo desde la parte teórica es como conocer un proceso, todo lo de la teoría de los procesos.

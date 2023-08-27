@@ -1,0 +1,3 @@
+﻿texto 53
+
+Entonces según su topología o sea según la manera en que están conectadas, su estructuras o formatos de que están conectados, la otra clasificación se refiere a la relación funcional, el propósito o la función que tiene que es una red de punto a punto que son las que se conectan directamente, o las que ahora utilizamos que son típicamente las redes cliente servidor, esas son las tres clasificaciones generales de la red, cobertura, topología y relación funcional.

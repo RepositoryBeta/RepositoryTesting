@@ -1,0 +1,5 @@
+texto 57
+
+Una solucion del modelo es factible si satisface todas las restricciones optima si, ademas de ser factibles, produce el mejor valor(maximo o minimo) de la funcion objetivo.
+
+Aunque los modelos de investigacion de operaciones deben optimizar, determinado criterio objetivo sujeto a un conjunto de restricciones, la calidad de la solucion que se obtenga depende de la exactitud del modelo para representar el sistema real.

@@ -1,0 +1,15 @@
+﻿texto 19
+
+El sistema consta de 6 capas:
+
+Capa 5: Se encuentra la interfaz de usuario.
+
+Capa 4: Aloja los programas de usuario.
+
+Capa 3: Se controlan los dispositivos entrada y salida.
+
+Capa 2: Se administra la comunicación interproceso y la consola del operador.
+
+Capa 1: Administración de memoria y discos.
+
+Capa 0: Correspondiente al Hardware, realizando asignación del procesador, también alterna entre procesos cuando ocurren interrupciones o se han expirado y proporciona multiprogramación básica de la CPU.

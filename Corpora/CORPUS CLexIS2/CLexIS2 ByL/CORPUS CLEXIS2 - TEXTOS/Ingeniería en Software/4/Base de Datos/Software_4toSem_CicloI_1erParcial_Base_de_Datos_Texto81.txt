@@ -1,0 +1,3 @@
+texto 81
+
+Ok, en ese sentido habíamos nosotros visto estos nuevos elementos que están incorporando al diagrama, vamos a seguir viendo ciertos ejemplos, para que ustedes tengan, sigan teniendo claro estos elementos, ustedes van a poder identificar sin lugar a dudas las entidades básicas, porque las entidades son los elementos básicos, los elementos básicos tienen todos los ejercicios y, ¿cuáles son esos elementos básicos?, recordando son entidades, relaciones, atributos y cardinalidades y cada uno de estos elementos básicos tiene una forma de diagramar, dependiendo de el ejercicio, dependiendo del requerimiento, los atributos. 

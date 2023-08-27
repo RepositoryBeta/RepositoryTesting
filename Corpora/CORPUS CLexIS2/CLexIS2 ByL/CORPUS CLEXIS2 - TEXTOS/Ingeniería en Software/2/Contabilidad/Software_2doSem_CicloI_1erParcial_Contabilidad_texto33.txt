@@ -1,0 +1,5 @@
+﻿texto 33
+
+¿Qué se nota en el debe y en el haber?
+
+En el debe se registran todas las aquellas operaciones que implican un ingreso o un aumento, todos los ingresos y todos los aumentos, términos de contabilidad en el debe, mientras que en el haber se registran aquellas que implican una salida o una disminución y se contabilizan todos los gastos y créditos, es decir todo lo que yo prepago o cancelo por tal servicio, el debe y el haber registran los movimientos de cada cuenta dependiendo si son cuentas de activo o de pasivo. 

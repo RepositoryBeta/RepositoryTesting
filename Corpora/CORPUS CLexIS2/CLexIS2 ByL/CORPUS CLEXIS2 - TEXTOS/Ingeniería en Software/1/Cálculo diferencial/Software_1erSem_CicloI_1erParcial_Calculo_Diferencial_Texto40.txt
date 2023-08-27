@@ -1,0 +1,4 @@
+texto 40
+Se resuelve ese sistema, encontrado las expresiones de C1′ (x) y C2′ (x).
+- Se integran esas expresiones para hallar C1 (x) y C2 (x) y así determinar yp (x).
+- Este método es más general que el de coeficientes indeterminados.

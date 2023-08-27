@@ -1,0 +1,2 @@
+TEXTO 97
+Funcionamiento de la unidad de control: La función principal de la unidad de control de la CPU, es dirigir la secuencia de pasos de modo que la computadora lleva a cabo un ciclo completo de ejecución de una instrucción, y hacer esto con todas las instrucciones que conste el programa. Esta no es más que aquella que controla el funcionamiento del equipo. Por lo tanto, está compuesto por varias áreas, una de esa es la área unidad aritmética lógica, la otra la unidad de control y un conjunto de registros.

@@ -1,0 +1,4 @@
+﻿texto 63
+
+Las fórmulas son muy sencillas, pero, de todas formas, no habrá necesidad de recurrir a ellas porque el programa con el que hagamos el gráfico lo hará por nosotros en R podemos llamarlo con pie.
+El gráfico de sectores está diseñado para representar variables categóricas nominales, aunque no es raro ver graficos de pasteles representando variables de otros tipos. Sin embargo, y en mi humilde opinión, esto no es totalmente correcto.

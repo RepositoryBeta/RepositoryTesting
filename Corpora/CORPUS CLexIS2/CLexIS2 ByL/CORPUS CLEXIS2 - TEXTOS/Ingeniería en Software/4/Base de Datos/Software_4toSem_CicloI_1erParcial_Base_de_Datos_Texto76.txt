@@ -1,0 +1,4 @@
+texto 76
+
+La agregación surge de la limitación que existe en el modelado de ER, al no permitir expresar las relaciones entre relaciones de un modelo ER, en el caso de que una relación X se quiera unir con una entidad cualquiera para formar otra relación.
+Es cuando yo al leer el ejercicio me da la noción de una composición, de un agregación, imagínense que yo estoy en el ejercicio y claramente en el ejercicio me dice debo registrar los arcos de fútbol, las dimensiones de los arcos de fútbol. ¿En qué sector de una cancha se encuentran los arcos de fútbol?, entonces arco de fútbol para mí es una entidad.

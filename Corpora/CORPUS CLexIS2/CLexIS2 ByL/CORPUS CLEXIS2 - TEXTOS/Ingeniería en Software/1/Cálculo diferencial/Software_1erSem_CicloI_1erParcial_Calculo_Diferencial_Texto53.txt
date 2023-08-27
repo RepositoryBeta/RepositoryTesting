@@ -1,0 +1,10 @@
+texto 53
+
+Este se denominará:
+1) Nodo.
+2) Punto de silla.
+3) Centro.
+4) Foco.
+Nodo.
+El punto crítico es un nodo si los autovalores landa 1 y landa 2 son reales y del mismo signo. 
+Las órbitas son similares a semirrectas 0.

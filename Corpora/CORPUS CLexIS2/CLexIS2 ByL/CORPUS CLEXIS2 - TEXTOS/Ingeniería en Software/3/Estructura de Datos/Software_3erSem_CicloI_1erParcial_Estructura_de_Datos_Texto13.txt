@@ -1,0 +1,5 @@
+﻿texto 13 
+
+Una pila es una lista ordinal o estructura de datos en la que el modo de acceso a sus elementos es de tipo LIFO que permite almacenar y recuperar datos.
+Esta estructura se aplica en multitud de ocasiones en el área de informática debido a su simplicidad y ordenación implícita de la propia estructura.
+Una pila típica es un área de la memoria de los computadores con un origen fijo y un tamaño variable, al principio, el tamaño de la pila es cero.

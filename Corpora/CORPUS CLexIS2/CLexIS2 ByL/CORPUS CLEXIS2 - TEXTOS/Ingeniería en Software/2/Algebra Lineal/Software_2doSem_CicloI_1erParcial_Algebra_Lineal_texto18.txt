@@ -1,0 +1,9 @@
+﻿texto 18
+
+PASOS PARA ENCONTRAR LA MATRIZ TRIANGULAR SUPERIOR (MATRIZ [U])
+
+Hacer cero todos los valores abajo del pivote sin convertir este en 1.
+
+Para lograr lo anterior se requiere obtener un factor el cual es necesario para convertir a cero los valores abajo del pivote.
+
+Dicho factor es igual al número que se desea convertir en cero entre el número pivote.

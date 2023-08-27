@@ -1,0 +1,2 @@
+texto 57
+Vamos a definir nuestras variables, en qué consiste, ingresamos un número y vamos a determinar si es verdadero o falso, solo un numero, por  lo tanto necesito una variable no necesito más, por eso es que está aquí la variable num, le puede poner número, le puede cambiar el nombre, en fin, pero esta es sólo una variable y luego este es el mensaje que el usuario va a identificar en pantalla, en esta condición si el número que entró es mayor a 0, entonces nos escribirá este mensaje en pantalla.

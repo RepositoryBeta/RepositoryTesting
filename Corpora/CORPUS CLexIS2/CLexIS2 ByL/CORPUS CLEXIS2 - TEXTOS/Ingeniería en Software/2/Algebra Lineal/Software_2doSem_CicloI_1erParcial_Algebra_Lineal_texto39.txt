@@ -1,0 +1,7 @@
+﻿texto 39
+
+S es subespacio vectorial de V si (S, +, K, *) es espacio vectorial en sí mismo, siendo (+) y (*) las mismas operaciones definidas en V. Las bases de un subespacio son el subconjunto de alfa y beta en el menor subespacio formado por la recta que pasa por los puntos.
+
+Condición de existencia del subespacio.
+
+El criterio para la verificación de que S sea subespacio de V, es que ambas operaciones (+ entre elementos del conjunto S y * con escalares del cuerpo K) sean cerradas, es decir, den como resultado elementos que también pertenezcan a S.

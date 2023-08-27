@@ -1,0 +1,4 @@
+﻿texto 42
+
+Vamos entonces ahora con esta parte con respecto a lo que es investigación operaciones para entrar un poco en lo que es programación lineal, dice La tecnica mas importante de investigacion de operaciones es la programacion lineal. 
+Se diseña para modelos con funciones objetivos, restricciones estrictamente lineales, hay otras tecnicas, como programacion entera, en la que las variables toman valores enteros, programacion dinamica, en la que el modelo original se puede descomponer en subproblemas mas pequeños.

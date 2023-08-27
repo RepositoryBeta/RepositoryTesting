@@ -1,0 +1,2 @@
+TEXTO 20
+De acuerdo al estándar IEEE 830 un requerimiento es una condición o capacidad que debe estar presente en un sistema o componentes de un sistema para satisfacer un contrato, estándar, especificación cualquier otro documento formal . Es una representación documentada de una condición o necesidad de un sistema. todos los requerimientos deben ser verificables. Es decir, se debe conocer si todos los requerimientos se pueden realizar o no se pueden realizar.

@@ -1,0 +1,11 @@
+texto 41
+
+INFO (nodo (p)) = x
+
+NEXT (nodo (p)) = q
+
+INFO (next (p)) = y
+
+NEXT (nodo (q)) = null
+
+LISTA LINEAL ENCADENADA Es una estructura dinámica, donde el número de nodos en una lista puede variar a medida que los elementos son insertados y removidos, por lo tanto, la naturaleza dinámica de una lista contrasta con la naturaleza estática de un arreglo que permanece en forma constante.

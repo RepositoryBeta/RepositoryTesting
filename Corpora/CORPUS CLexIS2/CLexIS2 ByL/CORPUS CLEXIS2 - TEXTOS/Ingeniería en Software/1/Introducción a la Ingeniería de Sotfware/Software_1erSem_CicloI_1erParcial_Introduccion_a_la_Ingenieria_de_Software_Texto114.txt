@@ -1,0 +1,3 @@
+﻿texto 114
+
+Que esta es la tarea iterativa para crear una definición o especificación preliminar de los requisitos que debe cumplir el software a partir de la información obtenida, mediante técnicas de recogida de información. También tenemos que definir los requisitos de los intereses del Software, con el resto del sistema y con el exterior que deben definirse las propiedades que se deben satisfacer para obtener una iteración eficaz con otros elementos del sistema.

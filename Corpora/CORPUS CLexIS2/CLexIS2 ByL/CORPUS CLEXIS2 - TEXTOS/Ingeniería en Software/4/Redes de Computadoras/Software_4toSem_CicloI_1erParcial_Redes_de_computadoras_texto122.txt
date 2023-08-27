@@ -1,0 +1,3 @@
+texto 122
+interferencias: la interferencia resultantes de la presencia de señales en bandas de frecuencia próximas pueden distorsionar o destruir la señal las interferencias son especialmente relevantes en los medios no guiados pero la vez son un problema considerado en los medios guiados,  en medios guiados, las emisiones de cable cercanas pueden causar interferencias.
+número de receptores: un medio guiado se puede usar tanto para un enlace Punto a Punto con para un enlace compartido, mediante el uso de múltiples conectores.

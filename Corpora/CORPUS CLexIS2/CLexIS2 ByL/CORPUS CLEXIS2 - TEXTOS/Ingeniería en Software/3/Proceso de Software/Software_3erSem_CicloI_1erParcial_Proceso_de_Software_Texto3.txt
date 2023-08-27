@@ -1,0 +1,11 @@
+﻿texto 3
+
+Marco de trabajo de las tareas que se requieren para construir software de alta calidad.
+
+Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.
+
+Muchos de los procesos de software son diferentes, pero todos indican:
+Especificaciones.
+Diseño e implementación.
+Validación.
+Evolución.

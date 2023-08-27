@@ -1,0 +1,3 @@
+texto 54
+
+Sistemas Multiprocesador: En un sistema simétrico, cualquier procesador ejecuta procesos de usuario. Se puede asignar una cola de listos a cada CPU (afinidad de CPU), lo cual es conveniente par el uso de la cache. Pueden haber desbalances de trabajo entre procesadores, por lo cual se pueden migran procesos de cola para balancear la carga nuevamente.

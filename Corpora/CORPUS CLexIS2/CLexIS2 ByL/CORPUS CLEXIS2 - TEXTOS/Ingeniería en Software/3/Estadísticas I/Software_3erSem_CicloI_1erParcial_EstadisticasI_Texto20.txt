@@ -1,0 +1,4 @@
+﻿texto 20
+
+Es verdad ahora existe un concepto nuevo que se llama Data Science o ciencia de datos, un científico de datos es una persona que rompe un esquema, es decir es un hibrido entre 2 ciencias. 
+¿Qué es la ciencia en las estadísticas y que es la ciencias computacionales? ya hoy en día ya no hay estadísticos puros, es decir, estadístico que solamente se dedican a la parte numérica y tampoco ya no hay personas que solamente se dedican a la parte de programacion.

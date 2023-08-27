@@ -1,0 +1,6 @@
+texto 43
+
+Ok, sí es que no las encuentra en memoria donde va hacia el repositorio físico o sí va hacia los archivos de datos, entonces acá un proceso que es DBWN. 
+¿Qué es el proceso que va a buscar los datos?, ¿Donde en los archivos de datos?
+Ahí en los archivos de datos, ahí seguramente si va a encontrar el dato almacenado de cuáles son las transacciones que hizo el cliente perez el día de hoy.
+

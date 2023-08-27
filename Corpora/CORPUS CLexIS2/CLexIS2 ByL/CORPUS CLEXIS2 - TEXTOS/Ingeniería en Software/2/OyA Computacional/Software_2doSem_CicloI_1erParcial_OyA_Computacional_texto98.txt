@@ -1,0 +1,4 @@
+texto 98
+
+El procesador ha experimentado una gran evolución realmente, yo he podido ver procesadores Intel que se han comido al mercado, en el transcurso de todo el tiempo y luego he visto un surgir nuevo de procesadores amd, a partir de un nivel o un cambio arquitectónico que se sufrió. Entonces, ha habido una evolución tanto en el uno como en el otro, ha habido un nivel de madurez que se ha ido experimentando porque, Intel obligó a que amd corrija errores y lo logró. Y parte amd obligó a Intel a tomar un poquito de la cultura amd.
+

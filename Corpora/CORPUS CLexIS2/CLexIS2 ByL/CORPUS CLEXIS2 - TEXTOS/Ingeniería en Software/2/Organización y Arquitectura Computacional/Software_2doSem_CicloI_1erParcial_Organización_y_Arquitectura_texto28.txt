@@ -1,0 +1,2 @@
+TEXTO 28
+Unidad central de proceso: Lleva a cabo funciones de procesamiento de datos. Estos datos tienen forma tipo texto, como: nombre, dirección, apellido, semestre. Pero, los datos también tienen otra forma de representarse, tienen otro tipo de representación, como por ejemplo: archivo de sonido, video, voz. Cuando haces una consulta de saldo el celular te responde, y dice tu saldo es, ósea  él nos está brindando una información y la voz es la representación de los datos.

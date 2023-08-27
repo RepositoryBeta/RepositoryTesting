@@ -1,0 +1,5 @@
+texto 24
+
+Y esa falla del programador, ¿Qué es lo que va hacer en la base datos?, que queden actualizaciones incompletas que se generen inconsistencia de datos.
+Datos inconsistente o datos incorrectos y entonces el dbms también, me trae técnicas para yo asegurar que en lo mínimo posible sucedan estas actualizaciones incompletas efectos de Hardware. 
+Ósea si el disco donde estoy almacenando la información está con algún defecto y errores humanos son los que normalmente suelen pasar la mayor cantidad de veces parte un error humano.

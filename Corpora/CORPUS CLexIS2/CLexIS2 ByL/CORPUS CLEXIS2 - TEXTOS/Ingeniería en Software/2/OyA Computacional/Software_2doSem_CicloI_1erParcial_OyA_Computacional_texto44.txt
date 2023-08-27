@@ -1,0 +1,4 @@
+texto 44
+
+Dependiendo, porque no siempre te hace la captura, sino que solamente te entrega esa configuración, entonces estos son los buses, esta es la estructura, esta es la interconexión, a cada línea se le asigna significado o una función particular. Aunque existen diseños de buses muy diversos, entonces ellos las líneas se pueden clasificar en tres grupos funcionales: líneas de control, líneas de dirección y líneas de datos que llegan a todos los elementos.
+

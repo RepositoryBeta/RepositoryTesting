@@ -1,0 +1,3 @@
+﻿texto 20
+
+O sea hacen un modelo para probar, hacen un modelo para ver como va, para ver que pasa, ¿nosotros tenemos que hacer un modelo para probar? si, es mas barato ustedes ya saben de proceso es más barato corregir errores en la etapa de modelamiento que en la etapa de cuando ya se tiene diseñado, o peor ya se está programando el producto, porque si yo encuentro un error en el modelamiento puede ser que es un error mío que lo pueda corregir o puede ser que en el modelamiento me doy cuenta de que mi requerimiento es tan ambiguo o mi modelamiento tiene algún tipo de conflicto con otro requerimiento y me toque ir de regreso la etapa de requerimiento a solventar ese problema y corregir errores.

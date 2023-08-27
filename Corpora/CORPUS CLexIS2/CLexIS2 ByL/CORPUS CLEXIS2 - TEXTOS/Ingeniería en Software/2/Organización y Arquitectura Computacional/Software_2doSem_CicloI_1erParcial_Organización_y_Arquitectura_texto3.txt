@@ -1,0 +1,2 @@
+TEXTO 3
+Organización y Arquitectura: La organización de computadores, se refiere a las unidades funcionales y sus interconexiones que dan lugar especificaciones arquitectónicas. Está conformado por cuatro grandes partes que es la unidad aritmética lógica que es la ALU, la unidad de control. Todas las partes que forman el CPU, las tenemos encapsuladas en un gran dispositivo conocido como, el procesador, es construido por diversos fabricantes y difieren mucho en los modelos.

@@ -1,0 +1,15 @@
+﻿texto 63
+
+Programador 
+
+Encargado de traducir en código la especificación del sistema.
+
+Objetivos Programador 
+
+Menor cantidad de problemas de testeo. 
+
+Aumento de la productividad de los programadores. 
+
+Aumento de la eficiencia en la manutención del programa. 
+
+Aumento de la eficiencia en la modificación del programa.

@@ -1,0 +1,5 @@
+TEXTO 23
+Los requerimientos puedes describir alguno de los siguientes puntos:
+1) Una facilidad a nivel de usuario: Ejemplo, el procesador de texto debe incluir un verificador de ortografía y una función de corrección.
+2) Una propiedad muy general del sistema: Ejemplo, el sistema debe asegurar que la información personal nunca será la disponible sin autorización.
+3) Una restricción específica del sistema: Ejemplo, el sensor debe ser presionado 10 veces por segundo.

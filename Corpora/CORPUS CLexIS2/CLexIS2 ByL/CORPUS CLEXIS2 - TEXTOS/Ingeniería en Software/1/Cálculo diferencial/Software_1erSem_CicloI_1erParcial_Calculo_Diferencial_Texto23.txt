@@ -1,0 +1,5 @@
+texto 23
+Escribir la nueva integral con los nuevos límites de integración y ya cambiando los diferenciales, 
+Resuelve la integral interior, 
+Resuelve la integral exterior,
+estos son los pasos a seguir para cambiar el orden de integración.

@@ -1,0 +1,6 @@
+texto 62
+
+Muy bien, miren que en este nivel conceptual, vuelvo y repito para que les quede claro, todavía nosotros no llegamos a modelo relacional modelo relacional efectivamente, y nosotros vamos a ver claramente, como se relacionan, con qué atributos se relaciona, porque siempre hay un atributo que relaciona una entidad a otra, eso ya se va a ver claramente en el modelo relacional ya en el modelo relacional nosotros poco a poco, ya vamos a tener que ir registrando a manera de tabla, una tabla en Excel datos y ustedes ya van a poder ver como físicamente se estarían almacenando esos datos.
+
+
+

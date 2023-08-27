@@ -1,0 +1,2 @@
+TEXTO 23
+Resta binaria.- La resta binaria tiene su propia tabla, donde 0 - 0 = 0, 1 - 0 = 1, 1 -1 = cero y la excepción es que cuando tenemos 0 - 1 = 1 y me prestan uno. Este uno prestado se lo acumula o se lo incorpora en la columna siguiente a restar. Siempre que se realiza la resta binaria, se debe tomar en cuenta su propia tabla de operación para poder llegar al resultado exacto y óptimo de la operación realizada, en este caso la resta binaria.

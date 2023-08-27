@@ -1,0 +1,3 @@
+﻿texto 29
+
+esa recogida de los datos se lo puede hacer a partir de una herramienta como lo es una encuesta una vez que yo ya tengo las 100, 200, 350, encuentas todo eso lo envío a una a un modelo computacional puede ser en este caso a Excel, hago una base de datos en Excel o simplemente hago una base de datos donde te quiera hacerla no, puede ser en MYSQL, lo que usted quiera pero realmente usted va a transformar de una parte análoga en este caso de papeles lo va a transformar a una parte digitales.

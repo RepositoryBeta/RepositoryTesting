@@ -1,0 +1,7 @@
+﻿texto 36
+
+Bueno como estábamos viendo las tecnologías de la información y la comunicación son tema importante, un tema vital en la sociedad porque no hay sociedad que no cuente con estas tecnologías o no tenga como interesarle o importarle lo que está pasando en las tic.
+
+Arquitectura de un PC
+
+el objetivo de estos contenidos es saber obviamente sobre la arquitectura del pc y de sus componentes así como los medios de conexión o los puertos que nos ayudan a poder conectarnos.

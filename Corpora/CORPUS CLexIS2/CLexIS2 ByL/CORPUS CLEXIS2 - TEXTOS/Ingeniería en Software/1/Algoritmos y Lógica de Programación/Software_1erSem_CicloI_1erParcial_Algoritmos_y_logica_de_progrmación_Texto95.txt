@@ -1,0 +1,3 @@
+﻿texto 95
+
+Me dice que está compuesto por todas estas opciones son uno, dos, tres, cuatro y cinco cada una de estas opciones y que están aquí propuestas tienen qué ser ejecutadas y tienen que darme un resultado, es decir que yo tengo aquí que serían como 4 programas, dentro de 1 menu que hago entonces que dice el ejercicio nunca me puedo saltar esta parte que es tan fundamental al de poder realizar el algoritmo, mi menú de opciones estaría compuesto por todas estas opciones que están de aquí me dice que haga un menú de opciones y ponga estas opciones.

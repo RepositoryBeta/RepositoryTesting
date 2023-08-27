@@ -1,0 +1,7 @@
+texto 58
+
+En el caso de que haya algún proceso bloqueado en una operación wait anterior, se desbloqueará a un solo proceso. 
+
+Las operaciones wait y signal son dos operaciones genéricas que deben particularizarse en cada sistema operativo. A continuación se presentan los servicios que ofrece el estándar POSIX para trabajar con semáforos. 
+
+En POSIX, un semáforo se identifica mediante una variable del tipo semt. 

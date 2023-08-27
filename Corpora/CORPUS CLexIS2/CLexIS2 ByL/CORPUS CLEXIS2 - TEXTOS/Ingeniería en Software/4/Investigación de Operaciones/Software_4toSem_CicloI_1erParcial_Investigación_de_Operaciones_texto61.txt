@@ -1,0 +1,3 @@
+﻿texto 61
+
+Cuando hablamos de soluciones factibles nos referimos a todas las soluciones que están en este espacio sombreado, lo llamamos zona factible también o zona de solucion, luego hay un término que también hemos manejado que lo que queremos es optimizar cómo utilizamos esa solución factible, esas ecuaciones tenemos que evaluarlas en estos puntos del entorno a esto se le llama también recinto de puntos para verificar cuál es la el valor óptimo de la función objetivo.

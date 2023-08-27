@@ -1,0 +1,9 @@
+﻿texto 17
+
+Estos modelos pueden incluir actividades que son parte de los procesos y productos de software y el papel de las personas involucradas en la ingeniería del software.
+
+Algunos ejemplos de estos tipos de modelos que se pueden producir son:
+
+- Un modelo de flujo de trabajo.
+
+Muestra la secuencia de actividades en el proceso junto con sus entradas, salidas y dependencias. Las actividades en este modelo representan acciones humanas.

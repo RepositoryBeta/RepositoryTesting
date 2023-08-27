@@ -1,0 +1,8 @@
+texto 9
+
+Conceptos Basicos asociados a los SO
+Llamadas al sistema: Interfaz entre el sistema operativo y los programas de usuario.
+Procesos: Consta de un programa ejecutable, datos, pila, contador.
+Archivos: Antes de poder leer un archivo, hay que abrir este: despues de leer un archivo, este debe cerrarse
+Directorio: Una forma de agrupar los archivos.
+El shell: Interprete de comandos no hace parte del SO.

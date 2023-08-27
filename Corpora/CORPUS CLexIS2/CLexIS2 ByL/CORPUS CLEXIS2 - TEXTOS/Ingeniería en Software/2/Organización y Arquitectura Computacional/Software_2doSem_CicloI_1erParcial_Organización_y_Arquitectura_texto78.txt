@@ -1,0 +1,2 @@
+TEXTO 78
+Instrucciones de máquina: Hay una comunicación siempre con la CPU y forma parte muy fundamental el sistema operativo, cuando nosotros encendemos el computador lo primero que se activa es el sistema operativo, que es el que tiene el control de todas las aplicaciones que están en el computador, el sistema operativo se comunica con el CPU y le da órdenes que revise si estáfuncionando bien el teclado, que esté funcionando bien el mouse, etc.

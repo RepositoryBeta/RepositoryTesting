@@ -1,0 +1,5 @@
+﻿texto 50
+
+Coeficiente de variación 
+Es una medida de la dispersión relativa de los datos, se define como la desviación estándar de la muestra expresada como porcentaje de la media muestral, es de particular utilidad para comparar la dispersión entre variables con distintas unidades de medida. 
+Esto porque el coeficiente de variación, a diferencia de la desviación estándar, es independiente de la unidad de medida de la variable de estudio.

@@ -1,0 +1,5 @@
+﻿texto 30   
+
+Función Recursiva.
+Las funciones recursivas son funciones que se llaman a sí mismas durante su propia ejecución. Ellas funcionan de forma similar a las iteraciones, pero debe encargarse de planificar el momento en que dejan de llamarse a sí mismas o tendrá una función recursiva infinita.
+Estas funciones se estilan utilizar para dividir una tarea en subtareas más simples de forma que sea más fácil abordar el problema y solucionarlo.

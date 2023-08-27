@@ -1,0 +1,4 @@
+texto 102
+
+Arquitectura: Actualmente, Intel utiliza un diseño de núcleo monolítico, lo que significa que todos los núcleos están integrados en un único bloque de silicio, por su parte AMD utiliza un diseño que podemos clasificar como MCM (módulo multichip), en el que los núcleos de procesador se integran en dos o más bloques de silicio. En el caso de la arquitectura de núcleo monolítico, permite conseguir un mayor rendimiento y una mejores frecuencia de trabajo, pero es más costosa y complicada de desarrollar, sobre todo cuando se aplican reducciones de proceso.
+

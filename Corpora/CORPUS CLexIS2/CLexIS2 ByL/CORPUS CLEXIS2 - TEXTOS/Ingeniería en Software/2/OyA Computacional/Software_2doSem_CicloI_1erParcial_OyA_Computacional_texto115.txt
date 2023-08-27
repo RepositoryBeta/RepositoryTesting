@@ -1,0 +1,4 @@
+texto 115
+
+Cuando hablamos de organización y arquitectura computacional, hablamos de conceptos más claros, Debemos entender la diferencia entre el uno y el otro, en la forma más específica la arquitectura de computadores se refiere específicamente a los atributos de un sistema, aquellos atributos que son visibles al programador, o para decirlo de otra manera, aquellos atributos que tienen un impacto directo en la ejecución lógica de un programa.
+

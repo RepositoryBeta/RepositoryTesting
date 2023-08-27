@@ -1,0 +1,3 @@
+texto 116
+
+Entonces, eso ya me da una pauta a mi para decir que tengo que definir el ciclo de aquí arriba, porque cada vez que ingreso al ciclo me tiene que presentar el menú, y luego por cada opción hacer lo que tenga que hacer, por por la opción seleccionada si el valor de esta variable es 1, haga este contenido, si lo que tiene la variable o lo que el usuario ingresó es 2, haga esto de aca, entonces tengo que simplemente venir a definir el menú.

@@ -1,0 +1,5 @@
+texto 91
+
+Grafo no bipartito. Un grafo G = (V, E) es bipartito, si el conjunto de vértices V no se puede separar en dos o más subconjuntos. El grafo de la figura 11.14 no es bipartito porque no se puede separar en dos subconjuntos.
+
+Grafo Bipartito Completo. El grafo bipartito completo con m y n vértices, denotada (Km, n), es la gráfica simple cuyo conjunto de vértices está dividido en conjuntos V1 con m vértices y V2 con n vértices, de los cuales existe una arista entre cada par de vértices v1 y v2, donde v1 está en V1 y v2 está en V2.

@@ -1,0 +1,4 @@
+texto 78
+
+Y la memoria RAM, obviamente es más rápida que el disco duro y ya el disco duro hasta ahí llega, ya esos son los recursos de la computadora, esas son sus limitantes. Pero, ya hemos hablado de 5 niveles de almacenamiento que tiene el microprocesador, todos trabajan para él en ese sentido, porque él les trabaja a todos, es un sistema, un conjunto de elementos que interactúan entre sí, entonces recapitulando, el microprocesador: alu, fpu, l1 caché, l2 caché, l3 caché, tenemos una unidad de administración de entrada y salida, donde ingresan datos para procesarlos y salen ya procesados.
+

@@ -1,0 +1,3 @@
+texto 1
+
+Aquí hemos hablado del bus de computadora, este es un bus ide o un bus ata, que ya vamos a definir lo que es un ide, ata y un sata. En este yo primero conecto en la mainboard y luego coloco los dispositivos ópticos y los dispositivos de almacenamiento, también podría colocar otros tipos de dispositivos, dependiendo de serialización o señalización, dependiendo de la necesidad. Eso con respecto al bus del computadora.

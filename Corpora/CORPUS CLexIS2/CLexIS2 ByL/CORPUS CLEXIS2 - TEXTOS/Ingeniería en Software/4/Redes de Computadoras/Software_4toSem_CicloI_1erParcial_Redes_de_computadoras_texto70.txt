@@ -1,0 +1,3 @@
+texto 70
+
+la topología jerárquicas son estilo de árbol o rama, viene de forma jerarquía de estilo árbol y las híbridas son las que mezclan o combinan varios tipos de topología por ejemplo lo mejor en un computador  que tiene topología jerárquica se me ocurre poner algo como un switch y partiendo de aquí hago una topología estrella y voy enlazando redes a la final entonces las híbridas combinan varios tipos de redes.

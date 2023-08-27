@@ -1,0 +1,5 @@
+﻿texto 69
+
+Sistema operativo
+
+Es un programa Software que después de arrancar o iniciado el ordenador se encarga de gestionar todos los recursos del sistema informático, tanto de Hardware como son las partes físicas, disco duro, pantalla, teclado, etcétera,  como el software, permitiendo la comunicación entre el usuario y el ordenador.

@@ -1,0 +1,13 @@
+texto 73
+
+ La temporización: aspectos relativos a la sintonización de velocidades y secuenciación.
+ Las funciones claves que Generalmente lleva a cabo un protocolo comprenden:
+
+el encapsulamiento 
+fragmentación y reensamblado 
+el control de la conexión 
+la entrega ordenada 
+el control de flujo
+el control de errores
+direccionamiento 
+la multiplexación.

@@ -1,0 +1,8 @@
+Texto 98
+
+Y esta interrelación, se va a convertir en una nueva entidad, pero eso ya se lo mencionó porque obviamente si se convierte en una nueva entidad ya fácilmente se acopla estos atributos de esta interrelación, se acoplan y esa nueva entidad cuando yo tengo de muchos a muchos, es en el modelo relacional, se va a convertir y va a parecer una nueva entidad y obviamente esa nueva va a tener estos atributos que tienen una interrelación plantando un modelo relacional para que puedan entender que en el modelo conceptual que estamos haciendo es válido diagramarlo de esta forma, no es válido de muchos a muchos y es válido que las interrelaciones tengan 12 atributos propios de esas interrelación.
+
+
+
+
+

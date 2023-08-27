@@ -1,0 +1,4 @@
+texto 93
+
+Vemos aquí, el funcionamiento de los registros, nosotros en algún momento dijimos que la memoria RAM tiene una arquitectura muy parecida a lo que fuera una hoja de Excel, su secuenciamiento o su gestión de memoria en el microprocesador, la hace en un registro, en donde en una columna tiene enumerados las celdas que posee y en otra columna, almacena las instrucciones que tienen que ser ejecutadas.
+

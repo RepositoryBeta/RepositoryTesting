@@ -1,0 +1,13 @@
+texto 33
+
+- La definicion del problema.
+
+- La construccion del modelo.
+
+- La solucion del modelo.
+
+- La validacion del modelo.
+
+- La implementacion de la solucion.
+
+De las cinco fases, solo la numero tres de la solucion del modelo es la que esta mejor definida y es la mas facil de implementar en un estudio de investigacion de operaciones, porque maneja principlamente, modelos matematicos precisos. 

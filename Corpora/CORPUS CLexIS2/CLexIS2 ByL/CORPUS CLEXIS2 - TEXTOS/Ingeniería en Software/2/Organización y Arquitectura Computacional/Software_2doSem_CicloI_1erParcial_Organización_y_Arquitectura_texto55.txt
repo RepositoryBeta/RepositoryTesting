@@ -1,0 +1,2 @@
+TEXTO 55
+Introducción a las memorias: Las memorias auxiliares son las memorias externas, dentro de esta gran gama de memorias, que tiene nuestro computador están las memorias auxiliares, las auxiliares son externas, algunos ya han desaparecido en algunos casos. Tenemos la memoria USB que ya podemos hacer uso de almacenamiento permanente ya no solamente lo tienes en RAM, que es una memoria volátil que al apagar el computador se pierde todo. Esta memoria te van a dar un almacenamiento permanente de tus datos.

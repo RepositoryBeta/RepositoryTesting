@@ -1,0 +1,3 @@
+texto 28
+
+pero sólo transmiten el video, transmiten si están robando transmiten lo que sea nada más pero no hay no requieren esos sistemas una confirmación, por supuesto para los que saben redes, por ejemplo se usa UDP para las comunicaciones de cámaras IP, porque UDP es un sistema que no requiere confirmación, entonces precisamente es muy importante la confirmación en general, sino Cómo se detecta errores, empezamos hablar de que necesitamos confirmar errores.

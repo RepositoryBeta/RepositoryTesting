@@ -1,0 +1,13 @@
+texto 80
+
+Fragmentación Interna 
+
+Consiste en aquella parte de la memoria que no se está usando pero que es interna a una partición asignada a una tarea. 
+
+Fragmentación Externa 
+
+Ocurre cuando una partición disponible no se emplea porque es muy pequeña para cualquiera de las tareas que esperan. 
+
+Desaprovechamiento de la Memoria.
+
+Gestión de la memoria con particiones variables.

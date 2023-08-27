@@ -1,0 +1,3 @@
+texto 62
+
+Entonces los datos cuando viajaban y se topaban con esa resistencia sabían que ahí terminaba el cable, que terminaba el bus, asi mismo en el otro extremo, en el otro terminal estaba la otra resistencia pero en el instante que el bus se rompe en cualquier lado se cae toda la red porque ya no tiene como viajar los datos de derecha a izquierda y no encuentra el terminador.

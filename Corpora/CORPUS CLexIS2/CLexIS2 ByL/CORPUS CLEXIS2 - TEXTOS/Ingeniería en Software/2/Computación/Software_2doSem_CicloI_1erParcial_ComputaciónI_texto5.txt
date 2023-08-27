@@ -1,0 +1,11 @@
+﻿texto 5
+
+tenemos 4 unidades que vamos a revisar
+
+1) Introducción a las tics.
+
+2) Herramienta para el procesamiento de textos.
+
+3) Herramienta para presentación dinámica de la información.
+
+4) Herramientas para la investigación.

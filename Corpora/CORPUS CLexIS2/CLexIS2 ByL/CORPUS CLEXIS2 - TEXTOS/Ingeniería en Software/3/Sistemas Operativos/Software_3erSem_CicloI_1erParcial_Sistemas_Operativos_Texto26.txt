@@ -1,0 +1,9 @@
+texto 26
+
+Definición de proceso.
+
+Espíritu animado de un programa
+
+ Es una ejecución concreta de un programa, con un camino determinado y un valor de sus variables determinados.
+
+La unidad mínima de expedición y de asignación de recursos es el proceso.

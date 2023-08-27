@@ -1,0 +1,5 @@
+texto 80
+
+¿Cómo funciona?
+Bueno, la unidad de entrada que también se convierte en la unidad de salida, recibe las instrucciones, van a una unidad de memoria, a la l1, l2 o l3 y luego pasan a una unidad de control donde le dice que no más tiene que hacer, tiene que hacer una unidad aritmética lógica o tiene que hacer una unidad de punto flotante, lo transcribe, lo procesa según lo que necesita y lo saca. Entonces, internamente por aquí podemos ver el reloj que me da, el que me marca la velocidad del procesador.
+

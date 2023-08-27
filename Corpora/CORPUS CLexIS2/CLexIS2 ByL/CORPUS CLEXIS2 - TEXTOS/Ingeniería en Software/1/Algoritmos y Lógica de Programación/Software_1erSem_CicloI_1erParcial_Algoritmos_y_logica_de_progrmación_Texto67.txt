@@ -1,0 +1,2 @@
+texto 67
+Nuestros datos de tipo enteros ya lo sabemos que van en dígitos del 0 al 9, pero dentro de los enteros, también tenemos enteros positivos que son los que van en la recta numérica del cero hacia delante y tenemos los enteros negativos, por lo tanto este -176 es un dato de tipo entero negativo, el 23 es un dato de tipo entero positivo ,el 0 también es un entero positivo.

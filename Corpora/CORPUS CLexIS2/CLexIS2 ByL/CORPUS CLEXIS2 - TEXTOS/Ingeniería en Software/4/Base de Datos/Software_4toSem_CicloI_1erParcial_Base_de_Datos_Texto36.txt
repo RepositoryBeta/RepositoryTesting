@@ -1,0 +1,6 @@
+texto 36
+
+Usuarios tratando de acceder a la base de datos a un mismo objeto, al mismo instante de tiempo y entonces el dbms me trae una técnica, como les menciono que es la técnica de bloqueo, el manejo de transacciones, también es importante dentro de los dbms por las transacciones. 
+Como ven ahí, es un programa que se ejecuta como una sola operación, luego de una ejecución en la que se produce una falla, es el mismo que se obtendría si el programa nos hubiera ejecutado, imagínense de que te van a hacer una transacción al cajero automático. 
+
+

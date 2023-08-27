@@ -1,0 +1,11 @@
+texto 39
+
+CAMPO DE DIRECCIÓN (NEXT): Contiene la dirección del nodo 
+
+siguiente de la lista.
+
+LISTA LINEAL ENCADENADA: Es cuando los elementos fueron 
+
+ordenados explícitamente en nodos, es decir, cada elemento contiene dentro de sí mismo la dirección del elemento siguiente.
+
+List --> [info | next] --> [info | next] --> [info | next] --- // (nil).

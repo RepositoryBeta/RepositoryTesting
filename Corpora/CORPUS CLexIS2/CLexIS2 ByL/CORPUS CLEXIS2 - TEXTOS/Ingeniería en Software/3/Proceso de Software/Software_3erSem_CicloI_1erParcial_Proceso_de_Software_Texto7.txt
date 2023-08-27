@@ -1,0 +1,11 @@
+texto 7
+
+Rapidez: Con que velocidad se producen los sistemas
+
+Adaptación: Capacidad que tiene un usuario del mismo de adaptarlo a sus necesidades
+
+Importancia del proceso de Software
+
+Un proceso software debe especificar:
+
+La secuencia de actividades a realizar por el equipo de desarrollo.

@@ -1,0 +1,3 @@
+﻿texto 78
+
+R para lectura, todo para un nivel que a un niño de escuela se le puede enseñar que r es lectura, escritura y no tiene que enseñarle que es un puntero y le cree el archivo ahí estamos hablando de un tipo de dato abstracto que a nosotros no nos importa cómo funciona file lo mismo string usted ni siquiera sabe como funciona string solo lo usa y se acabó, bueno una clase está dividida en atributos y métodos, los atributos ya sabemos que son son la parte de descriptiva de mi clase pueden estar compuestos de datos primarios como también pueden haber ahí otros tipos de datos abstractos.

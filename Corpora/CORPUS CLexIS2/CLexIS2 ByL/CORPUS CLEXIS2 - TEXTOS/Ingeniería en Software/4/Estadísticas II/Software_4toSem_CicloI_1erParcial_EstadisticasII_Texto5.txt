@@ -1,0 +1,3 @@
+texto 5
+
+a X lo vamos a representar como esa variable aleatoria que nosotros queremos identificar por eso dice sea X una funcion cuyo dominio es Omega  y cuyo conjunto de llegada es los números reales verdad donde R que Qué son los números reales, como se ven aqui pertece al conjunto de números reales bajo estas condiciones la función X recuerden ya es una función, al  hablar de variables aleatorias estamos hablando de una función de probabilidad.

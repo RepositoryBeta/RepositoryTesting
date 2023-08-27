@@ -1,0 +1,3 @@
+﻿texto 89
+
+Estas variables de decisión van a entrar a mi tabla pero se van a posicionar acá en la base entonces vamos a obtener vamos a ver esas variables que entran y variables que salen ,las variables que esta entrando van a salir de esas variables artificial ahora vamos a ver paso a paso, vamos a verlo primero de forma teórica y luego lo vamos a hacer a través de un ejercicio entonces fíjense el primer paso era estandarizar las restricciones de holgura o una variable.

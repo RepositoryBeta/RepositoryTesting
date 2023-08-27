@@ -1,0 +1,4 @@
+﻿texto 71
+
+¿Cómo y para qué sirve?, el diagrama de clases, una abstracción seguimos con la palabra abstracción, me encanta el término abstracción de un dominio y formalizar el análisis de conceptos relacionados al mismo tiempo, un dominio es lo que se conoce de algo.
+Por ejemplo si usted va a hacer un sistema médico, el dominio es medicina, si usted va a hacer un sistema educativo como es el moodle o el siug, el dominio es educación, universidades.

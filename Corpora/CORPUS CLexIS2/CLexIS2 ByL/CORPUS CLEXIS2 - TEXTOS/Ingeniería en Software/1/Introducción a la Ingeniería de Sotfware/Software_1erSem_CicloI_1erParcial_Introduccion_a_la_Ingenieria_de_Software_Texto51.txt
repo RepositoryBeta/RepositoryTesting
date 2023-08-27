@@ -1,0 +1,6 @@
+texto 51 
+
+Ciclo de vida del software
+
+El ciclo de vida del Software consiste de las siguientes fases: análisis de requisitos, diseño, implementación, prueba y mantenimiento. 
+El proceso de desarrollo tiende a una interacción de estas fases más que un proceso lineal  (CERN, 1996).

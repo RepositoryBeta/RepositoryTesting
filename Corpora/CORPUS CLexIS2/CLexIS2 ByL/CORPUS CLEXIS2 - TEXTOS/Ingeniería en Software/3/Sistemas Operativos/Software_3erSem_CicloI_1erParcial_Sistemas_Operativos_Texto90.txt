@@ -1,0 +1,9 @@
+﻿texto 90
+
+Implementación de Directorios
+
+Cuando se abre un archivo, el sistema operativo usa el nombre de la ruta proporcionado por el usuario para localizar la entrada del directorio.
+
+Directorios CPM
+
+Directorios en MSDOS: Los directorios pueden tener otros directosios, dando lugar a un sistema de archivos jerarquicos. 

@@ -1,0 +1,2 @@
+texto 92
+Luego iniciamos con uno evaluamos la condición todas las que él quiera y antes de regresar al ciclo tengo que incrementarlo porque sino incrementa I tiene uno y luego vamos a suponer que esta línea no ocurre, no se incremente y dice uno es menor a 100, si uno es menor a 100 es necesario incrementarlos para que pueda llegar a cumplirse la condición ya está hasta su límite, luego cuando ya se alcanzó un número mayor al límite. 

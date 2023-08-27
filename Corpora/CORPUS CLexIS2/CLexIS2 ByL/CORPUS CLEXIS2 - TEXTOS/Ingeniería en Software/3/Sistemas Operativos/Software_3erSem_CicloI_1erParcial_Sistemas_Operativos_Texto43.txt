@@ -1,0 +1,11 @@
+﻿texto 43
+
+Tipos de procesos 
+
+Los procesos tienden a tener ráfagas de ejecución (CPU burst) y ráfagas de espera de operaciones de entrada y salidad (Input Output burst). 
+
+Procesos CPU bound: Requieren un alto uso del CPU. 
+
+Procesos Input Output bound: Realizan muchas operaciones de entrada salida. 
+
+La prioridad de un proceso para obtener un recurso será inversamente proporcional al uso que haga del mismo. Es decir, si un proceso es CPU bound, entonces su prioridad para hacer uso de la CPU será baja. 

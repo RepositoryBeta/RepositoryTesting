@@ -1,0 +1,4 @@
+TEXTO 36 
+Los requerimientos NF son muy importantes. Si no se consiguen, el sistema es inútil. Pueden ser difíciles de establecer (sobre todo al principio), si son imprecisos puede ser difícil verificarlos. Algunas recomendaciones para determinarlos: 
+Rapidez: Transacciones procesadas por segundo, Tiempo de respuesta al usuario y a eventos, Tiempo de actualización de la pantalla.
+Tamaño: K Bytes, Numero de chips de RAM. Es la capacidad que debe tener el software.

@@ -1,0 +1,9 @@
+texto 50
+
+Este algoritmo tiene dos posibles variantes: 
+
+expropiador (si aparece un proceso con menor CPU burst en la lista, se quita el actual y se ejecuta el nuevo). 
+
+No expropiador ( aunque aparezca un proceso con menor CPU burst en la lista, se espera a que el proceso que tiene la CPU, deje de ejecutar)
+
+Basados en prioridad: Este algoritmo se basa en dar prioridades a los procesos, asignando al procesador cuando queda disponible, el proceso que tenga mayor prioridad.

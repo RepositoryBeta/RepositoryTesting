@@ -1,0 +1,2 @@
+TEXTO 2
+Organización y Arquitectura: La arquitectura del computador: se refiere a los atributos de un sistema que son visibles a un programador, o para decirlo de otra manera, aquellos atributos que tienen un impacto directo en la ejecución de la lógica de un programa. Entre los ejemplos de atributos arquitectónico se encuentran el conjunto de instrucciones, el número de bits usados para representar varias tipos de datos (por ejemplo, números, caracteres), mecanismo de entrada y salida y técnicas para direccionamiento de memoria.

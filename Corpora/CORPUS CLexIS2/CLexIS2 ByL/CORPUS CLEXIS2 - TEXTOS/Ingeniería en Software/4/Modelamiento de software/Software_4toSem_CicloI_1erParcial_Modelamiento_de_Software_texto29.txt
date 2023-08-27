@@ -1,0 +1,3 @@
+﻿texto 29
+
+Y para todo eso debe abstraerse porque sino se abstraen no van a poder solucionar nuestro del nivel de abstracción viene de otras ingenierías, de otras ramas, si ustedes ven por ejemplo cuando alguien ha comprado o está arreglando algún tipo de mecánica o algún tipo de motor o algún auto, quizás su bicicleta ustedes no necesitan crear la pieza simplemente compran una pieza nueva y la ponen y se acaba.

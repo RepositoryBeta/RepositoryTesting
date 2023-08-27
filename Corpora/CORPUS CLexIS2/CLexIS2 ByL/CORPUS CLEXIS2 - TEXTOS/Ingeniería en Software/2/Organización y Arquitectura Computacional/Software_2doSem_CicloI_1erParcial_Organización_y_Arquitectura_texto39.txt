@@ -1,0 +1,3 @@
+
+TEXTO 39
+Unidad central de proceso: Si se están haciendo operaciones de cálculo, de programación, él hará la comunicación correspondiente entre la unidad aritmética lógica, entre la unidad de control y los registros de almacenamiento temporal, que son áreas de memoria muy veloces para poder dar esos resultados en los mejores tiempos. Claro está, que todo depende de que procesador estamos utilizando, tenemos desde los i3 hasta el i9 pero difieren mucho en precios.

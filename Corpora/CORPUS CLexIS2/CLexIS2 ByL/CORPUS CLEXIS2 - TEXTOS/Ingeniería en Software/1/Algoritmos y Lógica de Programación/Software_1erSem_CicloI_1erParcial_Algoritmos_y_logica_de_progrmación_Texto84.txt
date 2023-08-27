@@ -1,0 +1,2 @@
+texto 84
+Voy a analizar esto porque no sé cómo hacerlo estoy en el mismo punto de ustedes en el punto de partida que hago cómo lo voy a hacer entonces lo que se me ocurre analizar no dice obtener los números del 1 al 100 aplicando ciclo mientras, aplicar ciclo mientras no puedo aplicar ciclos para por lo tanto, entonces ya sé que esta es una clausura. Pero qué tengo que hacer me dice ingresar algo no o me dice obtener los números me dice que se debe presentar los números, no tengo que ingresar nada por lo tanto serán los números del 1 2 3 4 y así sucesivamente hasta el 100.

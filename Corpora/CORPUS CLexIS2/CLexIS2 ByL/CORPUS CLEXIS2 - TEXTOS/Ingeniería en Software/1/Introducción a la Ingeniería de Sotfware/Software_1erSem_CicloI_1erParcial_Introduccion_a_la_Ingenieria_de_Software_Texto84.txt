@@ -1,0 +1,7 @@
+texto 84 
+
+ Espiral
+
+ Es un modelo de ciclo de vida desarrollado por Barry boehm en 1988 - actividades de este modelo son una espiral, cada bucle es una actividad.
+
+ Las actividades no están fijadas a prioridad, sino las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle anterior.

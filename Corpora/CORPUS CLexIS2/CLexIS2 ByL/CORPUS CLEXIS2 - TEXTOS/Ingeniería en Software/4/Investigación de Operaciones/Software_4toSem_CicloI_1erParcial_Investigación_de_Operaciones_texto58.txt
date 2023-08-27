@@ -1,0 +1,3 @@
+﻿texto 58
+
+Entonces al aplicar programación lineal ya van a ver qué tal vez ahorita estamos hablando teóricamente algunos aspectos tal vez nos parezcan confusos pero cuando ya empezamos a hacer los cálculos nos vamos a dar cuenta de que se refiere, nosotros vamos a como dice acá lo del primer paso que es la definición de la variable de decisión del problema, existe un problema necesito subir la ganancia necesito dinero, hay un problema necesito determinar cuáles son las variables de decisión, quiénes intervienen, ahora bien luego tengo que establecer una función objetivo y luego una restricciones.

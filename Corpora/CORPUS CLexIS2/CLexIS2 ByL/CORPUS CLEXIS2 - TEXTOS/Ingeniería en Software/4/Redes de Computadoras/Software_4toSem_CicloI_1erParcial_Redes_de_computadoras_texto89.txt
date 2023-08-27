@@ -1,0 +1,7 @@
+﻿texto 89
+
+DNS: Traducción de nombres por direcciones IP.
+
+HTTP: Protocolo usado en cada  transacción de la web, y sigue el esquema petición respuesta.
+
+SMTP POP: Se encarga del envío del correo el servidor,  mientras que POP3 o IMAP envía del servidor al dispositivo final.

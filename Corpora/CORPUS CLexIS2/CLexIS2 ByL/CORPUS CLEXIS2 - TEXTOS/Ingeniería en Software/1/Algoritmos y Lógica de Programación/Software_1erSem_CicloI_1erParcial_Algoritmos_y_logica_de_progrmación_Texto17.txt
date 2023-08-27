@@ -1,0 +1,3 @@
+﻿texto 17
+
+Analizar el problema, es bien importante que entendamos bien a fondo es el problema que estamos tratando de resolver para poder llegar a una solución útil, si necesito crear un programa que le permita a una empresa calcular la nómina de sus empleados, necesito primero comprender cómo calcula esa nómina la empresa, hay que saber cuáles son los conceptos por los que le pagan a los empleados, las deducciones que se les hacen.

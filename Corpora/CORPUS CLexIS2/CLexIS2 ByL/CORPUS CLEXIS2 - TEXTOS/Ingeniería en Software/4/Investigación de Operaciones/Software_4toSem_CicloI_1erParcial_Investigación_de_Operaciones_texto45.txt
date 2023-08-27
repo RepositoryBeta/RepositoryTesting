@@ -1,0 +1,5 @@
+﻿texto 45
+
+El objetivo primordial de la programacion lineal es optimizar, es decir, maximizar o minimizar funciones en varias variables reales con restricciones lineales (sistemas de inecuaciones lineales), optimizando una funcion objetivo tambien lineal. 
+
+Entonces la promoción lineal en general es una técnica basada en la resolución de problemas mediante funciones lineales como lo dices en este el término dentro de lo que es el concepto de la promoción líneal.

@@ -1,0 +1,2 @@
+﻿texto 96
+Lo primero se me ocurre es que tengo que analizar el ejercicio eso si nadie me puede salvar de eso porque sino lo analizo, no lo voy a comprender y no lo voy a poder desarrollar, ah pero lo primero que yo diviso que son opciones es un menú, menú de opciones y además si es un menú de opciones puede estar dentro de un ciclo hasta que tome la opción salir, que cuando ejecuto la opción 1 perfecto pero el ciclo debe devolverme hacer aparecer el menú y yo tomo la opción dos o tomó la opción 3.

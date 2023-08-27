@@ -1,0 +1,3 @@
+texto 57 
+
+Un marco de referencia que contiene los procesos, las actividades las tareas involucradas en el desarrollo, la explotación y el mantenimiento de un producto de software, abarcando la vida del sistema desde la definición de requisitos  hasta la finalización de su uso, una aproximación  lógica  a la adquisición,  el suministro, el desarrollo, la explotación y el mantenimiento del software IEEE.

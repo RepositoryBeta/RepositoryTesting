@@ -1,0 +1,3 @@
+texto 44
+
+Y, ¿qué va a hacer?, los va a enviar a la memoria, los va a dejar aquí en memoria y los va a enviar de nuevo por medio del proceso de servidor al proceso usuario, para que el cliente pueda ver todas las transacciones que hizo en el día de hoy, pero imagínense que hay otro usuario, ya no en Guayaquil, sino en la ciudad de Quito, imáginense de ¿qué está consultando en un sistema o en el mismo sistema la base datos?, al mismo cliente Pérez iba a hacer la consulta del cliente Pérez de las transacciones que hizo el cliente. 

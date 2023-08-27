@@ -1,0 +1,3 @@
+﻿texto 34
+
+La conceptualización es decir para qué sirve el bus en la conceptualización le doy un sentido a la abstracción yo ya sé por ejemplo en esta conceptualización de bus me dice que es un bus de rutas urbanas urbanas tiene tarifa tiene pasajeros etc, tiene un concepto lo que están viendo bases de datos esto es lo primero que uno hace cuando recién está aprendiendo, en maquetacion o diseñando las bases de datos, es desmenuzar objetos que identificaban de mi sistema en concepto para ver cómo se relacionan entre ellos.

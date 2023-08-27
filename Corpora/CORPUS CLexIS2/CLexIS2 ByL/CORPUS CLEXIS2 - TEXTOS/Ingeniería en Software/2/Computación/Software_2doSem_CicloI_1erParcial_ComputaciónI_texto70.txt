@@ -1,0 +1,5 @@
+﻿texto 70
+
+Los sistemas operativos utilizan en imágenes y botones para poder comunicarnos con el ordenador de forma sencilla y fácil para decirle lo que queremos hacer.
+
+Su función principal es dar herramientas necesarias para poder controlar nuestra computadora y poder hacer uso de ella.

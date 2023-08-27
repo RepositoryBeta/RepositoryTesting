@@ -1,0 +1,4 @@
+texto 81
+
+Mientras más ciclos por segundo yo haga, lo cual se llama hercios, más rápido va a ser mi procesador, tenemos la alu, nuestro decodificador de instrucciones, tenemos la unidad de control, también está la carga de instrucciones o los registros, así es cómo trabaja internamente un procesador, como decíamos, absolutamente todo el procesador son cálculos, él se encarga de transcribir ceros y unos en otros ceros y unos dependiendo el requerimiento o la instrucción.
+

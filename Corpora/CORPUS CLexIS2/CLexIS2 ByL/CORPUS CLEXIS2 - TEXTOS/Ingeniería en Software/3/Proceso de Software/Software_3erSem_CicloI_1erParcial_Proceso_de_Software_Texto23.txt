@@ -1,0 +1,9 @@
+﻿texto 23
+
+Modelo funcional en 60 ó 90 días.
+
+No es un modelo bien definido.
+
+Secuencia de integraciones de un sistema evolutivo o de prototipos que se revisan con el cliente descubrimiento de los requisitos
+
+Cada integración se restringe a un período de tiempo bien definido (caja de tiempo).

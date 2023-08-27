@@ -1,0 +1,3 @@
+texto 52
+
+Cada carretera está emulando o caracterizando a un core, a un núcleo para atender procesos, tareas, cálculos, programas, etc. Entonces, obviamente, aquí hay una pregunta que dice, ¿es mejor un procesador con varios núcleos que con uno solo?, si, esta respuesta es sencilla y directa. Un equipo con un procesador con un núcleo a 2 Ghz siempre será más lento que otro con un procesador dual core a 2 Ghz. Los gigahercios son la velocidad con la que se transmiten las instrucciones y las que se despachan.

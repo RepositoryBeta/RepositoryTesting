@@ -1,0 +1,4 @@
+﻿texto 89
+
+Estas son mis cuatro partes de las cuentas, tener el nombre de la cuenta, el nombre propio de la cuenta que voy a utilizar, mi lado del debe, mi lado del haber y mi saldo que anoto en el debe, todo lo que ingresa, todo lo que compra, lo que entra y lo que recibe, el lado del haber que voy a anotar, todo lo que sale, lo que vendo, lo que entrego, eso voy a anotar en el lado del haber. Hay tres tipos de saldo, saldo deudor, acreedor y nulo eso es lo que es mi cuenta.
+

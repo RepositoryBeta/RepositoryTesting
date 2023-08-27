@@ -1,0 +1,3 @@
+﻿texto 24
+
+Cuando usted maneja Deep learning, usted ya trabaja con otro tipo de algoritmos, más se pone los nombres es por el tipo de algoritmo que usted va a manejar, en deep learning normalmente se trabajan algoritmos como Random Forest a éste se lo conoce también como árboles aleatorios, sobre todo es por la parte de los algoritmos que se manejan. Esa es la diferencia, entonces el Data Science o la ciencia de datos, es un híbrido como yo le digo.

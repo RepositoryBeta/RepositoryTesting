@@ -1,0 +1,4 @@
+texto 79
+
+Tenemos la unidad de registro, dónde se almacenan temporalmente las instrucciones, tenemos una unidad de instrucciones justamente y una unidad de control, muy bien entonces esa es la parte interna del microprocesador, ojo que estamos hablando de los niveles de memoria, los procesadores matemáticos que son la alu, la fpu, la unidad de control, la unidad de instrucción y los registros y la unidad de administración de entrada y salida, esa es la parte interna del cpu.
+

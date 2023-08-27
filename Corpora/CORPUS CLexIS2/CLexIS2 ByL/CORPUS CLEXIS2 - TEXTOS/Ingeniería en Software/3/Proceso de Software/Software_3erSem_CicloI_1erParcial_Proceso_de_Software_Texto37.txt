@@ -1,0 +1,11 @@
+﻿texto 37
+
+MODELO PROGRAMACION EXTREMA (XP) Metodología liviana de desarrollo de software
+
+Conjunto de prácticas y reglas empleadas para desarrollar software
+
+Basada en diferentes ideas acerca de cómo enfrentar ambientes muy cambiantes
+
+Originada en el proyecto C3 para Chrysler
+
+En vez de planificar, analizar y diseñar para el futuro distante, hacer todo esto un poco cada vez, a través de todo el proceso de desarrollo.

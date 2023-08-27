@@ -1,0 +1,5 @@
+﻿texto 20 
+
+Algoritmos de enumeración:
+En este tipo de algoritmos cada elemento es comparado contra los demás. 
+En la comparación se cuenta cuántos elementos son más pequeños que el elemento que se está analizando, generando así una ENUMERACION. El número generado para cada elemento indicará su posición.

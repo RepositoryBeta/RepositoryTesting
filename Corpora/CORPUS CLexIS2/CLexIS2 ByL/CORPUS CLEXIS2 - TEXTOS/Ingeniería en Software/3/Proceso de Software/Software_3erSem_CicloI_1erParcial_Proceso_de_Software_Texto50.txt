@@ -1,0 +1,5 @@
+﻿texto 50
+
+Software de Inteligencia Artificial: Este tipo de Software hace uso de algoritmos no numéricos para resolver problemas complejos para los que no son adecuados el cálculo o el análisis directo.
+
+Ejemplos: Los sistemas expertos, reconocimiento de patrones (imágenes y voz), redes neuronales prueba de teoremas y juegos.

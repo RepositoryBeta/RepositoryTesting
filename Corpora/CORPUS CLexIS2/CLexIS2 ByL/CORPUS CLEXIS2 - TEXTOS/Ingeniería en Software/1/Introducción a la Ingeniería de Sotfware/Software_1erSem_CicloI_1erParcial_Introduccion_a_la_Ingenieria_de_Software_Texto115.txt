@@ -1,0 +1,3 @@
+﻿texto 115
+
+Otra manera, de describir las actividades que se realizan en la fase de análisis de requisitos sería la siguiente: la extracción y determinación de requisitos. ¿Qué es el proceso mediante el cual los clientes y futuros visuales de software descubren, revelan, articulan y comprenden los requisitos que desean, y también tenemos el análisis de requisito, proceso de razonamiento sobre los requisitos obtener una etapa anterior, detectando y resolviendo posibles inconsistencias o conflictos coordinando los requisitos relacionados entre sí.

@@ -1,0 +1,6 @@
+﻿texto 42
+
+Según este criterio, haremos primero el estudio de las medidas estadísticas para datos no agrupados y luego para datos agrupados.
+Medidas estadísticas en datos no agrupado.
+Promedio o media
+La medida de tendencia central más conocida y utilizada es la media aritmética o promedio aritmético. Se representa por la letra griega µ cuando se trata del promedio del universo o población y Y barra cuando se trata del promedio de la muestra. 

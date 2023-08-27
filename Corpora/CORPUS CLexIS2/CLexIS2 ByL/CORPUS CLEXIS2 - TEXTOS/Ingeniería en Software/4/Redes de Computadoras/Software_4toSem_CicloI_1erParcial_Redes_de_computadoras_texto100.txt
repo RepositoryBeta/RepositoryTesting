@@ -1,0 +1,11 @@
+﻿texto 100
+
+Comparación de los modelos OSI y TCP IP, las similitudes incluyen:
+
+Ambos se dividen en capas.
+
+Ambos tienen capas de aplicación,  aunque incluyen servicios muy distintos.
+
+Ambos tienen capas de transporte y de red similares.
+
+Ambos modelos deben ser conocidos por los profesionales del área.

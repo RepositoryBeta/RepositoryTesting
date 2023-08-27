@@ -1,0 +1,13 @@
+﻿texto 6
+
+Visibilidad: Se visualizan los progresos externamente.
+
+Soporte: Está soportado por herramientas CASE.
+
+Aceptación: Es aceptable para todos los actores implicados.
+
+Confianza: Los errores del proceso se detectan antes de que se produzcan errores en el producto.
+
+Robustez: Se puede continuar a pesar de problemas inesperados.
+
+Capacidad: de mantenimiento Puede ajustarse a las necesidades de cambio de la organización.

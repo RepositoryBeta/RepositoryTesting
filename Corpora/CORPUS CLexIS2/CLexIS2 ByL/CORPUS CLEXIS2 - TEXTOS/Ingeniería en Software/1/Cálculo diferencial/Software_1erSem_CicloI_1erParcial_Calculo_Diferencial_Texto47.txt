@@ -1,0 +1,4 @@
+texto 47
+
+Hay métodos muy sencillos que permiten transformar un sistema lineal de cualquier orden en uno de primer orden; por ello, se tratarán sólo éstos.
+En esta sección se resolverán sistemas lineales de ecuaciones diferenciales (SLEDO) por de dos métodos, uno denominado método de eliminación y el otro, matricial.

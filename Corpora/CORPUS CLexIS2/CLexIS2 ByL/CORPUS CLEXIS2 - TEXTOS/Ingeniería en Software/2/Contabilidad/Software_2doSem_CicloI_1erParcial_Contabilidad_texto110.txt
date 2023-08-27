@@ -1,0 +1,3 @@
+﻿texto 110
+
+La estructura de mi estado de situación inicial va a ser mi primer asiento contable, también llamado asiento de apertura, dónde voy a registrar mis cuentas de activo, las cuentas de pasivo y mis cuentas de patrimonio, en mis cuentas de activo va a estar compuesta por todas mis clasificaciones, por el corriente, no corriente, otros activos y mis pagados por adelantado dentro de mis pasivos va a estar los pasivos corrientes, los no corriente, otros pasivos y los cobrados por adelantado.

@@ -1,0 +1,11 @@
+texto 72
+
+¿ Qué es un protocolo de red?
+
+ protocolo es una descripción formal de un conjunto de reglas y convenciones que permiten a los dispositivos de una red comunicarse entre sí, el conjunto de protocolos posibilitan la comunicación de red desde un host, a través de la red, hacia otro host.
+
+ Los aspectos claves que definen o caracterizan a un protocolo son: 
+
+ la sintaxis: establece cuestiones relacionadas con el formato de los bloques de datos.
+
+ la semántica: incluye información de control para la coordinación y la gestión de errores.

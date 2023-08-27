@@ -1,0 +1,2 @@
+TEXTO 88
+Ciclos de captación y ejecución: qué registros entran en juego durante el ciclo de búsqueda tenemos el contador del programa (PC).- contiene la dirección de la próxima pareja de instrucciones, el registro de direcciones de la memoria (MAR).- especifica la dirección en memoria de la palabra, el registro de datos el registro de instrucciones (IR).- almacena temporalmente la instrucción contenida, el registro de buffer de memoria (MBR).- contiene una palabra que debe ser almacenada en la memoria y la palabra de estado de programa.

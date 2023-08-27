@@ -1,0 +1,3 @@
+﻿texto 84
+
+Cuando usted creó un vector, un arreglo, cuando usted declara el arreglo le tiene que decirle oye arreglo te voy a declarar un arreglo de enteros, en ese momento a esa clase abstracta al arreglo se le está diciendo hoy tú vas hacer arreglo de enteros hoy tú vas hacer arreglo de personas no sé si se dan cuenta el arreglo de personas no sabe de qué va a ser, por eso son las clases parametrizables yo puedo al vuelo decirle cómo va a ser esa clase o ese objeto instanciado.

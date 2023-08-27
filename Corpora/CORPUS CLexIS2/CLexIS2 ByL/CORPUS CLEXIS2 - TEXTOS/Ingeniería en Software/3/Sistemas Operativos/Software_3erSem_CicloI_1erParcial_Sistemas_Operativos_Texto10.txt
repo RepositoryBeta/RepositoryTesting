@@ -1,0 +1,21 @@
+texto 10
+
+Sistemas Monoliticos
+
+Conformado por un solo programa
+
+Tenia subrutinas que eran llamadas kernel
+
+Ejemplo: MSDOS o Linux (aunque incluye algo de capas)
+
+Estructura monolitico o simple
+
+Cuentan con un nucleo (kernel) llamado monilitico
+
+Es grande y complejo
+
+Engloba todos los servicios que proporciona el sistema operativos
+
+Tiene una rutina principal llamada nucleo (en ingles kernel) y conjunto de procesamientos o subrutinas.
+
+Para controlar multiples llamadas utiliza registros, colas y pilas.

@@ -1,0 +1,3 @@
+﻿texto 39
+
+Cómo lo voy a simbolizar, aquí ustedes están viendo y estoy aparte de modelamiento nosotros vamos utilizar líneas, estamos usando para simbolizar estamos usando rectángulos y líneas nada más la utilidad que esa línea tiene una carga tiene un significado muy fuerte este diagrama o este modelo que está aquí representa a un objeto en la vida real, por ejemplo acá me dice que el edificio y la ciudad entonces estoy representando a este edificio que está aquí.

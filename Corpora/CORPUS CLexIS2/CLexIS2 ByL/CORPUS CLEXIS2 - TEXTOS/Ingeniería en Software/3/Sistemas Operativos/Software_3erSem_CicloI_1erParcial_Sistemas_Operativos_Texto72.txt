@@ -1,0 +1,5 @@
+texto 72
+
+El estado seguro solo se da en el caso de que la secuencia de asignación sea segura y los procesos sean realizados con los recursos actuales.
+
+Algoritmo del banquero: este sistema de asignación sirve para recursos con múltiples instancias. Al llegar un proceso y solicitar los recursos el sistema se encarga de verificar que no se exceda el numero de recursos exigidos y que al otorgarlos el sistema quedará en estado seguro, en caso contrario el proceso deberá quedar en espera hasta que los recursos necesarios sean liberados.

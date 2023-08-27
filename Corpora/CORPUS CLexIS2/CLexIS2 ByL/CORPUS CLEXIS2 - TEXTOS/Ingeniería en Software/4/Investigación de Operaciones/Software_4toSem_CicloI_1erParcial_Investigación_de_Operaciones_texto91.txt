@@ -1,0 +1,3 @@
+﻿texto 91
+
+Nos dice que debemos elegir de la variable que entra a la base se dice yo también a esa variable y porque realmente lo vamos a elegir en forma de columna, vamos a tener una columna que llamamos también columna pivote o variable entrante, entonces cuando una variable se vuelve básica es decir entra en la base comienza a formar parte de la solución observando los contenidos reducidos en la fila Z estas son los costos reducidos en la fila se está observando fíjense la variable de la columna en la que este sea el menor valor o de mayor absoluto entre los negativos.

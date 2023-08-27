@@ -1,0 +1,5 @@
+texto 38
+VARIACIÓN DE LA CONSTANTE 
+Permite calcular una solución particular de una ecuación lineal de segundo orden no homogénea. 
+Se parte de la solución general de la homogénea asociada; si y1 (x) e y2 (x) son dos soluciones no proporcionales de la ecuación homogénea asociada, la solución general de la homogénea es 
+yh (x) = C1y1 (x) + C2y2 (x).

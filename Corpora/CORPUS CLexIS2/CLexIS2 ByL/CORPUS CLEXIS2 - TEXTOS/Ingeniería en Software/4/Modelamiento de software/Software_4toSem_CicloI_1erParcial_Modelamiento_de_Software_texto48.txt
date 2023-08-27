@@ -1,0 +1,3 @@
+﻿texto 48
+
+Yo con un modelo puedo predecir mi futuro, porque me imagino cómo se va a mover la información dentro de ese modelo pero el modelo es algo estático, Por ejemplo yo puedo modelar un parque y decir Bueno una zona decirte un par que tiene edificio tiene árboles tiene carros tiene personas, ahí esta puede ser una plazoleta comercial pero yo no voy a saber si el 10 de julio van a ver 20 personas y que el 11 de Julio van a ver 50 personas yo no puedo saber eso.

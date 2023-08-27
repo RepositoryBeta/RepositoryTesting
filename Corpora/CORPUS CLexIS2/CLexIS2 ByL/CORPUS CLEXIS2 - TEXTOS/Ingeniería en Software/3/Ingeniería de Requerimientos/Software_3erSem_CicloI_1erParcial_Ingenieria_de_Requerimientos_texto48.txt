@@ -1,0 +1,2 @@
+TEXTO 48
+Tenemos también el estudio de factibilidad: Éste lo podemos encontrar en diversas fuentes como los jefes de departamentos donde se utilizará el sistema, ingeniero de Software que están familiarizados, expertos en tecnología, expertos en el área y usuarios finales. Siempre es importante que cuando el ingeniero de sistemas venga a hablar con usted, no le hable técnicamente sino más bien como si fuera un cliente más. También puede que aquel ingeniero sepa más que usted y pregunte si el sistema utiliza procesos de GPU.

@@ -1,0 +1,3 @@
+﻿texto 30
+
+MODELO INCREMENTAL El modelo incremental es una unión de las mejores funcionalidades del modelo de cascada y del modelo de prototipos. A medida que se presenta un prototipo se produce un incremento, que es una iteración del proceso anterior pero aplicando las experiencias aprendidas del proceso anterior. A diferencia del modelo de prototipos, los prototipos de este modelo están orientados a ser operacionales en cada incremento y no ser solo una previa de cómo sería el sistema en su versión final.

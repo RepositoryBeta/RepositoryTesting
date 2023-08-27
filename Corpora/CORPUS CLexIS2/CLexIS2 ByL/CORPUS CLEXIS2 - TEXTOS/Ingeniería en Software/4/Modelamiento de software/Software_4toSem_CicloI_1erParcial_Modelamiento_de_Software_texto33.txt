@@ -1,0 +1,3 @@
+﻿texto 33
+
+Hay tres cosas 3 cognitivos que van de la mano de la abstracción, del modelamiento, van la abstracción, la conceptualización y simbolización, aquí hay un ejemplo de la abstracción de un vehículo, tiene la información mínima y quizas el color no era necesario ya solamente con la forma que tiene, las dos ventanas laterales ya sabremos que estamos hablando de un bus a pesar de que sólo esté dibujado dos ruedas en nuestro cerebro nos indica que hay dos ruedas más.

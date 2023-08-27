@@ -1,0 +1,3 @@
+texto 2
+
+donde a cada valor de mi espacio muestral, a cada valor correspondiente a mi espacio muestral yo le doy un valor de x, como dice aqui sea omega, L , recordemos de que con Omega presentabamos nuestro espacio muestral, lo que vamos a ver en estadística dos Está muy está muy relacionado con lo que usted vio En estadística 1 en lo que es la parte de probabilidades, por eso es que como yo le dije anteriormente repasar las partes de probabilidades.

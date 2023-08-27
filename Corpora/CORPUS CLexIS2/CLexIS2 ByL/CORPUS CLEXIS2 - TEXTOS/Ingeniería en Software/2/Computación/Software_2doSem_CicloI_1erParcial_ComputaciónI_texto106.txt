@@ -1,0 +1,7 @@
+﻿texto 106
+
+El grupo crear sobres y etiquetas
+
+Básicamente esta opción permite utilizar pantallas preconfiguradas para diversos tipos de papel y distinto tipos de documentos,  como por ejemplo la impresión de cartas y sobres estándar o pliego de etiquetas adhesivas.
+
+Están recogidos todos los tipos estándar de documentos tanto por el envío de cartas personales como postales, felicitaciones, etcéteras, como también las profesionales A4, etiquetas, sobres, etcétera.

@@ -1,0 +1,5 @@
+texto 80
+
+Grafo dirigido con peso
+
+Es aquel grafo dirigido en el que sus aristas tienen una etiqueta (vea figura 10.1c). Una etiqueta puede ser un nombre, costo o un valor de cualquier tipo de dato. También a este grafo se le denomina red de actividades, y el número asociado al arco se le denomina factor de peso. Se usa en el modelado de problemas de la vida real; por ejemplo, al tiempo que se tardará en realizar una actividad determinada o la distancia que hay de un lugar a otro.

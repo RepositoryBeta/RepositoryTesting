@@ -1,0 +1,22 @@
+﻿texto 6
+
+Es decir, la matriz inversa de A es la única matriz que al multiplicarla por ella obtenemos la matriz identidad del orden correspondiente.
+
+La matriz inversa no siempre existe, para que exista, es condición necesaria y suficiente que el determinante de la matriz sea distinto de cero
+
+Metodo de Gauss
+
+Dada una matriz A de dimensión nxn, su matriz inversa, A-1, es la única matriz de dimensión nxn que cumple A*A-1 = In = A-1*A.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+TEXTO 52
+Introducción a las memorias: Las capacidades de la memoria RAM que es la memoria principal, que es la que va a alojar las aplicaciones, a medida que el usuario va abriendo sus aplicativos de trabajo. Entonces, ella también ha ido evolucionando y sus nombres dependen del fabricante, del equipo, de la marca y de la capacidad de memoria que ella puede almacenar y además de ser reemplazada en esos slots de la tarjeta madre.

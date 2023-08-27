@@ -1,0 +1,5 @@
+TEXTO 85
+El Paso 3 identificar los casos de uso: figuras de encontrar las características o la funcionalidad que el sistema debe proporcionar con preguntas como:
+1) ¿Qué produce el sistema para el actor? Ayuda a identificar salidas críticas.
+2) ¿En qué ayuda el actor al sistema? Facilita conocer las entradas críticas.
+3) ¿En qué ayuda el sistema el actor? Identifica las reglas que deben aplicarse cuando el actor usa el sistema.

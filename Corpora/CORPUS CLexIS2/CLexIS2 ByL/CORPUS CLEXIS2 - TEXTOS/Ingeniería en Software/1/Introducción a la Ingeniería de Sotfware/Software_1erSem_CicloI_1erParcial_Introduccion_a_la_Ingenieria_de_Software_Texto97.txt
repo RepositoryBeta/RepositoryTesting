@@ -1,0 +1,7 @@
+texto 97
+
+ problemas DRA.
+
+DRA  no es adecuado cuando los riesgos técnicos son altos, esto ocurre cuando una nueva aplicación hace uso de tecnologías nuevas, o cuando tenemos software requiere un alto grado de interoperatividad  con programas de computadoras ya existentes.
+
+DRA  enfatiza el desarrollo de componentes de programas reutilizables.

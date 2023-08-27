@@ -1,0 +1,14 @@
+﻿texto 75
+
+NIC Vigentes actualmente.
+
+NIC 1 Presentación de estados financieros.
+
+NIC 2 Inventarios.
+
+NIC 7 Estado de flujo de efectivo.
+
+NIC 8 Políticas contables, cambios en las estimaciones contables y errores.
+
+NIC 10 Hechos ocurridos después del periodo sobre el que se informa.
+

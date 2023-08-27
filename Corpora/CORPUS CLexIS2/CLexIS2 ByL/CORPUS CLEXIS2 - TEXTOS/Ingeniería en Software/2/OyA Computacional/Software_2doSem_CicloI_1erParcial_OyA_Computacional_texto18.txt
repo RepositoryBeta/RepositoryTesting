@@ -1,0 +1,4 @@
+texto 18
+
+Hay muchos términos y sinónimos de ata, incluyendo abreviaturas como IDE, ATAPI, y UDMA. Acá en Ecuador o en Sudamérica tienen que pedirlo como IDE, los otros términos son europeos y asiáticos. El término estándar es Ata. Dentro de ellos, en las galletas, en el macho van a encontrar que tiene 40 pines de cobre, que van a estar en paralelo (uno al lado del otro). Si son en paralelos viajan varios bits simultáneamente.
+

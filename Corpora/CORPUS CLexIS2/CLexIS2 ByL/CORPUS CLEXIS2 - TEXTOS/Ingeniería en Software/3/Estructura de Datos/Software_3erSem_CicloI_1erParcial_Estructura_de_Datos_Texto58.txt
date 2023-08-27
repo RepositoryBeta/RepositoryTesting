@@ -1,0 +1,9 @@
+texto 58
+
+Se utilizará un arreglo para que este contenga los elementos de la cola, por el tanto al estar insertando elementos existe la posibilidad de que se presente un sobreflujo si la cola ya está llena.
+
+COLA CIRCULAR
+
+Nos podemos imaginar que el primer elemento del arreglo está inmediatamente después del último.
+
+Esto implica que aún si el último elemento del arreglo que forma la cola está ocupado, puede insertarse un nuevo valor detrás de este; como primer elemento del arreglo siempre y cuando ese primer elemento esté vacío.

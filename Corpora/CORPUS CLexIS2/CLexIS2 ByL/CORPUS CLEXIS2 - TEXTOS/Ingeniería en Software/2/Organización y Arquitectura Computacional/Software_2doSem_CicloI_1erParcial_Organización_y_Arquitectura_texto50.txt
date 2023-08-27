@@ -1,0 +1,2 @@
+TEXTO 50
+Introducción a las memorias: Existen tipos de memoria, entre ellas tenemos la memoria de almacenamiento interno, memorias que son parte de esa estructura interna del computador. Esa memoria la podemos localizar, la memoria RAM es la memoria principal del computador, esa memoria vienen en diferentes capacidades, el mejor de los casos se puede conseguir 8 gigas de RAM y en casos más básicos hasta 4 gigas de RAM.

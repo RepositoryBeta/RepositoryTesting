@@ -1,0 +1,2 @@
+TEXTO 32
+Requerimientos No Funcionales (De calidad, Pohl): Pueden especificar: el rendimiento del sistema, la protección, la disponibilidad, y otras propiedades emergentes. A menudo son más críticos que los requerimientos funcionales particulares. Los requerimientos no funcionales surgen de las necesidades del usuario, debido alas restricciones en el presupuesto, a las políticas de la organización, a la necesidad de interoperabilidad con otros sistemas software o hardware, o a factores externos como regulaciones de seguridad o legislaciones sobre privacidad.

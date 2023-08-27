@@ -1,0 +1,4 @@
+texto 48 
+
+Transiciones: corresponde a todos los elementos de interfaz que permiten al usuario: consultar, agregar, modificar o eliminar (CRUD) un registro específico de información;
+Informes: corresponde a todos los elementos de interfaz mediante los cuales el usuario por obtener uno o más registros y/o  información de tipo estadístico(contar, sumar) de acuerdo a criterios de búsqueda y selección definidos.

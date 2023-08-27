@@ -1,0 +1,3 @@
+﻿texto 17
+
+¿Qué es el software? Segun la definicion del IEEE, instituto de ingenieros eléctricos y electronicos, un software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada, y los datos que pertenecen a un sistema de cómputo y un producto de software es un producto diseñado para un usuario, si comparamos una computadora con un ser humano, el software vendrían a ser como las señales del sistema nervioso que controlan el funcionamiento del cuerpo.

@@ -1,0 +1,4 @@
+texto 38
+
+De manera que solamente un dispositivo puede transmitir con éxito en un momento dado, porque sino va a ver colisión y obviamente eso lo controla el bus de control, de manera bastante redundante. Usualmente un bus está constituido por varios caminos de comunicación o líneas, las líneas electrónicas, los cables de cobre, cada línea es capaz de transmitir señales binarias. Es decir, 0 o 1. 1 es 5 voltios y 0 son 0 voltios.
+

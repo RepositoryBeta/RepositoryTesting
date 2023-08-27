@@ -1,0 +1,5 @@
+﻿TEXTO 12
+¿Qué es la Ingeniería de Requerimientos? IR una rama de la Ingeniería de Software relacionada con las funciones y restricciones de un sistema de software.
+- Cómo y Donde se utilizará el sistema.
+- Captura las necesidades del mundo real que pueden afectar al sistema y las expresa como artefactos que pueden ser implementados en un sistema de Software.
+- Puente entre el diseño y la construcción.

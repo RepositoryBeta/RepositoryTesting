@@ -1,0 +1,5 @@
+texto 43
+FUNCIONES LINEALMENTE INDEPENDIENTES Y DEPENDIENTES. WRONSKIANO 
+Se dice que las funciones y1, y2 , yn.
+Son LINEALMENTE INDEPENDIENTES si la única solución de la ecuación c1y1 + c2y2 + cn y n Donde c1 = c2 =, cn = 0.
+En caso contrario, las funciones son LINEALMENTE DEPENDIENTES.

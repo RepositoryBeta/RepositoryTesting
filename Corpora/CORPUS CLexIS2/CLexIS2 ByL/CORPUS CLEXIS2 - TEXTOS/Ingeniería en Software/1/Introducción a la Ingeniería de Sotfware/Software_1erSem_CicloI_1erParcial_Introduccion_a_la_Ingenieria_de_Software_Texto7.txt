@@ -1,0 +1,4 @@
+texto 7
+
+
+Tenemos las métricas de calidad volviendo al tema de calidad con todas las métricas de Software que definen de una u otra forma la calidad del Software tales como la corrección, la exactitud, la integridad, la facilidad de uso, la estructuración o modularidad,  las pruebas, La mantenibilidad, la reusabilidad, la cohesión, el acoplamiento, entre todos. ¿Que será para ustedes la corrección?, sera mas que nada los errores que se presentan durante su ejecución.

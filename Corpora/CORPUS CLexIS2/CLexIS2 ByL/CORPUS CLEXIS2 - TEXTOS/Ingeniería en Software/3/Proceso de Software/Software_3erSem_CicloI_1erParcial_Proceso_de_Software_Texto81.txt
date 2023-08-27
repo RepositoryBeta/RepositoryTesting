@@ -1,0 +1,9 @@
+﻿texto 81
+
+Objetivos Documentador 
+
+Permitir el almacenamiento y recuperación de la documentación de los procesos y productos más recientes durante el desarrollo, manteniendo así la información al
+
+Mantener la consistencia en la apariencia y estructura de los documentos, facilitando su almacenamiento, recuperación e intercambio, no permitiendo el almacenamiento de documentos con formatos diferentes. 
+
+Asegurarse que los cambios que necesitan hacerse en el sistema serán reflejados en la documentación correspondiente. 

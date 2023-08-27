@@ -1,0 +1,4 @@
+﻿texto 5
+
+¿Qué necesitamos para resolver un problema, ¿Qué necesitamos nosotros los programadores?, ¿Cómo podemos resolver un problema?, ¿Cuál será siempre nuestra herramienta de trabajo?
+La computadora, aquí está la herramienta, la computadora nos va a nosotros acompañar el resto de nuestra vida académica y nuestra vida profesional, entonces vamos a resolver los problemas utilizando esta herramienta que es la computadora obviamente a través de un lenguaje de programación.

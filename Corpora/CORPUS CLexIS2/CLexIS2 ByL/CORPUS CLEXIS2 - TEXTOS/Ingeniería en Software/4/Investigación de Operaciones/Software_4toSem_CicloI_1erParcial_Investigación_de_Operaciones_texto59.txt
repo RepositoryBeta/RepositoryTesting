@@ -1,0 +1,7 @@
+﻿texto 59
+
+Se tiene que verificar si existe alguna solución factible.
+
+Solucion factible, bajo esta denominacion se encuentra un recinto puede estar acotado o no y que esta determinado por lo que viene conjunto de las restricciones de todos los semiplanos.
+
+Yo estaba en la lámina donde hablaba de solución factible entonces nosotros estamos hablando de que la programación lineal trata de funciones lineales, vamos a establecer las de este variable de decisión vamos a representar una función objetivos y vamos también a presentar una descripción es todo es una función lineal.

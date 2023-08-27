@@ -1,0 +1,3 @@
+﻿texto 90
+
+Lo llamamos de holgura porque así porque simplemente no va a permitir cómo sumarle, vamos añadir, a sumar una variable que nos va a completar esa expresión para permitirnos poderle quitar ese menos a la inecuacion Y dejarla como igual entonces vamos a añadir una variable de holgura a cada restriccion, nuestro segundo paso Vamos a construir la tabla simplex la forma como las explicado y el tercer paso es el siguiente.

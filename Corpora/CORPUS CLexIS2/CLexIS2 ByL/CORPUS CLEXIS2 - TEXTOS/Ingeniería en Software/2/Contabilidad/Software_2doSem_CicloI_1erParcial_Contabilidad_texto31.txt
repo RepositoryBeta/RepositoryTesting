@@ -1,0 +1,3 @@
+﻿texto 31
+
+Esas son las preguntas que yo me debo hacer cuando yo realice una transacción comercial y debe registrar en el lado del debe, en el lado del haber, voy a poner a registrar como acá dice en el ejemplo, cuando se anotan operaciones, debe la cuenta reflejar un cargo mientras, que si anotan en el haber se refleja un abono a la cuenta o algo que ingresa, el abono es si usted debe algo por ejemplo, yo debo $100 y me dice usted puede ir abonando quincenal $10. 

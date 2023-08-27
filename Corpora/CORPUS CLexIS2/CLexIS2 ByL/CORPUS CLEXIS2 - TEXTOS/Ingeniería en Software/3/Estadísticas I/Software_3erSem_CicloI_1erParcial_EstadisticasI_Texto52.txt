@@ -1,0 +1,5 @@
+﻿texto 52
+
+Mediana en datos agrupados
+Si la variable es de tipo discreto la mediana será el valor de la variable que corresponda a la frecuencia acumulada que supere inmediatamente a n/2. 
+En los datos de la tabla 1 Me = 3, ya que 42 /2 es igual a 21 y la frecuencia acumulada que supera inmediatamente a 21 es 33, que corresponde a un valor de variable (Yi) igual a 3.

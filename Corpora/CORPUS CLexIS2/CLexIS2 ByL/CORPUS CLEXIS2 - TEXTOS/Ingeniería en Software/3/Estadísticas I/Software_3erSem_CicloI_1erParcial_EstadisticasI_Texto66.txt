@@ -1,0 +1,4 @@
+﻿texto 66
+
+El diagrama de barras es capaz de expresar la magnitud de las diferencias entre las categorías de la variable, pero ahí está, precisamente, su punto débil, ya que es fácilmente manipulable si modificamos las escalas de los ejes.
+Este gráfico también es sencillo de hacer con la mayor parte de los programas estadísticos y hojas de cálculo. La función en R es barplot con lo que hemos visto hasta ahora.

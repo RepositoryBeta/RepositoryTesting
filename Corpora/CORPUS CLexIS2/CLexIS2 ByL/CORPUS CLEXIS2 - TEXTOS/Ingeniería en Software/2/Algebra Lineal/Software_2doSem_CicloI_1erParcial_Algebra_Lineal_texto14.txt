@@ -1,0 +1,6 @@
+﻿texto 14
+
+Sea A una matriz de dimensión mxm. La matriz adjunta de A, A*, es una matriz de la misma dimensión. El elemento de la posición fila i y columna j de la matriz adjunta de A (llamado cofactor de la posición (i, j) es:
+(-1)^i + j * |Aij| siendo la matriz Aij la submatriz de A obtenida al eliminar la fila i y columna j de A.
+
+El factor (-1)^i + j es 1 si la suma de las posiciones fila y columna es par, y -1 si es impar. Lo que hace este factor es determinar el signo.

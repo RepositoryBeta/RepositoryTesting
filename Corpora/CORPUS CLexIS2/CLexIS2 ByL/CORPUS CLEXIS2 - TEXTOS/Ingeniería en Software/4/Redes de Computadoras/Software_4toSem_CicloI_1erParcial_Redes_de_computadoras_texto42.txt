@@ -1,0 +1,3 @@
+texto 42
+
+Se requiere un cambio de señal o ciclo para transmitir uno o varios bits, por lo tanto la capacidad de transmisión de cada tipo de medio de telecomunicaciones es una función de su frecuencia, el número de ciclos por segundo que se pueden enviar a través del medio se mide en hertz, un hertz equivale a un ciclo por segundo, así se mide la velocidad de una red, la cantidad de información que se transmite por segundo en este caso la unidad información bits por segundo.

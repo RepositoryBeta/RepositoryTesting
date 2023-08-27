@@ -1,0 +1,3 @@
+texto 110
+
+Perfecto me da un código bastante sencillo, puedo valerme de lo que tenemos, va primero a ingresar el primer número, luego ingresar el segundo número y lanzo de una vez la operación así como hemos venido haciendo, escribimos: la suma de los dos números y puedo lanzar de una vez mi operación para no estar asignado,  num1 + num2 , bueno ya tengo todas mis operaciones, si el usuario pone el número 1 el va a ejecutar esto.

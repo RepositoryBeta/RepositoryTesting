@@ -1,0 +1,3 @@
+texto 113
+
+En este caso tengo que ir restando, entonces va a ser a I igual a I menos 1( I = I - 1), entonces tengo 99 tengo 98,97, perfecto, ya tengo resuelto cada una de las opciones, todas la opciones ya las tengo resueltas dependiendo ojo según de lo que el usuario puso en opción él va a ejecutar si es por uno haga esto, si es por dos haga esto, sí es por tres haga esto, si es por cuatro haga esto o si es cinco lo otro, pero ahora falta algo, fíjense.

@@ -1,0 +1,5 @@
+﻿texto 100
+
+La gran fuerza de los MOOC reside en su capacidad de unir nodos de conocimiento.
+
+Desde una Concepción cognitivista donde la creación del conocimiento se basa en el establecimiento de conexiones,  está claro que cuanto mayor sea el número de nodos, más posibilidades de aprendizaje hay en un curso determinado.

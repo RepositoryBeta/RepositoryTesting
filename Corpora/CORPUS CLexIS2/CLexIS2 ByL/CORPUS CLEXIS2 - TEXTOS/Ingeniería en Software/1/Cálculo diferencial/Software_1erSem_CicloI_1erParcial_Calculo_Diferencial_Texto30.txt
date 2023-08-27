@@ -1,0 +1,3 @@
+texto 30
+Una ecuación diferencial donde la variable independiente x tiene varias componentes, es decir, donde x D. x1, xn. . . / con N > 1, se dice que es una ecuación en derivadas parciales (EDP).
+En cambio, si N D 1 la ecuación diferencial se dice que es ordinaria. En esta asignatura nos centraremos principalmente en las ecuaciones diferenciales ordinarias, que definiremos más formalmente a continuación.

@@ -1,0 +1,4 @@
+texto 15
+
+No es permitido y obviamente ¿Por qué no es permitido?, porque esto genera un costo para las empresas, yo les decía tener datos repetidos, es costo, es tener datos, se puede decir de basura para el almacenamiento y es un costo para el dba y un gasto para la empresa.
+Entonces dice aquí, en aquellos casos en que en los cuales el dbms no ha logrado eliminar la redundancia, no porque no es que la elimina completamente siempre va haber un porcentaje de redundancia.

@@ -1,0 +1,7 @@
+﻿texto 90
+
+Modelos
+
+Modelo Intermedio COCOMO
+
+Es un modelo univariable estático que calcula el esfuerzo del desarrollo de software en función del tamaño del programa y un conjunto de conductores de coste, que incluyen la evaluación subjetiva del producto, del hardware, del personal y de los atributos del proyecto. Estos conductores del coste se consideran como términos de impacto agregado al esfuerzo total del proyecto.

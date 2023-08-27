@@ -1,0 +1,11 @@
+texto 84
+
+Políticas De Sustitución De Paginas Al producirse un fallo de página y si la memoria ya no dispone de marcos libres, el sistema operativo debe de elegir una página de las que están en memoria, para sustituirla por la se solicita. 
+
+Algoritmo De Sustitución FIFO 
+
+Al tener que sustituir una página, se elige la que más tiempo lleva en la memoria. 
+
+Algoritmo De Sustitución Optimo.
+
+Sustituir aquella página que tardará más en volverse a utilizar. 

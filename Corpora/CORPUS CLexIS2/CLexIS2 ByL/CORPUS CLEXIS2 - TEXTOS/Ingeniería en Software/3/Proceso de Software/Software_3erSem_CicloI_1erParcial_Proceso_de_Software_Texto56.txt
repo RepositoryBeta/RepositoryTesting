@@ -1,0 +1,4 @@
+﻿texto 56
+
+Analista 
+La fase de análisis en un proyecto de construcción de software se refiere a la especificación de un problema como la suma de subproblemas de menor complejidad. Como el experto en el problema es el cliente, se hace necesario trabajar junto a él para realizar la especificación correctamente. Los miembros del grupo que trabajan con el cliente para realizar el análisis y especificación del sistema a construir son precisamente los analistas.

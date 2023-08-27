@@ -1,0 +1,4 @@
+﻿texto 48
+
+sigma cuadrado s² y sigma s son parámetros, constantes para una población particular los valores que cambian de muestra en muestra dentro de una misma población, la varianza se expresa en unidades de variable al cuadrado y la desviación estándar simplemente en unidades de variable la desviación estándar de la muestra (s) será la raíz cuadrada.
+Interpretación de la varianza es un alto valor de la varianza indica que los datos están alejados del promedio.

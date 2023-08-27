@@ -1,0 +1,2 @@
+TEXTO 69
+Introducción a las memorias: Las IAS, estos primeros computadores consisten en 1000 posiciones de almacenamiento llamadas palabras de 40 dígitos binarios. Estos dígitos binarios son los bits que ustedes ya conocen 0 ó 1 y cada una tiene esos 40 bits, tanto los datos como las instrucciones se almacenan aquí. Por lo tanto, los números se pueden representar de manera binaria y cada instrucción tiene un código binario.

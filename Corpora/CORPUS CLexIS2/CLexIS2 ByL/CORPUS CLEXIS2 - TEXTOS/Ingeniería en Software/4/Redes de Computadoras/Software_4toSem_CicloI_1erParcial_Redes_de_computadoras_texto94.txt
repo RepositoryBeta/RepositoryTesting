@@ -1,0 +1,3 @@
+texto 94
+
+La relación entre IP y TCP es importante, se puede pensar en el IP como el que indica el camino a los paquetes,  en tanto que TCP brinda un transporte seguro. TCP  los anfitriones de establecer una conexión e intercambiar datos, el TCP garantiza la entrega de datos es decir que los datos no se pierden durante la transmisión y también garantiza que los paquetes sean entregados en el mismo orden en el cual fueron enviados.

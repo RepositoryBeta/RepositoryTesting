@@ -1,0 +1,9 @@
+texto 53
+
+UTILIZACIÓN DE PILAS
+
+Considérese la suma A y B, pensando que la aplicación del operador (+) a los operandos A y B, se escribirá A + B, esta representación se denomina entrefijo.
+
+Existen otras dos formas de representar la suma de A + B utilizando el signo (+), estas son el prefijo y el poistfijo. Los prefijos PRE y POST se refieren a la posición relativa del operador con respecto a los operandos.
+
+En la notación de PREFIJO el operador precede a los dos operandos y en la notación POSTFIJO el operador va después de los dos operandos.

@@ -1,0 +1,5 @@
+texto 54
+
+Consideremos en la expresión a+b*c escrita en entrefijo, observe que existen dos operadores, se quiere saber cuál de estos se realizará primero, es lógico que por jerarquía se realizaría primero la multiplicación y posteriormente la suma.
+
+La única regla durante el proceso de conversión es que las operaciones que tienen relación o jerarquía más alta se convertirá primero y después de que esta parte de la expresión ha sido convertida se maneja como operando simple.

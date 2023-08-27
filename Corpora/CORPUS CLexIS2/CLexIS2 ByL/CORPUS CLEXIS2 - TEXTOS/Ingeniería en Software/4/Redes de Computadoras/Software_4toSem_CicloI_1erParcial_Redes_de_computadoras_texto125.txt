@@ -1,0 +1,7 @@
+texto 125
+Los medios guiados son los más empleados para conectar redes locales, al seleccionar un medio o cable de una red debemos considerar:
+Ancho de banda, o frecuencia soportada.
+Longitud, distancia máxima entre dispositivos.
+Fiabilidad, asociado a la calidad de transmisión.
+Facilidad de instalación.
+Costo.

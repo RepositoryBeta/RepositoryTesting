@@ -1,0 +1,4 @@
+texto 112
+
+El acceso a la caché, incluso a la l3 que es más lenta, se realiza mucho más rápido que cualquier acceso a la ram. Así que su impacto en el rendimiento puede ser muy grande. Al día de hoy todos los procesadores cuentan con tres niveles de caché en el encapsulado, cosa que no ocurría hace algunos años (la caché l3 fue una novedad introducida con los pentium 4 Extreme Edition). No todo es el procesador, no todo es la memoria, no todo es la arquitectura, no todo es la generación, todo es un conjunto elementos que trabajan entre sí para poder llegar a un fin en común.
+

@@ -1,0 +1,3 @@
+texto 22
+Graficar la función con sus límites y señalar la región de integración, hacer un gráfico,¿calcular los puntos de intersección entre la función y sus límites de integración?
+escribir los nuevos límites de integración.

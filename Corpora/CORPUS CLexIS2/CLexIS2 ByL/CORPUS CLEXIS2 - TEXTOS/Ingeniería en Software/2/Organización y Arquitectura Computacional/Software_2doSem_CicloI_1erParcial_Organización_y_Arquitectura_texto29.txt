@@ -1,0 +1,2 @@
+﻿TEXTO 29
+Unidad central de proceso: La unidad central de procesamiento o unidad de procesamiento central (conocida por las siglas CPU, del inglés: Central Processing Unit), es el Hardware dentro de un ordenador u otros dispositivos programables, que interpreta las instrucciones de un programa informático mediante la realización de las operaciones básicas aritméticas, lógicas y de entrada y salida del sistema.

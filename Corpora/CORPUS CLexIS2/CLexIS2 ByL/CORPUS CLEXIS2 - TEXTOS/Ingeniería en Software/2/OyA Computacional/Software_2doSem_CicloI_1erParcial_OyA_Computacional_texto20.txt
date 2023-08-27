@@ -1,0 +1,4 @@
+texto 20
+
+La otra forma del bus es la que sí está aquí en la foto, con este cable rojo que es la siguiente versión de ata o la siguiente versión de ide, que es más compacta y más eficiente, se llama Sata y es la evolución de Ata, como ya lo habíamos dicho, utiliza un cable con menos conductores y un conector mucho más pequeño, más enriquecido en cobre también para que tenga una mayor conductividad.
+

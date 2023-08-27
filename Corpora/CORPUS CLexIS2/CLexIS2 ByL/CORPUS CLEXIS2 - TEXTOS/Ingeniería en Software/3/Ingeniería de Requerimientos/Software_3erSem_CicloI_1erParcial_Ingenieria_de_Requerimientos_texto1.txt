@@ -1,0 +1,2 @@
+TEXTO 1
+Existe una diferencia entre requerimiento y requisito. Un requerimiento es lo que el cliente necesita normalmente. Así mismo los requisitos son lo que nosotros necesitamos para que el software funcione. los requisitos obviamente son para la creación de un programa. Lo que el cliente pide en ocasiones son cosas que ni el mismo la sabe porque realmente él sólo espera un resultado, algo que le sirva para lo que él realmente necesite. Nosotros lo diseñamos y en ocasiones realmente lo que necesita es otra cosa.

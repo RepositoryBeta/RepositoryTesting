@@ -1,0 +1,7 @@
+texto 46
+Qué son las estructuras de control?
+
+Entonces en programación las estructuras de control me permite modificar el flujo de ejecución de las instrucciones de un programa, evalúa una expresión lógica y ejecuta una acción, es decir yo necesito determinar si una persona es mayor de edad, ojo ya ahí tengo una condición, 
+¿Es mayor de edad?, verdadero o falso, 
+¿La suma de estos dos números es mayor a 5? 
+Planteando una condición, por lo cual al determinar si la condición es verdadera tengo que ejecutar una acción, si la condición fue falsa también tengo que hacer una acción.

@@ -1,0 +1,4 @@
+texto 41
+APLICACIONES DE EDO DE 1er ORDEN.
+La posibilidad de que las matemáticas pudieran aun ser aplicadas exitosamente el estudio de varios procesos naturales de los seres vivos desde los microorganismos más elementales hasta la misma humanidad sorprende a la imaginación. 
+Ej: En un cultivo de levadura, la rapidez de cambio es proporcional a la cantidad existente. Si la cantidad de cultivo se duplica en 4 horas. ¿Qué cantidad puede esperarse al cabo de 12 horas?.

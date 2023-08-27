@@ -1,0 +1,4 @@
+texto 116
+
+Por su parte la organización de computadores se refiere a las unidades funcionales y sus interconexiones, que dan lugar a especificaciones arquitectónicas. Entre los atributos arquitectónicos tenemos: conjuntos de instrucciones, números de bits usados para representar varios tipos de datos, cantidad de bits del procesador, mecanismos de entrada y salida y técnicas para direccionamiento de memoria. Entre los atributos organizacionales tenemos: señales de control, interfaces entra el computador y los periféricos, tecnología de memoria usada.
+

@@ -1,0 +1,3 @@
+﻿texto 21
+
+Para poder suplir, para poder ascender, para poder hacerle frente a este mundo la cual la información está dada por miles y  millones y millones de datos, la información hoy en día esta almacenada en en grandes bases de datos, en Data Science, tremendas base de datos que ya no es posible que una persona lo pueda definir o pueda dar un criterio estadístico sobre un resultado de una base de datos puede ser cualquier base de datos, a nivel mundial pero ahora estamos hablando de megas base de datos.

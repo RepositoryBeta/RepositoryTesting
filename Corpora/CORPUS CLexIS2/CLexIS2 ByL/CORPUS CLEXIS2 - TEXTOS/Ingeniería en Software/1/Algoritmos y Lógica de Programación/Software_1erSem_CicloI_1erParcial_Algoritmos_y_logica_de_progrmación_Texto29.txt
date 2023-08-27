@@ -1,0 +1,3 @@
+﻿texto 29
+
+Porque el mantenimiento del programa se tiene que escribir de forma constante, si no, es un programa que empieza a quedar caduco y que luego ya tiene que ser desechado y la empresa tiene que hacer nuevas inversiones, entonces los mantenimientos deben de ser constante, por eso ustedes deben de darse cuenta que cada vez que estamos trabajando una aplicación, dice: Hay nuevas actualizaciones para la aplicación y usted le pone aceptar, o más tarde, o al día siguiente.

@@ -1,0 +1,4 @@
+texto 54
+
+Connotación: Eso si, que tener en cuenta que por tener dos núcleos no significa que el rendimiento se multiplica por dos, hay muchos otros factores. Sobre todo si tiene varias aplicaciones abiertas a la vez. Obviamente va a depender del consumo y de la demanda. Pero, definitivamente que trabajar con más de un core, me va a representar una ventaja significativa a comparación de trabajar con un solo core.
+

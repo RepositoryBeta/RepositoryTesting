@@ -1,0 +1,3 @@
+texto 67
+
+puede retrasar el trafico dependiendo de la calidad del switch,  porque como todo pasa por el switche, el switch puede ser como un cuello de botella si el switch no tiene la capacidad suficiente, la ampliación están sujetas a la capacidad o la cantidad de puertos que tengan el switch sino simplemente se añade otro switch y ya está entonces también es fácil en ese sentido.

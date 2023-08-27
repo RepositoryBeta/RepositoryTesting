@@ -1,0 +1,17 @@
+﻿texto 31
+
+El Modelo Incremental se puede ver aquí en forma gráfica:
+
+Se evitan proyectos largos y se entrega algo de valor a los usuarios con cierta frecuencia.
+
+El usuario se involucra más.
+
+Difícil de evaluar el coste total.
+
+Difícil de aplicar a los sistemas transaccionales que tienden a ser integrados y a operar como un todo.
+
+Requiere gestores experimentados.
+
+Los errores en los requisitos se detectan tarde.
+
+El resultado puede ser muy positivo.

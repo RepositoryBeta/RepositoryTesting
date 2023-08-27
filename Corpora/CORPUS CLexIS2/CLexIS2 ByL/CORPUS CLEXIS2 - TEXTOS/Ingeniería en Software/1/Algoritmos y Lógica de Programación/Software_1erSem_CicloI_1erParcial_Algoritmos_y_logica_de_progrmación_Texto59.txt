@@ -1,0 +1,2 @@
+texto 59
+Los tipos de datos de tipo entero son lo que no llevan parte decimal, por ejemplo cuando dices la edad de una persona 20,25, 40, datos tipo enteros: los meses del año son 12, los días de la semana 7, no tiene parte decimal el dato, si nos referimos a datos de tipo reales son aquellos que tienen una parte decimal, es decir que tiene una parte entera y luego seguido hay una parte decimal, cuando dice el valor de un producto este producto puede ser que vale 100 con 50(100,50).

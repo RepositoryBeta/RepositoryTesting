@@ -1,0 +1,4 @@
+texto 27
+
+No podemos decir que un material de $20 transmite lo mismo que un material de $500 y eso es algo bastante presente en los diferentes escenarios de computación. Puedo tener un Intel Core i7 pero uno que viaja a 1.0 gigahertz y otro que solamente viaja a 0.8 gigahertz. Es decir, que tengo una menor velocidad. Cuando hablo de la fórmula que velocidad = ancho x frecuencia. Por ejemplo, tenemos un bus de 32 bit, viaja 20 megahercios y eso me da 640 Mbps. Dándome la velocidad de transferencia de dicho bus.
+

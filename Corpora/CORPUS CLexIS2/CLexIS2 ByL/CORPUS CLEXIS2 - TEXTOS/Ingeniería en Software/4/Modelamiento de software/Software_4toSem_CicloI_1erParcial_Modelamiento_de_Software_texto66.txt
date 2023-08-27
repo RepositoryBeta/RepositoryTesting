@@ -1,0 +1,3 @@
+﻿texto 66
+
+Así que yo les hablo de clases ya saben de qué estamos hablando, la diferencia es alguna vez ustedes se pusieron hacer un diagrama de clases previo a la programación, quizás no se debe de hacer si por lo menos un modelado bastante básico para saber cómo van a estar las relaciones si usted no hace no va a construir la base datos más mucha gente hace primero el diagrama de clase luego la base de datos y luego se pone a programar no hay problema.

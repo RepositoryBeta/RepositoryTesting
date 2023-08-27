@@ -1,0 +1,3 @@
+﻿texto 88
+
+Clase abstractos, ya conocen: públic abstract class, la diferencia de mi clase abstracta es que los métodos que existen son elementos que aquí con el código hay metodos que no son abstractos, que no han implementado hasta que un método implementado ya sea propio o heredado informa inmediatamente una clase abstracta, como yo en modelamiento represento una clase abstracta los métodos que sean abstractos va en cursiva.

@@ -1,0 +1,3 @@
+texto 22
+
+Entonces la complejidad del mensaje de texto afecta a las comunicaciones, otro concepto es que si un mensaje transmite un hecho concreto importante se necesita una confirmación de que el mensaje Se recibió y comprendió correctamente, los mensajes menos importantes pueden no requerir acuses de recibo por parte del receptor,  la comunicación está destinada a ser exitosa cuando el significado de mensaje comprendido por el receptor coincide con el significado del mensaje del emisor.

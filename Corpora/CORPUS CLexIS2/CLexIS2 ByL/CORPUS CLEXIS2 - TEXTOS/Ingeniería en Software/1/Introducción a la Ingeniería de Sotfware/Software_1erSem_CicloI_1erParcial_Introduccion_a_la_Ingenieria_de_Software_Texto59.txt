@@ -1,0 +1,7 @@
+texto 59 
+
+Ámbito general del ciclo de vida de un software ver un punto de vista general puede considerarse que el ciclo de vida de un software tiene tres etapas claramente diferenciadas:
+
+ Planificación: idearemos un planteamiento detallado que quiere la gestión del proyecto, temporal económicamente.
+
+ Implementación: acordaremos el conjunto de actividades que componen la organización de productos.

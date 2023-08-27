@@ -1,0 +1,5 @@
+texto 94
+
+¿Qué es el trabajo en concreto?, ¿qué máquina utilizan? y la cantidad de horas que utiliza esa máquina, puedo utilizar muchas máquinas y una máquina puede ser utilizada por muchos trabajos. Eso es la cardinalidad máxima y la mínima puede ser que algún trabajo no utilice máquina efectivamente puede ser que sea un trabajo sólo que necesiten empleados y nada más, se puede ser que la mínima sea cero y también puede que alguna máquina no sea utilizada por algún trabajo efectivamente, pero también no la están utilizando hasta ahí. No está utilizada por ningún trabajo en sí, pero eso no quiere decir que más adelante no la vaya a utilizar.
+
+

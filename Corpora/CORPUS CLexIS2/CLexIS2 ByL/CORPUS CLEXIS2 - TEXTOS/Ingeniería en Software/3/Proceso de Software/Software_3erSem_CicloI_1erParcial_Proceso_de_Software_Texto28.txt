@@ -1,0 +1,5 @@
+﻿texto 28
+
+MODELO DE DESARROLLO CONCURRENTE: El Modelo de Desarrollo Concurrente conocido además como Ingeniería Concurrente dado por Davis Sitaram, se puede representar en forma de esquema como una serie de actividades técnicas importantes, tareas y estados asociados a ellas.
+
+Este modelo se utiliza a menudo como el paradigma de desarrollo de aplicaciones cliente servidor.

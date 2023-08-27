@@ -1,0 +1,5 @@
+﻿texto 20
+
+Diseñar el algoritmo es lo más sencillo, un algoritmo simplemente es un conjunto de pasos organizados y bueno,
+¿Qué es diseñar el algoritmo?
+En otras palabras menos técnicas, debemos a escribir la serie de pasos que tenemos que seguir para resolver el problema, esto no implica escribir el programa, sino sólo escribir la secuencia de actividades que nos van a permitir resolver el problema en cuestión, esto implica entre otras cosas, definir qué datos se requieren para resolver el problema.

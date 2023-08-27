@@ -1,0 +1,7 @@
+texto 21
+
+Por ejemplo, se ha de evitar que un proceso pueda efectuar una llamada al sistema que requiera la atención de un componente de menor privilegio o tal vez evitar que los programas de aplicación hagan llamadas directamente sobre el núcleo. Así puede obligarse a utilizar como mediadores a otros niveles.
+
+Sistemas de Micronúcleo
+
+La posibilidad de separar funcionalmente los programas del sistema de los programas de aplicación y asegurar protección adicional con el hardware, origina otra arquitectura, la de micronúcleo. En esta, se trata de combinar el rendimiento y sencillez de la arquitectura monolítica con la protección y organización de la arquitectura por capas. 

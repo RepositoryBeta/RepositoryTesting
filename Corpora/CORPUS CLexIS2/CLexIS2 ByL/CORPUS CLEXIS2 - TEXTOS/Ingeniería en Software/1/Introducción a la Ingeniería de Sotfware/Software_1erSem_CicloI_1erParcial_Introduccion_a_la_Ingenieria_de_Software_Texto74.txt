@@ -1,0 +1,6 @@
+texto 74
+
+ Fase de Desarrollo
+
+ fase orientada al como:
+El primer paso de esta fase corresponde al diseño del software se trasladan los requisitos del software a un conjunto de representaciones que describen la estructura de datos, arquitectura del software y procedimientos algorítmicos que permiten la construcción física de dicho software los otros dos pasos de la fase de desarrollo corresponden a la codificación y a la prueba del software.

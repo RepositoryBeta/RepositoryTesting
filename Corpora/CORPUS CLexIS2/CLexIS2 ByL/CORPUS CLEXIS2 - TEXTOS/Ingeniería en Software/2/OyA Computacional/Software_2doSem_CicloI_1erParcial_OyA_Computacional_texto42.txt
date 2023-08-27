@@ -1,0 +1,4 @@
+texto 42
+
+Por acá también podrías tener una pci y entonces todas estas cosas se vienen dando en el mainboard, que es el que aloja todos los componentes anteriormente mencionados, entonces tenemos que en este mainboard, hay mainboard que son básicos y te traen dos ranuras para memoria, hay otros que son tan básicos que sólo traen una. Así mismo hay mainboard que son bastantes prominentes y vienen hasta con 4, 5,6 y hasta 8 ranuras de memoria.
+

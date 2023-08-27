@@ -1,0 +1,2 @@
+texto 74
+Pero me dice del 1 al 12, ¿Ya llegué al 12? no, iré entonces ahora con la tabla que sigue, el tres por uno y luego haré todo esto también hasta llegar al 3 * 12 verdad, pero me dices hasta el 12, pasaré entonces al 4 y haré lo mismo y así hasta cuando llegué a la tabla del 12, entonces ya tengo yo mi algoritmo, lo que estoy haciendo aquí, un algoritmo en lenguaje natural para comprender los pasos que debo hacer, ya tengo lo que hemos venido recalcando tengo que hacer un análisis del problema.

@@ -1,0 +1,3 @@
+﻿texto 65
+Diagrama de barras
+El segundo gráfico que vamos a ver es, ya lo hemos mencionado, el gráfico de barras, el óptimo para representar las variables cualitativas ordinales. En el eje horizontal se representan las diferentes categorías y sobre él se levantan unas columnas o barras cuya altura es proporcional a la frecuencia de cada categoría. También podríamos utilizar este tipo de gráfico para representar variables cuantitativas discretas, pero lo que no es muy correcto hacer es usarlo para las variables cualitativas nominales.

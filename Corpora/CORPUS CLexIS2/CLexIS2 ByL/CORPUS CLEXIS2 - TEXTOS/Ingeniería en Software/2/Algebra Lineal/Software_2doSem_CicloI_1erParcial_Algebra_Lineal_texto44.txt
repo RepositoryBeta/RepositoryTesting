@@ -1,0 +1,5 @@
+﻿texto 44
+
+En la primer condición la suma de la izquierda (dentro del paréntesis) es (la suma de V ) y la suma de la derecha es (la suma de W). De manera similar, en la segunda condición el producto por escalar de la izquierda (dentro del paréntesis) es el de V y el de la derecha es el de W.
+
+En lo que resta de esta entrada, supondremos que los espacios vectoriales son sobre un mismo campo F.

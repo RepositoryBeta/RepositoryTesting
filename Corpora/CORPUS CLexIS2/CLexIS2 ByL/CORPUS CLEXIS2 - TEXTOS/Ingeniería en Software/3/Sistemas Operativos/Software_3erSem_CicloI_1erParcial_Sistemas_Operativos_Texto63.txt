@@ -1,0 +1,9 @@
+texto 63
+
+Un cliente que entra a la peluquería debe contar el número de clientes que esperan. Si es menor que el número de sillas, él se queda; en caso contrario se va.
+
+Una solución 
+
+Cuando el barbero abre su negocio se debe ejecutar un semáforo denominado barber que checa el número de barberos en espera de clientes (0 o 1), lo que establece un bloqueo en otro semáforo: customer, que cuenta el número de clientes en espera, después se va a dormir.
+
+Cuando llega el primer cliente, éste ejecuta customer, que inicia procurando que un tercer semáforo llamado mutex entre en una región crítica. Mutex se va a utilizar para la exclusión mutua. 

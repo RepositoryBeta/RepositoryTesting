@@ -1,0 +1,2 @@
+TEXTO 67
+Apéndices: Brindan información específica y detallada que se relaciona con la aplicación a desarrollar; por ejemplo, descripciones de Hardware y las bases de datos. Los requerimientos de Hardware definen las configuraciones, mínima y óptima, del sistema. Los requerimientos de base de datos delimitan organización lógica de los datos usados por el sistema y las relaciones entre datos. índice: Pueden incluirse en el documento varios índices. Así como un índice alfabético normal, uno de diagramas, un índice de funciones, etc.

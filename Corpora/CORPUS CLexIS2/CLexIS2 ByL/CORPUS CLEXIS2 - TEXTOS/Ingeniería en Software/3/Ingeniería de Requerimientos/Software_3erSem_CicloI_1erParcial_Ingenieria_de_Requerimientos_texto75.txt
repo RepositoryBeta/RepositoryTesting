@@ -1,0 +1,2 @@
+TEXTO 75
+Sistema en el caso de uso: Aquí tenemos qué tanto incluiremos en el sistema, Cómo se relaciona este sistema con otros, Quién va usar este sistema, un sistema es como un objeto con un propósito y con interfaces, la implementación interna puede cambiarse sin afectar otras entidades, mientras el propósito y las interfaces no cambien. El propósito es la meta de la justificación del proyecto. Las interfaces son los canales de comunicación entre los actores fuera del sistema y las características del sistema en sí: los casos de uso.

@@ -1,0 +1,9 @@
+texto 28
+
+Hilos
+
+Un hilo en un sistema operativo es la caracterictica que permite a una aplicacion realizar varias tareas a la vez concurrentemente, los distintos hilos de ejecucion comparten una serie de recursos tales como el espacio de memoria, los archivos abiertos, situacion de autentificacion. 
+
+Esta accion permite simplificar el diseño de una aplicacion que debe llevar a cabo distintas funciones simultaneamente.
+
+Los hilos son básicamente una tarea que puede ser ejecutada en paralelo con otra tarea; teniendo en cuenta lo que es propio de cada hilo es el contador de programa, la pila de ejecucion y el estado de la CPU (incluyendo el valor de los registros).

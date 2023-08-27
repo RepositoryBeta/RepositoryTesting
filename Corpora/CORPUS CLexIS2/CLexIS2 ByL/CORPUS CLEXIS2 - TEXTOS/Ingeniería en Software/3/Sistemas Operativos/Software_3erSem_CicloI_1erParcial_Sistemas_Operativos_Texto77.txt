@@ -1,0 +1,13 @@
+texto 77
+
+Gestión y Administración de memoria 
+
+Es el acto de gestionar la memoria de un dispositivo informático. 
+
+El proceso de asignación de memoria a los programas que la solicitan. 
+
+La gestión de la memoria principal de una computadora es una tarea de suma importancia para el funcionamiento de la misma.
+
+Sistema Elementales de Gestión de Memoria 
+
+Uno de los sistemas más sencillos de gestión de memoria se consigue al dividir ésta en dos secciones, una para el proceso de usuario y otra para la parte del sistema operativo que debe estar residente en memoria (monitor).

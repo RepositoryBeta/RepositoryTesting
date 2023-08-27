@@ -1,0 +1,5 @@
+texto 4
+
+Las salidas se imprimian o se perforaban en cinta de papel para su impresion. En caso de errores en la ejecucion de los programas, el usuario tenia que depurarlos examinando el contenido de la memoria y los registros de la computadora.
+
+En esta primera etapa todos los trabajos se realizaban en serie, se introducian un programa en la computadora, se ejecuta y se imprimian los resultados.

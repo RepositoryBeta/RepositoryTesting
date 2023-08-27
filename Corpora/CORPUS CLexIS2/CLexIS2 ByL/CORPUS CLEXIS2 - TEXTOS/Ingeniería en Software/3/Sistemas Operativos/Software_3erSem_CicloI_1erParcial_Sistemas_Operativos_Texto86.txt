@@ -1,0 +1,5 @@
+texto 86
+
+Políticas De Asignación
+
+El modelo del conjunto del trabajo. En la forma más pura de paginación, los procesos se inician con ninguna de sus páginas en la memoria. El proceso tiene la mayor parte de las páginas que necesita y se dedica a ejecutarse con relativamente pocas fallas de página. Aspectos de diseño para los sistemas de paginación Tamaño de Pagina Es un parámetro que el SO puede escoger. Un tamaño de página grande hará que haya mayor proporción de programa que no se utiliza en la memoria que si usan las páginas pequeñas.

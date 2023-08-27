@@ -1,0 +1,7 @@
+﻿texto 98
+
+Un grafo G tiene un ciclo de Euler, si y solo si G es un grafo conexo y cada vértice tiene grado par.
+
+Si G es un grafo conexo que tiene un par de vértices de grado impar, entonces no puede existir un ciclo de Euler en G, pero si, camino de Euler.
+
+Camino de Hamilton. Es aquella trayectoria que contiene cada vértice que lo compone una y solo una vez.

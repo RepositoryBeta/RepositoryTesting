@@ -1,0 +1,10 @@
+texto 58
+
+Se complementa la explicación de las extensiones modelo entidad - relación que estamos haciendo, ¿cuáles son esas extensiones?, nosotros nos encontramos con 5 nuevas extensiones.
+Las entidades debiles:
+1) La relacion / asociacion recursiva.
+2) La especialización.
+3) Generalización.
+
+
+

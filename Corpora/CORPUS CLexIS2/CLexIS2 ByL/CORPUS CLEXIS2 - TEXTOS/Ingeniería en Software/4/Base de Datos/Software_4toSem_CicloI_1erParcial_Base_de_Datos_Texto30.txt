@@ -1,0 +1,3 @@
+texto 30
+
+Porque todas estas características las que utilizan los dba, los administradores de base de datos es proponer un medio para respaldo y recuperación, el dba debe asegurarse que si el día de mañana se corrompe los datos se pierden los datos y poder recuperarlos de manera inmediata entonces, para ello copias de respaldo de los datos, almacenados copias de seguridad, y cuando hablamos de esas copias de seguridad aquí en este gráfico hay tres ejemplos de tres técnicas, la técnica del backup o respaldo que sacar una copia.

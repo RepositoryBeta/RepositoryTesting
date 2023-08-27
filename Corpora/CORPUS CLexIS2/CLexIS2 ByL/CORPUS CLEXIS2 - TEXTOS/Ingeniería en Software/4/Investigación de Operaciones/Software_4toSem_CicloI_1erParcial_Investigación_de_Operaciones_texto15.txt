@@ -1,0 +1,3 @@
+﻿texto 15
+
+Tenemos el análisis de problema y recolección de datos y luego generamos algunas alternativas de solución, se evalúan esas alternativas de solución, se especifica la solución o sea en cual de esas alternativa en la que vamos a tomar se implementa y se hace una evaluación y control pero también tenemos que formular, hacerlas formuladas, la formulación y validación aqui en el control vamos a estar retroalimentando de forma general de como usualmente se desarrolla un problema.

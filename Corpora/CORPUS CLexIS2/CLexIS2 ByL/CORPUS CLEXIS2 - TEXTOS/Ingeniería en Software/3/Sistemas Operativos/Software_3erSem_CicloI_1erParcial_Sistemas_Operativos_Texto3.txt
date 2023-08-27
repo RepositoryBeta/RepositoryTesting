@@ -1,0 +1,9 @@
+texto 3
+
+Historia de los S.O
+
+Pre Historia: Charles Babbage (1792 - 1871), creo una maquina analitica, era un diseño completamente mecanico por medio de ruedas, engranes, levas y demas partes mecanicas no existia Sistema Operativo.
+
+Primera Generacion (1945 - 1955) Aparecen los bulbos y conexiones, despues de la 2 Guerra mundial, supremamente enormes y existian gente que se encargaba de diseñar, otros construian el programa. Y otros daban mantenimiento a la misma.
+
+En esta etapa no existian sistemas operativos. El usurio debia codificar su programa a mano y en instrucciones maquina y debia introducirlo personalmente en la computadora, mediante conmutadores o tarjetas perforadas.

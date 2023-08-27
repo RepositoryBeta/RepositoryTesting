@@ -1,0 +1,5 @@
+﻿texto 39
+
+Estocastico: No existen valores exactos de las variables en todo momento, existe incertidumbre y por ende una distribucion de probabilidad en los resultados. 
+¿Qué quiere decir esto? 
+Así como existe en este aspecto determinístico valores determinísticos, también existen de probabilidad por ejemplo si se quiere calcular el inventario de una emergencia de un hospital normalmente hay una estadística que dice que normalmente hay que comprar tal vez medicamento para la fiebre, de repente alguna suturas en caso de que llegue alguien con una herida etc son como estadísticas.

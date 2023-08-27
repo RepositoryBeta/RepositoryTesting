@@ -1,0 +1,9 @@
+texto 70
+
+Recorridos en un árbol binario
+
+Un recorrido en un árbol binario es Una operación que consiste en visitar todos sus vértices o nodos, de tal manera que cada vértice se visite una sola vez.
+
+ Se distinguen tres tipos de recorrido: INORDEN, POSORDEN Y PREORDEN.
+
+ En cada recorrido se tiene en cuenta la posición de la raíz (de ahí su nombre) y que siempre se debe ejecutar primero el hijo izquierdo y luego el derecho.

@@ -1,0 +1,13 @@
+texto 44
+
+ARRAY BIDIMENSIONAL
+
+Un array bidimensional (tabla o matriz), es un array con dos índices, al igual que los vectores que deben ser ordinales o tipo subrango.
+
+Para localizar o almacenar un valor en el array se deben especificar dos posiciones (dos subíndices), uno para la fila y otro para la columna. 
+
+Los elementos se referencian con el formato:
+
+Type
+
+      Tabla = array [1 - 25, 1 - 4] of real.

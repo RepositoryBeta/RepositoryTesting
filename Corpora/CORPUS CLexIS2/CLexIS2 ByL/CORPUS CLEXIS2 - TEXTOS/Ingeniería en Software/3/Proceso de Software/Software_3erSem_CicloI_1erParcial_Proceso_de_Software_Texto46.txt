@@ -1,0 +1,9 @@
+﻿texto 46
+
+El diseño asistido por computadora (del inglés CAD), la simulación de sistemas y otras aplicaciones interactivas, han comenzado a coger características del software de tiempo real e incluso del software de sistemas.
+
+Software empotrado: Reside en memoria de sólo lectura Se utiliza para controlar productos y sistemas de los mercados industriales y de consumo.
+
+Ejecuta funciones muy limitadas
+
+Ejemplo: El control de las teclas de un horno de microondas, control de la gasolina de un automóvil, sistemas de frenado, etc.

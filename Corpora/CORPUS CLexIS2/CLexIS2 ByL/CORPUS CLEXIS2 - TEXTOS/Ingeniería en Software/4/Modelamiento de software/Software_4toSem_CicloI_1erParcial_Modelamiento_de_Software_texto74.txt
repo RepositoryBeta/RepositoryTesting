@@ -1,0 +1,3 @@
+﻿texto 74
+
+¿Cuando es total? cuando es una clase y cuando es parcial cuando es una clase abstracta, usted sabe que una clase abstracta es aquella que no tiene todos los métodos implementados y peor una interfaz eso ya no es una clase pero se podría decir que una derivación de regreso súper abstracto estamos hablando que la clase es la abstracción es la forma correcta de representar un tipo abstracta o implementación de un tipo abstracto.

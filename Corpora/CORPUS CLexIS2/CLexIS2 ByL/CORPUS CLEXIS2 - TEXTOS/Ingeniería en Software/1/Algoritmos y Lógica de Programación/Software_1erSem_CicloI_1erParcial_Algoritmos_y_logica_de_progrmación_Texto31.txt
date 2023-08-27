@@ -1,0 +1,3 @@
+texto 31
+
+Documentar nuestro programa es esencial no sólo para que los usuarios tengan un manual de referencia nuestro programa, sino también para permitir que otros programadores que trabajen en nuestra aplicación, o aún nosotros mismos cuando regresemos a ella después de algún tiempo de verla hecho, tengamos una mejor comprensión de nuestro trabajo de porque pusimos tal o cual variable, de qué hace un método determinado, de dónde estamos sacando información para mostrar en la pantalla, etcétera.

@@ -1,0 +1,4 @@
+texto 47
+
+Es decir, que va jerárquicamente, las aplicaciones no son las app, sino que se montan encima del SO y el SO se monta sobre una bios y este bios se monta sobre la arquitectura que se monta sobre la organización, un mismo microprocesador o procesador puede contar con uno o más núcleos físicos, en los que se lleva a cabo toda la labor de cálculo de operaciones. Una computadora puede disponer de varios microprocesadores trabajando en paralelo.
+

@@ -1,0 +1,4 @@
+texto 40
+
+Sistemas transaccionales: sistema de información que logran la automatización de procesos operativos dentro de una organización ya que su función primordial consiste en procesar transacciones  tales como pagos, cobros,  entradas, salidas, etcétera.
+Que permite que la información esté disponible para satisfacer las necesidades en una organización.

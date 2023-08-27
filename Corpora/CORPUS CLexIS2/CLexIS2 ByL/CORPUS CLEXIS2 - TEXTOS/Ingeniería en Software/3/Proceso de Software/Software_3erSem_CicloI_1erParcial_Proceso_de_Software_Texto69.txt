@@ -1,0 +1,7 @@
+﻿texto 69
+
+Asegurador de calidad.
+
+En la medida que crece la presión por cumplir con las fechas estipuladas, y reducir los costos, es la calidad del producto la que sufre. Cuando se acelera el desarrollo de un sistema que está atrasado, generalmente se corta todo lo que no se considere esencial, usualmente cortando las actividades de verificación y testeo, resultando en un producto de calidad reducida.
+
+Encargado de velar por un producto de software = calidad + a tiempo + dentro de los costo.﻿

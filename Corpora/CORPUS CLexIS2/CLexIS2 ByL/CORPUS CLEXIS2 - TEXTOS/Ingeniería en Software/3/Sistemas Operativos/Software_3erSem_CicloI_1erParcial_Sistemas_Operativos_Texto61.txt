@@ -1,0 +1,5 @@
+texto 61
+
+lock: intenta bloquear el mutex. Si el mutex ya está bloqueado por otro proceso, el proceso que realiza la operación se bloquea. En caso contrario, se bloquea el mutex sin bloquear al proceso. 
+
+unlock: desbloquea el mutex. Si existen procesos bloqueados en él, se desbloqueará a uno de ellos, que será el nuevo proceso que adquiera el mutex. La operación unlock sobre un mutex debe ejecutarla el proceso ligero que adquirió con anterioridad el mutex mediante la operación lock. Esto es diferente a lo que ocurre con las operaciones wait y signal sobre un semáforo.

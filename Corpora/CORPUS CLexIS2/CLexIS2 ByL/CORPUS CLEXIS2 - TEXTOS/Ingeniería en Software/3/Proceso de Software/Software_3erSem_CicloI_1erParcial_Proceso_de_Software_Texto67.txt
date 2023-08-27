@@ -1,0 +1,15 @@
+﻿texto 67
+
+Téster 
+
+Encargados de la generaciones de planes de pruebas. 
+
+Encargados de encontrar errores en la aplicación. 
+
+Encargados de documentar los hallazgos, planear y ejecutar ciclos de prueba.
+
+Objetivos Téster 
+
+Aplicar métodos para diseñar casos de tests efectivos. 
+
+Construir buenos casos de tests que tengan altas probabilidades de encontrar errores aún no descubiertos. 

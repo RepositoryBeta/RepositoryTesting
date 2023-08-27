@@ -1,0 +1,5 @@
+﻿texto 75
+
+Entonces eso son 4 condiciones que se tienen que tomar en cuenta a la hora de aplicar el método simplex.
+
+Luego ya empezamos con el procedimiento para la aplicación del método simplex el primer paso debemos estandarizar las restricciones ese se dice acá se suma a cada restricción una variable de holgura y se cambia el signo de desigualdad por uno de igualdad por ejemplo tenemos acá unas inecuaciones y a cada una de ellas les he añadido una variable de holgura.

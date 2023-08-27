@@ -1,0 +1,7 @@
+texto 16
+
+Sistemas operativos con estructura de núcleo híbrido
+
+Este tipo de arquitectura consiste básicamente en un esquema de micronúcleo que incluye algo de código complementario para hacerlo más rápido, aunque buena parte de las funciones del sistema operativo siguen ejecutándose en modo usuario.
+
+Se trata de una solución de compromiso que han adoptado muchos de los sistemas operativos modernos, como las versiones de escritorio de Microsoft Windows, a partir de XP, y todas las versiones de Servidor. También se encuentra en esta categoría Macos.

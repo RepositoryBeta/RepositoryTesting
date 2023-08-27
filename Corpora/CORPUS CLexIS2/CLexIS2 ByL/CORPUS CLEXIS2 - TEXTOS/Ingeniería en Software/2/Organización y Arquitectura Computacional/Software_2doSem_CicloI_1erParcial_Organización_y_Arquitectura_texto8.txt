@@ -1,0 +1,2 @@
+TEXTO 8
+La unidad de procesamiento: los cuatro componentes principales que conforman la estructura organizacional del computador, no solamente es el chip, que es el procesador como tal, sino que también está la memoria principal a la que se le denomina RAM, es donde se almacenan, se alojan todas las aplicaciones que nosotros vamos a abrir. La memoria principal es nuestra primera entrada de datos.

@@ -1,0 +1,3 @@
+texto 83
+
+Cada una de las capas ilustra una función de red específica, antes de que los datos se transfieren a través de las distintas capas del modelo OSI, deben dividirse en paquetes,  un paquete es una unidad información, lógicamente agrupada, que se desplaza entre los sistemas de computación, las capas del modelo OSI son los siguientes,  capa física,  capa de enlace de datos, capa de red, capa de transporte, capa de sesión, capa de presentación y capa de aplicación.

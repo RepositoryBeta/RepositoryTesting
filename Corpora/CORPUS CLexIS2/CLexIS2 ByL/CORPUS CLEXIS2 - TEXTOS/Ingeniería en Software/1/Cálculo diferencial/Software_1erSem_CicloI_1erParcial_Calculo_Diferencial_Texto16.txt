@@ -1,0 +1,3 @@
+texto 16 
+¿Qué son los EDOS (ecuación diferencial ordinaria) lineales de primer orden?
+Son aquellas EDOS en donde tenemos la variable dependiente y sus derivadas separadas y sin ningún exponente, también tenemos derivadas de primer orden respecto a una variable independiente. Es una relación en la que interviene la variable dependiente, la función incógnita y su derivada de primer orden. Esas son ecuaciones diferenciales ordinarias lineales primer orden quiere decir primera derivada, lineales tenemos la variable dependiente y su derivada separadas y sin ningún exponente.

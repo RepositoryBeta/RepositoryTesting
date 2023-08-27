@@ -1,0 +1,13 @@
+texto 73
+
+Definición y tratamiento de interbloqueo 
+
+Conjunto de procesos tal que cada uno está esperando un recurso que sólo puede liberar otro proceso del conjunto – No es requisito bloqueo: puede haber espera activa.
+
+Tratamiento del interbloqueo: Detección y recuperación. Se detecta y se recupera. 
+
+Coste de algoritmo 
+
+Pérdida del trabajo realizado 
+Prevención. Asegura que no ocurre fijando reglas.
+Infrautilización de rec. 

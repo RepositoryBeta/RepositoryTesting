@@ -1,0 +1,7 @@
+texto 75
+
+ - Evalúe la expresión utilizando el árbol, dándole valores aritméticos o lógicos a los operandos.
+
+Árbol binario de búsqueda
+
+Un árbol binario de búsqueda es aquel que tiene sus nodos con un orden definido, de tal manera que los datos del subárbol izquierdo son menores y los del subárbol derecho son mayores. Estos árboles tienen como particularidad la permisión de que se puedan realizar búsquedas de nodos o datos determinados, utilizando el método de búsqueda binaria de manera similar al usado en arreglos.

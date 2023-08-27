@@ -1,0 +1,5 @@
+texto 7
+
+En cual les decía también el ejemplo de que se encuentran con un compañero, amigo que es doctor y les dice yo necesito un sistema para mi clínica que me registra mis pacientes, que registre los síntomas, que yo pueda registrar un diagnóstico, fue a registrar exámenes y medicina. 
+Entonces eso es lenguaje natural y el reto es pasar de ese lenguaje natural que es un nivel externo de manera abstracta a un diagrama conceptual y luego no quedarnos en el diagrama conceptual, en modelo entidad relación así no poder transformar.
+

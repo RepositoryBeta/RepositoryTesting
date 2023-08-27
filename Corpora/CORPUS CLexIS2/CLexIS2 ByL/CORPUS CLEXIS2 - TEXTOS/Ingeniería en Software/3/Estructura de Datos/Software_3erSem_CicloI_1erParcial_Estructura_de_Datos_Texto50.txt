@@ -1,0 +1,3 @@
+texto 50
+
+Si la pila no está vacía retiramos un elemento y revisamos si corresponde al signo de agrupación terminal, si coincide continuamos si no es así, la hilera no es válida, cuando llegamos al final de la hilera nos aseguramos de que la pila esté vacía, de lo contrario quiere decir que se han abierto uno o más signos, pero no se han cerrado, haciendo que la hilera no sea válida.

@@ -1,0 +1,5 @@
+TEXTO 37
+Facilidad de uso: Tiempo de entrenamiento, Numero de pantallas de ayuda.
+Fiabilidad: Numero promedio entre fallos, Probabilidad de no disponibilidad, Tasa de Ocurrencia de fallos, Disponibilidad.
+Robustez: Tiempo de reinicio entre fallos, Porcentaje de eventos que provocan fallos, Probabilidad de corrupción de los datos después de fallos.
+Portabilidad: Porcentaje de declaraciones dependientes de objetivos, Numero de sistemas objetivo.

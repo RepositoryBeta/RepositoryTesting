@@ -1,0 +1,5 @@
+﻿texto 108
+
+Esta lista suele realizarse en Excel por mayor comodidad y suele contener datos de contacto como por ejemplo el nombre, el tratamiento, cargo, la empresa, dirección y código postal, la población y provincia, etcétera.
+
+Una vez disponemos del texto o plantilla de etiquetas y el listado de direcciones hacemos coincidir el nombre del campo de la lista con el campo combinatorio del documento maestro, insertando campos.

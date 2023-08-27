@@ -1,0 +1,7 @@
+﻿texto 34
+
+En el caso de los procesos, cada uno opera independientemente de los otros; cada proceso tiene su propio contador de programa, registro de pila, y espacio de direcciones. Este tipo de organización es muy útil cuando los trabajos que los procesos efectúan no tienen ninguna relación entre si.
+
+Pero cuando los trabajos a realizar van a necesitar, por ejemplo, la llamada a una misma función o bien, la compartición de una variable en memoria, nos interesará englobarlos en una tarea. Ej: Avion Torre.
+
+Cuando un hilo está en ejecución, posee el acceso a todos los recursos que tiene asignados la tarea.

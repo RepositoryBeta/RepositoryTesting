@@ -1,0 +1,3 @@
+﻿texto 40
+
+¿Cuál es la abstracción para este modelo de edificio? es nombre, tipo y uso, nada mas digamos que es el edificio con el nombre rectorado de la universidad, tipo del edificio, administrativo donde está el rectorado y su administración central, para uso administrativo y en dónde está ubicado el nombre de la ciudad y país puede ser Guayaquil país Ecuador, perfecto esta línea está aquí ya vamos a ver más adelante cuando veamos UML.

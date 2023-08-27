@@ -1,0 +1,3 @@
+﻿texto 2
+
+Ahora veamos, ¿Qué es la calidad en nuestra carrera?, dentro del software, la calidad del Software es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario, pregunto yo, por ejemplo, que requerimientos nosotros pudiéramos pedir si nuestro cliente necesita que se le construya una página web? seguridad, accesibilidad, disponibilidad de los recursos, costo y mantenimiento, rendimiento y usabilidad.

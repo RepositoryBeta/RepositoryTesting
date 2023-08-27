@@ -1,0 +1,9 @@
+﻿texto 25
+
+Sentido: es el sentido hacia donde se dirige el segmente, es el lugar al que indica desde el origen hasta el extremo del vector, el sentido del vector se señala con una flecha.
+
+Punto de aplicación: es el lugar exacto del plano donde se sitúa el vector.
+
+Módulo: también es la longitud del segmento que representa el vector.
+
+Para calcular el módulo de un vector debemos realizar una serie de cálculos muy sencillos que nos permitirá saber cuánto mide su longitud. 

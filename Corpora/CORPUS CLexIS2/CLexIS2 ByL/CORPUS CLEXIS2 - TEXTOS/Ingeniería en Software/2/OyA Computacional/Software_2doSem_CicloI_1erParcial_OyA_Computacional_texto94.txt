@@ -1,0 +1,4 @@
+texto 94
+
+La memoria de una computadora es una secuencia ordenada de celdas, la memoria principal se divide en posiciones numeradas llamada bytes, A cada byte se asocia un número denominado dirección. Un número o letra se representa por un grupo de bytes consecutivos en una posición determinada. Cada celda o byte tiene asociada una única dirección que indica su posición relativa y memoria que permite acceder a esa posición para almacenar o recuperar la información.
+

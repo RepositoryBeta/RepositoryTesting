@@ -1,0 +1,5 @@
+TEXTO 25 
+Clasificación de requerimientos: Tenemos los de dominios, Sommerville, sugiere organizarlos en tres dominios: 
+1) Requerimientos del usuario: son declaraciones en lenguaje natural y en diagramas informales, de los servicios que se espera que el sistema proporcione y de las restricciones bajo las cuales debe funcionar.
+2) Requerimientos del sistema: establecen con detalle a las funciones, servicios y restricciones operativas del sistema. el documento de requerimientos del sistema debe ser preciso. (Se incluye en el contrato).
+3) Especificaciones del diseño de software: se obtienen de las especificaciones del sistema. están definidos de manera formal en el documento de las especificaciones de requerimientos del software.

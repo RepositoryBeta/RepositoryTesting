@@ -1,0 +1,5 @@
+texto 72
+
+Especialización
+El proceso por el que se definen las diferentes subclases de una superclase, se conoce como especialización. Ocurre cuando partimos de una entidad que podemos dividir en subentidades para detallar atributos que varían en las mismas. Comparten clave con la superentidad y los atributos de la superclase, se heredan en las subclases. La generalización o la especialización se suelen distinguir por las claves. Si se comparte clave entre la superentidad y sus descendientes, se habla de especialización; de otro modo se habla de generalización. En la generalización cada entidad de alto nivel debe ser también una entidad de bajo nivel. La especialización no tiene esta limitante.
+

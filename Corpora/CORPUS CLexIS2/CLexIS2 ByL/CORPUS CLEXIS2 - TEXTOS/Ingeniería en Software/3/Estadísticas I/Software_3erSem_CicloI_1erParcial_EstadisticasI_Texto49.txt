@@ -1,0 +1,3 @@
+﻿texto 49
+
+Es difícil hacer una interpretación de la varianza teniendo un solo valor de ella. La situación es más clara si se comparan las varianzas de dos muestras, por ejemplo varianza de la muestra igual 18 y varianza de la muestra b igual 25 en este caso diremos que los datos de la muestra b tienen mayor dispersión que los datos de la muestra a, esto significa que en la muestra a los datos están más cerca del promedio y en cambio en la muestra b los datos están más alejados del promedio.

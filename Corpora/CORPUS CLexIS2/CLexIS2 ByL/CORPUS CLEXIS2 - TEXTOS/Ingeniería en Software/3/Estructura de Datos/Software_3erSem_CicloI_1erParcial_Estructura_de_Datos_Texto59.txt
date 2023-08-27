@@ -1,0 +1,9 @@
+texto 59
+
+PILA ENCADENADA
+
+Se observan las listas encadenadas que de la parte del puntero externo (list) se accede a la lista, es decir, de ahí mismo se accesa y remueve nodos, tienen las mismas características, puesto que se insertan y se remueven elementos de un solo lugar.
+
+Una pila puede ser accesada a través de su elemento superior y una lista puede ser accesada a través del puntero al primer elemento. 
+
+De esta forma se ha descubierto la forma de implementar una pila. Esta puede estar representada por una lista lineal encadenada donde el primer nodo de la lista es el elemento superior de la pila.

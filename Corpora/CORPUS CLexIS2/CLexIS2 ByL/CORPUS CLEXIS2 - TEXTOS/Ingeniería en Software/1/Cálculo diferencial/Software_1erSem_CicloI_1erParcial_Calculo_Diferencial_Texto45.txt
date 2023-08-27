@@ -1,0 +1,2 @@
+texto 45
+Hasta el momento, se ha estudiado la solución de una EDOL (con o sin los datos de valores iniciales, dando por resultado una familia solución o una única solución, dependiendo del caso). Ahora se tratará el problema referido a la resolución de sistemas EDO lineales, esto es, encontrar las funciones que solucionan simultáneamente un conjunto de ED.

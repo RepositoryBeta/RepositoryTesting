@@ -1,0 +1,13 @@
+texto 40
+
+LIST: Es un puntero externo que apunta hacia el primer nodo de la lista
+
+NULO: Es el campo de dirección siguiente al último nodo en la lista, el cual es una dirección no válida. Este puntero nulo es utilizado para señalar el final de la lista.
+
+LISTA VACIA: Es una lista sin nodos, es decir, el valor del puntero externo de la lista es el puntero nulo. Se puede especificar así:
+
+List = nil
+
+          P           Q
+
+List --> [ x |] --> [ y |]-- // (nil).

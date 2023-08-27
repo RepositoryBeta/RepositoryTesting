@@ -1,0 +1,6 @@
+texto 73
+
+ Existe un proceso complementario: la planificación del proyecto software:
+ Se asignan los recursos,
+ Se estiman los costos, y
+ Se planifican las tareas en el trabajo.

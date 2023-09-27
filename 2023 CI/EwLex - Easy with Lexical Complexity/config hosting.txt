@@ -1,0 +1,40 @@
+IP 82.180.130.233
+clave vps dMn4H%9phsY9#D=
+EwLex.2023
+
+user ewlex
+clave 74OKDN9RycHm6WqEN0i3
+
+email romaropi@gmail.com
+clave Rmrodriguez270795
+
+acceso bd
+
+bd ew_bd
+user admin_system_01
+pass G26zTemuOPV8Y19vlTli
+
+pythonanywhere
+user ewlex
+pass @2.kFN5QS7!EV!&
+
+pas mysql EwLex.2023
+ruta home /home/ewlex/index.py
+
+comandos de librerias
+pip install flask
+pip install pymysql
+pip install nltk
+pip install mtranslate
+pip install werkzeug passlib cryptography
+
+correo notificacion ewlexnotificaciones@gmail.com
+password EwLex.2023*
+clave aplicaciones tttfojodiaoyjmbm
+
+
+https://www.youtube.com/watch?v=oq-F25_W3P8&ab_channel=MartinContreras
+
+
+
+

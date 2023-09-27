@@ -1,0 +1,124 @@
+{% extends 'menu-admin.html' %}
+{% block content %}
+<div>
+    <br>
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            Publicar Artículos/Libros
+        </div>
+        <div class="card-body">
+            <form method="post" enctype="multipart/form-data">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <b>Fecha:</b>
+                        <input type="date" id="IdFecha" class="form-control">
+                        <div id="alert-fh"></div>
+                    </div>
+                    <div class="col-sm-6">
+                        <b>Autor:</b>
+                        <input type="text" id="IdAutor" class="form-control">
+                        <div id="alert-aut"></div>
+                    </div>
+                    <div>
+                        <b>Titulo:</b>
+                        <textarea type="text" id="IdProyecto" rows="3" class="form-control"></textarea>
+                        <div id="alert-py"></div>
+                    </div>
+                    <div class="col-sm-6">
+                        <br>
+                        <b>Seleccione el Archivo:</b><br>
+                        <input type="file" id="IdDocumento" accept=".pdf" />
+                        <div id="alert-docu"></div>
+                    </div>
+                    <div class="col-sm-6">
+                        <br>
+                        <b>Seleccione el Tipo:</b> <br>
+                        <select class="default-select2 form-control" id="IdTipoDc"></select>
+                        <div id="alert-tp"></div>
+                     </div>
+                    <div class="text-center">
+                        <br>
+                        <a class="btn btn-outline-info" href="#" onclick="getPublicarDocumento();"
+                            title="Publicar Proyecto"><i class="fa fa-arrow-up" aria-hidden="true"></i> Publicar</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <br>
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            Lista de Artículos/Libros
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                {% for row in pub %}
+                <li class="list-group-item">
+                    <b>Fecha de Publicación:</b>
+                    <spam class="fs-10 fw-medium text-primary"> {{row.1}}</spam><br>
+                    <b>Autor:</b>
+                    <spam class="fs-10 fw-medium text-primary"> {{row.2}}</spam><br>
+                    <b>Titulo:</b>
+                    <spam class="fs-10 fw-medium text-primary">{{row.3}}
+                    </spam><br>
+                    <b>Tipo:</b>
+                    <spam class="fs-10 fw-medium text-danger">{{row.5}}
+                    </spam><br>
+                    <a class="btn btn-outline-danger" href="{{row.4}}" download="{{row.4}}" title="Descargar">
+                        <i class="fa fa-file-pdf" aria-hidden="true"></i> Descargar</a>
+                    <a class="btn btn-outline-warning" href="#" onclick="getModificarPublicacion('{{row.0}}')" title="Modificar"><i
+                            class="fa fa-pencil" aria-hidden="true"></i> Modificar</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <!-- Modal actualiza-->
+    <div class="modal fade" id="modal-mod-publicacion" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header bg-green">
+                    <h4 class="modal-title">MODIFICAR</h4>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+                </div>
+                <div class="modal-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <b>Fecha:</b>
+                                <input type="hidden" id="IdPublicacion" class="form-control">
+                                <input type="date" id="IdFechaMod" class="form-control">
+                                <div id="alert-fhm"></div>
+                            </div>
+                            <div class="col-sm-6">
+                                <b>Autor:</b>
+                                <input type="text" id="IdAutorMod" class="form-control">
+                                <div id="alert-autm"></div>
+                            </div>
+                            <div>
+                                <b>Titulo:</b>
+                                <textarea type="text" id="IdProyectoMod" rows="3" class="form-control"></textarea>
+                                <div id="alert-pym"></div>
+                            </div>
+                            <div class="col-sm-6">
+                                <br>
+                                <b>Seleccione el Documento:</b>
+                                <input type="file" id="IdDocumentoMod" accept=".pdf" />
+                                <div id="alert-docum"></div>
+                            </div>
+                            <div class="col-sm-6">
+                                <br>
+                                <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white"
+                                    data-bs-dismiss="modal">Cerrar</a>
+                                <a class="btn btn-outline-warning" href="#" onclick="MofificarPublicacion();"
+                                    title="Modificar"><i class="fa fa-pencil" aria-hidden="true"></i> Modificar</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

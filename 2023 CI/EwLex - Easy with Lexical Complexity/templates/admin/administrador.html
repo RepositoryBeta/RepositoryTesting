@@ -1,0 +1,69 @@
+{% extends 'menu-admin.html' %}
+{% block content %}
+<div>
+    <br>
+    <h1 class="display-6 mb-4">Detección de palabras complejas (CREA)</h1>
+    <!-- Comentario -->
+    <div class="row g-5 pt-2 mb-5">
+        <div class="col-sm-6">
+            <!-- <img class="img-fluid mb-4" src="static/img/icon/icon-5.png" alt=""> -->
+            <h5 class="mb-3"></h5>
+            <div class="mb-3">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        Ingrese el texto
+                    </div>
+                    <div class="card-body">
+                        <div class="loader_imagen"></div>
+                        <blockquote class="blockquote mb-10">
+                            <div class="box">
+                                <textarea cols="48" rows="12" maxlength="1000" id="IngresoTexto" onfocus="cantidadCarcteres();"></textarea>
+                                <div id="contador">0/1000</div>
+                                <div id="alert-txt"></div>
+                            </div>
+                            <a class="btn btn-outline-info" href="#" onclick="getBuscar();" title="Buscar"><i class="fa fa-search"
+                                    aria-hidden="true"></i> Buscar</a>
+                            <a class="btn btn-outline-danger" href="#" onclick="getBorrar();" title="Borrar"><i class="fa fa-trash"
+                                    aria-hidden="true"></i> Borrar</a><br><br>
+                            <footer class="blockquote-footer"><cite title="Título de la fuente"></cite>
+                                <span>Nro Palabras: <b style="color: brown;" id="NroPalabras">0</b></span>
+                            </footer>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <!-- <img class="img-fluid mb-4" src="static/img/icon/icon-2.png" alt=""> -->
+            <h5 class="mb-3"></h5>
+            <div class="mb-3">
+                <div class="card">
+                    <div class="card-header bg-success text-white">
+                        Resultados
+                    </div>
+                    <div class="card-body">
+                        <blockquote class="blockquote mb-10">
+                            <footer class="blockquote-footer">Palabras encontradas:
+                                <br>
+                                <div style="color: brown;" id="alert-cpalabras"></div>
+                                <cite style="color: brown;" id="palabras">...</cite>
+                            </footer>
+                            <footer class="blockquote-footer">Sinónimos:
+                                <br>
+                                <div style="color: brown;" id="alert-csinonimos"></div>
+                                <cite title="Sinónimos" id="sinonimos">...</cite>
+                            </footer>
+                            <footer class="blockquote-footer">Definiciones:
+                                <br>
+                                <div style="color: brown;" id="alert-cdefiniciones"></div>
+                                <cite title="Definiciones" id="definiciones">...</cite>
+                            </footer>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="{{url_for('static', filename='js/usuarios.js')}}"></script>
+{% endblock %}

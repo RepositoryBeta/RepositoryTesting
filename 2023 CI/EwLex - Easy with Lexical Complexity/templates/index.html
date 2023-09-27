@@ -1,0 +1,303 @@
+{% extends 'header.html' %}
+{% block content %}
+<br>
+{%with messages = get_flashed_messages()%}
+{%if messages%}
+{% for message in messages %}
+<div class="alert alert-success alert-dismissable" role="alert">
+   <button type="button" class="close" data-dismiss="alert" aria-label="close">
+      <span aria-hidden="true">&times;</span>
+   </button>
+   {{message}}
+</div>
+{%endfor%}
+{%endif%}
+{%endwith%}
+
+<!-- modal-login -->
+<div class="modal fade" id="login-usuario" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+   aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-lg">
+      <div class="modal-content border-primary">
+         <div class="modal-header bg-primary">
+            <h4 class="modal-title" style="color: white;">LOGIN USUARIO</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+         </div>
+         <div class="modal-body">
+            <section class="vh-100">
+               <div class="container-fluid">
+                  <div class="row">
+                     <div class="col-sm-6 text-black">
+
+                        <div class="px-5 ms-xl-4">
+                           <i class="fas fa-key fa-2x me-3 pt-5 mt-xl-4" style="color: #709085;">Acceso Estudiantes</i>
+                           <span class="h1 fw-bold mb-2"></span>
+                        </div>
+                        <div class="d-flex align-items-center h-custom-2 px-5 ms-xl-4 mt-5 pt-5 pt-xl-0 mt-xl-n5">
+                           <form style="width: 23rem;">
+                              <h3 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;"></h3>
+                              <br>
+                              <div class="form-outline mb-2">
+                                 <b>Email:</b>
+                                 <input type="email" id="IdUsuario" class="form-control form-control-lg" />
+                                 <p id="alert-user" style="color: red;"></p>
+                              </div>
+                              <div class="form-outline mb-2">
+                                 <b>Password:</b>
+                                 <input type="password" id="IdClave" class="form-control form-control-lg" />
+                                 <p id="alert-pass" style="color: red;"></p>
+                              </div>
+                              <div class="text-center">
+                                 <br>
+                                 <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white"
+                                    data-bs-dismiss="modal">Cerrar</a>
+                                 &nbsp;
+                                 <a class="btn btn-outline-info" href="#" onclick="getLoginUsuario();" title="Ingresar"><i
+                                       class="fa fa-save" aria-hidden="true"></i> Ingresar</a>
+                                       <div id="alert-login"></div>
+                              </div>
+                              &nbsp;&nbsp;
+                              <p class="small mb-1 pb-lg-2"><a href="#!" onclick="getModalRecuperarPassword();" class="link-info">Has olvidado tu contraseña?</a></p>
+                              <p>No tienes una cuenta? <a href="#" onclick="getModalRegistroUsuario();"
+                                    class="link-info">Registrate aquí</a></p>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="col-sm-6 px-0 d-none d-sm-block">
+                        <img src="static/img/icon/ico_wlx.png" alt="Login image" class="w-100 vh-100"
+                           style="object-fit: cover; object-position: left;">
+                     </div>
+                  </div>
+               </div>
+            </section>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- modal-reg-usaurios -->
+<div class="modal fade" id="registro-usuario" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+   aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-lg">
+      <div class="modal-content border-success">
+         <div class="modal-header bg-success">
+            <h4 class="modal-title" style="color: white;">REGISTRO ESTUDIANTE</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+         </div>
+         <div class="modal-body">
+            <form>
+               <div class="form-group">
+                  <div class="row">
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Nombres:</b> <br>
+                           <input type="text" class="form-control" id="IdNombres" required>
+                           <div style="color: red;" id="alert-nomb"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Apellidos:</b> <br>
+                           <input type="text" class="form-control" id="IdApellidos" required>
+                           <div style="color: red;" id="alert-ape"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Tipo Identificación:</b> <br>
+                           <select class="default-select2 form-control" id="TipoIdentificacion"></select>
+                           <div id="alert-tpident"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Identificación:</b> <br>
+                           <input type="text" class="form-control" id="Identificacion" required>
+                           <div style="color: red;" id="alert-ident"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Dirección:</b> <br>
+                           <input type="text" class="form-control" id="IdDireccion" required>
+                           <div id="alert-dir"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Teléfono:</b> <br>
+                           <input type="text" class="form-control" id="IdTelefono" required>
+                           <div style="color: red;" id="alert-tel"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Email:</b> <br>
+                           <input type="text" class="form-control" id="IdEmail" required>
+                           <div style="color: red;" id="alert-ema"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Password:</b>
+                           <input type="password" class="form-control" id="IdPassword">
+                           <div id="alert-pass"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Repetir Password:</b>
+                           <input type="password" onchange="ValidarPasswordUser();" class="form-control" id="ValPassword">
+                           <div id="alert-vmpass"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Preguntas de Validación:</b> <br>
+                           <select class="default-select2 form-control" id="IdPreguntasReg"></select>
+                           <div id="alert-preg"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Respuesta:</b>
+                           <input type="text" class="form-control" id="IdRespuestaReg">
+                           <div id="alert-respreg"></div>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <br>
+                           <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white" data-bs-dismiss="modal">Cerrar</a>
+                           <a class="btn btn-outline-primary" onclick="RegistrarUsuario();" title="Registrar"><i class="fa fa-save"
+                                 aria-hidden="true"></i> Registrar</a>
+                        </div>
+                     </div>
+                     <div id="valida-vnpass"></div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- modal-login-admin -->
+<div class="modal fade" id="login-admin" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+   aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-lg">
+      <div class="modal-content border-primary">
+         <div class="modal-header bg-primary">
+            <h4 class="modal-title" style="color: white;">LOGIN ADMINISTRADOR</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+         </div>
+         <div class="modal-body">
+            <section class="vh-100">
+               <div class="container-fluid">
+                  <div class="row">
+                     <div class="col-sm-6 text-black">
+
+                        <div class="px-5 ms-xl-4">
+                           <i class="fas fa-key fa-2x me-3 pt-5 mt-xl-4" style="color: #709085;">Acceso Administrador</i>
+                           <span class="h1 fw-bold mb-2"></span>
+                        </div>
+                        <div class="d-flex align-items-center h-custom-2 px-5 ms-xl-4 mt-5 pt-5 pt-xl-0 mt-xl-n5">
+                           <form style="width: 23rem;">
+                              <h3 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;"></h3>
+                              <br>
+                              <div class="form-outline mb-2">
+                                 <b>Email:</b>
+                                 <input type="email" id="IdUsuarioA" class="form-control form-control-lg" />
+                                 <p id="alert-usera" style="color: red;"></p>
+                              </div>
+                              <div class="form-outline mb-2">
+                                 <b>Password:</b>
+                                 <input type="password" id="IdClaveA" class="form-control form-control-lg" />
+                                 <p id="alert-passa" style="color: red;"></p>
+                              </div>
+                              <div class="text-center">
+                                 <br>
+                                 <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white"
+                                    data-bs-dismiss="modal">Cerrar</a>
+                               
+                                 <a class="btn btn-outline-info" href="#" onclick="getLoginAdmin();" title="Ingresar"><i
+                                       class="fa fa-save" aria-hidden="true"></i> Ingresar</a>
+                                       <br>
+                              </div>
+                              &nbsp;&nbsp;
+                              <p class="small mb-1 pb-lg-2"><a href="#!" onclick="getModalRecuperarPassword();" class="link-info">Has olvidado tu contraseña?</a></p>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="col-sm-6 px-0 d-none d-sm-block">
+                        <img src="static/img/icon/ico_wlx.png" alt="Login image" class="w-100 vh-100"
+                           style="object-fit: cover; object-position: left;">
+                     </div>
+                  </div>
+               </div>
+            </section>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- modal-recuperarpass -->
+<div class="modal fade" id="recuperarpass" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-dialog-centered modal-sm">
+       <div class="modal-content border-primary">
+           <div class="modal-header bg-info">
+               <h4 class="modal-title w-100 text-center" style="color: white;">NUEVA CONTRASEÑA</h4>
+           </div>
+           <div class="modal-body">
+               <form>
+                  <div class="form-group">
+                     <div class="row">
+                        <div class="form-outline mb-2">
+                           <b>Digita tu Email:</b>
+                           <input type="text" id="IdUsuarioRq" class="form-control form-control-lg" />
+                           <p id="alert-ureq" style="color: red;"></p>
+                        </div>
+                        <div class="form-outline mb-2">
+                           <b>Preguntas de Validación:</b> <br>
+                           <select class="default-select2 form-control" id="IdPreguntas"></select>
+                           <div id="alert-prg"></div>
+                        </div>
+                        <div class="form-outline mb-2">
+                           <b>Respuesta:</b>
+                           <input type="text" id="IdRespuesta" onchange="getValidaRespuesta();" class="form-control form-control-lg" />
+                           <p id="alert-resp" style="color: red;"></p>
+                        </div>
+                        <div id="valida-resp"></div>
+                        <div class="form-outline mb-2">
+                           <b>Password:</b>
+                           <input type="password" id="IdPasswordRq" class="form-control form-control-lg" />
+                           <p id="alert-passi" style="color: red;"></p>
+                        </div>
+                        <div class="form-outline mb-2">
+                           <b>Repetir Password:</b>
+                           <input type="password" onchange="ValidarPasswordRecuperaPass();" class="form-control form-control-lg" id="ValPasswordRq"
+                              >
+                           <div style="color: red;" id="alert-vnpass"></div>
+                        </div>
+                        <div id="valida-vpass"></div>
+                        <div class="text-center">
+                           <br>
+                           <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white" data-bs-dismiss="modal">Cerrar</a>
+                           <a class="btn btn-outline-info" onclick="getRecuperarPassword();" title="Aceptar"><i class="fa fa-save" aria-hidden="true"></i>
+                              Aceptar</a>
+                        </div>
+                     </div>
+                  </div>
+               </form>
+           </div>
+       </div>
+   </div>
+</div>
+{% endblock %}

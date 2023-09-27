@@ -1,0 +1,97 @@
+{% extends 'menu-admin.html' %}
+{% block content %}
+<div>
+   <br>
+   <div class="card">
+      <div class="card-header bg-success text-white">
+         Gestionar Preguntas y Respuestas
+      </div>
+      <div class="card-body">
+         <form>
+            <div class="row">
+               <div class="col-sm-6">
+                  <b>Preguntas:</b>
+                  <textarea type="text" id="IdPreguntas" rows="3" class="form-control"></textarea>
+                  <div id="alert-prg"></div>
+               </div>
+               <div class="col-sm-6">
+                  <b>Respuestas:</b>
+                  <textarea type="text" id="IdRespuestas" rows="3" class="form-control"></textarea>
+                  <div id="alert-resp"></div>
+               </div>
+               <div class="text-center">
+                  <br>
+                  <a class="btn btn-outline-info" href="#" onclick="RegistrarChat();" title="Guardar"><i
+                        class="fa fa-save" aria-hidden="true"></i> Guardar</a>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+   <br>
+   <div class="card">
+      <div class="card-header bg-primary text-white">
+         Lista de Preguntas y Respuestas
+      </div>
+      <div class="card-body">
+         <table class="table table-striped ">
+            <tr>
+               <td>Id</td>
+               <td>Preguntas</td>
+               <td>Respuestas</td>
+               <td>Acciones</td>
+            </tr>
+            {% for row in ch %}
+            <tr>
+               <td>{{ row[0] }}</td>
+               <td>{{ row[1] }}</td>
+               <td>{{ row[2] }}</td>
+               <td>
+                  <a onclick="getModificarChat('{{row.0}}');" class="btn btn-warning btn-xs" title="Modificar"><i class="fa fa-pen"
+                        aria-hidden="true"></i></a>
+                  <a onclick="getEliminarChat('{{row.0}}');" class="btn btn-danger btn-xs" title="Eliminar">
+                     <i class="fa fa-trash" aria-hidden="true"></i></a>
+               </td>
+            </tr>
+            {% endfor %}
+         </table>
+         <!-- Modal actualiza-->
+         <div class="modal fade" id="modal-mod-chat" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+            aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+               <div class="modal-content">
+                  <div class="modal-header bg-green">
+                     <h4 class="modal-title">MODIFICAR</h4>
+                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+                  </div>
+                  <div class="modal-body">
+                     <form>
+                        <div class="row">
+                           <div class="col-sm-6">
+                              <b>Preguntas:</b>
+                              <input type="hidden" id="IdChatMod" class="form-control">
+                              <textarea type="text" id="IdPreguntasMod" rows="3" class="form-control"></textarea>
+                              <div id="alert-prgm"></div>
+                           </div>
+                           <div class="col-sm-6">
+                              <b>Respuestas:</b>
+                              <textarea type="text" id="IdRespuestasMod" rows="3" class="form-control"></textarea>
+                              <div id="alert-respm"></div>
+                           </div>
+                           <div class="text-center">
+                              <br>
+                              <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white"
+                                    data-bs-dismiss="modal">Cerrar</a>
+                              <a class="btn btn-outline-warning" href="#" onclick="ModificarChat();" title="Modificar"><i
+                                    class="fa fa-pencil" aria-hidden="true"></i> Modificar</a>
+                           </div>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+{% endblock %}

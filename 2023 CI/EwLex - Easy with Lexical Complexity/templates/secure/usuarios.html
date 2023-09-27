@@ -1,0 +1,277 @@
+{% extends 'menu-admin.html' %}
+{% block content %}
+<br>
+<div class="container">
+   <div class="row">
+      <div class="col md-12">
+         {%with messages = get_flashed_messages()%}
+         {%if messages%}
+         {% for message in messages %}
+         <div class="alert alert-success alert-dismissable" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="close">
+               <span aria-hidden="true">&times;</span>
+            </button>
+            {{message}}
+         </div>
+         {%endfor%}
+         {%endif%}
+         {%endwith%}
+         <div class="card">
+            <div class="card-header bg-primary text-white">
+               Lista de Usuarios
+            </div>
+            <div class="card-body">
+               <a class="btn btn-outline-success" onclick="getModalRegistroUsuarioAdmin();" title="Nuevo"><i class="fa fa-plus"
+                     aria-hidden="true"></i> Nuevo</a>
+               <br><br>
+               <table class="table table-striped ">
+                  <tr>
+                     <td>Id</td>
+                     <td>Rol</td>
+                     <td>Nombres</td>
+                     <td>Tipo</td>
+                     <td>Identificación</td>
+                     <td>Dirección</td>
+                     <td>Teléfono</td>
+                     <td>Usuario</td>
+                     <td>Estado</td>
+                     <td>Acciones</td>
+                  </tr>
+                  {% for row in users %}
+                  <tr>
+                     <td>{{ row[0] }}</td>
+                     <td>{{ row[1] }}</td>
+                     <td>{{ row[2] }}</td>
+                     <td>{{ row[5] }}</td>
+                     <td>{{ row[6] }}</td>
+                     <td>{{ row[7] }}</td>
+                     <td>{{ row[8] }}</td>
+                     <td>{{ row[9] }}</td>
+                     <td>{{ row[10] }}</td>
+                     <td>
+                        <a onclick="getModificarRolUser('{{row.0}}');" class="btn btn-info btn-xs"
+                           title="Cambiar Rol"><i class="fa fa-user" aria-hidden="true"></i></a>
+                        <a onclick="getActivarUsuario('{{row.0}}');" class="btn btn-success btn-xs"
+                           title="Activar Usuario"><i class="fa fa-check" aria-hidden="true"></i></a>
+                        <a onclick="getModalModificaUsuario('{{row.0}}');" class="btn btn-warning btn-xs"
+                           title="Modificar"><i class="fa fa-pen" aria-hidden="true"></i></a>
+                        <a onclick="getInactivarUsuario('{{row.0}}');" class="btn btn-danger btn-xs" title="Eliminar">
+                           <i class="fa fa-trash" aria-hidden="true"></i></a>
+                     </td>
+                  </tr>
+                  {% endfor %}
+               </table>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- modal-reg-usaurios -->
+<div class="modal fade" id="registro-usuarioadm" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+   aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-lg">
+      <div class="modal-content border-success">
+         <div class="modal-header bg-success">
+            <h4 class="modal-title" style="color: white;">REGISTRO ADMINNISTRADOR</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+         </div>
+         <div class="modal-body">
+            <form>
+               <div class="form-group">
+                  <div class="row">
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Nombres:</b> <br>
+                           <input type="text" class="form-control" id="IdNombres" required>
+                           <div style="color: red;" id="alert-nomb"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Apellidos:</b> <br>
+                           <input type="text" class="form-control" id="IdApellidos" required>
+                           <div style="color: red;" id="alert-ape"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Tipo Identificación:</b> <br>
+                           <select class="default-select2 form-control" id="TipoIdentificacion"></select>
+                           <div id="alert-tident"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Identificación:</b> <br>
+                           <input type="text" class="form-control" id="Identificacion" required>
+                           <div style="color: red;" id="alert-ident"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Dirección:</b> <br>
+                           <input type="text" class="form-control" id="IdDireccion" required>
+                           <div id="alert-dir"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Teléfono:</b> <br>
+                           <input type="text" class="form-control" id="IdTelefono" required>
+                           <div style="color: red;" id="alert-tel"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Email:</b> <br>
+                           <input type="email" class="form-control" id="IdEmail" required>
+                           <div id="alert-ema"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Password:</b>
+                           <input type="password" class="form-control" id="IdPassword" placeholder="Password">
+                           <div id="alert-pass"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Repetir Password:</b>
+                           <input type="password" onchange="ValidarPasswordUser();" class="form-control" id="ValPassword"
+                              placeholder="Repetir Password">
+                           <div id="alert-vmpass"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Preguntas de Validación:</b> <br>
+                           <select class="default-select2 form-control" id="IdPreguntasRegAdm"></select>
+                           <div id="alert-pregadm"></div>
+                           <hr>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <b>Respuesta:</b>
+                           <input type="text" class="form-control" id="IdRespuestaRegAdm">
+                           <div id="alert-respregadm"></div>
+                        </div>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="mb-10px">
+                           <br>
+                           <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white"
+                              data-bs-dismiss="modal">Cerrar</a>
+                           &nbsp
+                           <a class="btn btn-outline-primary" onclick="RegistrarUsuarioAdmin();" title="Registrar"><i
+                                 class="fa fa-save" aria-hidden="true"></i> Registrar</a>
+                        </div>
+                     </div>
+                     <div id="valida-vnpass"></div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Modal actualiza-->
+<div class="modal fade" id="modal-mod-user" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+   aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+         <div class="modal-header bg-green">
+            <h4 class="modal-title">MODIFICAR REGISTRO</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+         </div>
+         <div class="modal-body">
+            <form>
+               <div class="row">
+                  <div class="col-sm-6">
+                     <b>Identificación:</b>
+                     <input type="hidden" id="IdUsuarioMod" class="form-control">
+                     <input type="text" id="IdentificacionMod" class="form-control">
+                     <div id="alert-identm"></div>
+                  </div>
+                  <div class="col-sm-6">
+                     <b>Nombres:</b>
+                     <input type="text" id="IdNombresMod" class="form-control">
+                     <div id="alert-nombm"></div>
+                  </div>
+                  <div class="col-sm-6">
+                     <b>Apellidos:</b>
+                     <input type="text" id="IdApellidosMod" class="form-control">
+                     <div id="alert-apem"></div>
+                  </div>
+                  <div class="col-sm-6">
+                     <b>Dirección:</b>
+                     <input type="text" id="IdDireccionMod" class="form-control">
+                     <div id="alert-dirm"></div>
+                  </div>
+                  <div class="col-sm-6">
+                     <b>Teléfono:</b>
+                     <input type="text" id="IdTelefonoMod" class="form-control">
+                     <div id="alert-telm"></div>
+                  </div>
+                  <div class="col-sm-6">
+                     <b>Email:</b>
+                     <input type="text" id="IdEmailMod" class="form-control">
+                     <div id="alert-emam"></div>
+                  </div>
+                  <div class="text-center">
+                     <br>
+                     <a class="btn btn-outline-danger" title="Cerrar" class="btn btn-white"
+                        data-bs-dismiss="modal">Cerrar</a>
+                     <a class="btn btn-outline-warning" href="#" onclick="getModificarUsuario();" title="Modificar"><i
+                           class="fa fa-pen" aria-hidden="true"></i> Modificar</a>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Modal rol-->
+<div class="modal fade" id="modal_mod_rol" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+   aria-labelledby="staticBackdropLabel" aria-hidden="true">
+   <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+         <div class="modal-header bg-warning">
+            <h4 class="modal-title">MODIFICAR ROL</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+         </div>
+         <div class="modal-body">
+            <form>
+               <div class="row">
+                  <div class="col-md-6">
+                     <div class="mb-10px">
+                        <b>Seleccione el Rol:</b> <br>
+                        <input type="hidden" id="IdUserMod" class="form-control">
+                        <select class="default-select2 form-control" id="IdMRolUser"></select>
+                        <div id="alert-mrol"></div>
+                     </div>
+                  </div>
+                  <div class="col-sm-6">
+                     <div class="mb-10px">
+                        <br>
+                        <a class="btn btn-outline-warning" href="#" onclick="getModificarRolesUsuario();"
+                           title="Modificar"><i class="fa fa-pen" aria-hidden="true"></i> Modificar</a>
+                     </div>
+                  </div>
+               </div>
+            </form>
+         </div>
+      </div>
+   </div>
+</div>
+{% endblock %}

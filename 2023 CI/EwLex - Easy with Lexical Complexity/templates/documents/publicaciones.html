@@ -1,0 +1,28 @@
+{% extends 'menu-user.html' %}
+{% block content %}
+<div>
+    <br>
+    <div class="card">
+        <div class="card-header bg-warning text-white">
+            Lista de Libros
+        </div>
+        <div class="card-body">
+            <ul class="list-group">
+                {% for row in pub %}
+                <li class="list-group-item">
+                    <b>Fecha de Publicación:</b>
+                    <spam class="fs-10 fw-medium text-primary"> {{row.1}}</spam><br>
+                    <b>Autor:</b>
+                    <spam class="fs-10 fw-medium text-primary"> {{row.2}}</spam><br>
+                    <b>Proyecto:</b>
+                    <spam class="fs-10 fw-medium text-primary">{{row.3}}
+                    </spam><br>
+                    <a class="btn btn-outline-danger" href="{{row.4}}" download="{{row.4}}" title="Descargar">
+                        <i class="fa fa-file-pdf" aria-hidden="true"></i> Descargar</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

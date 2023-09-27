@@ -1,4 +1,21 @@
 .\myvenv\Scripts\activate  ** activa entorno virtual
 python index.py              ** inicia el sistema
 
+git init
+
 https://www.youtube.com/watch?v=6plVs_ytIH8&ab_channel=PythonSimplified  **subir a heroku.\
+
+
+from flask import Flask, session, render_template, request, redirect, url_for, flash
+import pymysql as bd
+def DB():
+        try:
+           conn =bd.connect(host='ewlex.mysql.pythonanywhere-services.com',user='ewlex',password='EwLex.2023',db='ewlex$default',charset="utf8mb4")
+           print("OK! conexión exitosa")
+           return conn
+        except Exception as e:
+            print("Ocurrió un error al conectar a BD: ", e)
+            return e
+
+https://www.youtube.com/watch?v=mgDIP46LEUo&ab_channel=UskoKruM2010
+https://www.youtube.com/watch?v=oq-F25_W3P8&ab_channel=MartinContreras

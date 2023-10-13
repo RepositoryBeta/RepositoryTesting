@@ -1,0 +1,9 @@
+La apropiación de información a través de medios electrónicos se puede dar a 
+través de las conductas como phishing, sniffing y pharming, las que consisten en 
+obtener información confidencial o datos personales por medio de la red de internet, en 
+los casos del phishing y pharming el delito consiste en hacerse pasar por una persona o 
+empresa que ofrece algún servicio, y así obtener información con el fin de 
+comercializarla o realizar transferencias bancarias. 
+Sobre el sniffing, a pesar de tener el mismo propósito la manera de obtenerla es 
+distinta, puesto que se irrumpe de manera ilegal y abrupta a través de la red de internet 
+y se apropia de la información deseada.

@@ -1,0 +1,7 @@
+En relación a las conductas de apropiación de información mediante medios 
+electrónicos, este delito tiene relación directa específicamente con el phishing y el 
+pharming. Los actores de estas conductas requieren de personas que laven el dinero 
+obtenido, a estas personas se las conoce como “mulas”. Tras apropiarse de los datos 
+como claves y contraseñas los ciberdelincuentes realizan transferencias a las cuentas 
+de las “mulas”, para estos posteriormente transferirlas al país donde el ciberdelincuente 
+se encuentra.

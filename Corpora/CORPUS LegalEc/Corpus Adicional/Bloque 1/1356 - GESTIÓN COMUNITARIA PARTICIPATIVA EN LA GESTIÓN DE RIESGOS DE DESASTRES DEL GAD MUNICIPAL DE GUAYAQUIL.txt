@@ -1,0 +1,7 @@
+“La combinación de la probabilidad de que se produzca un evento y sus consecuencias 
+negativas. Comentario: Esta definición es muy similar a la de la Guía 73 de la ISO/IEC.
+La palabra “riesgo” tiene dos connotaciones distintas: en el lenguaje popular, por lo 
+general se hace énfasis en el concepto de la probabilidad o la posibilidad de algo, tal 
+como el “riesgo de un accidente”, mientras que, en un contexto técnico, con frecuenciase 
+hace más énfasis en las consecuencias, en términos de “pérdidas posibles” relativas a 
+cierta causa, lugar y momento en particular

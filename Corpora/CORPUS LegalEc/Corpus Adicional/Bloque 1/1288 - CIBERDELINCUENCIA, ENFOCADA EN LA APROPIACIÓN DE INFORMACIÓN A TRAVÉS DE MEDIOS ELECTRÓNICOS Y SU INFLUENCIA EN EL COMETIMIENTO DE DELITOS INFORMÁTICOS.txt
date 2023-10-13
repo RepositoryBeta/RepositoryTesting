@@ -1,0 +1,6 @@
+Las víctimas de los ataques en la red pueden ser servidores del sector público, 
+afectando así a las instituciones del Estado o bien empresas privadas o usuarios 
+particulares, Espinoza menciona que estos últimos son los más vulnerables, por ser la 
+mayor cantidad de individuos que navegan en la red a través de sus computadores, y
+que, muchas veces, no cuentan con las seguridades informáticas básicas, ni en 
+programas de antivirus o antimalware, ni en conocimientos básicos de seguridad

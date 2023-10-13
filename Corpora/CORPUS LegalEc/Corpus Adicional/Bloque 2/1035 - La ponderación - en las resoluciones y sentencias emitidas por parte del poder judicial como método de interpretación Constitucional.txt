@@ -1,0 +1,8 @@
+Dworkin señala que los principios están dotados de una propiedad que las reglas no
+conocen: El peso. Al ponderarse, se establece cual principio pesa más en el caso
+concreto. El principio que tenga mayor peso será el que triunfe en la ponderación y
+aquel que determine la solución para el caso concreto. La ponderación es, entonces, la
+actividad consistente en sopesar dos principios que entran en colisión en un caso
+concreto para determinar cuál de ellos tiene un peso mayor en las circunstancias
+específicas. La estructura de la ponderación queda así integrada por la ley de
+ponderación, la fórmula del peso y las cargas de argumentación. 

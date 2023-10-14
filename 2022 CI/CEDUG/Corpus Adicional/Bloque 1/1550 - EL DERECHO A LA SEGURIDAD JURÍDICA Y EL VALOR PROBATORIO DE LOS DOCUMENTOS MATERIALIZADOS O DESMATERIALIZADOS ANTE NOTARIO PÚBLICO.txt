@@ -1,0 +1,6 @@
+Como medio de verificación tradicional se encuentra la firma que por muchos años 
+fue manuscrita y de esta se podían desprender pericias tanto grafológicas como caligráficas, 
+sin embargo, actualmente gracias al desarrollo tecnológico al igual que el desarrollo de la 
+seguridad para la verificación de los documentos electrónicos, estos también pueden ser 
+firmados de forma digital, siempre que exista un organismo de control que otorgue las 
+credenciales o claves para que la firma electrónica se considere valida.

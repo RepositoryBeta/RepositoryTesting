@@ -1,0 +1,8 @@
+El legislador al expresar el término “administrador” no es claro a que sujeto se refiere, 
+pues en estricto sentido el contrato no necesita de ningún administrador, por lo que se cree que 
+existe un problema legislativo conceptual en sentido. Ahora bien, si se está haciendo referencia al 
+programador back end de la plataforma, conviene aclarar que este únicamente debería ser 
+responsable si no cumplió con las instrucciones de los contratantes o cuando el diseño del código 
+de programación sea diferente a lo requerido por los usuarios. Pero, no podría ser responsable si 
+el producto es defectuoso o si el consumidor se encuentra insatisfecho por razones ajenas al 
+trabajo del informático. (Villafuerte D, 2020. Pág. 49).

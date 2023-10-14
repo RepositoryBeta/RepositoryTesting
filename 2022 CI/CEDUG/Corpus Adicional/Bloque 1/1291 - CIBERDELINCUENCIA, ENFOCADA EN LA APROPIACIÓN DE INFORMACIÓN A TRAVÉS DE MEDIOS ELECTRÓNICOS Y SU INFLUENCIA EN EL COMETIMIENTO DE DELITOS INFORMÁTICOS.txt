@@ -1,0 +1,7 @@
+En el caso del pharming, se logra alterando un servidor de DNS. En términos
+sencillos, el servidor DNS se encarga se convertir una URL35 o más conocida como la
+dirección del sitio web, en la dirección IP36 correspondiente. Al manipular el DNS se 
+logra que, al ingresar una URL este no nos guie hacia la web que queremos acceder, 
+sino una idéntica creada específicamente para engañar a las personas. Si la víctima no
+se da cuenta, navega con tranquilidad creyendo que es la original, ingresa sus datos, 
+contraseñas, claves, números telefónicos.

@@ -1,0 +1,7 @@
+La automatización de las decisiones es llevada a cabo por los algoritmos15, que son 
+quienes terminan calculando y formando un criterio con base a lo establecido por la 
+regularización de los contratos aceptados por quienes usan la plataforma, es decir, si se detecta 
+alguna anomalía dentro de la plataforma es el algoritmo quien considerará de manera autónoma 
+la sanción que debe tener el mal uso de la aplicación, así mismo con el reconocimiento de los 
+sistemas de discriminación o “algorithmic pricing” contra quienes no tengan un determinado 
+tiempo brindando los servicios dentro de las plataformas.

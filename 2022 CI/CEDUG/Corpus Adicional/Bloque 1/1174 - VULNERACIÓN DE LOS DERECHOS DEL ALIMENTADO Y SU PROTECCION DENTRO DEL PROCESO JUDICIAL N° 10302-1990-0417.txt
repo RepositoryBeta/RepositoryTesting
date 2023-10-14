@@ -1,0 +1,7 @@
+Es un tipo de alimentos variable, que depende de la condición de vida tanto del 
+alimentante como del alimentado, estos son el tipo de alimentos que otorgan al 
+alimentado todos los medios suficientes para que pueda ostentar un estilo de vida de 
+acorde a su condición social, por ejemplo: si los alimentos los recibe un niño 
+acaudalado, estos deben ser de tal magnitud que le permitan tener un estilo de vida 
+de acuerdo a su estatus social; a diferencia de si se los otorga a un niño humilde, el 
+cual por tener un estilo de vida menos costoso serán poco. 

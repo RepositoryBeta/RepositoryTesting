@@ -1,0 +1,7 @@
+En lalegislación ecuatoriana este tipo de conductas se sancionan según el artículo 186 del 
+COIP, que tipifica el delito de estafa. Entre las prácticas más conocidas, está la de 
+manipular sin autorización las instrucciones de un programa informático, para beneficiar 
+al autor, técnica conocida como “caballo de Troya” (Albizuri, 2002). Esta manipulación 
+también puede tener el objetivo de influir en las cuentas bancarias y transferir pequeñas 
+cantidades de dinero, desde diferentes cuentas hasta la del hacker, es difícil de 
+descubrir (Consentino, García, Tejero, & Tejero, 1998). 

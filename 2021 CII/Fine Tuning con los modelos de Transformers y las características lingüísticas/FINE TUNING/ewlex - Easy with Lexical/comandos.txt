@@ -1,4 +1,0 @@
-.\myvenv\Scripts\activate  ** activa entorno virtual
-python index.py              ** inicia el sistema
-
-https://www.youtube.com/watch?v=6plVs_ytIH8&ab_channel=PythonSimplified  **subir a heroku.\

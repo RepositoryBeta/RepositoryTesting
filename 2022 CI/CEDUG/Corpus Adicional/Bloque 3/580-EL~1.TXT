@@ -1,0 +1,10 @@
+Cálculo del Tiempo de Servicios.- El tiempo de servicios se
+calcula con la suma de todos los períodos, continuos o discontinuos, que el
+trabajador haya laborado en la misma empresa, sea que esta haya
+permanecido todo el tiempo en manos de una misma persona natural o
+jurídica, o sea que la empresa haya cambiado de propietario, arrendatario,
+usufructuario, etc., cualquiera que fuera el modo y el título en virtud del cual
+se hayan sucedido las diferentes personas naturales o jurídicas, en la misma
+empresa.
+La fracción de año, cualquiera que ella fuera se considerará como año
+completo, para el cálculo de la indemnización, no así para la jubilación.

@@ -1,0 +1,5 @@
+WhatsApp comenzó como una alternativa a los SMS. Nuestro producto ahora es capaz
+de enviar y recibir variedad de archivos: textos, fotos, videos, documentos y
+ubicación; así como también llamadas de voz. Nuestros mensajes y llamadas están
+cifrados de extremo a extremo, lo que significa que ni terceros, ni WhatsApp los
+pueden leer o escuchar (énfasis añadido).

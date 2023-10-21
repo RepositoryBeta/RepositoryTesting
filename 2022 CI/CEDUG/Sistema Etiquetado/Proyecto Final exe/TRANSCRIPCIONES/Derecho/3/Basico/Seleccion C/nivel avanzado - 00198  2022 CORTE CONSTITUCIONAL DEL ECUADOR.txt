@@ -1,0 +1,5 @@
+En la sección que desarrolla el concepto de tratamiento de datos, se había advertido
+que cualquier operación realizada sobre el dato, sea esta automatizada o no, conlleva
+a que se verifique un tratamiento a los mismos. También se explicó que en la academia
+se ha generado un debate inconcluso frente a si el mero acceso al dato personal,
+constituye o no una operación sobre el dato con connotaciones legales.

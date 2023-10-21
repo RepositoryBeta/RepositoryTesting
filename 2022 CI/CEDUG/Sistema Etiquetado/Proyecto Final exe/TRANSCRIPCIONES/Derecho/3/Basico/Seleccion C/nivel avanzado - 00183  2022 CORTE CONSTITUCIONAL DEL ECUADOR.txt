@@ -1,0 +1,7 @@
+el CEPD ha definido al concepto de datos personales como:
+Toda información sobre una persona física identificada o identificable («el
+interesado»); se considerará persona física identificable toda persona cuya identidad
+pueda determinarse, directa o indirectamente, en particular mediante un identificador,
+como por ejemplo un nombre, un número de identificación, datos de localización, un
+identificador en línea o uno o varios elementos propios de la identidad física,
+fisiológica, genética, psíquica, económica, cultural o social de dicha persona
